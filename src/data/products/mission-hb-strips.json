@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "createdAt": "2026-08-07T07:01:01.707Z",
+  "category": "Test Strips",
+  "categoryProductId": "HTS-24",
+  "isPublished": true,
+  "brand": "",
+  "instrument": "",
+  "model": "",
+  "title": "Mission Hb Strips",
+  "price": "",
+  "availability": "",
+  "parameters": "",
+  "size": "",
+  "capacity": "",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2025/5/508087686/NN/MR/VM/21359187/image-0901-2025-05-04t212706-668-500x500.jpg"
+  ],
+  "automation": "",
+  "throughput": "",
+  "subCategory": "Hemoglobin test strips",
+  "id": "6dcbde8a-0b23-4ac2-8f01-53eb40bd64ed",
+  "slug": "mission-hb-strips",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "uid": "test-strips-hemoglobin-test-strips-23"
+}

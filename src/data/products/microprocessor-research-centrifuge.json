@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "price": "",
+  "createdAt": "2026-08-07T06:59:04.719Z",
+  "model": "",
+  "title": "Microprocessor Research Centrifuge",
+  "brand": "",
+  "parameters": "",
+  "capacity": "",
+  "availability": "",
+  "instrument": "",
+  "categoryProductId": "RC-48",
+  "subCategory": "Research Centrifuge",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2Fmicroprocessor-research-centrifuge-500x500.jpg?alt=media&token=fddef76c-2e81-4771-840d-949c4771d981"
+  ],
+  "throughput": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "slug": "microprocessor-research-centrifuge",
+  "id": "2bfe1f83-8d90-4c76-a006-a5244b1f501a",
+  "isPublished": true,
+  "category": "Pathology Lab Equipments",
+  "uid": "pathology-lab-equipments-research-centrifuge-47"
+}

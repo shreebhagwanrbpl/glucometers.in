@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "createdAt": "2026-08-07T06:59:02.230Z",
+  "categoryProductId": "RP-21",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "availability": "",
+  "id": "fb4e0187-23f2-459a-8a0a-c5fec1b70491",
+  "capacity": "",
+  "slug": "mcp-rbc-pipette",
+  "subCategory": "RBC Pipette",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FRBC%20Pipette%2Frbc-pipette-500x500.png?alt=media&token=55c2c366-09b0-440b-bbb1-b10073132daf"
+  ],
+  "title": "MCP RBC Pipette",
+  "model": "",
+  "desc": "",
+  "category": "Pathology Lab Equipments",
+  "price": "₹ 50",
+  "automation": "",
+  "isPublished": true,
+  "throughput": "",
+  "pdf": "",
+  "size": "",
+  "brand": "MCP",
+  "uid": "pathology-lab-equipments-rbc-pipette-20"
+}

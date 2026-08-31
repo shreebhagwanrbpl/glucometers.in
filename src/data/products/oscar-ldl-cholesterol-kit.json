@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "brand": "",
+  "availability": "",
+  "desc": "",
+  "throughput": "",
+  "isPublished": true,
+  "size": "",
+  "categoryProductId": "HCTK-5",
+  "category": "Rapid Test Kit",
+  "model": "",
+  "title": "Oscar LDL Cholesterol Kit",
+  "price": "₹ 5,000",
+  "pdf": "",
+  "subCategory": "HDL Cholesterol Test Kit",
+  "createdAt": "2026-08-07T06:59:47.023Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHDL%20Cholesterol%20Test%20Kit%2Foscar-ldl-cholesterol-kit-500x500.jpg?alt=media&token=15ec3f35-93b0-4f47-9ba5-2c90488e8a02"
+  ],
+  "instrument": "",
+  "slug": "oscar-ldl-cholesterol-kit",
+  "parameters": "",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "id": "ed6d9018-7fea-478b-81c7-f8a6e60b5cb0",
+  "uid": "rapid-test-kit-hdl-cholesterol-test-kit-4"
+}

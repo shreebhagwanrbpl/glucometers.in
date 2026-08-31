@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "parameters": "",
+  "capacity": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FSemen%20%20Sperm%20Analyzer%2Fcasa-system-500x500.jpg?alt=media&token=810d859a-99ad-4023-9396-0042311d261a"
+  ],
+  "categoryProductId": "SSA-8",
+  "subCategory": "Semen  Sperm Analyzer",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:56:16.929Z",
+  "category": "Ivds category",
+  "availability": "",
+  "id": "b712f67c-f253-4f9b-aa42-675e44fffc0d",
+  "brand": "",
+  "title": "CASA System",
+  "model": "",
+  "slug": "casa-system",
+  "isPublished": true,
+  "throughput": "",
+  "price": "",
+  "automation": "",
+  "uid": "ivds-category-semen-sperm-analyzer-7"
+}

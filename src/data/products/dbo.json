@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "categoryProductId": "FT-189",
+  "desc": "DBO",
+  "pdf": "",
+  "subCategory": "Fluoride Tubes",
+  "createdAt": "2026-08-07T06:53:53.607Z",
+  "instrument": "",
+  "category": "Blood Collection Tubes",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "id": "0ebc3bfd-dc04-40ed-8055-1d9714a6f3b7",
+  "brand": "",
+  "isPublished": true,
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FFluoride%20Tubes%2Fproduct-jpeg-500x500.jpg?alt=media&token=a4283304-973d-4f37-b656-64afa604db28"
+  ],
+  "model": "",
+  "title": "DBO",
+  "throughput": "",
+  "slug": "dbo",
+  "capacity": "",
+  "automation": "",
+  "price": "",
+  "uid": "blood-collection-tubes-fluoride-tubes-188"
+}

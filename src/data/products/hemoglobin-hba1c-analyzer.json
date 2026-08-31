@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "brand": "",
+  "instrument": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:55:35.830Z",
+  "id": "2d786682-cc7c-435d-bb75-f223ba12ea58",
+  "model": "",
+  "title": "Hemoglobin HbA1c Analyzer",
+  "subCategory": "HbA1c Analyzer",
+  "slug": "hemoglobin-hba1c-analyzer",
+  "price": "₹ 9,00,000",
+  "pdf": "",
+  "category": "Hematology analyzers",
+  "availability": "",
+  "desc": "",
+  "throughput": "",
+  "categoryProductId": "HA-5",
+  "isPublished": true,
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%5CHBA1C%2FHemoglobin%20HbA1c%20Analyzer-2.webp?alt=media&token=0cbfe05b-aa0c-4b2f-96b7-8dde96c9a9f8"
+  ],
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "uid": "hematology-analyzers-hba1c-analyzer-4"
+}

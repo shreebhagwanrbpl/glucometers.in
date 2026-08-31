@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T07:00:50.310Z",
+  "price": "",
+  "id": "21e5bf6b-5aba-4cbc-8d11-cf0b098380d3",
+  "size": "",
+  "model": "",
+  "title": "Injection",
+  "pdf": "",
+  "throughput": "",
+  "isPublished": true,
+  "brand": "",
+  "availability": "",
+  "automation": "",
+  "capacity": "",
+  "desc": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "slug": "injection",
+  "instrument": "",
+  "images": [
+    "https://5.imimg.com/data5/NSDMERP/Default/2023/2/KJ/LB/KL/117226043/injection-1675764612624-500x500.jpg"
+  ],
+  "categoryProductId": "IN-5",
+  "category": "Syringe Needles",
+  "subCategory": "Injection needle",
+  "uid": "syringe-needles-injection-needle-4"
+}

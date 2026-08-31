@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "desc": "",
+  "availability": "",
+  "instrument": "",
+  "size": "",
+  "categoryProductId": "HTK-25",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHiv%20test%20kit%2Fhiv-1-hiv-2-kit-500x500.png?alt=media&token=353e3721-3b9a-4403-b877-ea6ffb5aaa3f"
+  ],
+  "automation": "",
+  "category": "Rapid Test Kit",
+  "brand": "",
+  "throughput": "",
+  "pdf": "",
+  "model": "",
+  "title": "-1 & -2",
+  "slug": "-1---2",
+  "subCategory": "Hiv test kit",
+  "price": "",
+  "createdAt": "2026-08-07T06:59:58.305Z",
+  "id": "06965fb3-4e03-4d2b-afcf-000f06166474",
+  "uid": "rapid-test-kit-hiv-test-kit-24"
+}

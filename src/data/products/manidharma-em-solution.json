@@ -1,0 +1,28 @@
+{
+  "title": "Manidharma EM Solution",
+  "model": "",
+  "desc": "",
+  "price": "₹ 300",
+  "throughput": "",
+  "categoryProductId": "MS-13",
+  "category": "Pathology Lab Equipments",
+  "subCategory": "Microorganism Solution",
+  "size": "",
+  "automation": "",
+  "brand": "",
+  "availability": "",
+  "parameters": "",
+  "id": "37ff2a9f-9b9e-404e-9db2-28d479ae4135",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FMicroorganism%20Solution%2Fem-solution-500x500.jpeg?alt=media&token=882fe16e-c776-4870-9b39-cf5358b3f6bf"
+  ],
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:58:58.052Z",
+  "isPublished": true,
+  "capacity": "",
+  "slug": "manidharma-em-solution",
+  "uid": "pathology-lab-equipments-microorganism-solution-12"
+}

@@ -1,0 +1,28 @@
+{
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "size": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fimg-20240816-154429-1725210137850-jpg-500x500.jpg?alt=media&token=24af833d-4ea8-462a-815a-6b58afc24df6"
+  ],
+  "parameters": "",
+  "availability": "",
+  "pdf": "",
+  "id": "7e340790-6aed-428f-8f27-551db785cead",
+  "desc": "",
+  "isPublished": true,
+  "category": "Sysmex",
+  "price": "",
+  "slug": "sysmex-800i-cell-counter",
+  "model": "",
+  "title": "Sysmex 800i Cell Counter",
+  "createdAt": "2026-08-07T07:00:53.960Z",
+  "subCategory": "Sysmex Cell Counter",
+  "brand": "",
+  "categoryProductId": "SCC-135",
+  "automation": "",
+  "throughput": "",
+  "uid": "sysmex-sysmex-cell-counter-134"
+}

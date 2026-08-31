@@ -1,0 +1,28 @@
+{
+  "desc": "Revolutionary",
+  "capacity": "",
+  "subCategory": "Microcentrifuge",
+  "automation": "",
+  "createdAt": "2026-08-07T06:56:27.750Z",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "pdf": "",
+  "size": "",
+  "instrument": "",
+  "id": "5c461088-bfa7-4497-ab88-f2b48caf32c0",
+  "parameters": "",
+  "isPublished": true,
+  "category": "Laboratory Centrifuge",
+  "brand": "",
+  "title": "Revolutionary",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fcapture111-500x500.jpg?alt=media&token=fd2a4fde-f360-4169-b949-fd49334fe0b2"
+  ],
+  "slug": "revolutionary",
+  "price": "",
+  "availability": "",
+  "categoryProductId": "M-190",
+  "uid": "laboratory-centrifuge-microcentrifuge-189"
+}

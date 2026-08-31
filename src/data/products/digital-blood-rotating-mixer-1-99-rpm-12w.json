@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "BCMM-20",
+  "brand": "",
+  "availability": "",
+  "parameters": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20Collection%20Mixer%20Machine%2Fblood-rotating-mixer-500x500.png?alt=media&token=1c0a7c8b-fcc1-4970-befb-65ee5baf438d"
+  ],
+  "pdf": "",
+  "instrument": "",
+  "capacity": "",
+  "price": "₹ 25,920",
+  "desc": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:53:14.242Z",
+  "title": "Digital Blood Rotating Mixer (1-99 rpm, 12W)",
+  "model": "",
+  "slug": "digital-blood-rotating-mixer-1-99-rpm-12w",
+  "id": "88974789-f602-443b-b03f-d8b39f48fd7a",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "category": "Blood bank equipments",
+  "automation": "",
+  "subCategory": "Blood Collection Mixer Machine",
+  "uid": "blood-bank-equipments-blood-collection-mixer-machine-19"
+}

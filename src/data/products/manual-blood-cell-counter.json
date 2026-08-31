@@ -1,0 +1,28 @@
+{
+  "subCategory": "Hematology analyzers",
+  "model": "",
+  "title": "Manual Blood Cell Counter",
+  "capacity": "",
+  "price": "",
+  "availability": "",
+  "automation": "",
+  "slug": "manual-blood-cell-counter",
+  "throughput": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:55:54.020Z",
+  "category": "Ivds category",
+  "instrument": "",
+  "isPublished": true,
+  "pdf": "",
+  "parameters": "",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fcell-scan-60-plus-hematology-analyzer-500x500.jpg?alt=media&token=19c18517-5900-4b50-970a-844bac8ea8e0"
+  ],
+  "usage": "",
+  "video": "",
+  "categoryProductId": "HA-179",
+  "id": "a811ef20-3430-4bbf-b6f6-d6ec35f4798a",
+  "size": "",
+  "uid": "ivds-category-hematology-analyzers-178"
+}

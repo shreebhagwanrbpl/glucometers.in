@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "isPublished": true,
+  "id": "c5b5054d-ac2f-4273-8481-42988ea5ba74",
+  "automation": "Manual",
+  "pdf": "",
+  "slug": "manual-abbott-istat-abg-machine",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Blood%20Analyzer%2Fproduct-jpeg-500x500.jpg?alt=media&token=23444175-9d91-4f72-aa4c-d541e1021525"
+  ],
+  "instrument": "",
+  "subCategory": "Abbott Blood Analyzer",
+  "categoryProductId": "ABA-13",
+  "desc": "",
+  "category": "Abbott",
+  "parameters": "",
+  "brand": "",
+  "title": "Manual Abbott Istat Abg Machine",
+  "model": "",
+  "createdAt": "2026-08-07T06:52:57.649Z",
+  "size": "",
+  "price": "₹ 3,50,000",
+  "availability": "",
+  "uid": "abbott-abbott-blood-analyzer-10"
+}

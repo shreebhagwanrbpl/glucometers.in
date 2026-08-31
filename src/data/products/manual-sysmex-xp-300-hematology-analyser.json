@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "brand": "",
+  "size": "",
+  "automation": "",
+  "category": "Sysmex",
+  "categoryProductId": "SCC-71",
+  "price": "",
+  "desc": "",
+  "subCategory": "Sysmex Cell Counter",
+  "title": "Manual Sysmex Xp 300 hematology analyser",
+  "model": "",
+  "id": "dc9e5378-daa7-4643-91a5-655f0738be4c",
+  "capacity": "",
+  "slug": "manual-sysmex-xp-300-hematology-analyser",
+  "createdAt": "2026-08-07T07:00:53.955Z",
+  "availability": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fsysmex-xp-300-500x500.png?alt=media&token=4b774a11-67fd-435f-b22e-352955cb5651"
+  ],
+  "instrument": "",
+  "uid": "sysmex-sysmex-cell-counter-70"
+}

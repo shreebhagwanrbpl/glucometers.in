@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "slug": "diagnostic-reagents-lab",
+  "instrument": "",
+  "subCategory": "Diagnostic reagents",
+  "capacity": "",
+  "size": "",
+  "pdf": "",
+  "price": "₹ 150",
+  "createdAt": "2026-08-07T06:54:50.079Z",
+  "categoryProductId": "DR-8",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Fdiagnostic-reagents-500x500.jpeg?alt=media&token=82fc572e-a129-4c47-9514-dc10a55412db"
+  ],
+  "model": "",
+  "title": "Diagnostic Reagents Lab",
+  "brand": "2.7",
+  "category": "Clinical Reagents",
+  "throughput": "",
+  "isPublished": true,
+  "id": "4484ab2a-b098-421d-b671-240238890733",
+  "automation": "",
+  "desc": "",
+  "uid": "clinical-reagents-diagnostic-reagents-7"
+}

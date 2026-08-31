@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "size": "",
+  "automation": "",
+  "pdf": "",
+  "isPublished": true,
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fremi-micro-centrifuge-500x500.jpg?alt=media&token=2f634c8b-0c7e-44f6-b51f-988f2e7e02c3"
+  ],
+  "createdAt": "2026-08-07T06:56:27.750Z",
+  "desc": "",
+  "brand": "",
+  "slug": "remi-micro-centrifuge-15000-rpm--15596-rcf-g",
+  "subCategory": "Microcentrifuge",
+  "category": "Laboratory Centrifuge",
+  "id": "3bdc759c-94bc-4afa-b3be-1ee40b94aeca",
+  "availability": "",
+  "categoryProductId": "M-199",
+  "instrument": "",
+  "price": "",
+  "title": "Remi Micro Centrifuge, 15000 Rpm / 15596 Rcf (g)",
+  "model": "",
+  "parameters": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-198"
+}

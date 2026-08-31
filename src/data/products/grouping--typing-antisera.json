@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "brand": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FBlood%20group%20test%20kit%2Fdownload-500x500.jpg?alt=media&token=799d0db4-2ef7-4273-9a05-061b91c4884b"
+  ],
+  "pdf": "",
+  "id": "c8178c0f-68f8-449c-bad6-5998c45ec7f3",
+  "availability": "",
+  "throughput": "",
+  "price": "₹ 300",
+  "subCategory": "Blood group test kit",
+  "desc": "",
+  "automation": "",
+  "model": "",
+  "title": "Grouping & Typing AntiSera",
+  "parameters": "",
+  "slug": "grouping--typing-antisera",
+  "category": "Rapid Test Kit",
+  "instrument": "",
+  "categoryProductId": "BGTK-23",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T06:59:30.989Z",
+  "uid": "rapid-test-kit-blood-group-test-kit-22"
+}

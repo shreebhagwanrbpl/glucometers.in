@@ -1,0 +1,28 @@
+{
+  "category": "Blood Collection Tubes",
+  "createdAt": "2026-08-07T06:54:27.937Z",
+  "pdf": "",
+  "isPublished": true,
+  "desc": "Plus Venous Blood",
+  "parameters": "",
+  "size": "",
+  "availability": "",
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "categoryProductId": "VBCT-248",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fproduct-jpeg-500x500.png?alt=media&token=a1413c10-adf4-47d6-87cf-bdea6ba41cb1"
+  ],
+  "automation": "",
+  "brand": "",
+  "capacity": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "model": "",
+  "title": "Plus Venous Blood",
+  "id": "3ab696d6-d889-410f-b290-0d5635e692de",
+  "slug": "plus-venous-blood",
+  "price": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-247"
+}

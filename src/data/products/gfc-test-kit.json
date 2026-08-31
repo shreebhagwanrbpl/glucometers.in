@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "throughput": "",
+  "capacity": "",
+  "isPublished": true,
+  "automation": "",
+  "availability": "",
+  "createdAt": "2026-08-07T06:54:05.854Z",
+  "video": "",
+  "usage": "",
+  "slug": "gfc-test-kit",
+  "category": "Blood Collection Tubes",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FGrowth%20Factor%20Concentrate%20Therapy%20Kit%2Fgfc-test-kit-500x500.jpeg?alt=media&token=ff9ea510-63ad-4a99-a10c-4dd15217c276"
+  ],
+  "brand": "",
+  "subCategory": "Growth Factor Concentrate Therapy Kit",
+  "desc": "",
+  "size": "",
+  "id": "ca0e432f-eed9-4688-ac59-d003c465f535",
+  "title": "GFC Test Kit",
+  "model": "",
+  "parameters": "",
+  "categoryProductId": "GFCTK-11",
+  "instrument": "",
+  "price": "",
+  "uid": "blood-collection-tubes-growth-factor-concentrate-therapy-kit-10"
+}

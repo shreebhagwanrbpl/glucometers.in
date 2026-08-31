@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "HA-5",
+  "instrument": "",
+  "subCategory": "Hematology analyzers",
+  "category": "Ivds category",
+  "size": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "id": "7b78d77a-bb68-4c73-8afd-d7a3e4a86834",
+  "desc": "",
+  "isPublished": true,
+  "price": "",
+  "capacity": "",
+  "availability": "",
+  "slug": "scorgemi-sg-h30-pro-3-part-hematology-analyzer-21-parameters-60-testshour",
+  "title": "Scorgemi SG-H30 Pro 3-Part Hematology Analyzer (21 Parameters, 60 Tests/Hour)",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fcell-scan-60-plus-hematology-analyzer-500x500.jpg?alt=media&token=19c18517-5900-4b50-970a-844bac8ea8e0"
+  ],
+  "createdAt": "2026-08-07T06:55:54.014Z",
+  "brand": "",
+  "automation": "",
+  "throughput": "",
+  "uid": "ivds-category-hematology-analyzers-4"
+}

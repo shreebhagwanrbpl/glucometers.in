@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:53:23.322Z",
+  "capacity": "",
+  "parameters": "",
+  "categoryProductId": "SL-19",
+  "size": "",
+  "instrument": "",
+  "subCategory": "Safety lancet",
+  "title": "Ecd 28G Safety",
+  "model": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FSafety%20lancet%2Fimage-500x500.jpeg?alt=media&token=86b57a7d-9ed7-4ae5-823a-6c99831974de"
+  ],
+  "price": "",
+  "automation": "",
+  "availability": "",
+  "pdf": "",
+  "id": "3e5730cb-e8c0-4deb-aa6d-7864e2718ed8",
+  "slug": "ecd-28g-safety",
+  "category": "Blood bank equipments",
+  "isPublished": true,
+  "brand": "",
+  "uid": "blood-bank-equipments-safety-lancet-18"
+}

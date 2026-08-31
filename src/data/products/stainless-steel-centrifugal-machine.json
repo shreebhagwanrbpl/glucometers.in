@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Stainless Steel Centrifugal Machine",
+  "availability": "",
+  "desc": "",
+  "capacity": "",
+  "parameters": "",
+  "price": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:56:19.921Z",
+  "subCategory": "Centrifuge machine",
+  "size": "",
+  "brand": "",
+  "pdf": "",
+  "id": "00bccb7e-7bb1-472e-871d-e89fcb6b4b5d",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FCentrifuge%20machine%2Fcentrifugal-machine-250x250.jpg?alt=media&token=41af06cf-5040-4b3c-8e2c-136e98f8e458"
+  ],
+  "usage": "",
+  "video": "",
+  "category": "Laboratory Centrifuge",
+  "categoryProductId": "CM-14",
+  "slug": "stainless-steel-centrifugal-machine",
+  "throughput": "",
+  "isPublished": true,
+  "automation": "",
+  "uid": "laboratory-centrifuge-centrifuge-machine-13"
+}

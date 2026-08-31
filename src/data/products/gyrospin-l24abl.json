@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "createdAt": "2026-08-07T06:56:25.245Z",
+  "category": "Laboratory Centrifuge",
+  "subCategory": "Laboratory Centrifuge",
+  "instrument": "",
+  "size": "",
+  "id": "61ff7204-9d8c-441a-8d12-967d519347be",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FLaboratory%20Centrifuge%2Fgyrospin-l24abl-laboratory-centrifuge-500x500.jpg?alt=media&token=0a5232d3-a218-4948-b1f6-80cbfea48dc0"
+  ],
+  "pdf": "",
+  "availability": "",
+  "slug": "gyrospin-l24abl",
+  "isPublished": true,
+  "brand": "",
+  "categoryProductId": "LC-14",
+  "capacity": "",
+  "throughput": "",
+  "price": "",
+  "automation": "",
+  "title": "GyroSpin L24ABL",
+  "model": "",
+  "uid": "laboratory-centrifuge-laboratory-centrifuge-13"
+}

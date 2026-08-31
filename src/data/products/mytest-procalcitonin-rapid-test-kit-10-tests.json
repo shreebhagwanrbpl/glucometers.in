@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "desc": "",
+  "id": "1d8a5fd3-e8f9-49d3-b9da-937ce783da48",
+  "createdAt": "2026-08-07T07:00:05.434Z",
+  "throughput": "",
+  "isPublished": true,
+  "size": "",
+  "automation": "",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "pdf": "",
+  "instrument": "",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FProcalcitonin%20Rapid%20Test%20Kit%2Fprocalcitonin-rapid-test-kit-500x500.jpeg?alt=media&token=d78f1b1d-5686-4bf1-adf8-5aa9097bf637"
+  ],
+  "subCategory": "Procalcitonin Rapid Test Kit",
+  "model": "",
+  "title": "Mytest Procalcitonin Rapid Test Kit, 10 Tests",
+  "category": "Rapid Test Kit",
+  "categoryProductId": "PRTK-3",
+  "slug": "mytest-procalcitonin-rapid-test-kit-10-tests",
+  "price": "₹ 1,300",
+  "uid": "rapid-test-kit-procalcitonin-rapid-test-kit-2"
+}

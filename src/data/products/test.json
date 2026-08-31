@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "brand": "",
+  "categoryProductId": "HTK-38",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHiv%20test%20kit%2Feq611vow-500x500.png?alt=media&token=cf67abc0-350f-406a-ab38-a7b6d77b0b32"
+  ],
+  "automation": "",
+  "slug": "test",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:59:58.306Z",
+  "availability": "",
+  "price": "₹ 6,000",
+  "model": "",
+  "title": "Test",
+  "subCategory": "Hiv test kit",
+  "id": "3ad5e229-f8d5-4b28-92d6-71c9260dd818",
+  "size": "",
+  "pdf": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "category": "Rapid Test Kit",
+  "isPublished": true,
+  "desc": "",
+  "instrument": "",
+  "uid": "rapid-test-kit-hiv-test-kit-37"
+}

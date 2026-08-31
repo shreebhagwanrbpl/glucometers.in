@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "price": "",
+  "pdf": "",
+  "slug": "rapid-test-kits",
+  "availability": "",
+  "id": "868c8854-000e-433b-9918-716acdd86018",
+  "title": "Rapid Test Kits",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FProcalcitonin%20Rapid%20Test%20Kit%2Fselection-090-500x500.png?alt=media&token=6913f09d-380f-4497-a90c-54783a0f9f5b"
+  ],
+  "brand": "",
+  "parameters": "",
+  "isPublished": true,
+  "instrument": "",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "category": "Rapid Test Kit",
+  "createdAt": "2026-08-07T07:00:05.435Z",
+  "automation": "",
+  "categoryProductId": "PRTK-24",
+  "desc": "",
+  "subCategory": "Procalcitonin Rapid Test Kit",
+  "uid": "rapid-test-kit-procalcitonin-rapid-test-kit-23"
+}

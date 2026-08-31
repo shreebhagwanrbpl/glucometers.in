@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Micro Centrifuge Machine",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:56:27.749Z",
+  "price": "",
+  "categoryProductId": "M-180",
+  "isPublished": true,
+  "slug": "micro-centrifuge-machine",
+  "instrument": "",
+  "parameters": "",
+  "brand": "",
+  "desc": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fmicro-centrifuge-machine-500x500.jpg?alt=media&token=b836f851-94be-4090-942d-d2cfa4ae7882"
+  ],
+  "usage": "",
+  "video": "",
+  "subCategory": "Microcentrifuge",
+  "throughput": "",
+  "category": "Laboratory Centrifuge",
+  "id": "91fd2b1d-1842-439f-a33b-3e8084b4eed5",
+  "availability": "",
+  "pdf": "",
+  "size": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-179"
+}

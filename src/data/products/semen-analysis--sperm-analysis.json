@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "availability": "",
+  "createdAt": "2026-08-07T07:00:16.874Z",
+  "pdf": "",
+  "throughput": "",
+  "isPublished": true,
+  "size": "",
+  "automation": "",
+  "title": "Semen Analysis & Sperm Analysis",
+  "model": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Semen%2FSemen%20Analysis%2Fsemen-analysis-sperm-analysis-500x500.png?alt=media&token=b6cdfd7f-d7a7-4f6d-8c71-2d7cde50dc9a"
+  ],
+  "price": "",
+  "categoryProductId": "SA-13",
+  "category": "Semen",
+  "instrument": "",
+  "id": "ca31387c-a644-4f60-a13c-03139b0588b6",
+  "slug": "semen-analysis--sperm-analysis",
+  "brand": "",
+  "subCategory": "Semen Analysis",
+  "uid": "semen-semen-analysis-12"
+}

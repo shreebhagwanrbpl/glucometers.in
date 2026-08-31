@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "brand": "",
+  "categoryProductId": "UTS-42",
+  "availability": "",
+  "size": "",
+  "price": "",
+  "throughput": "",
+  "desc": "",
+  "subCategory": "Urine test strip",
+  "createdAt": "2026-08-07T07:01:07.335Z",
+  "title": "Microalbumin  Test Strip",
+  "model": "",
+  "automation": "",
+  "parameters": "",
+  "slug": "microalbumin-test-strip",
+  "category": "Test Strips",
+  "instrument": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2026/5/607196089/UF/ZK/DW/126130513/microalbumin-500x500.webp"
+  ],
+  "id": "177c0d68-7e99-47f4-9b10-98e82677f9ac",
+  "uid": "test-strips-urine-test-strip-41"
+}

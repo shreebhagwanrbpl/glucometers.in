@@ -1,0 +1,28 @@
+{
+  "title": "Fully Automated Immunoassay Analyzer, Microtiter Plates",
+  "model": "",
+  "availability": "",
+  "price": "",
+  "category": "Ivds category",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:56:01.750Z",
+  "instrument": "",
+  "brand": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FImmunoassay%20analyzer%2Fimmunoassay-analyzer-500x500.jpeg?alt=media&token=44d84e5b-c07e-48ec-8a4c-b251eb311867"
+  ],
+  "slug": "fully-automated-immunoassay-analyzer-microtiter-plates",
+  "pdf": "",
+  "throughput": "",
+  "capacity": "",
+  "automation": "",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "categoryProductId": "IA-3",
+  "subCategory": "Immunoassay analyzer",
+  "id": "fa7c7366-fb8c-4df4-ab51-515994029cc7",
+  "uid": "ivds-category-immunoassay-analyzer-2"
+}

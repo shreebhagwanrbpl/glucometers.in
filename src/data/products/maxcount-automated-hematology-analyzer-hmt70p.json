@@ -1,0 +1,28 @@
+{
+  "category": "Ivds category",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fautomax-fully-automated-chemistry-analyzer-2-500x500.png?alt=media&token=e0a76e9d-4f5d-491f-abd9-c91fc8c94927"
+  ],
+  "slug": "maxcount-automated-hematology-analyzer-hmt70p",
+  "usage": "",
+  "video": "",
+  "id": "1a9cfb4c-5a9a-4df2-b4b5-1f5dca6b58d1",
+  "automation": "",
+  "isPublished": true,
+  "throughput": "",
+  "createdAt": "2026-08-07T06:55:54.016Z",
+  "instrument": "",
+  "brand": "",
+  "capacity": "",
+  "size": "",
+  "parameters": "",
+  "price": "",
+  "pdf": "",
+  "desc": "",
+  "subCategory": "Hematology analyzers",
+  "model": "",
+  "title": "MaxCOUNT Automated Hematology Analyzer HMT70P",
+  "categoryProductId": "HA-83",
+  "uid": "ivds-category-hematology-analyzers-82"
+}

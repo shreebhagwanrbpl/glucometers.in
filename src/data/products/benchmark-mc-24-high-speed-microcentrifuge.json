@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fcentrifuge-1-500x500.jpg?alt=media&token=f5938d82-8d38-49dc-b711-7d2dcbf1dc1d"
+  ],
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "instrument": "",
+  "pdf": "",
+  "slug": "benchmark-mc-24-high-speed-microcentrifuge",
+  "capacity": "",
+  "id": "6eb3f22e-4f2b-4f85-a473-aa1ce2d9fb01",
+  "model": "",
+  "title": "Benchmark MC-24 High Speed Microcentrifuge",
+  "desc": "",
+  "categoryProductId": "M-119",
+  "createdAt": "2026-08-07T06:56:27.746Z",
+  "price": "",
+  "subCategory": "Microcentrifuge",
+  "category": "Laboratory Centrifuge",
+  "throughput": "",
+  "size": "",
+  "availability": "",
+  "brand": "",
+  "automation": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-118"
+}

@@ -1,0 +1,28 @@
+{
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "categoryProductId": "SCC-67",
+  "capacity": "",
+  "size": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fproduct-jpeg-500x500.png?alt=media&token=4e8710e5-31f3-4780-bf0e-12036bea6ce6"
+  ],
+  "pdf": "",
+  "id": "974e83f1-1da5-4003-a8ff-ff9d8a00d7bb",
+  "desc": "",
+  "isPublished": true,
+  "price": "",
+  "category": "Sysmex",
+  "slug": "sysmex-3part-cell-counter",
+  "createdAt": "2026-08-07T07:00:53.954Z",
+  "title": "Sysmex 3Part Cell Counter",
+  "model": "",
+  "availability": "",
+  "parameters": "",
+  "brand": "",
+  "subCategory": "Sysmex Cell Counter",
+  "instrument": "",
+  "uid": "sysmex-sysmex-cell-counter-66"
+}

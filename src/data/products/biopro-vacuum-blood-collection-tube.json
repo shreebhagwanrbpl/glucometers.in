@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "desc": "",
+  "automation": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "throughput": "",
+  "brand": "",
+  "model": "",
+  "title": "Biopro Vacuum Blood Collection Tube",
+  "price": "",
+  "pdf": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2F107-500x500.jpg?alt=media&token=b92bbfa0-60a4-4d7e-b933-858c76096d05"
+  ],
+  "id": "4f68180b-ff4c-4052-ac58-caa20275d9b6",
+  "category": "Blood Collection Tubes",
+  "isPublished": true,
+  "availability": "",
+  "slug": "biopro-vacuum-blood-collection-tube",
+  "instrument": "",
+  "categoryProductId": "VBCT-49",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:54:27.929Z",
+  "parameters": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-48"
+}

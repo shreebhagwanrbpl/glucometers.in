@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FTyphoid%20Diagnostic%20Kit%2Ftyphoid-igg-igm-micare-50-test-500x500.png?alt=media&token=2c27536f-adaf-4238-bdad-0862c1c7fbfd"
+  ],
+  "slug": "typhoid-iggigm-micare-50-test",
+  "pdf": "",
+  "parameters": "",
+  "capacity": "",
+  "price": "₹ 1,400",
+  "isPublished": true,
+  "title": "TYPHOID IGG/IGM MICARE (50 TEST)",
+  "model": "",
+  "id": "334948ac-3b46-4318-8b2b-89f2600d0302",
+  "size": "",
+  "createdAt": "2026-08-07T07:00:13.899Z",
+  "subCategory": "Typhoid Diagnostic Kit",
+  "categoryProductId": "TDK-45",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "category": "Rapid Test Kit",
+  "desc": "",
+  "availability": "",
+  "throughput": "",
+  "uid": "rapid-test-kit-typhoid-diagnostic-kit-44"
+}

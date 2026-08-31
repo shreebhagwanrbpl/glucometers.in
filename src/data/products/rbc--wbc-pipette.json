@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "pdf": "",
+  "instrument": "",
+  "category": "Pathology Lab Equipments",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "slug": "rbc--wbc-pipette",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FRBC%20Pipette%2Frbc-wbc-pipette-250x250.png?alt=media&token=47db14d5-03ab-4edf-b730-02eaec1e382b"
+  ],
+  "createdAt": "2026-08-07T06:59:02.230Z",
+  "brand": "",
+  "desc": "",
+  "subCategory": "RBC Pipette",
+  "size": "",
+  "id": "7cd4f11f-c077-4335-9fa4-89d094319342",
+  "throughput": "",
+  "title": "RBC & WBC Pipette",
+  "model": "",
+  "capacity": "",
+  "automation": "",
+  "categoryProductId": "RP-29",
+  "price": "₹ 25",
+  "uid": "pathology-lab-equipments-rbc-pipette-28"
+}

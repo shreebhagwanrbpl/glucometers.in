@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:57:20.280Z",
+  "category": "Mindray",
+  "brand": "",
+  "size": "",
+  "automation": "",
+  "pdf": "",
+  "throughput": "",
+  "categoryProductId": "MCIA-1",
+  "price": "₹ 13,65,000",
+  "isPublished": true,
+  "desc": "",
+  "model": "",
+  "title": "Chemiluminescence Analyzer SF00003847",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Chemiluminescence%20Immunoassay%20Analyzer%2Fchemiluminescence-analyzer-sf00003847-500x500.jpg?alt=media&token=99d151a8-3402-40fe-a3e9-10e512ffe71b"
+  ],
+  "capacity": "",
+  "slug": "chemiluminescence-analyzer-sf00003847",
+  "id": "268a0311-5f53-4e73-a04f-22a77c71d54e",
+  "subCategory": "Mindray Chemiluminescence Immunoassay Analyzer",
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "parameters": "",
+  "uid": "mindray-mindray-chemiluminescence-immunoassay-analyzer-0"
+}

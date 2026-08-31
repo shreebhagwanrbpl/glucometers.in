@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "brand": "",
+  "size": "",
+  "id": "986d08a9-8314-4675-98e2-a18ea688f4cf",
+  "automation": "",
+  "createdAt": "2026-08-07T06:53:40.637Z",
+  "availability": "",
+  "subCategory": "EDTA Tube",
+  "categoryProductId": "ET-16",
+  "price": "",
+  "capacity": "",
+  "desc": "",
+  "model": "",
+  "title": "Edta K3 Blood Collection Tube",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FEDTA%20Tube%2Fproduct-jpeg-500x500.png?alt=media&token=3345b008-6916-4b84-83c2-91637b181458"
+  ],
+  "slug": "edta-k3-blood-collection-tube",
+  "pdf": "",
+  "category": "Blood Collection Tubes",
+  "parameters": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "uid": "blood-collection-tubes-edta-tube-15"
+}

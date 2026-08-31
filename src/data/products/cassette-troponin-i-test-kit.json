@@ -1,0 +1,28 @@
+{
+  "price": "₹ 80",
+  "isPublished": true,
+  "parameters": "",
+  "id": "8eda0893-c29b-4030-bff7-c256d0378c54",
+  "model": "",
+  "title": "Cassette Troponin I Test Kit",
+  "category": "Rapid Test Kit",
+  "instrument": "",
+  "size": "",
+  "desc": "",
+  "categoryProductId": "TTK-18",
+  "brand": "",
+  "pdf": "",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "slug": "cassette-troponin-i-test-kit",
+  "subCategory": "Troponin Test Kit",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FTroponin%20Test%20Kit%2Ftroponin-i-test-kit-500x500.jpeg?alt=media&token=98476e0c-b1aa-485e-871d-c921f485cb40"
+  ],
+  "throughput": "",
+  "createdAt": "2026-08-07T07:00:11.904Z",
+  "automation": "",
+  "uid": "rapid-test-kit-troponin-test-kit-17"
+}

@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:54:27.929Z",
+  "capacity": "",
+  "throughput": "",
+  "categoryProductId": "VBCT-71",
+  "slug": "lithium-heparin-tube",
+  "isPublished": true,
+  "availability": "",
+  "price": "",
+  "model": "",
+  "title": "Lithium Heparin Tube",
+  "category": "Blood Collection Tubes",
+  "id": "c7deee27-f213-4c26-8a1d-707b01aa213d",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Flithium-heparin-tube-500x500.jpeg?alt=media&token=de2d5a5b-e250-444c-b21a-cb3688f10de6"
+  ],
+  "size": "",
+  "pdf": "",
+  "instrument": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "desc": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-70"
+}

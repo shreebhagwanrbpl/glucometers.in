@@ -1,0 +1,28 @@
+{
+  "category": "Blood Collection Tubes",
+  "parameters": "",
+  "model": "",
+  "title": "K3 Edta Vacuum Blood Collection Tube (LABO STAR)",
+  "instrument": "",
+  "price": "",
+  "isPublished": true,
+  "availability": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:54:27.928Z",
+  "slug": "k3-edta-vacuum-blood-collection-tube-labo-star",
+  "categoryProductId": "VBCT-19",
+  "id": "54aace57-b4a9-4960-b2a6-3294ba448481",
+  "pdf": "",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "size": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fk2-edta-non-vacuum-blood-collection-tube-labo-star-500x500.jpeg?alt=media&token=fa6157d2-e180-42ec-8c40-3a77e288ab10"
+  ],
+  "automation": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-18"
+}

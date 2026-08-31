@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "desc": "",
+  "capacity": "",
+  "instrument": "",
+  "brand": "",
+  "id": "7478212b-0f3b-4d74-b218-d923b198759e",
+  "isPublished": true,
+  "size": "",
+  "title": "Injection Needle",
+  "model": "",
+  "price": "",
+  "availability": "",
+  "category": "Syringe Needles",
+  "categoryProductId": "IN-1",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2024/5/421153684/HO/ZH/NE/148671112/61yqiw97ttl-500x500.jpg"
+  ],
+  "pdf": "",
+  "createdAt": "2026-08-07T07:00:50.310Z",
+  "throughput": "",
+  "subCategory": "Injection needle",
+  "slug": "injection-needle",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "uid": "syringe-needles-injection-needle-0"
+}

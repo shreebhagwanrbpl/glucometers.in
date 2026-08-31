@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "capacity": "",
+  "categoryProductId": "BGTK-13",
+  "subCategory": "Blood group test kit",
+  "throughput": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FBlood%20group%20test%20kit%2Fblood-group-test-kit-500x500.jpg?alt=media&token=c00d6bd3-f37f-451c-9091-a23086bbff38"
+  ],
+  "parameters": "",
+  "instrument": "",
+  "brand": "",
+  "pdf": "",
+  "model": "",
+  "title": "avecon  Group Test , 3 x 5 ml",
+  "isPublished": true,
+  "slug": "avecon-group-test--3-x-5-ml",
+  "availability": "",
+  "category": "Rapid Test Kit",
+  "price": "₹ 300",
+  "id": "a65aab55-0837-4b4b-a35e-d38cd2c483c1",
+  "createdAt": "2026-08-07T06:59:30.989Z",
+  "uid": "rapid-test-kit-blood-group-test-kit-12"
+}

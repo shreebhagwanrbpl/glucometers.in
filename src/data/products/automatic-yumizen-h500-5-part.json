@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "HHA-100",
+  "throughput": "",
+  "price": "₹ 4,80,000",
+  "subCategory": "Horiba Hematology Analyzers",
+  "id": "a2b2d31d-8f11-4ade-8fce-bfb57655613e",
+  "createdAt": "2026-08-07T06:58:11.009Z",
+  "slug": "automatic-yumizen-h500-5-part",
+  "automation": "Automatic",
+  "title": "Automatic Yumizen H500, 5 Part",
+  "model": "",
+  "brand": "",
+  "capacity": "",
+  "usage": "Benchtop",
+  "video": "",
+  "size": "",
+  "pdf": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FHoriba%20Hematology%20Analyzers%2F3-part-semi-automatic-abx-micros-60-horiba-hematology-analyzer-500x500.png?alt=media&token=715f8a32-4591-48fe-88c1-440196003751"
+  ],
+  "category": "Other Categories",
+  "parameters": "",
+  "desc": "",
+  "availability": "",
+  "instrument": "",
+  "uid": "other-categories-horiba-hematology-analyzers-99"
+}

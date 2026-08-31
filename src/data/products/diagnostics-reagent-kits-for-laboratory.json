@@ -1,0 +1,28 @@
+{
+  "brand": "4.7",
+  "throughput": "",
+  "size": "",
+  "category": "Clinical Reagents",
+  "subCategory": "Diagnostic reagents",
+  "createdAt": "2026-08-07T06:54:50.079Z",
+  "automation": "",
+  "pdf": "",
+  "price": "₹ 500",
+  "desc": "",
+  "model": "",
+  "title": "Diagnostics Reagent Kits, For Laboratory",
+  "slug": "diagnostics-reagent-kits-for-laboratory",
+  "capacity": "",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Fdiagnostics-reagent-kits-500x500.jpg?alt=media&token=167b8fcd-a94d-4a5d-bd1b-d2a20560c36c"
+  ],
+  "parameters": "",
+  "categoryProductId": "DR-10",
+  "availability": "",
+  "instrument": "",
+  "id": "084a5b3c-4eb9-4591-a3f4-6a7ec442d6fd",
+  "uid": "clinical-reagents-diagnostic-reagents-9"
+}

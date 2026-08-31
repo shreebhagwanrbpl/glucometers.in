@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "brand": "",
+  "instrument": "",
+  "desc": "",
+  "category": "Laboratory thermometer",
+  "size": "",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FPen%20type%20thermometer%2Fpen-type-digital-thermometer-500x500.jpeg?alt=media&token=785d34fd-c0b0-4f80-b3a6-26b21ce4b684"
+  ],
+  "title": "Pen-Type Digital Thermometer, Temp Range: -50 to 300 C",
+  "model": "",
+  "subCategory": "Pen type thermometer",
+  "price": "",
+  "pdf": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:57:03.633Z",
+  "throughput": "",
+  "categoryProductId": "PTT-34",
+  "isPublished": true,
+  "slug": "pen-type-digital-thermometer-temp-range--50-to-300-c",
+  "usage": "",
+  "video": "",
+  "id": "95843250-d974-4d8f-891e-5067d35db318",
+  "automation": "",
+  "uid": "laboratory-thermometer-pen-type-thermometer-33"
+}

@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FRBC%20Pipette%2Frbc-wpc-pipette-500x500.jpg?alt=media&token=46f1ee09-d225-4ce3-ac9e-c5e3dd9b1859"
+  ],
+  "id": "cf3941f9-5597-4a29-abe2-4df48d641388",
+  "isPublished": true,
+  "brand": "Diagnoware",
+  "model": "",
+  "title": "RBC Glass Pipette, 0.01 ml",
+  "category": "Pathology Lab Equipments",
+  "slug": "rbc-glass-pipette-001-ml",
+  "automation": "",
+  "price": "₹ 25",
+  "throughput": "",
+  "subCategory": "RBC Pipette",
+  "desc": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:59:02.228Z",
+  "categoryProductId": "RP-5",
+  "availability": "",
+  "parameters": "",
+  "capacity": "0.01 ml",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "size": "",
+  "uid": "pathology-lab-equipments-rbc-pipette-4"
+}

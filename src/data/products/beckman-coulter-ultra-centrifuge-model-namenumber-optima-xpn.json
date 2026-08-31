@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "capacity": "",
+  "price": "",
+  "model": "",
+  "title": "Beckman Coulter Ultra Centrifuge, Model Name/Number: Optima Xpn",
+  "createdAt": "2026-08-07T06:56:45.472Z",
+  "brand": "",
+  "isPublished": true,
+  "availability": "",
+  "parameters": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FUltracentrifuge%2Fultra-centrifuge-500x500.jpg?alt=media&token=d5b98693-cece-4f9a-aaca-a576e952fe99"
+  ],
+  "desc": "",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "category": "Laboratory Centrifuge",
+  "automation": "",
+  "slug": "beckman-coulter-ultra-centrifuge-model-namenumber-optima-xpn",
+  "id": "a46f4523-7bfe-4523-81cb-16d9e9e0e062",
+  "subCategory": "Ultracentrifuge",
+  "categoryProductId": "U-26",
+  "uid": "laboratory-centrifuge-ultracentrifuge-25"
+}

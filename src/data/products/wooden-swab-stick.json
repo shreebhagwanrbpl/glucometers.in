@@ -1,0 +1,28 @@
+{
+  "price": "₹ 1.45",
+  "size": "",
+  "createdAt": "2026-08-07T06:55:08.120Z",
+  "isPublished": true,
+  "model": "",
+  "title": "Wooden Swab Stick",
+  "categoryProductId": "TS-1",
+  "brand": "",
+  "parameters": "",
+  "desc": "",
+  "capacity": "",
+  "instrument": "",
+  "id": "2c0a5920-8bb8-41df-ae35-9774993ae25e",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "slug": "wooden-swab-stick",
+  "availability": "",
+  "automation": "",
+  "subCategory": "Throat Swab",
+  "pdf": "",
+  "images": [
+    "https://5.imimg.com/data5/ANDROID/Default/2024/12/474734530/IM/UH/ON/237490388/product-jpeg-500x500.jpeg"
+  ],
+  "category": "Corona Test",
+  "uid": "corona-test-throat-swab-0"
+}

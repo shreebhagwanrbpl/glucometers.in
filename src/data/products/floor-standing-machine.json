@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "brand": "",
+  "capacity": "",
+  "categoryProductId": "DCM-6",
+  "slug": "floor-standing-machine",
+  "id": "b3ebfffb-c330-4720-a505-40fc9da1dcf5",
+  "price": "₹ 12,500",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FDigital%20centrifuge%20machine%2Fdigital-centrifuge-machine-500x500.jpg?alt=media&token=58a25b33-91b5-4471-8335-9dd1fe24ec9f"
+  ],
+  "createdAt": "2026-08-07T06:58:47.304Z",
+  "model": "",
+  "title": "Floor Standing   Machine",
+  "throughput": "",
+  "isPublished": true,
+  "size": "",
+  "instrument": "",
+  "pdf": "",
+  "category": "Pathology Lab Equipments",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "subCategory": "Digital centrifuge machine",
+  "desc": "",
+  "uid": "pathology-lab-equipments-digital-centrifuge-machine-5"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "Blood Collection Tubes",
+  "id": "acad7fcb-7dc5-410f-aa0e-1041568b9111",
+  "price": "",
+  "size": "",
+  "model": "",
+  "pdf": "",
+  "title": "SST Tube (Serum Separate Tube)",
+  "brand": "",
+  "automation": "",
+  "isPublished": true,
+  "categoryProductId": "CAT-287",
+  "createdAt": "2026-08-07T06:53:33.841Z",
+  "desc": "Cap Color: Yellow Name : SST Tube (Serum Separate Tube) Description: The interior of the tube is coated with clot activator(silica particles) to accerate clothing. A barrier polyer - gel is present at the tube bottom, which will from a barrier separating serum from fibrin and cells during centrifugal. It can prevent substance exchange between cell",
+  "throughput": "",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "slug": "sst-tube-serum-separate-tube",
+  "capacity": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FClot%20Activator%20Tube%2Ft4-500x500.png?alt=media&token=bf2feaf2-bb08-4f50-9ade-edba2afcad2d"
+  ],
+  "subCategory": "Clot Activator Tube",
+  "uid": "blood-collection-tubes-clot-activator-tube-286"
+}

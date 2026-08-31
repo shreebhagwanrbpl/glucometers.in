@@ -1,0 +1,28 @@
+{
+  "price": "₹ 25,000",
+  "availability": "",
+  "automation": "",
+  "category": "Pathology Lab Equipments",
+  "title": "Low Speed Research Centrifuge",
+  "model": "",
+  "size": "",
+  "throughput": "",
+  "subCategory": "Research Centrifuge",
+  "id": "9a480b82-4e10-4d90-b3a2-8bbf5161a4f1",
+  "brand": "eltek",
+  "desc": "",
+  "createdAt": "2026-08-07T06:59:04.718Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2Flow-speed-research-centrifuge-500x500.png?alt=media&token=3f15a8e6-5126-4442-962f-5a55af6528ce"
+  ],
+  "usage": "",
+  "video": "",
+  "slug": "low-speed-research-centrifuge",
+  "categoryProductId": "RC-34",
+  "capacity": "",
+  "isPublished": true,
+  "pdf": "",
+  "instrument": "",
+  "parameters": "",
+  "uid": "pathology-lab-equipments-research-centrifuge-33"
+}

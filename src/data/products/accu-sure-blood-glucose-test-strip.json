@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "categoryProductId": "ABGTS-54",
+  "desc": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:57:39.083Z",
+  "size": "",
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "AccuSure Blood Glucose Test Strip",
+  "pdf": "",
+  "throughput": "",
+  "category": "Other Categories",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAccuSure%20Blood%20Glucose%20Test%20Strip%2Faccu-sure-blood-glucose-test-strip-500x500.jpeg?alt=media&token=869357a8-49e7-40a6-a830-5a12cc707d88"
+  ],
+  "availability": "",
+  "brand": "",
+  "automation": "",
+  "title": "Accu Sure Blood Glucose Test Strip",
+  "model": "",
+  "isPublished": true,
+  "slug": "accu-sure-blood-glucose-test-strip",
+  "id": "0cf6ef8e-7240-4e24-aa4b-c43d520b752b",
+  "price": "₹ 650",
+  "uid": "other-categories-accusure-blood-glucose-test-strip-53"
+}

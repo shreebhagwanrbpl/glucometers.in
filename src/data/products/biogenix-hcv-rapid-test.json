@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:59:54.316Z",
+  "brand": "",
+  "desc": "",
+  "size": "",
+  "isPublished": true,
+  "parameters": "",
+  "categoryProductId": "HCVTK-21",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHepatitis%20C%20Virus%20Test%20Kit%2Fhcv-rapid-test-500x500.jpg?alt=media&token=dcf97979-fbc3-47d7-88b4-bd829e335d57"
+  ],
+  "title": "Biogenix Hcv Rapid Test",
+  "model": "",
+  "instrument": "",
+  "category": "Rapid Test Kit",
+  "price": "₹ 5,000",
+  "pdf": "",
+  "throughput": "",
+  "availability": "",
+  "automation": "",
+  "capacity": "",
+  "subCategory": "Hepatitis C Virus Test Kit",
+  "slug": "biogenix-hcv-rapid-test",
+  "usage": "",
+  "video": "",
+  "id": "c96ba2d2-8004-4aa2-b54c-ed9d5a9c6cfe",
+  "uid": "rapid-test-kit-hepatitis-c-virus-test-kit-20"
+}

@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "instrument": "",
+  "price": "",
+  "isPublished": true,
+  "capacity": "",
+  "desc": "Laboratory Microcentrifuges Optik (CE, ISO Certified)",
+  "createdAt": "2026-08-07T06:56:27.745Z",
+  "categoryProductId": "M-111",
+  "model": "",
+  "title": "Laboratory Microcentrifuges Optik (CE, ISO Certified)",
+  "parameters": "",
+  "availability": "",
+  "automation": "",
+  "slug": "laboratory-microcentrifuges-optik-ce-iso-certified",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "subCategory": "Microcentrifuge",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fproduct-jpeg-500x500.jpg?alt=media&token=f6ac4697-5222-472d-8d98-4393b301e791"
+  ],
+  "id": "310b739c-7f0f-4b37-a12a-4f4c34b876f6",
+  "category": "Laboratory Centrifuge",
+  "uid": "laboratory-centrifuge-microcentrifuge-110"
+}

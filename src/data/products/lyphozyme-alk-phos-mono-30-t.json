@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "subCategory": "Alkaline phosphatase reagent",
+  "parameters": "",
+  "capacity": "",
+  "desc": "",
+  "size": "",
+  "id": "4652b636-e66c-4bae-97a0-b5f4e3c14e23",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "categoryProductId": "APR-9",
+  "category": "Clinical Reagents",
+  "createdAt": "2026-08-07T06:54:44.010Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FAlkaline%20phosphatase%20reagent%2Flyphozyme-alk-phos-mono-500x500.png?alt=media&token=a351b798-1683-493c-8cec-f82adaca7e42"
+  ],
+  "isPublished": true,
+  "brand": "4.3",
+  "automation": "",
+  "availability": "",
+  "title": "LYPHOZYME ALK PHOS (MONO), 30 T",
+  "model": "",
+  "throughput": "",
+  "slug": "lyphozyme-alk-phos-mono-30-t",
+  "price": "₹ 676.25",
+  "uid": "clinical-reagents-alkaline-phosphatase-reagent-8"
+}

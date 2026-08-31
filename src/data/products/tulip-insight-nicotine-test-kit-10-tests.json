@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T07:00:04.025Z",
+  "model": "",
+  "title": "Tulip Insight Nicotine Test Kit, 10 Tests",
+  "desc": "",
+  "price": "",
+  "automation": "",
+  "isPublished": true,
+  "capacity": "",
+  "id": "25a2b9a3-c7a2-4474-a15f-51ff830b76a1",
+  "throughput": "",
+  "size": "",
+  "brand": "",
+  "instrument": "",
+  "availability": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Nicotine Test Kit",
+  "pdf": "",
+  "slug": "tulip-insight-nicotine-test-kit-10-tests",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FNicotine%20Test%20Kit%2Ftulip-insight-nicotine-test-kit-500x500.jpg?alt=media&token=726071d4-746b-4b32-a959-f067b802e68f"
+  ],
+  "categoryProductId": "NTK-11",
+  "category": "Rapid Test Kit",
+  "uid": "rapid-test-kit-nicotine-test-kit-10"
+}

@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "categoryProductId": "B-13",
+  "price": "₹ 90,000",
+  "size": "",
+  "createdAt": "2026-08-07T06:58:40.995Z",
+  "throughput": "",
+  "title": "BilirubinvFilter",
+  "model": "",
+  "pdf": "",
+  "brand": "",
+  "isPublished": true,
+  "capacity": "",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "id": "0b18adbe-4820-45c8-ad0f-85989fbacbda",
+  "slug": "bilirubinvfilter",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FBilirubinometer%2Fbilirubinvfilter-500x500.jpeg?alt=media&token=2226fb19-32e0-4c74-9cb8-bf0d4bdbe72a"
+  ],
+  "instrument": "",
+  "category": "Pathology Lab Equipments",
+  "subCategory": "Bilirubinometer",
+  "availability": "",
+  "parameters": "",
+  "uid": "pathology-lab-equipments-bilirubinometer-12"
+}

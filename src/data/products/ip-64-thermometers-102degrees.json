@@ -1,0 +1,28 @@
+{
+  "brand": "Contact Supplier",
+  "categoryProductId": "IT-10",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:56:58.512Z",
+  "category": "Laboratory thermometer",
+  "slug": "ip-64-thermometers-102degrees",
+  "automation": "",
+  "availability": "",
+  "id": "ae05e94e-7dd9-4d53-a1f9-ad1a65780f9b",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FIP%20Thermometer%2Fproduct-jpeg-500x500.png?alt=media&token=5e2b0607-712c-4a65-8fbc-6db3502ccf04"
+  ],
+  "isPublished": true,
+  "price": "₹ 750",
+  "throughput": "",
+  "model": "",
+  "title": "Ip-64 Thermometers 102Degrees",
+  "size": "",
+  "capacity": "",
+  "instrument": "",
+  "parameters": "",
+  "subCategory": "IP Thermometer",
+  "video": "",
+  "usage": "",
+  "desc": "Latest IP64 thermometers for high temperature",
+  "uid": "laboratory-thermometer-ip-thermometer-9"
+}

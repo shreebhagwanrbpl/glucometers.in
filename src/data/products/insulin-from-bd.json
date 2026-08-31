@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "subCategory": "Insulin syringe",
+  "size": "",
+  "capacity": "",
+  "pdf": "",
+  "price": "",
+  "desc": "",
+  "images": [
+    "https://4.imimg.com/data4/UF/XH/MY-3625718/insulin-syringe-from-bd-250x250.jpg"
+  ],
+  "instrument": "",
+  "title": "Insulin  From BD",
+  "model": "",
+  "createdAt": "2026-08-07T07:00:27.278Z",
+  "parameters": "",
+  "automation": "",
+  "slug": "insulin-from-bd",
+  "category": "Syringe",
+  "categoryProductId": "IS-41",
+  "throughput": "",
+  "isPublished": true,
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "id": "26fd3014-3f20-4cb0-86a8-09f84cfe6b0a",
+  "uid": "syringe-insulin-syringe-40"
+}

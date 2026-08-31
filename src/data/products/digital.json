@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "subCategory": "Laboratory thermometer",
+  "createdAt": "2026-08-07T06:56:59.628Z",
+  "brand": "",
+  "parameters": "",
+  "availability": "",
+  "desc": "",
+  "category": "Laboratory thermometer",
+  "categoryProductId": "LT-15",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FLaboratory%20thermometer%2Flaboratory-digital-thermometer-500x500.jpg?alt=media&token=b1168d3d-bb96-4440-aa38-cf6a1b1cf64a"
+  ],
+  "model": "",
+  "title": "Digital",
+  "id": "535c46f1-13a7-4a18-b56c-4ad6a57ce62d",
+  "price": "",
+  "pdf": "",
+  "capacity": "",
+  "isPublished": true,
+  "automation": "",
+  "throughput": "",
+  "slug": "digital",
+  "video": "",
+  "usage": "",
+  "uid": "laboratory-thermometer-laboratory-thermometer-14"
+}

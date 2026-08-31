@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "subCategory": "Coagulation analyzers",
+  "instrument": "",
+  "availability": "",
+  "size": "",
+  "id": "f507f1e5-4ec2-4baa-98dc-1093a471295f",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:55:28.232Z",
+  "categoryProductId": "CA-20",
+  "price": "",
+  "desc": "",
+  "capacity": "",
+  "model": "",
+  "title": "Semi Automatic Clotquant 4 MERIL",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FCoagulation%20analyzers%2Fblood-coagulation-analyzer-500x500.jpg?alt=media&token=8b311921-242d-40bb-a1dc-bb198af2c1cd"
+  ],
+  "slug": "semi-automatic-clotquant-4-meril",
+  "pdf": "",
+  "automation": "",
+  "category": "Hematology analyzers",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "uid": "hematology-analyzers-coagulation-analyzers-19"
+}

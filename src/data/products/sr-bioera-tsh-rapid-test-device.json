@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "brand": "",
+  "availability": "",
+  "size": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FSerology%20Diagnostic%20Kit%2Ftsh-rapid-test-device-500x500.png?alt=media&token=3941f066-7315-4d00-ac92-e6951396e636"
+  ],
+  "categoryProductId": "SDK-14",
+  "subCategory": "Serology Diagnostic Kit",
+  "parameters": "",
+  "price": "₹ 50",
+  "createdAt": "2026-08-07T07:00:08.819Z",
+  "desc": "",
+  "title": "SR Bioera TSH Rapid Test Device",
+  "model": "",
+  "isPublished": true,
+  "slug": "sr-bioera-tsh-rapid-test-device",
+  "category": "Rapid Test Kit",
+  "pdf": "",
+  "id": "f49dae96-2ca9-48f2-aed9-64d890381c5c",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "throughput": "",
+  "uid": "rapid-test-kit-serology-diagnostic-kit-13"
+}

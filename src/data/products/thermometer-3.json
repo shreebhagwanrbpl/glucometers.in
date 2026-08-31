@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "categoryProductId": "PT-66",
+  "brand": "",
+  "slug": "thermometer-3",
+  "automation": "",
+  "subCategory": "Precision Thermometer",
+  "availability": "",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FPrecision%20Thermometer%2F29603371-product-1556369903037-500x500.jpg?alt=media&token=0a75c5a1-78ed-4ad4-8827-719334de39d9"
+  ],
+  "pdf": "",
+  "id": "3c2a4d7e-766a-4fcd-8298-c6897d23078a",
+  "model": "",
+  "title": "Thermometer 3",
+  "capacity": "",
+  "isPublished": true,
+  "size": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "category": "Laboratory thermometer",
+  "desc": "Thermometer 3",
+  "createdAt": "2026-08-07T06:57:06.381Z",
+  "instrument": "",
+  "uid": "laboratory-thermometer-precision-thermometer-65"
+}

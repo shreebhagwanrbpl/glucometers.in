@@ -1,0 +1,28 @@
+{
+  "category": "Ivds category",
+  "availability": "",
+  "createdAt": "2026-08-07T06:55:50.046Z",
+  "desc": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FBlood%20Gas%20Analyzer%2Fblood-gas-analyzer-500x500.jpg?alt=media&token=63d96cc7-cb1b-4c79-9d90-a35c7f94b46c"
+  ],
+  "throughput": "",
+  "subCategory": "Blood Gas Analyzer",
+  "brand": "",
+  "title": "Analyzer",
+  "model": "",
+  "price": "",
+  "size": "",
+  "capacity": "",
+  "id": "cad1c078-23c0-40fd-9a33-ba5098288ce5",
+  "isPublished": true,
+  "slug": "analyzer",
+  "categoryProductId": "BGA-6",
+  "instrument": "",
+  "parameters": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "uid": "ivds-category-blood-gas-analyzer-5"
+}

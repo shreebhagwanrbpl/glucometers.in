@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "throughput": "",
+  "category": "Clinical Reagents",
+  "automation": "",
+  "id": "8b88c653-9edb-443c-a834-635ee89d4ca1",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FAlkaline%20phosphatase%20reagent%2Falkaline-phosphatase-test-kit-500x500.jpeg?alt=media&token=4bf3321d-a0d6-45c0-a851-57f8c1834317"
+  ],
+  "categoryProductId": "APR-19",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "subCategory": "Alkaline phosphatase reagent",
+  "availability": "",
+  "createdAt": "2026-08-07T06:54:44.011Z",
+  "capacity": "",
+  "brand": "5",
+  "model": "",
+  "title": "Clinical Chemistry Reagent Alkaline Phosphatase Test Kit, Bottle of 25 ml",
+  "slug": "clinical-chemistry-reagent-alkaline-phosphatase-test-kit-bottle-of-25-ml",
+  "parameters": "",
+  "pdf": "",
+  "price": "",
+  "isPublished": true,
+  "instrument": "",
+  "uid": "clinical-reagents-alkaline-phosphatase-reagent-18"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "SS Vapour Pressure Thermometer",
+  "model": "",
+  "pdf": "",
+  "desc": "",
+  "price": "₹ 1,000",
+  "size": "",
+  "instrument": "",
+  "brand": "",
+  "parameters": "",
+  "isPublished": true,
+  "capacity": "",
+  "categoryProductId": "DT-25",
+  "automation": "",
+  "createdAt": "2026-08-07T06:56:52.556Z",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "id": "0fa86dd6-8e3c-4508-acde-56ba049923ce",
+  "category": "Laboratory thermometer",
+  "subCategory": "Dial thermometer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FDial%20thermometer%2Fvapour-pressure-thermometer-500x500.jpg?alt=media&token=5ff240b2-cafc-459f-84fc-e36df3366ba2"
+  ],
+  "availability": "",
+  "slug": "ss-vapour-pressure-thermometer",
+  "uid": "laboratory-thermometer-dial-thermometer-24"
+}

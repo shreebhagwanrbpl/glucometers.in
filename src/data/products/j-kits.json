@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:58:13.979Z",
+  "brand": "",
+  "size": "",
+  "isPublished": true,
+  "pdf": "",
+  "id": "6191ee05-9e82-4862-991f-95a58340f4f7",
+  "throughput": "",
+  "category": "Other Categories",
+  "price": "",
+  "desc": "",
+  "automation": "",
+  "title": "J Kits",
+  "model": "",
+  "parameters": "",
+  "subCategory": "J Mitra Diagnostic Test Kit",
+  "categoryProductId": "JMDTK-124",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FJ%20Mitra%20Diagnostic%20Test%20Kit%2F82823343-product-1718010802345-500x500.jpg?alt=media&token=42add08d-aa8c-4d7c-b408-7d7a326853a8"
+  ],
+  "slug": "j-kits",
+  "instrument": "",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "uid": "other-categories-j-mitra-diagnostic-test-kit-123"
+}

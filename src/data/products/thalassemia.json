@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20filters%2Fblood-filters-250x250.jpg?alt=media&token=0586646e-ad48-4e02-98f9-dd8a67ff551f"
+  ],
+  "isPublished": true,
+  "desc": "",
+  "capacity": "",
+  "categoryProductId": "BF-26",
+  "throughput": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "availability": "",
+  "category": "Blood bank equipments",
+  "subCategory": "Blood filters",
+  "parameters": "",
+  "instrument": "",
+  "brand": "",
+  "pdf": "",
+  "model": "",
+  "title": "Thalassemia",
+  "slug": "thalassemia",
+  "price": "",
+  "id": "f3573898-1ba1-4bd3-a8c9-43567935c4f5",
+  "createdAt": "2026-08-07T06:53:16.153Z",
+  "uid": "blood-bank-equipments-blood-filters-25"
+}

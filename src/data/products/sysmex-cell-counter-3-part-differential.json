@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T07:00:53.952Z",
+  "model": "",
+  "title": "Sysmex Cell Counter, 3-Part Differential",
+  "desc": "",
+  "capacity": "",
+  "price": "",
+  "pdf": "",
+  "parameters": "",
+  "isPublished": true,
+  "size": "",
+  "categoryProductId": "SCC-18",
+  "brand": "",
+  "instrument": "",
+  "availability": "",
+  "throughput": "",
+  "category": "Sysmex",
+  "id": "b93bba7e-fb8c-43ff-b49e-285999f026eb",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fimage-0901-2026-02-23t152021-290-500x500.jpg?alt=media&token=afa4923e-6ffd-48c0-9732-f5dc8373bfaa"
+  ],
+  "video": "",
+  "usage": "",
+  "subCategory": "Sysmex Cell Counter",
+  "slug": "sysmex-cell-counter-3-part-differential",
+  "uid": "sysmex-sysmex-cell-counter-17"
+}

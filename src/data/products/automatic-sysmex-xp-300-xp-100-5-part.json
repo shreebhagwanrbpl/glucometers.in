@@ -1,0 +1,28 @@
+{
+  "subCategory": "Sysmex Cell Counter",
+  "price": "",
+  "slug": "automatic-sysmex-xp-300-xp-100-5-part",
+  "parameters": "",
+  "model": "",
+  "title": "Automatic Sysmex XP-300 XP-100, 5 Part",
+  "instrument": "",
+  "id": "2a4ffffb-725c-4163-94db-ff31e6070c68",
+  "capacity": "",
+  "brand": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "categoryProductId": "SCC-26",
+  "size": "",
+  "createdAt": "2026-08-07T07:00:53.952Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fsysmex-xp-300-xp-100-500x500.png?alt=media&token=fd887cdd-46d2-429c-952a-e9cade76ccee"
+  ],
+  "desc": "",
+  "throughput": "",
+  "availability": "",
+  "category": "Sysmex",
+  "automation": "",
+  "uid": "sysmex-sysmex-cell-counter-25"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "be1ad35c-8d90-4d65-be5c-0aef464b164a",
+  "title": "BC 20s Mindray Hematology Analyzer",
+  "model": "",
+  "desc": "",
+  "price": "₹ 2,40,000",
+  "pdf": "",
+  "subCategory": "Mindray Cell Counter",
+  "throughput": "",
+  "availability": "",
+  "size": "",
+  "categoryProductId": "MCC-271",
+  "brand": "",
+  "capacity": "",
+  "automation": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:57:15.385Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Cell%20Counter%2Fbc-20--500x500.jpg?alt=media&token=efd6fada-123c-4ebf-8c05-764df7e2dc4d"
+  ],
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "category": "Mindray",
+  "isPublished": true,
+  "slug": "bc-20s-mindray-hematology-analyzer",
+  "uid": "mindray-mindray-cell-counter-270"
+}

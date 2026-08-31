@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "instrument": "",
+  "title": "FOSS Dumatec 8000 Nitrogen/Protein Analyzer",
+  "model": "",
+  "parameters": "",
+  "price": "₹ 10,00,000",
+  "createdAt": "2026-08-07T06:59:25.384Z",
+  "isPublished": true,
+  "category": "Protein Analyzer",
+  "brand": "",
+  "slug": "foss-dumatec-8000-nitrogenprotein-analyzer",
+  "availability": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "categoryProductId": "CSPA-48",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Ffoss-dumatec-8000-nitrogen-protein-analyzer-500x500.jpg?alt=media&token=0cf86a91-6fec-4743-8b38-e0f5019829ee"
+  ],
+  "id": "8c08b779-7011-42fe-8b26-4c05acdf54ba",
+  "throughput": "",
+  "capacity": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-47"
+}

@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "brand": "",
+  "size": "",
+  "pdf": "",
+  "throughput": "",
+  "id": "661b8c6d-69e2-4ef5-9925-36c5170047ef",
+  "subCategory": "Mindray Cell Counter",
+  "price": "",
+  "capacity": "",
+  "desc": "MindRocket",
+  "title": "MindRocket",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Cell%20Counter%2Fbanner-visual-name-ad-23-mindrocket-500x500.jpg?alt=media&token=552926d4-a0f9-4490-a137-2c7715c058a9"
+  ],
+  "slug": "mindrocket",
+  "category": "Mindray",
+  "createdAt": "2026-08-07T06:57:15.383Z",
+  "instrument": "",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "categoryProductId": "MCC-222",
+  "availability": "",
+  "parameters": "",
+  "uid": "mindray-mindray-cell-counter-221"
+}

@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "slug": "sysmix",
+  "automation": "",
+  "isPublished": true,
+  "title": "Sysmix",
+  "model": "",
+  "throughput": "",
+  "createdAt": "2026-08-07T07:00:53.961Z",
+  "brand": "",
+  "capacity": "",
+  "subCategory": "Sysmex Cell Counter",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "availability": "",
+  "pdf": "",
+  "desc": "",
+  "instrument": "",
+  "categoryProductId": "SCC-145",
+  "id": "fad6f5ab-a246-4a15-ae2c-fa0ac9d17399",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2023/4/303038067/ZN/UN/UY/9824386/2-500x500.jpg"
+  ],
+  "parameters": "",
+  "category": "Sysmex",
+  "uid": "sysmex-sysmex-cell-counter-144"
+}

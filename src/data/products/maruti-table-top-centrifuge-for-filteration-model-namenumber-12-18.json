@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "instrument": "",
+  "model": "",
+  "title": "MARUTI Table Top Centrifuge, For Filteration, Model Name/Number: 12 18",
+  "id": "51d791f3-466f-49a7-810b-4a6c5e85ade7",
+  "parameters": "",
+  "pdf": "",
+  "subCategory": "Table Top Centrifuge",
+  "price": "₹ 50,000",
+  "createdAt": "2026-08-07T06:59:06.749Z",
+  "category": "Pathology Lab Equipments",
+  "slug": "maruti-table-top-centrifuge-for-filteration-model-namenumber-12-18",
+  "brand": "MARUTI",
+  "categoryProductId": "TTC-15",
+  "desc": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2Ftable-top-centrifuge-500x500.jpeg?alt=media&token=602b3d68-b5ac-43d7-8a0c-c85485957c02"
+  ],
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "size": "",
+  "throughput": "",
+  "capacity": "",
+  "uid": "pathology-lab-equipments-table-top-centrifuge-14"
+}

@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "categoryProductId": "EA-22",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FElectrolyte%20analyzer%2Faqua-500x500.png?alt=media&token=57997768-5dfb-48bc-94bd-777d0b0d6d4c"
+  ],
+  "category": "Ivds category",
+  "instrument": "",
+  "desc": "",
+  "brand": "",
+  "id": "a99da4b4-8a5f-4870-8f87-0a5006290316",
+  "availability": "",
+  "isPublished": true,
+  "title": "Semi Automatic ST 200 Aqua Electrolyte Analyzer",
+  "model": "",
+  "size": "",
+  "price": "",
+  "capacity": "",
+  "pdf": "",
+  "throughput": "",
+  "subCategory": "Electrolyte analyzer",
+  "createdAt": "2026-08-07T06:55:52.328Z",
+  "slug": "semi-automatic-st-200-aqua-electrolyte-analyzer",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "uid": "ivds-category-electrolyte-analyzer-21"
+}

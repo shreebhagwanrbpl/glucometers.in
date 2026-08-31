@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "id": "91690151-bda3-4a4d-aae2-dc6714f32bb0",
+  "slug": "thermometer-alcohol",
+  "pdf": "",
+  "automation": "",
+  "price": "",
+  "isPublished": true,
+  "throughput": "",
+  "capacity": "",
+  "title": "Thermometer Alcohol",
+  "model": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:56:57.267Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FGlass%20laboratory%20thermometer%2Fproduct-jpeg-500x500.jpg?alt=media&token=d745619f-d8b4-444d-bd4a-aac94ccaaa24"
+  ],
+  "size": "",
+  "parameters": "",
+  "category": "Laboratory thermometer",
+  "categoryProductId": "GLT-18",
+  "subCategory": "Glass laboratory thermometer",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "availability": "",
+  "uid": "laboratory-thermometer-glass-laboratory-thermometer-17"
+}

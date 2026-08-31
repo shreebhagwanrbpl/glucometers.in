@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "brand": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fcell-clean-sysmex-500x500.jpg?alt=media&token=b80a9ba3-6a2a-45fe-86f2-e9589625506c"
+  ],
+  "category": "Sysmex",
+  "createdAt": "2026-08-07T07:00:53.953Z",
+  "categoryProductId": "SCC-41",
+  "price": "",
+  "throughput": "",
+  "desc": "",
+  "title": "50ml Sysmex CL-50 Cell Clean",
+  "model": "",
+  "automation": "",
+  "capacity": "",
+  "subCategory": "Sysmex Cell Counter",
+  "availability": "",
+  "parameters": "",
+  "slug": "50ml-sysmex-cl-50-cell-clean",
+  "pdf": "",
+  "id": "c0af0370-f72d-4e48-94be-73243cc5749a",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "uid": "sysmex-sysmex-cell-counter-40"
+}

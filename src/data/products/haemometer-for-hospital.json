@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "desc": "",
+  "availability": "",
+  "id": "6ff73a37-d977-45f9-a9cf-6fbebb670537",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:55:54.018Z",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fmeril-merilyzer-autoquant-200-fully-biochemistry-analyzer-for-hospital-500x500.png?alt=media&token=7ab0ecc6-693e-45ff-8289-99c400863413"
+  ],
+  "instrument": "",
+  "capacity": "",
+  "size": "",
+  "title": "Haemometer, for Hospital",
+  "model": "",
+  "throughput": "",
+  "subCategory": "Hematology analyzers",
+  "price": "",
+  "automation": "",
+  "slug": "haemometer-for-hospital",
+  "category": "Ivds category",
+  "pdf": "",
+  "categoryProductId": "HA-141",
+  "brand": "",
+  "uid": "ivds-category-hematology-analyzers-140"
+}

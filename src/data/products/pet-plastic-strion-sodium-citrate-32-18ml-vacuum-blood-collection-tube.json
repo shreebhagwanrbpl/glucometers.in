@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "brand": "",
+  "isPublished": true,
+  "desc": "",
+  "size": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FSodium%20Citrate%20Tube%2Fproduct-jpeg-500x500.jpeg?alt=media&token=733809c2-2c49-44ab-9392-c902b736221f"
+  ],
+  "model": "",
+  "title": "PET Plastic Strion Sodium Citrate 3.2% 1.8Ml Vacuum Blood Collection Tube",
+  "availability": "",
+  "throughput": "",
+  "categoryProductId": "SCT-69",
+  "id": "3d59a998-86ed-44c2-8057-11e335e741f9",
+  "price": "",
+  "pdf": "",
+  "instrument": "",
+  "parameters": "",
+  "subCategory": "Sodium Citrate Tube",
+  "category": "Blood Collection Tubes",
+  "createdAt": "2026-08-07T06:54:20.665Z",
+  "slug": "pet-plastic-strion-sodium-citrate-32-18ml-vacuum-blood-collection-tube",
+  "video": "",
+  "usage": "",
+  "uid": "blood-collection-tubes-sodium-citrate-tube-68"
+}

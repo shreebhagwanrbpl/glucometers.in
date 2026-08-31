@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "C-29",
+  "subCategory": "Coagulometer",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "pdf": "",
+  "parameters": "",
+  "desc": "",
+  "instrument": "",
+  "capacity": "",
+  "isPublished": true,
+  "throughput": "",
+  "price": "",
+  "id": "e9548a7b-47a4-40c0-ba83-b0529744970b",
+  "slug": "coag4d",
+  "createdAt": "2026-08-07T06:58:45.660Z",
+  "model": "",
+  "title": "Coag4D",
+  "automation": "",
+  "availability": "",
+  "brand": "",
+  "category": "Pathology Lab Equipments",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FCoagulometer%2F4bb-500x500.png?alt=media&token=59180bc7-800f-4033-96e7-cd36e90952c2"
+  ],
+  "uid": "pathology-lab-equipments-coagulometer-28"
+}

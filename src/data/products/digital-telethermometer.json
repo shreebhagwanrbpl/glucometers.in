@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:57:09.636Z",
+  "pdf": "",
+  "capacity": "",
+  "isPublished": true,
+  "brand": "",
+  "desc": "The Digital Tele-Thermometer is ideal for continuous monitoring of temperature in laboratory animals for study and research in anaesthesia, cardiac surgery, hyperthermia & pyrogen testing.",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FTele-Thermometer%2Ff4-500x500.jpg?alt=media&token=e6f90e2f-dc59-4483-88f2-1a8f0017e849"
+  ],
+  "availability": "",
+  "throughput": "",
+  "model": "",
+  "title": "Digital Telethermometer",
+  "id": "456ed6b8-f975-4252-a2ef-3a95a08c9ce7",
+  "automation": "",
+  "price": "",
+  "parameters": "",
+  "categoryProductId": "T-32",
+  "category": "Laboratory thermometer",
+  "instrument": "",
+  "subCategory": "Tele-Thermometer",
+  "slug": "digital-telethermometer",
+  "usage": "",
+  "video": "",
+  "uid": "laboratory-thermometer-tele-thermometer-31"
+}

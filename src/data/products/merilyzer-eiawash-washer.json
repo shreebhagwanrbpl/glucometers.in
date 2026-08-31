@@ -1,0 +1,28 @@
+{
+  "brand": "Meril Daignostics",
+  "subCategory": "Elisa Washer",
+  "pdf": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:58:49.930Z",
+  "parameters": "",
+  "capacity": "",
+  "slug": "merilyzer-eiawash-washer",
+  "id": "ef1e27bf-558b-4d58-8bc7-f654376e0e69",
+  "price": "₹ 1,25,000",
+  "model": "",
+  "title": "Merilyzer EIAWash (Washer)",
+  "size": "96 well plates",
+  "category": "Pathology Lab Equipments",
+  "isPublished": true,
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Fmerilyzer-eiawash-washer-500x500.png?alt=media&token=c66c7e26-df2b-4a22-bd1b-c36a79aaa2d3"
+  ],
+  "availability": "",
+  "throughput": "",
+  "desc": "",
+  "categoryProductId": "EW-12",
+  "uid": "pathology-lab-equipments-elisa-washer-11"
+}

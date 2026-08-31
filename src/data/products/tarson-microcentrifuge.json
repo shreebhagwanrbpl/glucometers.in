@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "pdf": "",
+  "slug": "tarson-microcentrifuge",
+  "id": "b280e91b-ad5b-4052-a68c-cc0a9c586b31",
+  "availability": "",
+  "capacity": "",
+  "subCategory": "Microcentrifuge",
+  "createdAt": "2026-08-07T06:56:27.751Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Ftarsons-microcentrifuge-tube-500x500.jpeg?alt=media&token=40cb4102-0e89-494c-93fb-c12e9fe22b04"
+  ],
+  "price": "",
+  "size": "",
+  "title": "Tarson Microcentrifuge",
+  "model": "",
+  "isPublished": true,
+  "categoryProductId": "M-210",
+  "automation": "",
+  "brand": "",
+  "desc": "Tarson Microcentrifuge",
+  "throughput": "",
+  "category": "Laboratory Centrifuge",
+  "uid": "laboratory-centrifuge-microcentrifuge-209"
+}

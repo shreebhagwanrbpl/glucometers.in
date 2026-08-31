@@ -1,0 +1,28 @@
+{
+  "title": "WBC Diluting Fluid 500ML",
+  "model": "",
+  "desc": "",
+  "instrument": "",
+  "category": "Clinical Reagents",
+  "isPublished": true,
+  "price": "₹ 566",
+  "parameters": "",
+  "id": "1cb17f20-18f8-4a61-8e08-d5ec5fd66bda",
+  "pdf": "",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FHematology%20reagents%2Fwbc-diluting-fluid-500ml-500x500.jpeg?alt=media&token=f0c6f7cf-e048-4616-855e-569205a16d2c"
+  ],
+  "size": "",
+  "brand": "4",
+  "subCategory": "Hematology reagents",
+  "categoryProductId": "HR-10",
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "automation": "",
+  "slug": "wbc-diluting-fluid-500ml",
+  "createdAt": "2026-08-07T06:54:51.349Z",
+  "throughput": "",
+  "uid": "clinical-reagents-hematology-reagents-9"
+}

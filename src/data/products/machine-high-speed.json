@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FRefrigerated%20centrifuge%2Frefrigerated-centrifuge-machine-500x500.jpeg?alt=media&token=d03d6d35-9a75-4ed0-8261-1aa6f8ea63d9"
+  ],
+  "slug": "machine-high-speed",
+  "capacity": "",
+  "instrument": "",
+  "price": "",
+  "subCategory": "Refrigerated centrifuge",
+  "parameters": "",
+  "model": "",
+  "title": "Machine, High Speed",
+  "automation": "",
+  "id": "0428ceec-129e-4bc2-a08b-b74411014f01",
+  "size": "",
+  "throughput": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:56:35.664Z",
+  "usage": "",
+  "video": "",
+  "categoryProductId": "RC-39",
+  "category": "Laboratory Centrifuge",
+  "desc": "",
+  "isPublished": true,
+  "uid": "laboratory-centrifuge-refrigerated-centrifuge-38"
+}

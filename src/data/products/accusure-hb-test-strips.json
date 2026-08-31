@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "automation": "",
+  "brand": "",
+  "size": "",
+  "subCategory": "Hemoglobin test strips",
+  "throughput": "",
+  "price": "",
+  "desc": "",
+  "availability": "",
+  "model": "",
+  "title": "Accusure Hb Test Strips",
+  "categoryProductId": "HTS-10",
+  "slug": "accusure-hb-test-strips",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2022/9/VA/DA/SB/4833410/accusure-hb-test-strips-500x500.jpg"
+  ],
+  "id": "62385f75-759b-447d-99ce-2ea98717fc41",
+  "category": "Test Strips",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T07:01:01.706Z",
+  "instrument": "",
+  "pdf": "",
+  "parameters": "",
+  "uid": "test-strips-hemoglobin-test-strips-9"
+}

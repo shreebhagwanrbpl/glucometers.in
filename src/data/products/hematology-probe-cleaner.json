@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "title": "Hematology Probe Cleaner",
+  "model": "",
+  "desc": "",
+  "categoryProductId": "HR-5",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FHematology%20reagents%2Fproduct-jpeg-500x500.jpeg?alt=media&token=839f36fc-47cc-4bb8-928f-30a32bae9d44"
+  ],
+  "price": "₹ 200",
+  "category": "Clinical Reagents",
+  "subCategory": "Hematology reagents",
+  "size": "",
+  "brand": "4.7",
+  "id": "804180ea-9744-412f-abd9-c6256c16f0af",
+  "usage": "",
+  "video": "",
+  "availability": "",
+  "createdAt": "2026-08-07T06:54:51.349Z",
+  "slug": "hematology-probe-cleaner",
+  "instrument": "",
+  "parameters": "",
+  "capacity": "",
+  "pdf": "",
+  "isPublished": true,
+  "uid": "clinical-reagents-hematology-reagents-4"
+}

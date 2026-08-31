@@ -1,0 +1,28 @@
+{
+  "brand": "3.4",
+  "size": "",
+  "price": "₹ 165",
+  "desc": "",
+  "parameters": "",
+  "availability": "",
+  "instrument": "",
+  "title": "Enzyme reagents Rbc Diluting Fluid",
+  "model": "",
+  "category": "Clinical Reagents",
+  "subCategory": "Diagnostic reagents",
+  "slug": "enzyme-reagents-rbc-diluting-fluid",
+  "categoryProductId": "DR-32",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Frbc-diluting-fluid-500x500.jpeg?alt=media&token=859ee3ad-9c16-4be1-b158-7a708ea17063"
+  ],
+  "id": "61864db9-9460-45ac-9c98-31d80fe03010",
+  "automation": "",
+  "createdAt": "2026-08-07T06:54:50.081Z",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "isPublished": true,
+  "uid": "clinical-reagents-diagnostic-reagents-31"
+}

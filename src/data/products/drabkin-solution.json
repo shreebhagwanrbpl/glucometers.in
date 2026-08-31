@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "isPublished": true,
+  "category": "Clinical Reagents",
+  "id": "330f3b0f-c80a-46c0-830d-ca47a4078dd8",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FHematology%20reagents%2Fdrabkin-solution-250x250.jpg?alt=media&token=bfbca5f3-440b-47b2-a015-555e34ca7c24"
+  ],
+  "parameters": "",
+  "createdAt": "2026-08-07T06:54:51.352Z",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "size": "",
+  "instrument": "",
+  "throughput": "",
+  "subCategory": "Hematology reagents",
+  "automation": "",
+  "capacity": "",
+  "availability": "",
+  "brand": "4.1",
+  "slug": "drabkin-solution",
+  "model": "",
+  "title": "Drabkin Solution",
+  "categoryProductId": "HR-43",
+  "price": "",
+  "uid": "clinical-reagents-hematology-reagents-42"
+}

@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:56:27.752Z",
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "id": "54796a7e-7747-4f9e-bcea-347ccb7cbd6f",
+  "slug": "micro-centrifuge-cups",
+  "subCategory": "Microcentrifuge",
+  "model": "",
+  "title": "Micro Centrifuge Cups",
+  "desc": "Micro Centrifuge Cups",
+  "availability": "",
+  "price": "",
+  "category": "Laboratory Centrifuge",
+  "isPublished": true,
+  "throughput": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fmicro-centrifuge-tube-500x500.jpeg?alt=media&token=4df6942d-a939-42b8-be8d-f4f8c35c6dc9"
+  ],
+  "categoryProductId": "M-225",
+  "automation": "",
+  "size": "",
+  "brand": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-224"
+}

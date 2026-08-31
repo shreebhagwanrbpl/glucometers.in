@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "brand": "K. N. Medical System",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Erba%20Biochemistry%20Analyzer%2FErba%20Biochemistry%20Analyzer%2Fproduct-jpeg-500x500.jpg?alt=media&token=63cb817e-8f70-4a15-9907-2141a5736e80"
+  ],
+  "id": "26efed88-edc6-44b3-99cc-ce557e37ed40",
+  "instrument": "",
+  "availability": "",
+  "price": "₹ 95,000",
+  "createdAt": "2026-08-07T06:55:13.339Z",
+  "desc": "",
+  "parameters": "",
+  "isPublished": true,
+  "title": "Biochemistry Analyzeers",
+  "model": "",
+  "automation": "",
+  "category": "Erba Biochemistry Analyzer",
+  "slug": "biochemistry-analyzeers",
+  "categoryProductId": "EBA-221",
+  "throughput": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Erba Biochemistry Analyzer",
+  "uid": "erba-biochemistry-analyzer-erba-biochemistry-analyzer-220"
+}

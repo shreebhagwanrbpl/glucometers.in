@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "desc": "",
+  "isPublished": true,
+  "parameters": "",
+  "capacity": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:55:00.114Z",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "id": "5542042b-e40e-4413-9104-c196fced7b8f",
+  "categoryProductId": "RATK-26",
+  "subCategory": "Rapid antigen test kit",
+  "images": [
+    "https://5.imimg.com/data5/ANDROID/Default/2022/2/JK/RJ/IG/27833594/product-jpeg-500x500.jpg"
+  ],
+  "brand": "",
+  "automation": "",
+  "title": "COVISELF KIT",
+  "model": "",
+  "availability": "",
+  "slug": "coviself-kit",
+  "category": "Corona Test",
+  "throughput": "",
+  "price": "₹ 150",
+  "uid": "corona-test-rapid-antigen-test-kit-25"
+}

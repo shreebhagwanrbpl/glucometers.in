@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "instrument": "",
+  "capacity": "",
+  "subCategory": "Tele-Thermometer",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "slug": "telethermo-meter",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FTele-Thermometer%2Ftelethermo-meter-500x500.jpg?alt=media&token=1d433d69-9533-477e-b899-a49a5c0552bd"
+  ],
+  "id": "5b36018b-4717-4731-a71a-76f0d872ea50",
+  "size": "",
+  "createdAt": "2026-08-07T06:57:09.636Z",
+  "isPublished": true,
+  "availability": "",
+  "price": "",
+  "categoryProductId": "T-24",
+  "category": "Laboratory thermometer",
+  "model": "",
+  "title": "Telethermo Meter",
+  "brand": "",
+  "automation": "",
+  "throughput": "",
+  "desc": "",
+  "uid": "laboratory-thermometer-tele-thermometer-23"
+}

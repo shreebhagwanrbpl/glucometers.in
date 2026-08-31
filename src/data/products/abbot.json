@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "isPublished": true,
+  "parameters": "",
+  "capacity": "",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Blood%20Analyzer%2F-500x500.jpeg?alt=media&token=8b4461d6-4fe5-46af-a660-ea330fc3e292"
+  ],
+  "title": "Abbot",
+  "model": "",
+  "createdAt": "2026-08-07T06:52:57.652Z",
+  "id": "f60406c5-a331-4cab-95f9-128f2a44dfd1",
+  "pdf": "",
+  "slug": "abbot",
+  "price": "",
+  "subCategory": "Abbott Blood Analyzer",
+  "category": "Abbott",
+  "desc": "Abbot",
+  "categoryProductId": "ABA-34",
+  "automation": "",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "availability": "",
+  "uid": "abbott-abbott-blood-analyzer-31"
+}

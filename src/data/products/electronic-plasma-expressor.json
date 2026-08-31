@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "size": "",
+  "throughput": "",
+  "categoryProductId": "PEM-20",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FPlasma%20Expressor%20Machine%2Felectronic-plasma-expressor-500x500.png?alt=media&token=93c68750-d7e5-45cb-96ff-a2e122406ddb"
+  ],
+  "automation": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:53:21.596Z",
+  "usage": "",
+  "video": "",
+  "id": "47a860ff-fe8e-4285-bbc8-9c3e4aabc6d0",
+  "desc": "",
+  "subCategory": "Plasma Expressor Machine",
+  "brand": "",
+  "slug": "electronic-plasma-expressor",
+  "parameters": "",
+  "availability": "",
+  "price": "",
+  "category": "Blood bank equipments",
+  "isPublished": true,
+  "instrument": "",
+  "title": "Electronic plasma expressor",
+  "model": "",
+  "uid": "blood-bank-equipments-plasma-expressor-machine-19"
+}

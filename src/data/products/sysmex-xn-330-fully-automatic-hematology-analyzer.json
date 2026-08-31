@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "category": "Sysmex",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "isPublished": true,
+  "categoryProductId": "SCC-29",
+  "slug": "sysmex-xn-330-fully-automatic-hematology-analyzer",
+  "createdAt": "2026-08-07T07:00:53.952Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Ffully-automatic-sysmex-xn-330-hematology-analyzer-500x500.jpg?alt=media&token=64515d60-e701-427b-bbfa-9cd4e0e0012d"
+  ],
+  "pdf": "",
+  "title": "Sysmex XN-330 Fully Automatic Hematology Analyzer",
+  "model": "",
+  "desc": "",
+  "availability": "",
+  "price": "",
+  "id": "d3e29117-ed43-4534-8420-86e7bf32962a",
+  "subCategory": "Sysmex Cell Counter",
+  "capacity": "",
+  "automation": "",
+  "throughput": "",
+  "size": "",
+  "brand": "",
+  "uid": "sysmex-sysmex-cell-counter-28"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "Blood Collection Tubes",
+  "desc": "",
+  "id": "e5918ac3-f4d3-4cc0-a52a-017f40684b55",
+  "availability": "",
+  "size": "",
+  "throughput": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "parameters": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:53:33.823Z",
+  "brand": "",
+  "capacity": "",
+  "categoryProductId": "CAT-204",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FClot%20Activator%20Tube%2F4ml-non-vacuum-clot-activator-tube-500x500.jpg?alt=media&token=45015dcd-8a2a-47af-9dee-a0ea88275c4a"
+  ],
+  "model": "",
+  "title": "White 4ml Non Vacuum Clot Activator Tube",
+  "slug": "white-4ml-non-vacuum-clot-activator-tube",
+  "subCategory": "Clot Activator Tube",
+  "price": "",
+  "uid": "blood-collection-tubes-clot-activator-tube-203"
+}

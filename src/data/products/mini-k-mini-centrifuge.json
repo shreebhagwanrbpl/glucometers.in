@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "id": "7030c810-a53b-49d3-aa4c-564c663fcc6f",
+  "parameters": "",
+  "capacity": "",
+  "desc": "",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "subCategory": "Microcentrifuge",
+  "categoryProductId": "M-6",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fmini-k-mini-centrifuge-500x500.png?alt=media&token=02367f4b-2ea2-4353-a6b2-c85f704fb598"
+  ],
+  "model": "",
+  "title": "Mini K Mini Centrifuge",
+  "createdAt": "2026-08-07T06:56:27.741Z",
+  "pdf": "",
+  "price": "",
+  "category": "Laboratory Centrifuge",
+  "isPublished": true,
+  "throughput": "",
+  "slug": "mini-k-mini-centrifuge",
+  "brand": "",
+  "automation": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-5"
+}

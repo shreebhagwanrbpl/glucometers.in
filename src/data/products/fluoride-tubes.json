@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:53:53.577Z",
+  "brand": "",
+  "slug": "fluoride-tubes",
+  "availability": "",
+  "subCategory": "Fluoride Tubes",
+  "parameters": "",
+  "price": "",
+  "pdf": "",
+  "category": "Blood Collection Tubes",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FFluoride%20Tubes%2Fvacuum-blood-collection-tube-500x500.jpeg?alt=media&token=61eb025d-d469-41cc-b18a-e73fbb0fc225"
+  ],
+  "id": "6f4320d0-23e9-48c1-ad51-e698818c3b71",
+  "instrument": "",
+  "model": "",
+  "title": "Fluoride Tubes",
+  "categoryProductId": "FT-31",
+  "throughput": "",
+  "automation": "",
+  "isPublished": true,
+  "size": "",
+  "usage": "",
+  "video": "",
+  "desc": "Fluoride Tubes",
+  "capacity": "",
+  "uid": "blood-collection-tubes-fluoride-tubes-30"
+}

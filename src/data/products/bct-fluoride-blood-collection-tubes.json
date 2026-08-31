@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "throughput": "",
+  "availability": "",
+  "automation": "",
+  "brand": "",
+  "capacity": "",
+  "model": "",
+  "title": "BCT Fluoride Blood Collection Tubes",
+  "createdAt": "2026-08-07T06:53:53.598Z",
+  "price": "",
+  "isPublished": true,
+  "pdf": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FFluoride%20Tubes%2Fnoimage(125X125).svg?alt=media&token=0af61c9e-d386-49a0-bf84-cf2d3952fac6"
+  ],
+  "id": "99d27267-be3d-4645-bf36-84d8037b14dd",
+  "parameters": "",
+  "slug": "bct-fluoride-blood-collection-tubes",
+  "category": "Blood Collection Tubes",
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "subCategory": "Fluoride Tubes",
+  "categoryProductId": "FT-166",
+  "uid": "blood-collection-tubes-fluoride-tubes-165"
+}

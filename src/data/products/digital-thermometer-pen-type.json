@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FPen%20type%20thermometer%2Fclinical-digital-thermometer-500x500.jpg?alt=media&token=0a71cc5d-2ef8-480c-b4e3-3a37a6074b89"
+  ],
+  "slug": "digital-thermometer-pen-type",
+  "pdf": "",
+  "availability": "",
+  "throughput": "",
+  "price": "",
+  "subCategory": "Pen type thermometer",
+  "automation": "",
+  "title": "Digital Thermometer Pen Type",
+  "model": "",
+  "parameters": "",
+  "id": "0e73b2f4-4bc1-4126-ae8a-01e183d685f8",
+  "size": "",
+  "instrument": "",
+  "category": "Laboratory thermometer",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:57:03.632Z",
+  "usage": "",
+  "video": "",
+  "categoryProductId": "PTT-1",
+  "desc": "",
+  "uid": "laboratory-thermometer-pen-type-thermometer-0"
+}

@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "pdf": "",
+  "availability": "",
+  "id": "adb88d95-8595-4542-bf09-a0d0fb63e8d6",
+  "categoryProductId": "HA-428",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:55:54.032Z",
+  "video": "",
+  "usage": "",
+  "category": "Ivds category",
+  "subCategory": "Hematology analyzers",
+  "desc": "",
+  "automation": "",
+  "parameters": "",
+  "brand": "",
+  "slug": "mke-somatic-cell-counter",
+  "instrument": "",
+  "isPublished": true,
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fcell-scan-60-plus-hematology-analyzer-500x500.jpg?alt=media&token=19c18517-5900-4b50-970a-844bac8ea8e0"
+  ],
+  "capacity": "",
+  "title": "MKE Somatic Cell Counter",
+  "model": "",
+  "uid": "ivds-category-hematology-analyzers-427"
+}

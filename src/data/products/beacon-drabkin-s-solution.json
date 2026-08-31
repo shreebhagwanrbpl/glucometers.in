@@ -1,0 +1,28 @@
+{
+  "subCategory": "Hematology reagents",
+  "title": "Beacon Drabkin S Solution",
+  "model": "",
+  "throughput": "",
+  "price": "₹ 233.75",
+  "automation": "",
+  "pdf": "",
+  "availability": "",
+  "slug": "beacon-drabkin-s-solution",
+  "category": "Clinical Reagents",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FHematology%20reagents%2Fdrabkin-s-solution-500x500.png?alt=media&token=6d781298-55fa-4176-969c-cf950e94e0cc"
+  ],
+  "id": "2826617c-3886-4f0e-bbc7-e94f81971aca",
+  "brand": "4.3",
+  "desc": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:54:51.350Z",
+  "parameters": "",
+  "instrument": "",
+  "size": "",
+  "capacity": "",
+  "categoryProductId": "HR-16",
+  "uid": "clinical-reagents-hematology-reagents-15"
+}

@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:54:20.665Z",
+  "category": "Blood Collection Tubes",
+  "size": "",
+  "categoryProductId": "SCT-75",
+  "isPublished": true,
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "id": "5cde6c00-e3ab-4f46-bb7a-cec92bdf0430",
+  "instrument": "",
+  "availability": "",
+  "desc": "",
+  "throughput": "",
+  "brand": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FSodium%20Citrate%20Tube%2Fvacuum-sodium-citrate-3-2-or-3-8-glass-tubes-500x500.jpg?alt=media&token=9b33ef8e-5f02-4307-8ec3-01f39a36e625"
+  ],
+  "automation": "",
+  "capacity": "",
+  "slug": "vacuum-sodium-citrate-32-glass-tubes-size-27-ml",
+  "subCategory": "Sodium Citrate Tube",
+  "price": "",
+  "title": "Vacuum Sodium Citrate 3.2% Glass Tubes, Size: 2.7 ml",
+  "model": "",
+  "uid": "blood-collection-tubes-sodium-citrate-tube-74"
+}

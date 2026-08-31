@@ -1,0 +1,28 @@
+{
+  "slug": "semen-vaccar",
+  "price": "",
+  "subCategory": "Semen Analysis",
+  "parameters": "",
+  "model": "",
+  "title": "Semen Vaccar",
+  "category": "Semen",
+  "id": "d3e0dd4a-9d75-4a28-9cc8-f7f0adb2200a",
+  "instrument": "",
+  "brand": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "isPublished": true,
+  "categoryProductId": "SA-17",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Semen%2FSemen%20Analysis%2Fsemen_vaccariae1-250x250.jpg?alt=media&token=6b667846-281f-40a8-9308-372c7712058a"
+  ],
+  "size": "",
+  "availability": "",
+  "desc": "",
+  "throughput": "",
+  "createdAt": "2026-08-07T07:00:16.874Z",
+  "automation": "",
+  "uid": "semen-semen-analysis-16"
+}

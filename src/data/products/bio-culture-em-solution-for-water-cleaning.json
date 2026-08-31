@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "MS-23",
+  "size": "",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "desc": "",
+  "throughput": "",
+  "category": "Pathology Lab Equipments",
+  "id": "8120aeba-634a-4f12-b70e-b057b23e6fdb",
+  "createdAt": "2026-08-07T06:58:58.052Z",
+  "instrument": "",
+  "slug": "bio-culture-em-solution-for-water-cleaning",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FMicroorganism%20Solution%2Fproduct-250x250.jpeg?alt=media&token=0b621013-0dfb-4ac0-86e0-f72bacccd5b4"
+  ],
+  "availability": "",
+  "brand": "",
+  "parameters": "",
+  "capacity": "",
+  "pdf": "",
+  "price": "₹ 800",
+  "subCategory": "Microorganism Solution",
+  "model": "",
+  "title": "Bio Culture Em Solution, for Water Cleaning",
+  "uid": "pathology-lab-equipments-microorganism-solution-22"
+}

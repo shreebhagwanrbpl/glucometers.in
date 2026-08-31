@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FLaboratory%20Non%20Vacuum%20Blood%20Collection%20Tube%2Fnoimage(125X125).svg?alt=media&token=155b6751-c1b4-425f-b607-33681008e00c"
+  ],
+  "brand": "",
+  "availability": "",
+  "instrument": "",
+  "size": "",
+  "id": "397f213f-6863-4c2d-8f38-88491bddd972",
+  "desc": "A non-vacuum blood collection tube is a type of blood collection container that does not contain negative pressure inside . Unlike vacuum tubes (like standard Vacutainers), these tubes require external force usually a syringe to transfer blood into the tube.",
+  "price": "",
+  "isPublished": true,
+  "title": "Non Vacuum Blood Collection Tube (0.5 ml)",
+  "model": "",
+  "capacity": "",
+  "pdf": "",
+  "categoryProductId": "LNVBCT-238",
+  "slug": "non-vacuum-blood-collection-tube-05-ml",
+  "usage": "",
+  "video": "",
+  "category": "Blood Collection Tubes",
+  "throughput": "",
+  "subCategory": "Laboratory Non Vacuum Blood Collection Tube",
+  "createdAt": "2026-08-07T06:54:06.312Z",
+  "automation": "",
+  "uid": "blood-collection-tubes-laboratory-non-vacuum-blood-collection-tube-237"
+}

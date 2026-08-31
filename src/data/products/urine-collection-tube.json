@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "slug": "urine-collection-tube",
+  "capacity": "",
+  "parameters": "",
+  "title": "Urine Collection Tube",
+  "model": "",
+  "instrument": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "brand": "",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:54:27.937Z",
+  "category": "Blood Collection Tubes",
+  "isPublished": true,
+  "pdf": "",
+  "desc": "Urine collection tube",
+  "throughput": "",
+  "categoryProductId": "VBCT-249",
+  "id": "45d1a769-548c-4246-ba70-6b2ad78d973a",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Furinecollectiontube-500x500.png?alt=media&token=e87b288a-356f-4c8c-9765-e80738094cd9"
+  ],
+  "automation": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-248"
+}

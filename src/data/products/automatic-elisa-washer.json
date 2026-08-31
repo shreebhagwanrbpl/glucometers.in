@@ -1,0 +1,28 @@
+{
+  "category": "Pathology Lab Equipments",
+  "isPublished": true,
+  "size": "96 well plates",
+  "usage": "",
+  "video": "",
+  "desc": "",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Felisa-washer-500x500.png?alt=media&token=aaf9bcc7-8232-4191-8ecd-81603c32e8d7"
+  ],
+  "categoryProductId": "EW-8",
+  "createdAt": "2026-08-07T06:58:49.930Z",
+  "automation": "",
+  "throughput": "",
+  "slug": "automatic-elisa-washer",
+  "instrument": "",
+  "brand": "",
+  "id": "e7d7604f-7c07-426c-8136-9ca2a0c5a440",
+  "capacity": "",
+  "subCategory": "Elisa Washer",
+  "parameters": "",
+  "price": "₹ 1,95,000",
+  "title": "Automatic Elisa Washer",
+  "model": "",
+  "pdf": "",
+  "uid": "pathology-lab-equipments-elisa-washer-7"
+}

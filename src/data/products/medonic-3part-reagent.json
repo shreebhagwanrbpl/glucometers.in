@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "MCC-51",
+  "parameters": "",
+  "size": "",
+  "instrument": "",
+  "category": "Other Categories",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "subCategory": "Medonic Cell Counter",
+  "slug": "medonic-3part-reagent",
+  "availability": "",
+  "capacity": "",
+  "brand": "Medonic",
+  "id": "a085e2b7-0eb9-4e09-81bb-dc6bddd913d6",
+  "createdAt": "2026-08-07T06:58:18.524Z",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FMedonic%20Cell%20Counter%2Fdiagnostic-reagents-500x500.jpg?alt=media&token=5fbf3c07-b525-453e-bf89-886ca2774e5e"
+  ],
+  "throughput": "",
+  "title": "Medonic 3part reagent",
+  "model": "",
+  "isPublished": true,
+  "automation": "",
+  "uid": "other-categories-medonic-cell-counter-50"
+}

@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "availability": "",
+  "category": "Laboratory Centrifuge",
+  "subCategory": "Laboratory Centrifuge",
+  "pdf": "",
+  "automation": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "id": "8564bdbd-b9db-449b-94e2-3b59d8dc97a7",
+  "throughput": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FLaboratory%20Centrifuge%2Fmxrady-kerro-mini-centrifuge-6000-rpm-kc-mini-6k-500x500.jpg?alt=media&token=3ae48e24-7f50-46ec-8238-de4446ef3b94"
+  ],
+  "instrument": "",
+  "createdAt": "2026-08-07T06:56:25.245Z",
+  "parameters": "",
+  "brand": "",
+  "title": "Kerro Mini  Machine, ABS,",
+  "model": "",
+  "slug": "kerro-mini-machine-abs",
+  "isPublished": true,
+  "price": "",
+  "categoryProductId": "LC-35",
+  "uid": "laboratory-centrifuge-laboratory-centrifuge-34"
+}

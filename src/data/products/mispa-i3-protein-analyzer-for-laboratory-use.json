@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "isPublished": true,
+  "parameters": "",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "category": "Protein Analyzer",
+  "size": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "id": "ac8adfd8-d6b9-4a6d-93ee-970238f7a519",
+  "model": "",
+  "title": "Mispa I3 Protein Analyzer, For Laboratory Use",
+  "price": "₹ 1,50,000",
+  "automation": "",
+  "createdAt": "2026-08-07T06:59:25.391Z",
+  "categoryProductId": "CSPA-136",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fagappe-mispa-i3-automated-cartridge-based-specific-protein-analyzer-500x500.png?alt=media&token=7d0389a0-6947-440d-9e37-9b92b6c5d18d"
+  ],
+  "slug": "mispa-i3-protein-analyzer-for-laboratory-use",
+  "brand": "",
+  "availability": "",
+  "capacity": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-135"
+}

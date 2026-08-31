@@ -1,0 +1,28 @@
+{
+  "subCategory": "Cell Counter",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FCell%20Counter%2Fhematology-machine-500x500.jpeg?alt=media&token=f307f974-eb0d-4591-a63e-ecc5915cc329"
+  ],
+  "category": "Hematology analyzers",
+  "instrument": "",
+  "availability": "",
+  "slug": "mindray-bc-2800-cell",
+  "video": "",
+  "usage": "",
+  "brand": "",
+  "capacity": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:55:26.543Z",
+  "isPublished": true,
+  "pdf": "",
+  "id": "77f609b7-9db4-4c79-bb3a-98e0a3e74dbe",
+  "throughput": "",
+  "price": "",
+  "categoryProductId": "CC-26",
+  "automation": "",
+  "title": "Mindray Bc 2800 Cell",
+  "model": "",
+  "desc": "",
+  "uid": "hematology-analyzers-cell-counter-25"
+}

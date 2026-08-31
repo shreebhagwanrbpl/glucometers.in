@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "instrument": "",
+  "id": "0dd252d6-40b7-493a-8f54-5eeedf06b55b",
+  "price": "₹ 80",
+  "size": "",
+  "parameters": "",
+  "categoryProductId": "APR-11",
+  "pdf": "",
+  "model": "",
+  "title": "Alkaline Phosphatase (Kinetic)",
+  "category": "Clinical Reagents",
+  "brand": "4.4",
+  "createdAt": "2026-08-07T06:54:44.010Z",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Alkaline phosphatase reagent",
+  "slug": "alkaline-phosphatase-kinetic",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FAlkaline%20phosphatase%20reagent%2Falkaline-phosphatase-kinetic-500x500.jpg?alt=media&token=61f25511-6ec1-4e1f-a904-978853c0d61f"
+  ],
+  "automation": "",
+  "throughput": "",
+  "capacity": "",
+  "uid": "clinical-reagents-alkaline-phosphatase-reagent-10"
+}

@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "createdAt": "2026-08-07T06:53:20.125Z",
+  "desc": "24 Test",
+  "size": "",
+  "category": "Blood bank equipments",
+  "availability": "",
+  "parameters": "",
+  "subCategory": "Nycocard Reader",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FNycocard%20Reader%2Fnoimage(125X125).svg?alt=media&token=eeb71b35-d7eb-45cf-a6e5-f3a2d27879f6"
+  ],
+  "throughput": "",
+  "categoryProductId": "NR-14",
+  "brand": "",
+  "automation": "",
+  "model": "",
+  "title": "HbA1C Nycocard",
+  "capacity": "",
+  "id": "a32280b4-335c-465f-bcb7-c7b92a04fd6a",
+  "slug": "hba1c-nycocard",
+  "isPublished": true,
+  "price": "",
+  "uid": "blood-bank-equipments-nycocard-reader-13"
+}

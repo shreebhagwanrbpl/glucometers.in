@@ -3,8 +3,10 @@
 import { useEffect, useState, useRef } from "react";
 import Image from "next/image";
 import toast from "react-hot-toast";
+import { Download } from "lucide-react";
 
 import { usePathname } from "next/navigation";
+import Link from "next/link";
 
 import {
     FaPlay,
@@ -29,8 +31,11 @@ const makeSlug = (text = "") =>
         .trim()
         .replace(/[^a-z0-9\s-]/g, "")
         .replace(/\s+/g, "-");
-export default function ProductDetails({ slug }) {
-    const [product, setProduct] = useState(null);
+export default function ProductDetails({
+    slug,
+    initialProduct = null,
+}) {
+    const [product, setProduct] = useState(initialProduct || null);
     const [imageLoaded, setImageLoaded] = useState(false);
     const [selectedImage, setSelectedImage] = useState("");
     const [selectedMedia, setSelectedMedia] = useState("image");
@@ -52,24 +57,39 @@ export default function ProductDetails({ slug }) {
         .filter(Boolean);
 
     const city =
-        pathParts.length > 1
+        pathParts.length > 1 && pathParts[0] !== "items"
             ? pathParts[0]
             : "India";
 
     const cityName =
         city.charAt(0).toUpperCase() +
         city.slice(1);
-
     useEffect(() => {
+        // Product already fetched on the server.
+        // Do NOT fetch it again from Firestore.
+        if (initialProduct) {
+            setProduct(initialProduct);
+
+            if (initialProduct.images?.length > 0) {
+                setSelectedImage(initialProduct.images[0]);
+            } else {
+                setSelectedImage(
+                    initialProduct.image || "/placeholder.jpg"
+                );
+            }
+
+            setSelectedMedia("image");
+            return;
+        }
+
+        // Fallback only if server did not provide a product.
         const loadProduct = async () => {
             try {
-
-                // NORMAL PRODUCTS
                 const snap = await getDoc(
                     doc(
                         db,
                         "websites",
-                        "centralbiomedicals",
+                        "glucometersin",
                         "pages",
                         "products"
                     )
@@ -80,19 +100,20 @@ export default function ProductDetails({ slug }) {
                 if (snap.exists()) {
                     allProducts = (snap.data().products || []).map((item) => ({
                         ...item,
-                        slug:
+                        slug: makeSlug(
                             item.slug ||
                             item.productSlug ||
-                            makeSlug(item.title),
+                            item.title ||
+                            ""
+                        ),
                     }));
                 }
 
-                // CATEGORY PRODUCTS
                 const categorySnap = await getDocs(
                     collection(
                         db,
                         "websites",
-                        "centralbiomedicals",
+                        "glucometersin",
                         "pages",
                         "categoryproducts",
                         "categories"
@@ -106,61 +127,571 @@ export default function ProductDetails({ slug }) {
                         allProducts.push(
                             ...(data.products || []).map((item) => ({
                                 ...item,
-                                slug:
+                                slug: makeSlug(
                                     item.slug ||
                                     item.productSlug ||
-                                    makeSlug(item.title),
+                                    item.title ||
+                                    ""
+                                ),
                             }))
                         );
                     }
                 });
 
+                const targetSlug = makeSlug(
+                    decodeURIComponent(String(slug || ""))
+                );
+
                 const found = allProducts.find(
-                    (p) => p.slug === slug
+                    (p) =>
+                        makeSlug(p.slug || "") === targetSlug
                 );
+
                 console.log("URL SLUG:", slug);
-
-                allProducts.forEach((p) => {
-                    console.log("PRODUCT:", p.title);
-                    console.log("PRODUCT SLUG:", p.slug);
-                });
-                console.log("SLUG FROM URL:", slug);
-                console.log(
-                    "TOTAL PRODUCTS:",
-                    allProducts.length
-                );
-                console.log(
-                    "FOUND PRODUCT:",
-                    found
-                );
-
-                setProduct(found || null);
+                console.log("TOTAL PRODUCTS:", allProducts.length);
+                console.log("FOUND PRODUCT:", found);
 
                 if (found) {
+                    setProduct(found);
 
-                    if (
-                        found.images?.length > 0
-                    ) {
-                        setSelectedImage(
-                            found.images[0]
-                        );
+                    if (found.images?.length > 0) {
+                        setSelectedImage(found.images[0]);
                     } else {
                         setSelectedImage(
-                            found.image || ""
+                            found.image || "/placeholder.jpg"
                         );
                     }
 
                     setSelectedMedia("image");
                 }
-
             } catch (error) {
-                console.error(error);
+                console.error(
+                    "Error loading product:",
+                    error
+                );
             }
         };
 
         loadProduct();
     }, [slug]);
 
+    const handleBrochureDownload = async () => {
+        if (!product) return;
+
+        try {
+            toast.loading("Preparing brochure...", {
+                id: "brochure",
+            });
+
+            const { default: jsPDF } = await import("jspdf");
+
+            const pdf = new jsPDF({
+                orientation: "portrait",
+                unit: "mm",
+                format: "a4",
+            });
+
+            const pageWidth = 210;
+            const pageHeight = 297;
+
+            // ------------------------------------------------
+            // Helper: Load image directly from URL
+            // NO IMG-PROXY
+            // ------------------------------------------------
+            const loadImage = (src) => {
+                return new Promise((resolve, reject) => {
+                    const img = new window.Image();
+
+                    img.crossOrigin = "anonymous";
+
+                    img.onload = () => resolve(img);
+                    img.onerror = () =>
+                        reject(new Error(`Failed to load image: ${src}`));
+
+                    img.src = src;
+                });
+            };
+
+            // ------------------------------------------------
+            // Logo
+            // ------------------------------------------------
+            const logo = await loadImage("/logo.png");
+
+            // ------------------------------------------------
+            // Product Image
+            // ------------------------------------------------
+            const productImage =
+                product.images?.[0] ||
+                product.image ||
+                "";
+
+            let loadedProductImage = null;
+
+            if (productImage) {
+                try {
+                    const isExternal = productImage.startsWith("http://") || productImage.startsWith("https://");
+                    const finalProductImage = isExternal
+                        ? `/_next/image?url=${encodeURIComponent(productImage)}&w=640&q=75`
+                        : productImage;
+
+                    loadedProductImage = await loadImage(finalProductImage);
+
+                    console.log(
+                        "Brochure product image loaded:",
+                        productImage
+                    );
+                } catch (imageError) {
+                    console.error(
+                        "Brochure product image failed:",
+                        productImage,
+                        imageError
+                    );
+                }
+            }
+            // ------------------------------------------------
+            // Background
+            // ------------------------------------------------
+            pdf.setFillColor(248, 252, 253);
+            pdf.rect(0, 0, pageWidth, pageHeight, "F");
+
+            // ------------------------------------------------
+            // HEADER
+            // ------------------------------------------------
+            pdf.setFillColor(8, 145, 178);
+            pdf.rect(0, 0, pageWidth, 36, "F");
+
+            // Logo
+            pdf.addImage(
+                logo,
+                "PNG",
+                15,
+                6,
+                22,
+                24
+            );
+
+            // Company Name
+            pdf.setTextColor(255, 255, 255);
+            pdf.setFont("helvetica", "bold");
+            pdf.setFontSize(20);
+
+            pdf.text(
+                "Raj Biosis",
+                42,
+                16
+            );
+
+            pdf.setFont("helvetica", "normal");
+            pdf.setFontSize(8.5);
+
+            pdf.text(
+                "Biomedical & Diagnostic Equipment",
+                42,
+                23
+            );
+
+            // ------------------------------------------------
+            // TOP RIGHT CONTACT DETAILS
+            // ------------------------------------------------
+            pdf.setFont("helvetica", "bold");
+            pdf.setFontSize(8);
+
+            pdf.text(
+                "Website: glucometers.in",
+                193,
+                9,
+                { align: "right" }
+            );
+
+            pdf.text(
+                "Phone: +91 9983123469",
+                193,
+                16,
+                { align: "right" }
+            );
+
+            pdf.text(
+                "Email: rajbiosis@yahoo.in",
+                193,
+                23,
+                { align: "right" }
+            );
+
+            // ------------------------------------------------
+            // Product Title
+            // ------------------------------------------------
+            pdf.setTextColor(15, 23, 42);
+            pdf.setFont("helvetica", "bold");
+            pdf.setFontSize(19);
+
+            const titleLines = pdf.splitTextToSize(
+                product.title || "Biomedical Product",
+                175
+            );
+
+            pdf.text(
+                titleLines,
+                17,
+                46
+            );
+
+            let currentY =
+                46 + titleLines.length * 8;
+
+            // ------------------------------------------------
+            // Product Image Box
+            // ------------------------------------------------
+            const imageBoxX = 17;
+            const imageBoxY = currentY + 5;
+            const imageBoxW = 176;
+            const imageBoxH = 85;
+
+            pdf.setFillColor(255, 255, 255);
+            pdf.setDrawColor(207, 250, 254);
+
+            pdf.roundedRect(
+                imageBoxX,
+                imageBoxY,
+                imageBoxW,
+                imageBoxH,
+                5,
+                5,
+                "FD"
+            );
+
+            if (loadedProductImage) {
+                try {
+                    const imgRatio =
+                        loadedProductImage.width /
+                        loadedProductImage.height;
+
+                    const boxRatio =
+                        imageBoxW / imageBoxH;
+
+                    let drawW;
+                    let drawH;
+                    let drawX;
+                    let drawY;
+
+                    if (imgRatio > boxRatio) {
+                        drawW = imageBoxW - 10;
+                        drawH = drawW / imgRatio;
+                    } else {
+                        drawH = imageBoxH - 10;
+                        drawW = drawH * imgRatio;
+                    }
+
+                    drawX =
+                        imageBoxX +
+                        (imageBoxW - drawW) / 2;
+
+                    drawY =
+                        imageBoxY +
+                        (imageBoxH - drawH) / 2;
+
+                    // Detect format
+                    let imageFormat = "JPEG";
+                    const lowerUrl = productImage.toLowerCase();
+                    if (lowerUrl.includes(".png") || lowerUrl.includes("format=png")) {
+                        imageFormat = "PNG";
+                    } else if (lowerUrl.includes(".webp") || lowerUrl.includes("format=webp")) {
+                        imageFormat = "WEBP";
+                    } else if (lowerUrl.includes(".gif") || lowerUrl.includes("format=gif")) {
+                        imageFormat = "GIF";
+                    }
+
+                    try {
+                        pdf.addImage(
+                            loadedProductImage,
+                            imageFormat,
+                            drawX,
+                            drawY,
+                            drawW,
+                            drawH
+                        );
+                    } catch (addError) {
+                        console.warn(`Failed to add image as ${imageFormat}, falling back to JPEG:`, addError);
+                        pdf.addImage(
+                            loadedProductImage,
+                            "JPEG",
+                            drawX,
+                            drawY,
+                            drawW,
+                            drawH
+                        );
+                    }
+                } catch (error) {
+                    console.warn(
+                        "Could not add product image to brochure:",
+                        error
+                    );
+                }
+            }
+
+            currentY =
+                imageBoxY + imageBoxH + 10;
+
+            // ------------------------------------------------
+            // Product Description
+            // ------------------------------------------------
+            pdf.setTextColor(8, 145, 178);
+            pdf.setFont("helvetica", "bold");
+            pdf.setFontSize(12);
+
+            pdf.text(
+                "Product Overview",
+                17,
+                currentY
+            );
+
+            currentY += 7;
+
+            pdf.setTextColor(71, 85, 105);
+            pdf.setFont("helvetica", "normal");
+            pdf.setFontSize(9.5);
+
+            const description =
+                product.desc ||
+                product.description ||
+                "Premium biomedical equipment designed for hospitals, laboratories and diagnostic centres.";
+
+            const descriptionLines =
+                pdf.splitTextToSize(
+                    description,
+                    176
+                );
+
+            pdf.text(
+                descriptionLines.slice(0, 5),
+                17,
+                currentY
+            );
+
+            currentY +=
+                Math.min(descriptionLines.length, 5) *
+                4.5 +
+                8;
+
+            // ------------------------------------------------
+            // Specifications
+            // ------------------------------------------------
+            pdf.setTextColor(8, 145, 178);
+            pdf.setFont("helvetica", "bold");
+            pdf.setFontSize(12);
+
+            pdf.text(
+                "Key Specifications",
+                17,
+                currentY
+            );
+
+            currentY += 6;
+
+            const specs = [
+                ["Brand", product.brand],
+                ["Model", product.model],
+                ["Instrument", product.instrument],
+                ["Capacity", product.capacity],
+                ["Throughput", product.throughput],
+                ["Usage", product.usage],
+                ["Automation", product.automation],
+                ["Availability", product.availability],
+            ];
+
+            const validSpecs = specs.filter(
+                ([, value]) =>
+                    value &&
+                    String(value).trim()
+            );
+
+            const columnWidth = 88;
+            const rowHeight = 9;
+
+            validSpecs.forEach(
+                ([label, value], index) => {
+                    const column =
+                        index % 2;
+
+                    const row =
+                        Math.floor(index / 2);
+
+                    const x =
+                        17 +
+                        column *
+                        columnWidth;
+
+                    const y =
+                        currentY +
+                        row *
+                        rowHeight;
+
+                    pdf.setFillColor(
+                        240,
+                        249,
+                        255
+                    );
+
+                    pdf.setDrawColor(
+                        207,
+                        250,
+                        254
+                    );
+
+                    pdf.roundedRect(
+                        x,
+                        y,
+                        84,
+                        7.5,
+                        2,
+                        2,
+                        "FD"
+                    );
+
+                    pdf.setTextColor(
+                        8,
+                        145,
+                        178
+                    );
+
+                    pdf.setFont(
+                        "helvetica",
+                        "bold"
+                    );
+
+                    pdf.setFontSize(7);
+
+                    pdf.text(
+                        `${label}:`,
+                        x + 3,
+                        y + 4.8
+                    );
+
+                    pdf.setTextColor(
+                        15,
+                        23,
+                        42
+                    );
+
+                    pdf.setFont(
+                        "helvetica",
+                        "normal"
+                    );
+
+                    const valueText =
+                        String(value);
+
+                    const maxValueWidth =
+                        57;
+
+                    const valueLines =
+                        pdf.splitTextToSize(
+                            valueText,
+                            maxValueWidth
+                        );
+
+                    pdf.text(
+                        valueLines[0],
+                        x + 25,
+                        y + 4.8
+                    );
+                }
+            );
+
+            // ------------------------------------------------
+            // Footer
+            // ------------------------------------------------
+            pdf.setFillColor(
+                8,
+                145,
+                178
+            );
+
+            pdf.rect(
+                0,
+                pageHeight - 28,
+                pageWidth,
+                28,
+                "F"
+            );
+
+            pdf.setTextColor(
+                255,
+                255,
+                255
+            );
+
+            pdf.setFont(
+                "helvetica",
+                "bold"
+            );
+
+            pdf.setFontSize(11);
+
+            pdf.text(
+                "Raj Biosis",
+                17,
+                pageHeight - 18
+            );
+
+            pdf.setFont(
+                "helvetica",
+                "normal"
+            );
+
+            pdf.setFontSize(8);
+
+            pdf.text(
+                "Biomedical & Diagnostic Equipment",
+                17,
+                pageHeight - 12
+            );
+
+            pdf.text(
+                "Website: glucometers.in",
+                115,
+                pageHeight - 18
+            );
+
+            pdf.text(
+                "Contact Raj Biosis for quotation & product details",
+                115,
+                pageHeight - 12
+            );
+
+            // ------------------------------------------------
+            // Download
+            // ------------------------------------------------
+            const safeName = (
+                product.title ||
+                "Raj-Biosis-Product"
+            )
+                .replace(/[^a-z0-9]+/gi, "-")
+                .replace(/^-+|-+$/g, "");
+
+            pdf.save(
+                `${safeName}-Raj-Biosis-Brochure.pdf`
+            );
+
+            toast.success(
+                "Brochure downloaded successfully!",
+                {
+                    id: "brochure",
+                }
+            );
+        } catch (error) {
+            console.error(
+                "Brochure generation error:",
+                error
+            );
+
+            toast.error(
+                "Unable to generate brochure.",
+                {
+                    id: "brochure",
+                }
+            );
+        }
+    };
     const handleSubmit = async (e) => {
         e.preventDefault();
 
@@ -193,7 +724,7 @@ export default function ProductDetails({ slug }) {
                 collection(
                     db,
                     "websitesQueries",
-                    "centralbiomedicals",
+                    "glucometersin",
                     "productQueries"
                 ),
                 {
@@ -236,7 +767,7 @@ export default function ProductDetails({ slug }) {
                 product.title,
             brand: {
                 "@type": "Brand",
-                name: product.brand || "Central Biomedicals",
+                name: product.brand || "Raj Biosis",
             },
         }
         : null;
@@ -259,7 +790,7 @@ export default function ProductDetails({ slug }) {
                     name: "Do you provide installation support?",
                     acceptedAnswer: {
                         "@type": "Answer",
-                        text: "Yes, installation and technical support are available.",
+                        text: "Yes. Installation assistance and technical support can be arranged for applicable equipment.",
                     },
                 },
             ],
@@ -381,22 +912,17 @@ ${product?.desc}
     }
     return (
         <section className="py-10 md:py-20 bg-slate-50">
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{
-                    __html: JSON.stringify(productSchema),
-                }}
-            />
-
-            <script
-                type="application/ld+json"
-                dangerouslySetInnerHTML={{
-                    __html: JSON.stringify(faqSchema),
-                }}
-            />
             <div className="container-custom">
-                <div className="mb-6 text-sm text-slate-500">
-                    Home / Products / {product.title}
+                <div className="mb-6 text-sm text-slate-500 flex items-center gap-2">
+                    <Link href={city !== "India" ? `/${city}` : "/"} className="hover:text-cyan-600 transition-colors">
+                        Home
+                    </Link>
+                    <span>/</span>
+                    <Link href={city !== "India" ? `/${city}/items` : "/items"} className="hover:text-cyan-600 transition-colors">
+                        Products
+                    </Link>
+                    <span>/</span>
+                    <span className="text-slate-900 font-semibold">{product.title}</span>
                 </div>
                 {/* Top Section */}
 
@@ -435,8 +961,13 @@ ${product?.desc}
                                     )}
 
                                     <Image
-                                        src={selectedImage || product.image}
-                                        alt={product.title}
+                                        src={
+                                            selectedImage ||
+                                            product?.images?.[0] ||
+                                            product?.image ||
+                                            "/placeholder.jpg"
+                                        }
+                                        alt={`${product?.title || "Product"} biomedical diagnostic equipment`}
                                         fill
                                         priority
                                         onLoad={() => setImageLoaded(true)}
@@ -481,7 +1012,7 @@ ${product?.desc}
 
                                     <Image
                                         src={img}
-                                        alt={`Thumbnail ${index + 1}`}
+                                        alt={`${product?.title || "Product"} thumbnail ${index + 1}`}
                                         width={80}
                                         height={80}
                                         className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-110"
@@ -514,27 +1045,6 @@ ${product?.desc}
 
                             )}
 
-                            {/* PDF Button */}
-                            {product.pdf && (
-
-                                <a
-                                    href={product.pdf}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="group flex h-20 w-20 flex-col items-center justify-center rounded-2xl border border-cyan-100 bg-white/70 backdrop-blur-xl shadow-md transition-all duration-300 hover:-translate-y-1 hover:border-cyan-300 hover:shadow-lg"
-                                >
-
-                                    <div className="flex h-10 w-10 items-center justify-center rounded-full bg-gradient-to-br from-cyan-500 to-sky-500 text-lg text-white shadow-md transition-transform duration-300 group-hover:scale-110">
-                                        📄
-                                    </div>
-
-                                    <span className="mt-2 text-xs font-semibold text-cyan-700">
-                                        PDF
-                                    </span>
-
-                                </a>
-
-                            )}
 
                         </div>
 
@@ -646,7 +1156,44 @@ ${product?.desc}
                             </div>
 
                         </div>
+                        {/* PDF Button */}
+                        {product.pdf && (
 
+                            <a
+                                href={product.pdf}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="group flex h-20 w-20 flex-col items-center justify-center rounded-2xl border border-cyan-100 bg-white/70 backdrop-blur-xl shadow-md transition-all duration-300 hover:-translate-y-1 hover:border-cyan-300 hover:shadow-lg"
+                            >
+
+                                <div className="flex h-10 w-10 items-center justify-center rounded-full bg-gradient-to-br from-cyan-500 to-sky-500 text-lg text-white shadow-md transition-transform duration-300 group-hover:scale-110">
+                                    📄
+                                </div>
+
+                                <span className="mt-2 text-xs font-semibold text-cyan-700">
+                                    PDF
+                                </span>
+
+                            </a>
+
+                        )}
+
+
+                        {/* PDF Download Button */}
+
+                        <button
+                            type="button"
+                            onClick={handleBrochureDownload}
+                            className="group mt-4 flex h-20 w-full items-center justify-center gap-3 rounded-2xl border border-cyan-100 bg-white/70 px-6 backdrop-blur-xl shadow-md transition-all duration-300 hover:-translate-y-1 hover:border-cyan-300 hover:shadow-lg"
+                        >
+                            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-cyan-600 to-sky-500 text-white shadow-md transition-transform duration-300 group-hover:scale-110">
+                                <Download size={18} />
+                            </div>
+
+                            <span className="text-sm font-semibold text-cyan-700">
+                                Download Brochure
+                            </span>
+                        </button>
                     </div>
 
                 </div>
@@ -811,7 +1358,7 @@ ${product?.desc}
                             <div className="mt-14">
 
                                 <h3 className="text-2xl font-extrabold text-cyan-950">
-                                    Why Choose Central Biomedicals in{" "}
+                                    Why Choose Raj Biosis in{" "}
                                     <span className="bg-gradient-to-r from-cyan-600 to-sky-500 bg-clip-text text-transparent">
                                         {cityName}
                                     </span>
@@ -821,7 +1368,7 @@ ${product?.desc}
                                 <div className="mt-5 h-1 w-20 rounded-full bg-gradient-to-r from-cyan-500 via-sky-500 to-cyan-300" />
 
                                 <p className="mt-6 leading-8 text-cyan-900/70">
-                                    Central Biomedicals is a trusted supplier and
+                                    Raj Biosis is a trusted supplier and
                                     distributor of <strong>{product.title}</strong> in{" "}
                                     <strong>{cityName}</strong>. We provide high-quality
                                     biomedical and laboratory equipment for hospitals,
@@ -884,7 +1431,7 @@ ${product?.desc}
                                     <div className="mt-4 h-1 w-20 rounded-full bg-gradient-to-r from-cyan-500 via-sky-500 to-cyan-300" />
 
                                     <p className="mt-6 leading-8 text-cyan-900/70">
-                                        Central Biomedicals supplies {product.title} in{" "}
+                                        Raj Biosis supplies {product.title} in{" "}
                                         {cityName} with technical support, installation
                                         assistance and dedicated customer service for
                                         hospitals and laboratories.
@@ -906,7 +1453,7 @@ ${product?.desc}
                                     <div className="mt-4 h-1 w-20 rounded-full bg-gradient-to-r from-cyan-500 via-sky-500 to-cyan-300" />
 
                                     <p className="mt-6 leading-8 text-cyan-900/70">
-                                        Central Biomedicals is a trusted dealer of
+                                        Raj Biosis is a trusted dealer of
                                         {product.title} in {cityName}. We supply
                                         biomedical equipment, laboratory instruments,
                                         diagnostic analyzers and healthcare devices
@@ -953,7 +1500,7 @@ ${product?.desc}
 
                                     <p className="mt-6 leading-8 text-cyan-900/70">
                                         Buy high-quality {product.title} in {cityName}
-                                        at competitive prices. Contact Central Biomedicals
+                                        at competitive prices. Contact Raj Biosis
                                         for the latest quotation, product availability
                                         and delivery information.
                                     </p>
@@ -1012,7 +1559,7 @@ ${product?.desc}
                                         },
                                         {
                                             question: `Can hospitals in ${cityName} order this product?`,
-                                            answer: "Yes, hospitals, pathology laboratories, diagnostic centres and healthcare facilities can order this product.",
+                                            answer: "Yes. Hospitals, pathology laboratories, diagnostic centres, and other healthcare facilities can enquire about this product.",
                                         },
                                         {
                                             question: "Do you provide installation support?",
@@ -1024,15 +1571,15 @@ ${product?.desc}
                                         },
                                         {
                                             question: "Do you provide warranty?",
-                                            answer: "Warranty depends on the manufacturer and product model.",
+                                            answer: "Warranty coverage varies according to the manufacturer and the specific equipment model.",
                                         },
                                         {
                                             question: "Do you deliver across India?",
                                             answer: "Yes, we supply biomedical products across India with secure packaging and reliable logistics.",
                                         },
                                         {
-                                            question: "How can I contact Central Biomedicals?",
-                                            answer: "You can fill out the enquiry form or contact our team directly for product details and quotations.",
+                                            question: "How can I contact Raj Biosis?",
+                                            answer: "Use the enquiry form or contact our team directly to discuss specifications, availability, and quotations.",
                                         },
                                     ].map((faq, index) => (
 

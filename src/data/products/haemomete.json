@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "automation": "",
+  "brand": "",
+  "size": "",
+  "categoryProductId": "H-107",
+  "subCategory": "Haemometer",
+  "category": "Hematology analyzers",
+  "throughput": "",
+  "price": "",
+  "desc": "Haemomete",
+  "id": "4829bc94-e84d-43fb-9a1f-753b0ff54b89",
+  "title": "Haemomete",
+  "model": "",
+  "capacity": "",
+  "slug": "haemomete",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T06:55:32.805Z",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHaemometer%2F141632925-product-1743755908614-500x500.jpg?alt=media&token=5784395d-e997-4695-893b-9dc7e84d376e"
+  ],
+  "instrument": "",
+  "parameters": "",
+  "uid": "hematology-analyzers-haemometer-106"
+}

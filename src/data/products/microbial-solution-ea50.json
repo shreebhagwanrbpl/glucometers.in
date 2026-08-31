@@ -1,0 +1,28 @@
+{
+  "price": "₹ 950",
+  "instrument": "",
+  "size": "",
+  "model": "",
+  "title": "Microbial Solution Ea50",
+  "availability": "",
+  "parameters": "",
+  "category": "Pathology Lab Equipments",
+  "brand": "",
+  "desc": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "slug": "microbial-solution-ea50",
+  "capacity": "",
+  "categoryProductId": "MS-5",
+  "id": "bc4bc18a-6106-4646-aa1f-f8121090832b",
+  "subCategory": "Microorganism Solution",
+  "pdf": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FMicroorganism%20Solution%2Fmicrobial-solution-ea50-500x500.jpeg?alt=media&token=495ac475-b106-4ec6-bfb8-4a9735a62ee5"
+  ],
+  "throughput": "",
+  "createdAt": "2026-08-07T06:58:58.051Z",
+  "uid": "pathology-lab-equipments-microorganism-solution-4"
+}

@@ -6,19 +6,19 @@ export async function generateMetadata({ params }) {
     .replace(/-/g, " ")
     .replace(/\b\w/g, (char) => char.toUpperCase());
 
-  const url = `https://centralbiomedical.com/${district}`;
+  const url = `https://glucometers.in/${district}`;
 
   return {
-    title: `Biomedical & Diagnostic Equipment Supplier in ${districtName} | Central Biomedical`,
+    title: `Blood Glucose Monitor & Glucometer Supplier in ${districtName} | Raj Biosis`,
 
-    description: `Central Biomedical supplies diagnostic machines, laboratory equipment, reagents and biomedical products in ${districtName}.`,
+    description: `Raj Biosis helps customers in ${districtName} source blood glucose monitors, digital glucometer devices, and diabetes testing consumables.`,
 
     keywords: [
-      `Biomedical Equipment ${districtName}`,
-      `Diagnostic Machines ${districtName}`,
-      `Laboratory Equipment ${districtName}`,
-      `Pathology Equipment ${districtName}`,
-      `Biomedical Supplier ${districtName}`,
+      `Glucometers ${districtName}`,
+      `Blood Glucose Monitors ${districtName}`,
+      `Digital Glucometer Supplier ${districtName}`,
+      `Diabetes Care Kits ${districtName}`,
+      `Glucose Meter Sourcing ${districtName}`,
     ],
 
     robots: {
@@ -31,8 +31,8 @@ export async function generateMetadata({ params }) {
     },
 
     openGraph: {
-      title: `Biomedical Equipment in ${districtName}`,
-      description: `Diagnostic laboratory equipment supplier in ${districtName}.`,
+      title: `Blood Glucose Monitor & Glucometer Supplier in ${districtName} | Raj Biosis`,
+      description: `Raj Biosis helps customers in ${districtName} source blood glucose monitors, digital glucometer devices, and diabetes testing consumables.`,
       url,
       type: "website",
     },

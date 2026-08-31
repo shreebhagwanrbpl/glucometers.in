@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "M-69",
+  "subCategory": "Microcentrifuge",
+  "desc": "",
+  "size": "",
+  "throughput": "",
+  "capacity": "",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fthermo-scientific-sorvall-legend-micro-17r-microcentrifuge-500x500.png?alt=media&token=b21368f5-687d-4cd4-b983-a81cbb646c22"
+  ],
+  "parameters": "",
+  "isPublished": true,
+  "availability": "",
+  "instrument": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:56:27.743Z",
+  "category": "Laboratory Centrifuge",
+  "title": "Thermo Scientific Sorvall Legend Micro 17R Microcentrifuge",
+  "model": "",
+  "slug": "thermo-scientific-sorvall-legend-micro-17r-microcentrifuge",
+  "price": "",
+  "id": "9d4af4e5-11ef-46f6-852c-cc5ca3ef7092",
+  "uid": "laboratory-centrifuge-microcentrifuge-68"
+}

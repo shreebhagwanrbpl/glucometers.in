@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "capacity": "",
+  "availability": "",
+  "size": "",
+  "price": "",
+  "instrument": "",
+  "desc": "",
+  "id": "0d8096c2-b071-4d41-8f2b-90f4bcf6bc83",
+  "title": "Toomy",
+  "model": "",
+  "parameters": "",
+  "isPublished": true,
+  "categoryProductId": "MS-10",
+  "slug": "toomy",
+  "automation": "",
+  "category": "Syringe",
+  "createdAt": "2026-08-07T07:00:30.807Z",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2023/3/295310341/UR/XN/JW/40633842/toomy-500x500.jpg"
+  ],
+  "subCategory": "Medical syringes",
+  "uid": "syringe-medical-syringes-9"
+}

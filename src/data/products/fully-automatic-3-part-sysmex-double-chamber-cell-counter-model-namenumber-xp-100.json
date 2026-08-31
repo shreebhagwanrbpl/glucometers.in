@@ -1,0 +1,28 @@
+{
+  "category": "Sysmex",
+  "createdAt": "2026-08-07T07:00:53.952Z",
+  "desc": "",
+  "pdf": "",
+  "brand": "",
+  "instrument": "",
+  "model": "",
+  "title": "Fully Automatic 3-Part Sysmex Double Chamber Cell Counter, Model Name/Number: XP-100",
+  "size": "",
+  "parameters": "",
+  "isPublished": true,
+  "price": "",
+  "categoryProductId": "SCC-16",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fsysmex-cell-counter-double-chamber-500x500-1--500x500.jpg?alt=media&token=9bbd16c0-3599-4214-afd8-3394fae6728e"
+  ],
+  "throughput": "",
+  "capacity": "",
+  "id": "5b7ac261-dcb5-4244-afeb-2edcf0ac6a0c",
+  "availability": "",
+  "slug": "fully-automatic-3-part-sysmex-double-chamber-cell-counter-model-namenumber-xp-100",
+  "subCategory": "Sysmex Cell Counter",
+  "video": "",
+  "usage": "",
+  "uid": "sysmex-sysmex-cell-counter-15"
+}

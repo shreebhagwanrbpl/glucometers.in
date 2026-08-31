@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "brand": "",
+  "size": "",
+  "parameters": "",
+  "isPublished": true,
+  "price": "",
+  "desc": "Features High-speed refrigerated microcentrifuge Temperature settings from -20 to ambient Fast Cool function for rapid cooling Automatic identification of a rotor Automatic alarm system for imbalance, over-heat and over-speed 5 acceleration and 5 deceleration ramps for sensitive samples Program memory for up to 100 programs Pulse spin button Techni",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fc-1-01_m_-250x250.jpg?alt=media&token=7dd5157e-7b43-4cee-bd88-98f2de0eb0a2"
+  ],
+  "title": "Microcentrifuge 1730MR",
+  "model": "",
+  "id": "e787ad45-b981-4c03-8a67-782287f2a36c",
+  "capacity": "",
+  "categoryProductId": "M-182",
+  "slug": "microcentrifuge-1730mr",
+  "availability": "",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:56:27.749Z",
+  "pdf": "",
+  "category": "Laboratory Centrifuge",
+  "subCategory": "Microcentrifuge",
+  "throughput": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-181"
+}

@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "capacity": "",
+  "parameters": "",
+  "slug": "glass-thermometer",
+  "instrument": "",
+  "model": "",
+  "title": "Glass Thermometer",
+  "brand": "",
+  "subCategory": "Glass laboratory thermometer",
+  "availability": "",
+  "id": "a971bb1b-99bf-465a-850e-e39cb4f81340",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FGlass%20laboratory%20thermometer%2Fglass-thermometer-accurate-temperature-measurement-500x500.png?alt=media&token=d0bdd555-4e63-46e1-b41e-d5503d383efe"
+  ],
+  "size": "",
+  "pdf": "",
+  "categoryProductId": "GLT-21",
+  "createdAt": "2026-08-07T06:56:57.268Z",
+  "usage": "",
+  "video": "",
+  "category": "Laboratory thermometer",
+  "throughput": "",
+  "isPublished": true,
+  "desc": "",
+  "automation": "",
+  "uid": "laboratory-thermometer-glass-laboratory-thermometer-20"
+}

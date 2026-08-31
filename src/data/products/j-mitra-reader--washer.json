@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20reader%2Felisa-reader-jay-mitra-1000x1000-500x500.webp?alt=media&token=0abb8eae-8cfd-4289-8e91-7b3fc678b24f"
+  ],
+  "subCategory": "Elisa reader",
+  "pdf": "",
+  "categoryProductId": "ER-28",
+  "createdAt": "2026-08-07T06:58:48.422Z",
+  "id": "f586b861-68e5-4dde-abff-a2226a2da04a",
+  "price": "₹ 2,40,000",
+  "parameters": "",
+  "category": "Pathology Lab Equipments",
+  "desc": "",
+  "availability": "",
+  "model": "",
+  "title": "J. Mitra  Reader & Washer",
+  "instrument": "",
+  "throughput": "",
+  "slug": "j-mitra-reader--washer",
+  "isPublished": true,
+  "automation": "",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "uid": "pathology-lab-equipments-elisa-reader-27"
+}

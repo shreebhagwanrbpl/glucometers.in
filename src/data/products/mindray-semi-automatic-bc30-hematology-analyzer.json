@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "size": "",
+  "pdf": "",
+  "category": "Ivds category",
+  "price": "",
+  "categoryProductId": "HA-98",
+  "instrument": "",
+  "model": "",
+  "title": "Mindray Semi Automatic Bc30 Hematology Analyzer",
+  "brand": "",
+  "createdAt": "2026-08-07T06:55:54.017Z",
+  "id": "2bf68bca-db9a-440e-9103-f345cd0ee04a",
+  "subCategory": "Hematology analyzers",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "slug": "mindray-semi-automatic-bc30-hematology-analyzer",
+  "availability": "",
+  "capacity": "",
+  "throughput": "",
+  "isPublished": true,
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fproduct-jpeg-500x500.jpg?alt=media&token=c20f0f2b-8312-4d93-be50-f40e5a0eb4b6"
+  ],
+  "uid": "ivds-category-hematology-analyzers-97"
+}

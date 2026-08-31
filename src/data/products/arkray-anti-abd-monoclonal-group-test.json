@@ -1,0 +1,28 @@
+{
+  "subCategory": "Blood group test kit",
+  "instrument": "",
+  "desc": "",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "BGTK-10",
+  "parameters": "",
+  "id": "1bf794f0-0382-410b-b0f3-a5cf89ae534e",
+  "capacity": "",
+  "pdf": "",
+  "size": "",
+  "title": "Arkray Anti ABD Monoclonal  Group Test",
+  "model": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FBlood%20group%20test%20kit%2Farkray-anti-abd-monoclonal-blood-group-test-kit-500x500.jpg?alt=media&token=28157e17-9cf0-405c-9dcd-69e603f7d9d1"
+  ],
+  "price": "₹ 350",
+  "createdAt": "2026-08-07T06:59:30.988Z",
+  "slug": "arkray-anti-abd-monoclonal-group-test",
+  "automation": "",
+  "category": "Rapid Test Kit",
+  "brand": "",
+  "throughput": "",
+  "uid": "rapid-test-kit-blood-group-test-kit-9"
+}

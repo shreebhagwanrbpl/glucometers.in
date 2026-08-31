@@ -1,0 +1,28 @@
+{
+  "category": "Pathology Lab Equipments",
+  "brand": "Micro Lab",
+  "isPublished": true,
+  "throughput": "",
+  "title": "Semi Automatic Micro Lab Single Channel Coagulometer, Model Name/Number: Arx Clot Sc",
+  "model": "",
+  "automation": "Semi Automatic",
+  "categoryProductId": "C-16",
+  "price": "₹ 78,000",
+  "slug": "semi-automatic-micro-lab-single-channel-coagulometer-model-namenumber-arx-clot-sc",
+  "pdf": "",
+  "parameters": "",
+  "availability": "",
+  "createdAt": "2026-08-07T06:58:45.659Z",
+  "capacity": "",
+  "desc": "",
+  "instrument": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FCoagulometer%2Fmicro-lab-single-channel-coagulometer-500x500.jpg?alt=media&token=a7e9e370-86da-47ca-97b6-4f3068299542"
+  ],
+  "subCategory": "Coagulometer",
+  "id": "fbbf1e02-8fcc-413e-b5a0-233ab51a8fe6",
+  "usage": "",
+  "video": "",
+  "uid": "pathology-lab-equipments-coagulometer-15"
+}

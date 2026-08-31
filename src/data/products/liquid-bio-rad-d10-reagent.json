@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "automation": "",
+  "throughput": "",
+  "category": "Clinical Reagents",
+  "size": "",
+  "id": "a5fa7825-6b53-46b7-b9db-d902d3b84116",
+  "usage": "",
+  "video": "",
+  "categoryProductId": "DR-43",
+  "desc": "",
+  "pdf": "",
+  "subCategory": "Diagnostic reagents",
+  "slug": "liquid-bio-rad-d10-reagent",
+  "capacity": "",
+  "brand": "4",
+  "createdAt": "2026-08-07T06:54:50.082Z",
+  "price": "₹ 23,000",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Fbio-rad-d10-reagent-500x500.jpg?alt=media&token=f94997c8-55ac-400d-bfd9-13d099ec39df"
+  ],
+  "instrument": "",
+  "model": "",
+  "title": "Liquid Bio Rad D10 Reagent",
+  "parameters": "",
+  "isPublished": true,
+  "uid": "clinical-reagents-diagnostic-reagents-42"
+}

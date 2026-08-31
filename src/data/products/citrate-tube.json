@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "capacity": "",
+  "brand": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FSodium%20Citrate%20Tube%2F1-500x500.png?alt=media&token=27468f8f-0dcf-4133-abeb-0c5aa73d31b6"
+  ],
+  "subCategory": "Sodium Citrate Tube",
+  "model": "",
+  "title": "Citrate Tube",
+  "pdf": "",
+  "categoryProductId": "SCT-143",
+  "slug": "citrate-tube",
+  "createdAt": "2026-08-07T06:54:20.682Z",
+  "price": "",
+  "category": "Blood Collection Tubes",
+  "availability": "",
+  "desc": "Cap Color: Blue Name : Citrate Tube Description: The tube is using 3.2%(0.109mol/L) Tri - Sodium Citrate as anticoagulation. Blue closure Speciemen : Whole blood or Plasma. It's used for routine coagulation testing. Specs:13 x 75mm Draw volume: 2.7ml Storage temperature: 4 -25 Degree C Max. Vacuum degree tolerance: 10% The mix ratio is 1 part citra",
+  "id": "5254c048-b112-45a2-9be3-bf07d2154fac",
+  "instrument": "",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "size": "",
+  "parameters": "",
+  "uid": "blood-collection-tubes-sodium-citrate-tube-142"
+}

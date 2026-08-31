@@ -1,0 +1,30 @@
+{
+  "subCategory": "HbA1c Analyzer",
+  "capacity": "",
+  "brand": "",
+  "availability": "",
+  "model": "",
+  "title": "smart Hba1c Meter",
+  "throughput": "",
+  "slug": "smart-hba1c-meter",
+  "price": "₹ 20,000",
+  "automation": "",
+  "category": "Hematology analyzers",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%5CHBA1C%2FSmart%20Hba1c%20Meter-2.webp?alt=media&token=616734cc-55f9-410a-8982-85ee06e88291",
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%5CHBA1C%2FSmart%20Hba1c%20Meter.webp?alt=media&token=3d4b6441-5462-47a3-acde-2d865d5f19c6",
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%5CHBA1C%2Fsmart-hba1c-meter-1000x1000.webp?alt=media&token=84c02cd2-d701-4079-9f9b-228efa79e48a"
+  ],
+  "id": "bf037b0e-8e60-4430-a006-7f77350647f5",
+  "parameters": "",
+  "desc": "",
+  "categoryProductId": "HA-1",
+  "pdf": "",
+  "instrument": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:55:35.830Z",
+  "uid": "hematology-analyzers-hba1c-analyzer-0"
+}

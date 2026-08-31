@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "brand": "",
+  "category": "Blood Collection Tubes",
+  "isPublished": true,
+  "parameters": "",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FBlood%20Sample%20Collection%20Test%20Tube%2Fnew-product-500x500.jpeg?alt=media&token=c7207897-b5dd-4351-a129-bbb901958a07"
+  ],
+  "availability": "",
+  "instrument": "",
+  "id": "11cbb310-0140-4092-85e2-746e7d24d6b6",
+  "categoryProductId": "BSCTT-54",
+  "desc": "Surgical Blood Test Container",
+  "model": "",
+  "title": "Surgical Blood Test Container",
+  "pdf": "",
+  "throughput": "",
+  "capacity": "",
+  "automation": "",
+  "slug": "surgical-blood-test-container",
+  "createdAt": "2026-08-07T06:53:30.725Z",
+  "usage": "",
+  "video": "",
+  "subCategory": "Blood Sample Collection Test Tube",
+  "uid": "blood-collection-tubes-blood-sample-collection-test-tube-53"
+}

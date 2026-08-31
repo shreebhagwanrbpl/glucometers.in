@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "category": "Laboratory Centrifuge",
+  "automation": "",
+  "title": "Micro Centrifuge M08",
+  "model": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fifuge-bl08vt-product-image-500x500.png?alt=media&token=07444bdf-a86c-437d-8944-a82883a66b22"
+  ],
+  "throughput": "",
+  "size": "",
+  "availability": "",
+  "desc": "Micro Centrifuge M08",
+  "brand": "",
+  "categoryProductId": "M-264",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "slug": "micro-centrifuge-m08",
+  "id": "4cb04b6f-dca5-4ae6-a5da-2722f78e27ac",
+  "capacity": "",
+  "subCategory": "Microcentrifuge",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:56:27.754Z",
+  "parameters": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-263"
+}

@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "isPublished": true,
+  "throughput": "",
+  "title": "Minimum , 0.001%",
+  "model": "",
+  "size": "",
+  "automation": "",
+  "brand": "",
+  "capacity": "",
+  "desc": "",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Laboratory thermometer",
+  "slug": "minimum--0001",
+  "createdAt": "2026-08-07T06:56:59.629Z",
+  "id": "ec955f2e-f9ea-43fe-ae58-cac09c16bd4d",
+  "categoryProductId": "LT-28",
+  "pdf": "",
+  "parameters": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FLaboratory%20thermometer%2F1631488-product-1704716049717-500x500.jpg?alt=media&token=51c3beea-7f0a-4264-be6a-11f8ea656063"
+  ],
+  "category": "Laboratory thermometer",
+  "uid": "laboratory-thermometer-laboratory-thermometer-27"
+}

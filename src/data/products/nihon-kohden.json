@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "NKCC-44",
+  "parameters": "",
+  "category": "Other Categories",
+  "size": "",
+  "instrument": "",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "subCategory": "Nihon Kohden Cell Counter",
+  "slug": "nihon-kohden",
+  "availability": "",
+  "capacity": "",
+  "brand": "",
+  "id": "c90de23e-539c-4bd4-9881-6f9a40b98198",
+  "createdAt": "2026-08-07T06:58:24.025Z",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FNihon%20Kohden%20Cell%20Counter%2F12229304-product-1774337159785-500x500.png?alt=media&token=04d4d1cd-e163-456f-bdf1-43fad92a1db1"
+  ],
+  "throughput": "",
+  "model": "",
+  "title": "Nihon Kohden",
+  "isPublished": true,
+  "automation": "",
+  "uid": "other-categories-nihon-kohden-cell-counter-43"
+}

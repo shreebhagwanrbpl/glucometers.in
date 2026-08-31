@@ -1,0 +1,28 @@
+{
+  "usage": "",
+  "video": "",
+  "subCategory": "Coagulometer",
+  "capacity": "",
+  "id": "9f3c196e-07a5-452f-86ec-81fd55c83565",
+  "parameters": "",
+  "instrument": "",
+  "size": "",
+  "categoryProductId": "C-10",
+  "desc": "",
+  "availability": "",
+  "pdf": "",
+  "price": "₹ 60,000",
+  "slug": "micro-lab-fully-automatic-arx-clot-sc",
+  "isPublished": true,
+  "title": "Micro Lab Fully Automatic Arx Clot SC",
+  "model": "",
+  "createdAt": "2026-08-07T06:58:45.658Z",
+  "category": "Pathology Lab Equipments",
+  "throughput": "",
+  "brand": "Micro Lab",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FCoagulometer%2Fdownload-500x500.jpg?alt=media&token=32012870-b102-4e0d-ac1d-948d4850ab99"
+  ],
+  "automation": "Fully Automatic",
+  "uid": "pathology-lab-equipments-coagulometer-9"
+}

@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Medonic M-32B",
+  "categoryProductId": "MCC-61",
+  "isPublished": true,
+  "desc": "",
+  "price": "₹ 3,00,000",
+  "size": "",
+  "instrument": "",
+  "id": "de819236-75ae-44e0-91be-635c95d609cd",
+  "category": "Other Categories",
+  "parameters": "",
+  "brand": "",
+  "automation": "",
+  "createdAt": "2026-08-07T06:58:18.525Z",
+  "pdf": "",
+  "availability": "",
+  "throughput": "",
+  "subCategory": "Medonic Cell Counter",
+  "usage": "",
+  "video": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FMedonic%20Cell%20Counter%2Fproduct-jpeg-250x250.jpg?alt=media&token=d195b58e-66cb-4bfb-89a8-4abbb4a00c82"
+  ],
+  "slug": "medonic-m-32b",
+  "capacity": "",
+  "uid": "other-categories-medonic-cell-counter-60"
+}

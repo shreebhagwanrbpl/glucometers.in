@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "availability": "",
+  "isPublished": true,
+  "automation": "",
+  "categoryProductId": "SAA-29",
+  "slug": "biochemistry-analyser",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Biochemistry%20Analyzer%2FSemi%20auto%20analyser%2Fsemi-auto-biochemistry-analyser-500x500.jpg?alt=media&token=4bf8ce5e-aacb-4ae9-a858-97c1783a7035"
+  ],
+  "instrument": "",
+  "desc": "",
+  "category": "Biochemistry Analyzer",
+  "subCategory": "Semi auto analyser",
+  "parameters": "",
+  "brand": "",
+  "title": "Biochemistry Analyser",
+  "model": "",
+  "createdAt": "2026-08-07T06:53:08.588Z",
+  "pdf": "",
+  "id": "56ecc253-921f-4436-b964-a4ff88588186",
+  "size": "",
+  "price": "₹ 1,75,000",
+  "uid": "biochemistry-analyzer-semi-auto-analyser-28"
+}

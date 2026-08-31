@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "desc": "",
+  "id": "7dc49ee4-0eb9-4abc-bbdf-323d6ff56899",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2F5-500x500.png?alt=media&token=e3f94ba9-4395-4808-ba5f-c8e102f0b55c"
+  ],
+  "subCategory": "Elisa Washer",
+  "categoryProductId": "EW-147",
+  "size": "",
+  "parameters": "",
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "category": "Pathology Lab Equipments",
+  "throughput": "",
+  "pdf": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:58:49.938Z",
+  "automation": "",
+  "isPublished": true,
+  "model": "",
+  "title": "BioTek 50 TS Washer",
+  "capacity": "",
+  "slug": "biotek-50-ts-washer",
+  "price": "",
+  "uid": "pathology-lab-equipments-elisa-washer-146"
+}

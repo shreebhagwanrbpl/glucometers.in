@@ -1,0 +1,28 @@
+{
+  "category": "Pathology Lab Equipments",
+  "parameters": "",
+  "categoryProductId": "MS-27",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FMicroorganism%20Solution%2Freplace-culture-microorganism-500x500.png?alt=media&token=29cfbe49-68bd-4898-b489-28a12c5afe5b"
+  ],
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "isPublished": true,
+  "slug": "ashwamedh-culture-microorganism-1-litre",
+  "id": "ab078252-382f-4c71-b47a-b11b21067692",
+  "model": "",
+  "title": "Ashwamedh Culture Microorganism, 1 Litre",
+  "desc": "",
+  "price": "₹ 300",
+  "capacity": "",
+  "pdf": "",
+  "subCategory": "Microorganism Solution",
+  "availability": "",
+  "throughput": "",
+  "size": "",
+  "brand": "Ashwamedh",
+  "automation": "",
+  "createdAt": "2026-08-07T06:58:58.053Z",
+  "uid": "pathology-lab-equipments-microorganism-solution-26"
+}

@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "createdAt": "2026-08-07T06:56:25.245Z",
+  "brand": "",
+  "category": "Laboratory Centrifuge",
+  "isPublished": true,
+  "categoryProductId": "LC-25",
+  "automation": "",
+  "size": "",
+  "price": "",
+  "desc": "",
+  "model": "",
+  "title": "Remi R12CPlus",
+  "slug": "remi-r12cplus",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FLaboratory%20Centrifuge%2Flaboratory-centrifuge-remi-r12cplus-500x500.png?alt=media&token=718e029e-8ba7-4f60-8cfa-fcb2174711e8"
+  ],
+  "id": "e21c0ad4-bc45-43d5-b5ec-331dbc2700a3",
+  "subCategory": "Laboratory Centrifuge",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "instrument": "",
+  "pdf": "",
+  "availability": "",
+  "uid": "laboratory-centrifuge-laboratory-centrifuge-24"
+}

@@ -1,0 +1,28 @@
+{
+  "price": "₹ 70,000",
+  "size": "",
+  "createdAt": "2026-08-07T06:58:09.730Z",
+  "pdf": "",
+  "title": "Immunoassay Getein 1100 Machine",
+  "model": "",
+  "instrument": "",
+  "brand": "",
+  "categoryProductId": "GIA-11",
+  "parameters": "",
+  "desc": "",
+  "subCategory": "Getein Immunoassay Analyzer",
+  "capacity": "",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "id": "9ef6417d-45f8-4368-be64-666626d25581",
+  "throughput": "",
+  "slug": "immunoassay-getein-1100-machine",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FGetein%20Immunoassay%20Analyzer%2Fgetein-1100-machine-500x500.png?alt=media&token=b810fdb9-20da-4f92-9db1-42a4b813e005"
+  ],
+  "availability": "",
+  "category": "Other Categories",
+  "isPublished": true,
+  "uid": "other-categories-getein-immunoassay-analyzer-10"
+}

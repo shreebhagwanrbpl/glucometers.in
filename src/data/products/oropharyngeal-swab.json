@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "brand": "",
+  "id": "8a56a6fa-4ee6-4281-a32c-66fe7cb35ed8",
+  "size": "",
+  "parameters": "",
+  "price": "₹ 6",
+  "desc": "",
+  "capacity": "",
+  "isPublished": true,
+  "model": "",
+  "title": "Oropharyngeal Swab",
+  "availability": "",
+  "slug": "oropharyngeal-swab",
+  "images": [
+    "https://5.imimg.com/data5/ANDROID/Default/2021/8/HT/MI/GP/127857698/img-20210827-wa0023-jpg-500x500.jpg"
+  ],
+  "categoryProductId": "TS-30",
+  "createdAt": "2026-08-07T06:55:08.124Z",
+  "usage": "",
+  "video": "",
+  "subCategory": "Throat Swab",
+  "automation": "",
+  "category": "Corona Test",
+  "pdf": "",
+  "throughput": "",
+  "uid": "corona-test-throat-swab-29"
+}

@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T07:01:01.707Z",
+  "title": "Strip",
+  "model": "",
+  "desc": "",
+  "price": "",
+  "automation": "",
+  "isPublished": true,
+  "id": "d0818d84-f4d1-4c47-b101-e7ad31852633",
+  "capacity": "",
+  "throughput": "",
+  "size": "",
+  "brand": "",
+  "instrument": "",
+  "availability": "",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "subCategory": "Hemoglobin test strips",
+  "pdf": "",
+  "slug": "strip",
+  "images": [
+    "https://5.imimg.com/data5/ANDROID/Default/2026/2/582737432/UL/ZC/QT/183135224/product-jpeg-500x500.jpg"
+  ],
+  "categoryProductId": "HTS-20",
+  "category": "Test Strips",
+  "uid": "test-strips-hemoglobin-test-strips-19"
+}

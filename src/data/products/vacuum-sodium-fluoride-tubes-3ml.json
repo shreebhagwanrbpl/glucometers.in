@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Vacuum Sodium Fluoride Tubes (3ml)",
+  "desc": "",
+  "availability": "",
+  "instrument": "",
+  "price": "",
+  "category": "Blood Collection Tubes",
+  "parameters": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:53:53.576Z",
+  "brand": "",
+  "size": "",
+  "capacity": "",
+  "id": "33b8c6e7-b8c0-42d4-9b2c-a413b2466110",
+  "categoryProductId": "FT-15",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FFluoride%20Tubes%2Fproduct-jpeg-500x500.jpeg?alt=media&token=d064f0c3-c0cf-4ec3-b6ba-735dc42061a5"
+  ],
+  "usage": "",
+  "video": "",
+  "subCategory": "Fluoride Tubes",
+  "slug": "vacuum-sodium-fluoride-tubes-3ml",
+  "automation": "",
+  "pdf": "",
+  "throughput": "",
+  "uid": "blood-collection-tubes-fluoride-tubes-14"
+}

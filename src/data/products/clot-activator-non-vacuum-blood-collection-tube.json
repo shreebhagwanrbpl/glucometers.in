@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "automation": "",
+  "desc": "",
+  "id": "5d7db26c-5108-420a-9fe9-664039ee191c",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:53:33.840Z",
+  "category": "Blood Collection Tubes",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FClot%20Activator%20Tube%2Fclot-activator-non-vacuum-blood-collection-tube-500x500.jpeg?alt=media&token=96b9c338-f568-41ab-9ff9-178c14c84ab6"
+  ],
+  "subCategory": "Clot Activator Tube",
+  "size": "",
+  "pdf": "",
+  "model": "",
+  "title": "Clot Activator Non Vacuum Blood Collection Tube",
+  "price": "",
+  "categoryProductId": "CAT-276",
+  "instrument": "",
+  "slug": "clot-activator-non-vacuum-blood-collection-tube",
+  "parameters": "",
+  "isPublished": true,
+  "brand": "",
+  "capacity": "",
+  "uid": "blood-collection-tubes-clot-activator-tube-275"
+}

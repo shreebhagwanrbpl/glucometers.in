@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHaemometer%2Fhaemometers-500x500.jpg?alt=media&token=43827b90-b8b4-4770-8934-8e37d6d01f55"
+  ],
+  "desc": "Haemometers",
+  "parameters": "",
+  "isPublished": true,
+  "brand": "",
+  "model": "",
+  "title": "Haemometers",
+  "category": "Hematology analyzers",
+  "price": "",
+  "availability": "",
+  "pdf": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:55:32.805Z",
+  "id": "2c6c7783-6f28-4c73-863d-3c8dbf6daf0a",
+  "subCategory": "Haemometer",
+  "slug": "haemometers",
+  "automation": "",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "categoryProductId": "H-104",
+  "uid": "hematology-analyzers-haemometer-103"
+}

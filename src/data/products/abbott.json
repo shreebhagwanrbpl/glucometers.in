@@ -1,0 +1,28 @@
+{
+  "subCategory": "Abbott Blood Analyzer",
+  "id": "d3b2ac55-1fa8-4994-9a66-f22c7e01860d",
+  "instrument": "",
+  "categoryProductId": "ABA-41",
+  "category": "Abbott",
+  "parameters": "",
+  "brand": "",
+  "model": "",
+  "title": "Abbott",
+  "slug": "abbott",
+  "price": "",
+  "pdf": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Blood%20Analyzer%2Fabbott1-1-500x500.jpg?alt=media&token=cff05988-5c1b-43e2-9ad4-cca7cc7ea64a"
+  ],
+  "desc": "Abbott",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:52:57.653Z",
+  "availability": "",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "size": "",
+  "uid": "abbott-abbott-blood-analyzer-38"
+}

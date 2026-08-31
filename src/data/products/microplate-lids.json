@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FLaboratory%20ELISA%20Microplate%2Fnew-product-500x500.jpeg?alt=media&token=1831525f-8c27-4087-b573-75eb49c1f65f"
+  ],
+  "availability": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:58:53.344Z",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "subCategory": "Laboratory ELISA Microplate",
+  "desc": "",
+  "brand": "",
+  "pdf": "",
+  "automation": "",
+  "category": "Pathology Lab Equipments",
+  "throughput": "",
+  "slug": "microplate-lids",
+  "price": "",
+  "categoryProductId": "LEM-29",
+  "id": "5e19d8c9-e5b1-4056-b3cc-e9374fe5de16",
+  "isPublished": true,
+  "title": "Microplate Lids",
+  "model": "",
+  "uid": "pathology-lab-equipments-laboratory-elisa-microplate-28"
+}

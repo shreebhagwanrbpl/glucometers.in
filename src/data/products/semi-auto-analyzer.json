@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "price": "",
+  "id": "4cdba36f-2699-447c-ae11-b796f0f0c8eb",
+  "slug": "semi-auto-analyzer",
+  "subCategory": "Coagulation analyzers",
+  "title": "Semi-Auto  Analyzer",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FCoagulation%20analyzers%2Fsemi-auto-coagulation-analyzer-500x500.png?alt=media&token=22ad23ca-f9ec-4e69-bfc1-14a1c0cd6348"
+  ],
+  "brand": "",
+  "parameters": "",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "throughput": "",
+  "pdf": "",
+  "category": "Hematology analyzers",
+  "createdAt": "2026-08-07T06:55:28.232Z",
+  "isPublished": true,
+  "automation": "",
+  "categoryProductId": "CA-17",
+  "desc": "",
+  "availability": "",
+  "uid": "hematology-analyzers-coagulation-analyzers-16"
+}

@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "availability": "",
+  "isPublished": true,
+  "categoryProductId": "APR-5",
+  "pdf": "",
+  "size": "",
+  "category": "Clinical Reagents",
+  "id": "0ca60b89-3ea6-4398-83dc-bd93ec328bba",
+  "model": "",
+  "title": "Alkaline Phosphatase Reagent",
+  "price": "₹ 850",
+  "subCategory": "Alkaline phosphatase reagent",
+  "automation": "",
+  "slug": "alkaline-phosphatase-reagent",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:54:44.009Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FAlkaline%20phosphatase%20reagent%2Falkaline-phosphatase-reagent-500x500.png?alt=media&token=8e9503a5-5498-4f02-a202-7a9c8f5fd31c"
+  ],
+  "throughput": "",
+  "brand": "4.4",
+  "uid": "clinical-reagents-alkaline-phosphatase-reagent-4"
+}

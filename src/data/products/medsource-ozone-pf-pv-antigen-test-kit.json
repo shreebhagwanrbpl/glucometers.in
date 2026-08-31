@@ -1,0 +1,28 @@
+{
+  "price": "₹ 900",
+  "slug": "medsource-ozone-pf-pv-antigen-test-kit",
+  "category": "Rapid Test Kit",
+  "isPublished": true,
+  "model": "",
+  "title": "Medsource Ozone  PF PV Antigen Test Kit",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FMalaria%20test%20kits%2Fmalaria-pf-pv-antigen-test-kit-500x500.jpg?alt=media&token=e14a0bf9-73e7-4c9b-81ef-82ccc470da9d"
+  ],
+  "id": "3141b67a-a89e-4d6e-baf7-2e8d87f0ba56",
+  "createdAt": "2026-08-07T07:00:02.090Z",
+  "automation": "",
+  "brand": "",
+  "pdf": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "capacity": "",
+  "size": "",
+  "parameters": "",
+  "categoryProductId": "MTK-1",
+  "subCategory": "Malaria test kits",
+  "desc": "",
+  "availability": "",
+  "uid": "rapid-test-kit-malaria-test-kits-0"
+}

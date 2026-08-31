@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:54:44.010Z",
+  "category": "Clinical Reagents",
+  "subCategory": "Alkaline phosphatase reagent",
+  "brand": "4.4",
+  "throughput": "",
+  "title": "Alkaline Phosphatase Reagent, 2 x 50 ml, Recombigen",
+  "model": "",
+  "slug": "alkaline-phosphatase-reagent-2-x-50-ml-recombigen",
+  "automation": "",
+  "price": "₹ 335",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FAlkaline%20phosphatase%20reagent%2Falkaline-phosphatase-reagent-500x500.jpeg?alt=media&token=9c687d93-ae3f-4708-948f-cecc4a86b23f"
+  ],
+  "parameters": "",
+  "id": "4a663497-0613-486c-996e-96f9c7ebc105",
+  "capacity": "",
+  "desc": "",
+  "pdf": "",
+  "isPublished": true,
+  "instrument": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "APR-12",
+  "uid": "clinical-reagents-alkaline-phosphatase-reagent-11"
+}

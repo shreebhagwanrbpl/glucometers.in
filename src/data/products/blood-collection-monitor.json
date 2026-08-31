@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "RBBE-2",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FRemi%20Blood%20Bank%20Equipments%2Fblood-collection-monitor-500x500.jpg?alt=media&token=fec7c293-357d-4d42-945f-98bb12310b70"
+  ],
+  "slug": "blood-collection-monitor",
+  "parameters": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "Automatic",
+  "instrument": "",
+  "capacity": "",
+  "pdf": "",
+  "id": "53fb0375-7d41-41d6-8a51-5918eb905bba",
+  "throughput": "",
+  "desc": "",
+  "automation": "",
+  "availability": "",
+  "createdAt": "2026-08-07T06:58:35.262Z",
+  "brand": "Remi",
+  "subCategory": "Remi Blood Bank Equipments",
+  "model": "",
+  "title": "Blood Collection Monitor",
+  "category": "Other Categories",
+  "price": "",
+  "size": "",
+  "uid": "other-categories-remi-blood-bank-equipments-1"
+}

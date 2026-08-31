@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "price": "₹ 200",
+  "slug": "lancets-lancing-devices",
+  "id": "18db8269-a44c-4c90-8362-67711675ecb8",
+  "parameters": "",
+  "capacity": "",
+  "model": "",
+  "title": "Lancets Lancing Devices",
+  "brand": "",
+  "availability": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:53:18.725Z",
+  "category": "Blood bank equipments",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "pdf": "",
+  "images": [
+    "https://3.imimg.com/data3/YX/HO/MY-1004496/lancet-device-500x500.jpg"
+  ],
+  "automation": "",
+  "subCategory": "Lancing Device Lancing Pen",
+  "throughput": "",
+  "desc": "",
+  "categoryProductId": "LDLP-22",
+  "uid": "blood-bank-equipments-lancing-device-lancing-pen-21"
+}

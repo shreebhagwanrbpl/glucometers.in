@@ -1,0 +1,28 @@
+{
+  "category": "Abbott",
+  "createdAt": "2026-08-07T06:52:57.650Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Blood%20Analyzer%2F89-500x500.png?alt=media&token=ba0f3c31-651e-4a86-9b15-122655347b77"
+  ],
+  "id": "616a0e3d-07d0-4edb-be36-4614f8c5b135",
+  "categoryProductId": "ABA-17",
+  "brand": "",
+  "subCategory": "Abbott Blood Analyzer",
+  "parameters": "",
+  "title": "Manual Abbott I Stat Blood Analyzer, 2 Part",
+  "model": "",
+  "slug": "manual-abbott-i-stat-blood-analyzer-2-part",
+  "price": "₹ 37,000",
+  "instrument": "",
+  "throughput": "",
+  "desc": "",
+  "isPublished": true,
+  "automation": "Manual",
+  "capacity": "",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "size": "",
+  "uid": "abbott-abbott-blood-analyzer-14"
+}

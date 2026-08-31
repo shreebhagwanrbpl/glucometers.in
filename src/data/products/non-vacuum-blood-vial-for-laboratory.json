@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "automation": "",
+  "availability": "",
+  "category": "Blood Collection Tubes",
+  "model": "",
+  "title": "Non Vacuum Blood Vial, for Laboratory",
+  "size": "",
+  "throughput": "",
+  "subCategory": "Laboratory Non Vacuum Blood Collection Tube",
+  "id": "fa6f4cd4-638e-4c9f-a411-dfdb437f0dec",
+  "brand": "",
+  "desc": "",
+  "createdAt": "2026-08-07T06:54:06.307Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FLaboratory%20Non%20Vacuum%20Blood%20Collection%20Tube%2Fnon-vacuum-blood-vial-500x500.jpg?alt=media&token=0a1b538b-3649-45c2-888e-4ac04ee7c0df"
+  ],
+  "usage": "",
+  "video": "",
+  "slug": "non-vacuum-blood-vial-for-laboratory",
+  "categoryProductId": "LNVBCT-142",
+  "capacity": "",
+  "instrument": "",
+  "isPublished": true,
+  "pdf": "",
+  "parameters": "",
+  "uid": "blood-collection-tubes-laboratory-non-vacuum-blood-collection-tube-141"
+}

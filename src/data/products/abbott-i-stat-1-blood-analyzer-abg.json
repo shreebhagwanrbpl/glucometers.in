@@ -1,0 +1,28 @@
+{
+  "title": "Abbott I Stat 1 Blood Analyzer Abg",
+  "model": "I STAT 1 from Abbott",
+  "availability": "",
+  "price": "₹ 3,82,000",
+  "category": "Abbott",
+  "pdf": "",
+  "categoryProductId": "ABA-11",
+  "slug": "abbott-i-stat-1-blood-analyzer-abg",
+  "parameters": "",
+  "subCategory": "Abbott Blood Analyzer",
+  "id": "a4df9a18-4410-4898-8c33-2eb80a28d37b",
+  "brand": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:52:57.649Z",
+  "throughput": "",
+  "desc": "",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "automation": "Semi Automatic",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Blood%20Analyzer%2Fabbott-i-stat-abg-machine-500x500.jpeg?alt=media&token=5c2a9c10-34db-45bb-beaf-fdd82cf12bc2"
+  ],
+  "size": "",
+  "isPublished": true,
+  "uid": "abbott-abbott-blood-analyzer-8"
+}

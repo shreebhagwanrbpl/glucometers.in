@@ -1,0 +1,28 @@
+{
+  "title": "CTC-KIT",
+  "model": "",
+  "isPublished": true,
+  "price": "",
+  "automation": "",
+  "brand": "",
+  "throughput": "",
+  "slug": "ctc-kit",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:59:31.535Z",
+  "pdf": "",
+  "instrument": "",
+  "availability": "",
+  "parameters": "",
+  "desc": "",
+  "subCategory": "Cancer Detection Kit",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "categoryProductId": "CDK-37",
+  "category": "Rapid Test Kit",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FCancer%20Detection%20Kit%2Fctc-kit-500x500.png?alt=media&token=a88d97cc-421f-458a-ad01-77ff3108d2d4"
+  ],
+  "id": "ae530633-e75a-4a12-954d-c2e63e605c72",
+  "uid": "rapid-test-kit-cancer-detection-kit-36"
+}

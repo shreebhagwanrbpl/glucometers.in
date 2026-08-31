@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "capacity": "",
+  "brand": "",
+  "parameters": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FRPR%20Syphilis%20Test%20Kit%2F1-500x500.jpg?alt=media&token=1ef95c73-3080-4486-b54e-9f47a5587c25"
+  ],
+  "subCategory": "RPR Syphilis Test Kit",
+  "pdf": "",
+  "instrument": "",
+  "id": "8d5c8953-90bd-4621-bb90-ba9d29d4940a",
+  "price": "₹ 1,875",
+  "desc": "",
+  "title": "Trustline Syphilis AB Rapid Test, 30 Tests",
+  "model": "",
+  "isPublished": true,
+  "categoryProductId": "RSTK-18",
+  "slug": "trustline-syphilis-ab-rapid-test-30-tests",
+  "category": "Rapid Test Kit",
+  "throughput": "",
+  "createdAt": "2026-08-07T07:00:06.875Z",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "uid": "rapid-test-kit-rpr-syphilis-test-kit-17"
+}

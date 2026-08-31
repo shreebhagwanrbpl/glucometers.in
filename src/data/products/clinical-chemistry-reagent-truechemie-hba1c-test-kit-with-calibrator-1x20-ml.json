@@ -1,0 +1,28 @@
+{
+  "id": "540bb99d-a874-497d-a11e-c2708bbdfc34",
+  "subCategory": "Hemoglobin Test Kit",
+  "instrument": "",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:59:49.009Z",
+  "availability": "",
+  "capacity": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHemoglobin%20Test%20Kit%2Ftruechemie-hba1c-test-kit-with-calibrator-1x20-ml-500x500.png?alt=media&token=f4754a96-b658-4219-b12e-322e097f303a"
+  ],
+  "categoryProductId": "HTK-1",
+  "title": "Clinical Chemistry Reagent TRUEchemie HbA1c Test Kit With Calibrator 1x20 ml",
+  "model": "",
+  "isPublished": true,
+  "price": "₹ 20,000",
+  "automation": "",
+  "slug": "clinical-chemistry-reagent-truechemie-hba1c-test-kit-with-calibrator-1x20-ml",
+  "brand": "",
+  "throughput": "",
+  "category": "Rapid Test Kit",
+  "uid": "rapid-test-kit-hemoglobin-test-kit-0"
+}

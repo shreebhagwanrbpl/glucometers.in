@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "instrument": "",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "subCategory": "Laboratory Non Vacuum Blood Collection Tube",
+  "desc": "",
+  "parameters": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FLaboratory%20Non%20Vacuum%20Blood%20Collection%20Tube%2Ffluoride-tube-1-250x250.jpg?alt=media&token=48fefc11-426f-4a3e-8858-f396c0b12c42"
+  ],
+  "brand": "",
+  "slug": "glucose-tubes",
+  "throughput": "",
+  "price": "",
+  "pdf": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:54:06.318Z",
+  "availability": "",
+  "id": "6d941850-370a-4000-8b94-35908543572c",
+  "category": "Blood Collection Tubes",
+  "categoryProductId": "LNVBCT-305",
+  "title": "Glucose Tubes",
+  "model": "",
+  "uid": "blood-collection-tubes-laboratory-non-vacuum-blood-collection-tube-304"
+}

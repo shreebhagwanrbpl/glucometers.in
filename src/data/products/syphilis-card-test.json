@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "availability": "",
+  "createdAt": "2026-08-07T07:00:06.878Z",
+  "categoryProductId": "RSTK-28",
+  "instrument": "",
+  "brand": "",
+  "category": "Rapid Test Kit",
+  "model": "",
+  "title": "Syphilis Card Test",
+  "id": "702ebf51-7eb4-45dd-aa27-501dd8251f40",
+  "slug": "syphilis-card-test",
+  "subCategory": "RPR Syphilis Test Kit",
+  "price": "₹ 8",
+  "capacity": "",
+  "desc": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FRPR%20Syphilis%20Test%20Kit%2Fsyphilis-card-test-500x500.jpeg?alt=media&token=7cfed0f0-8aea-401c-95f6-006afb6da61f"
+  ],
+  "throughput": "",
+  "pdf": "",
+  "size": "",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "uid": "rapid-test-kit-rpr-syphilis-test-kit-27"
+}

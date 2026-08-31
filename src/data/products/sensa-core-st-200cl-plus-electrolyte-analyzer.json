@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "EA-41",
+  "capacity": "",
+  "id": "ac516bdf-a64b-48f6-96b6-466584016b9b",
+  "desc": "",
+  "pdf": "",
+  "subCategory": "Electrolyte analyzer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FElectrolyte%20analyzer%2Fproduct-jpeg-500x500.jpg?alt=media&token=d2197c3d-8084-423b-8d0c-51b878986936"
+  ],
+  "size": "",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:55:52.329Z",
+  "parameters": "",
+  "availability": "",
+  "automation": "",
+  "brand": "",
+  "category": "Ivds category",
+  "throughput": "",
+  "title": "Sensa Core ST 200CL Plus Electrolyte Analyzer",
+  "model": "",
+  "isPublished": true,
+  "slug": "sensa-core-st-200cl-plus-electrolyte-analyzer",
+  "price": "",
+  "uid": "ivds-category-electrolyte-analyzer-40"
+}

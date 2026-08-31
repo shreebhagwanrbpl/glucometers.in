@@ -1,0 +1,28 @@
+{
+  "subCategory": "Microcentrifuge",
+  "price": "",
+  "slug": "refrigerator-micro-centrifuge",
+  "createdAt": "2026-08-07T06:56:27.741Z",
+  "model": "",
+  "title": "Refrigerator Micro Centrifuge",
+  "category": "Laboratory Centrifuge",
+  "brand": "",
+  "automation": "",
+  "availability": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fproduct-jpeg-500x500.jpg?alt=media&token=f6ac4697-5222-472d-8d98-4393b301e791"
+  ],
+  "size": "",
+  "pdf": "",
+  "instrument": "",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "parameters": "",
+  "id": "737fa477-2ba7-41ce-baad-f9615c4e9049",
+  "desc": "",
+  "categoryProductId": "M-12",
+  "uid": "laboratory-centrifuge-microcentrifuge-11"
+}

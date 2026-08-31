@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:53:53.576Z",
+  "price": "",
+  "size": "",
+  "instrument": "",
+  "model": "",
+  "title": "Sodium Fluoride Blood Collection Tube, 3 ml",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FFluoride%20Tubes%2Fsodium-fluoride-500x500.jpeg?alt=media&token=ed1016e7-56cb-4c95-8220-9fa110e7d1a0"
+  ],
+  "categoryProductId": "FT-2",
+  "brand": "",
+  "capacity": "",
+  "isPublished": true,
+  "desc": "Sodium Fluoride is used as an anticoagulant when blood is being tested for determining glucose levels. Even though sodium fluoride is a weak anticoagulant, it is used as a principle anticoagulant.",
+  "video": "",
+  "usage": "",
+  "id": "029a67b8-7b2b-4a71-86b5-b1716256e570",
+  "slug": "sodium-fluoride-blood-collection-tube-3-ml",
+  "throughput": "",
+  "category": "Blood Collection Tubes",
+  "automation": "",
+  "subCategory": "Fluoride Tubes",
+  "uid": "blood-collection-tubes-fluoride-tubes-1"
+}

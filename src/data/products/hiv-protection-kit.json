@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "HPK-6",
+  "id": "5f2770ec-8535-49ad-ae2e-9232b605af5f",
+  "model": "",
+  "title": "HIV Protection Kit",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHIV%20Protection%20Kit%2Fhiv-protection-kit-500x500.jpg?alt=media&token=43b70b7a-7cf2-4ab3-a095-aeda3e6c075b"
+  ],
+  "category": "Rapid Test Kit",
+  "price": "₹ 180",
+  "isPublished": true,
+  "automation": "",
+  "size": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:59:56.308Z",
+  "throughput": "",
+  "capacity": "",
+  "instrument": "",
+  "subCategory": "HIV Protection Kit",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "availability": "",
+  "slug": "hiv-protection-kit",
+  "uid": "rapid-test-kit-hiv-protection-kit-5"
+}

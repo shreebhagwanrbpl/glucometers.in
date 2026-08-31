@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "availability": "",
+  "brand": "",
+  "parameters": "",
+  "size": "",
+  "subCategory": "Hematology analyzers",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fproduct-jpeg-500x500.jpg?alt=media&token=c20f0f2b-8312-4d93-be50-f40e5a0eb4b6"
+  ],
+  "instrument": "",
+  "pdf": "",
+  "id": "ef3a4a0f-b5b3-4bc8-acd9-e4cb53c52179",
+  "price": "",
+  "desc": "",
+  "title": "WBC Bath Chamber For SINNOTHINKER Hematology Analyser.",
+  "model": "",
+  "isPublished": true,
+  "categoryProductId": "HA-55",
+  "category": "Ivds category",
+  "slug": "wbc-bath-chamber-for-sinnothinker-hematology-analyser",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:55:54.015Z",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "uid": "ivds-category-hematology-analyzers-54"
+}

@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FBlood%20Sample%20Collection%20Test%20Tube%2Fblood-banking-tubes-from-bd-250x250.png?alt=media&token=6dbac7fa-b220-4a1f-813e-8b0ea652d46d"
+  ],
+  "instrument": "",
+  "desc": "Catalog # 364606",
+  "parameters": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:53:30.722Z",
+  "availability": "",
+  "size": "",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "id": "e7baf368-028c-4edb-8f46-de9870034f19",
+  "categoryProductId": "BSCTT-28",
+  "brand": "",
+  "subCategory": "Blood Sample Collection Test Tube",
+  "pdf": "",
+  "category": "Blood Collection Tubes",
+  "automation": "",
+  "model": "",
+  "title": "Blood Banking Tubes From BD",
+  "slug": "blood-banking-tubes-from-bd",
+  "throughput": "",
+  "price": "",
+  "uid": "blood-collection-tubes-blood-sample-collection-test-tube-27"
+}

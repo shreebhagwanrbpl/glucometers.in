@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "HR-27",
+  "size": "",
+  "id": "b38b1529-900a-420f-9a8c-0f74b2f90fed",
+  "createdAt": "2026-08-07T06:54:51.351Z",
+  "usage": "",
+  "video": "",
+  "isPublished": true,
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FHematology%20reagents%2Fhematology-reagents-500x500.jpg?alt=media&token=3258a52e-a26f-4e77-9432-3266bbfe1ddc"
+  ],
+  "desc": "",
+  "category": "Clinical Reagents",
+  "throughput": "",
+  "brand": "3.6",
+  "availability": "",
+  "instrument": "",
+  "slug": "hematology-reagents-diluent",
+  "pdf": "",
+  "parameters": "",
+  "subCategory": "Hematology reagents",
+  "price": "",
+  "capacity": "",
+  "model": "",
+  "title": "Hematology Reagents Diluent",
+  "uid": "clinical-reagents-hematology-reagents-26"
+}

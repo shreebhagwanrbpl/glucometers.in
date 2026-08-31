@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "categoryProductId": "B-10",
+  "category": "Pathology Lab Equipments",
+  "desc": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FBilirubinometer%2Fjaundice-detector-2-500x500.png?alt=media&token=3cb7a65f-6d76-4c2b-bc4d-3c71d50666f3"
+  ],
+  "video": "",
+  "usage": "",
+  "subCategory": "Bilirubinometer",
+  "createdAt": "2026-08-07T06:58:40.995Z",
+  "id": "bdce9b06-7b39-493d-9004-434d28a4b9f9",
+  "size": "",
+  "availability": "",
+  "model": "",
+  "title": "ABM ABJ200 Jaundice Detector",
+  "isPublished": true,
+  "price": "₹ 85,000",
+  "capacity": "",
+  "parameters": "",
+  "pdf": "",
+  "slug": "abm-abj200-jaundice-detector",
+  "instrument": "",
+  "brand": "",
+  "uid": "pathology-lab-equipments-bilirubinometer-9"
+}

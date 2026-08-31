@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "price": "₹ 55,000",
+  "parameters": "",
+  "size": "",
+  "model": "",
+  "title": "Laboratory",
+  "instrument": "",
+  "categoryProductId": "PW-19",
+  "id": "f05a442b-2dff-47db-8e3d-0efb630d786a",
+  "brand": "",
+  "desc": "",
+  "category": "PCR Machine",
+  "usage": "",
+  "video": "",
+  "subCategory": "Pcr workstation",
+  "slug": "laboratory",
+  "throughput": "",
+  "capacity": "",
+  "availability": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:59:16.915Z",
+  "images": [
+    "https://5.imimg.com/data5/WA_9696/Default/2026/4/604303044/LM/EC/BG/224489656/image-500x500.jpeg"
+  ],
+  "automation": "",
+  "uid": "pcr-machine-pcr-workstation-18"
+}

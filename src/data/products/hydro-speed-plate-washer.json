@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "category": "Pathology Lab Equipments",
+  "pdf": "",
+  "subCategory": "Elisa Washer",
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "availability": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:58:49.941Z",
+  "desc": "",
+  "isPublished": true,
+  "categoryProductId": "EW-171",
+  "price": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Ffsdzf-500x500.JPG?alt=media&token=fe042989-eb93-4bbc-a9f3-409838632beb"
+  ],
+  "slug": "hydro-speed-plate-washer",
+  "title": "Hydro Speed Plate Washer",
+  "model": "",
+  "brand": "",
+  "automation": "",
+  "id": "a1984a6b-c5e4-4a94-9089-463b617fa340",
+  "throughput": "",
+  "uid": "pathology-lab-equipments-elisa-washer-170"
+}

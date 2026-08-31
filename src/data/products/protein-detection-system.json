@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:59:25.388Z",
+  "price": "",
+  "instrument": "",
+  "model": "",
+  "title": "Protein Detection System",
+  "category": "Protein Analyzer",
+  "size": "",
+  "parameters": "",
+  "availability": "",
+  "desc": "",
+  "brand": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "categoryProductId": "CSPA-110",
+  "id": "eba18983-8e41-45d5-852e-2809c8be6353",
+  "video": "",
+  "usage": "",
+  "slug": "protein-detection-system",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fprotein-detection-system-500x500.png?alt=media&token=908abbb1-a416-4da4-bd6b-12891d12ceb3"
+  ],
+  "automation": "",
+  "isPublished": true,
+  "throughput": "",
+  "pdf": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-109"
+}

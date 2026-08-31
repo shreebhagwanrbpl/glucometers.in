@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "category": "Blood Collection Tubes",
+  "createdAt": "2026-08-07T06:53:53.607Z",
+  "instrument": "",
+  "brand": "",
+  "categoryProductId": "FT-191",
+  "model": "",
+  "title": "Fluroide Tube",
+  "slug": "fluroide-tube",
+  "price": "",
+  "isPublished": true,
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FFluoride%20Tubes%2Fprod-20201015-1742289207483942844503765-jpg-500x500.jpg?alt=media&token=e180c5cb-b794-4281-9419-bb519386d2cd"
+  ],
+  "desc": "fluroide tube",
+  "id": "37534789-d95e-4639-a3ee-ca1f031f3fff",
+  "availability": "",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "subCategory": "Fluoride Tubes",
+  "automation": "",
+  "size": "",
+  "uid": "blood-collection-tubes-fluoride-tubes-190"
+}

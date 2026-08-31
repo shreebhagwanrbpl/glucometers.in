@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:57:46.978Z",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAlere%20Test%20Strips%2Falere-gl-500x500.jpeg?alt=media&token=eb628a18-bdb7-454b-8c60-45fbb3baacbd"
+  ],
+  "subCategory": "Alere Test Strips",
+  "parameters": "",
+  "pdf": "",
+  "desc": "",
+  "id": "7e7604ec-bc44-4fc2-bcd9-99fca910bbd6",
+  "instrument": "",
+  "throughput": "",
+  "category": "Other Categories",
+  "price": "₹ 1,100",
+  "slug": "alere-gl-100-strips",
+  "automation": "",
+  "isPublished": true,
+  "model": "",
+  "title": "Alere Gl, 100 Strips",
+  "availability": "",
+  "categoryProductId": "ATS-12",
+  "brand": "Alere Gl",
+  "uid": "other-categories-alere-test-strips-11"
+}

@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "slug": "semen-test",
+  "category": "Semen",
+  "model": "",
+  "title": "Semen Test",
+  "categoryProductId": "SA-14",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Semen%2FSemen%20Analysis%2F2-250x250.jpg?alt=media&token=d8aa7cf0-0e9f-48b8-8bd4-19750d4a695c"
+  ],
+  "brand": "",
+  "instrument": "",
+  "availability": "",
+  "isPublished": true,
+  "parameters": "",
+  "capacity": "",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "pdf": "",
+  "id": "87e0954f-2aaf-459a-8995-1c209777796f",
+  "throughput": "",
+  "createdAt": "2026-08-07T07:00:16.874Z",
+  "desc": "",
+  "subCategory": "Semen Analysis",
+  "uid": "semen-semen-analysis-13"
+}

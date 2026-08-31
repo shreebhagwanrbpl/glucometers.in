@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "title": "Bd Insulin",
+  "model": "",
+  "price": "",
+  "capacity": "",
+  "parameters": "",
+  "availability": "",
+  "brand": "",
+  "instrument": "",
+  "slug": "bd-insulin",
+  "isPublished": true,
+  "throughput": "",
+  "createdAt": "2026-08-07T07:00:27.277Z",
+  "category": "Syringe",
+  "automation": "",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "categoryProductId": "IS-29",
+  "id": "6c04c3ab-f2bd-474b-836d-8bee59e3823b",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2026/4/600262941/YI/MZ/OC/73774576/bd-insulin-syringe-500x500.png"
+  ],
+  "subCategory": "Insulin syringe",
+  "uid": "syringe-insulin-syringe-28"
+}

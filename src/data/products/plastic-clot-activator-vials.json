@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:53:33.810Z",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FClot%20Activator%20Tube%2Fclot-activator-vials-500x500.jpg?alt=media&token=881b3441-cfa0-46f3-ab94-d4455141c78f"
+  ],
+  "isPublished": true,
+  "throughput": "",
+  "id": "9ade55d4-217e-4b6e-977c-a0480accad51",
+  "desc": "Produce a serum sample when the blood is separted by centrifugation.",
+  "automation": "",
+  "capacity": "",
+  "parameters": "",
+  "availability": "",
+  "price": "",
+  "slug": "plastic-clot-activator-vials",
+  "instrument": "",
+  "title": "Plastic Clot Activator Vials",
+  "model": "",
+  "categoryProductId": "CAT-110",
+  "category": "Blood Collection Tubes",
+  "brand": "",
+  "subCategory": "Clot Activator Tube",
+  "pdf": "",
+  "uid": "blood-collection-tubes-clot-activator-tube-109"
+}

@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "subCategory": "Coagulometer",
+  "instrument": "",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T06:58:45.660Z",
+  "desc": "",
+  "capacity": "",
+  "slug": "ball-coagulometer-mc-i",
+  "categoryProductId": "C-28",
+  "isPublished": true,
+  "brand": "",
+  "id": "9741db7e-1f24-4749-9af3-8fa8429e39b5",
+  "throughput": "",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FCoagulometer%2Fball-coagulometer-mc-i-250x250.jpg?alt=media&token=cb3fb95c-48e8-44ef-b3d7-3ef900579d95"
+  ],
+  "automation": "",
+  "title": "Ball Coagulometer MC I",
+  "model": "",
+  "pdf": "",
+  "category": "Pathology Lab Equipments",
+  "availability": "",
+  "uid": "pathology-lab-equipments-coagulometer-27"
+}

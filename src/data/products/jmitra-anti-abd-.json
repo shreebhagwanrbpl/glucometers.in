@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "size": "",
+  "capacity": "",
+  "availability": "",
+  "subCategory": "Blood group test kit",
+  "createdAt": "2026-08-07T06:59:30.988Z",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "desc": "",
+  "id": "a0d307ad-828b-483a-9abe-7a1d70c5b2e4",
+  "category": "Rapid Test Kit",
+  "brand": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FBlood%20group%20test%20kit%2Fjmitra-anti-abd-kit-500x500.jpeg?alt=media&token=8e4aab1f-1687-4020-82f1-927b52cf1841"
+  ],
+  "throughput": "",
+  "categoryProductId": "BGTK-5",
+  "slug": "jmitra-anti-abd-",
+  "isPublished": true,
+  "price": "₹ 360",
+  "title": "Jmitra Anti-ABD ,",
+  "model": "",
+  "uid": "rapid-test-kit-blood-group-test-kit-4"
+}

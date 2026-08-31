@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "M-30",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "size": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fhigh-speed-microcentrifuge-500x500.jpg?alt=media&token=a63086ed-b1da-4241-8e96-c9702e554415"
+  ],
+  "subCategory": "Microcentrifuge",
+  "category": "Laboratory Centrifuge",
+  "id": "b4a969f8-2ff2-4c80-ac0a-47ff740594af",
+  "desc": "",
+  "createdAt": "2026-08-07T06:56:27.741Z",
+  "price": "",
+  "availability": "",
+  "slug": "high-speed-microcentrifuge",
+  "title": "High Speed Microcentrifuge",
+  "model": "",
+  "brand": "",
+  "isPublished": true,
+  "instrument": "",
+  "pdf": "",
+  "capacity": "",
+  "parameters": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-29"
+}

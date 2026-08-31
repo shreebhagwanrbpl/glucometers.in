@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "pdf": "",
+  "throughput": "",
+  "desc": "Haemoglobin Meter",
+  "size": "",
+  "capacity": "",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHaemometer%2Fproduct-jpeg-500x500.jpeg?alt=media&token=88f7524f-bc65-49e0-9a09-d852bcf7fbe8"
+  ],
+  "brand": "",
+  "availability": "",
+  "createdAt": "2026-08-07T06:55:32.810Z",
+  "category": "Hematology analyzers",
+  "instrument": "",
+  "model": "",
+  "title": "Haemoglobin Meter",
+  "parameters": "",
+  "id": "cf9ad90f-6e0d-40d7-9886-fbd7fe87c794",
+  "categoryProductId": "H-126",
+  "subCategory": "Haemometer",
+  "slug": "haemoglobin-meter",
+  "price": "",
+  "uid": "hematology-analyzers-haemometer-125"
+}

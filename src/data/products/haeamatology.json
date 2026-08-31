@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "availability": "",
+  "size": "",
+  "model": "",
+  "title": "Haeamatology",
+  "category": "Other Categories",
+  "instrument": "",
+  "id": "f6508cd0-8aa7-49de-8399-fe1936a9bc89",
+  "brand": "",
+  "isPublished": true,
+  "desc": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "slug": "haeamatology",
+  "capacity": "",
+  "categoryProductId": "HHA-123",
+  "throughput": "",
+  "subCategory": "Horiba Hematology Analyzers",
+  "createdAt": "2026-08-07T06:58:11.010Z",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FHoriba%20Hematology%20Analyzers%2Fhaeamatology-500x500.png?alt=media&token=b09793a4-f91b-45b2-acad-de11954f229d"
+  ],
+  "uid": "other-categories-horiba-hematology-analyzers-122"
+}

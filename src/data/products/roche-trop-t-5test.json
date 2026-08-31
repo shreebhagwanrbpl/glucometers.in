@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "parameters": "",
+  "slug": "roche-trop-t-5test",
+  "createdAt": "2026-08-07T06:59:31.535Z",
+  "instrument": "",
+  "id": "b33bd2d2-a054-4d8c-812e-8750847e7b75",
+  "usage": "",
+  "video": "",
+  "category": "Rapid Test Kit",
+  "isPublished": true,
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FCancer%20Detection%20Kit%2Ftrop-t-5test-1000x1000-500x500.webp?alt=media&token=44b80dd6-5d03-4e26-af90-82529919df9e"
+  ],
+  "size": "",
+  "capacity": "",
+  "price": "₹ 1,900",
+  "throughput": "",
+  "desc": "",
+  "pdf": "",
+  "title": "ROCHE TROP T 5TEST",
+  "model": "",
+  "automation": "",
+  "subCategory": "Cancer Detection Kit",
+  "categoryProductId": "CDK-28",
+  "uid": "rapid-test-kit-cancer-detection-kit-27"
+}

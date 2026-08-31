@@ -1,0 +1,28 @@
+{
+  "title": "Plastic",
+  "model": "",
+  "throughput": "",
+  "price": "₹ 50",
+  "automation": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:53:17.402Z",
+  "pdf": "",
+  "slug": "plastic",
+  "categoryProductId": "BL-5",
+  "capacity": "",
+  "id": "54dbd81b-d9b5-4a33-a557-655f0d357df7",
+  "brand": "",
+  "desc": "",
+  "subCategory": "Blood lancet",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "availability": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20lancet%2F95fe45f3-04a3-4c11-a38b-aca96941607e-cr0-0-362-453-pt0-sx362-v1-500x500.jpg?alt=media&token=01a9b50c-2a1b-4818-b460-02345a9f03bd"
+  ],
+  "instrument": "",
+  "category": "Blood bank equipments",
+  "uid": "blood-bank-equipments-blood-lancet-4"
+}

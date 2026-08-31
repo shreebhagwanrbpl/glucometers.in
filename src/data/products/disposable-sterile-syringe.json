@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "categoryProductId": "SS-13",
+  "size": "",
+  "subCategory": "Sterile Syringe",
+  "desc": "",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "pdf": "",
+  "slug": "disposable-sterile-syringe",
+  "parameters": "",
+  "brand": "",
+  "isPublished": true,
+  "availability": "",
+  "instrument": "",
+  "id": "4a58184e-640e-40cd-9986-8efee484635f",
+  "category": "Syringe",
+  "price": "",
+  "images": [
+    "https://5.imimg.com/data5/ANDROID/Default/2024/9/448515654/AG/UG/HP/108500081/product-jpeg-500x500.jpg"
+  ],
+  "createdAt": "2026-08-07T07:00:38.514Z",
+  "model": "",
+  "title": "Disposable Sterile Syringe",
+  "uid": "syringe-sterile-syringe-12"
+}

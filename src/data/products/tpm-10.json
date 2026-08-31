@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "desc": "",
+  "instrument": "",
+  "category": "Laboratory thermometer",
+  "subCategory": "Fridge thermometer",
+  "id": "c5823bc9-374b-4fe8-a40c-c3ef5af606b4",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FFridge%20thermometer%2Ftpm-10-500x500.jpg?alt=media&token=9b037b79-aee3-42e2-a0ed-7e5e9c591adb"
+  ],
+  "brand": "",
+  "slug": "tpm-10",
+  "categoryProductId": "FT-16",
+  "automation": "",
+  "createdAt": "2026-08-07T06:56:56.052Z",
+  "capacity": "",
+  "pdf": "",
+  "price": "",
+  "model": "",
+  "title": "TPM 10",
+  "isPublished": true,
+  "uid": "laboratory-thermometer-fridge-thermometer-15"
+}

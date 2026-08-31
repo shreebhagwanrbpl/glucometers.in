@@ -1,0 +1,28 @@
+{
+  "category": "Rapid Test Kit",
+  "pdf": "",
+  "model": "",
+  "title": "Oscar  Test , Number of Reactions(Preps)/: 25 Kits",
+  "price": "₹ 18",
+  "desc": "",
+  "isPublished": true,
+  "size": "",
+  "automation": "",
+  "brand": "",
+  "categoryProductId": "HTK-11",
+  "throughput": "",
+  "instrument": "",
+  "availability": "",
+  "parameters": "",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:59:58.304Z",
+  "id": "decebce2-344d-414c-959a-e06ab07d9965",
+  "subCategory": "Hiv test kit",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHiv%20test%20kit%2Fproduct-jpeg-500x500.jpg?alt=media&token=fc7acc9f-8266-4daa-9238-f1ded17f0a6a"
+  ],
+  "slug": "oscar-test--number-of-reactionspreps-25-kits",
+  "uid": "rapid-test-kit-hiv-test-kit-10"
+}

@@ -1,0 +1,28 @@
+{
+  "subCategory": "Alere Test Strips",
+  "desc": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:57:46.979Z",
+  "availability": "",
+  "parameters": "",
+  "category": "Other Categories",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "categoryProductId": "ATS-45",
+  "capacity": "",
+  "isPublished": true,
+  "id": "a39a4c6a-1315-4678-abaa-a0921bb63320",
+  "brand": "",
+  "model": "",
+  "title": "Alere G1 Test Strips",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAlere%20Test%20Strips%2Falere-g1-100-500x500.png?alt=media&token=92cb3bed-7040-4090-abf6-63575da1772f"
+  ],
+  "slug": "alere-g1-test-strips",
+  "automation": "",
+  "pdf": "",
+  "price": "",
+  "throughput": "",
+  "uid": "other-categories-alere-test-strips-44"
+}

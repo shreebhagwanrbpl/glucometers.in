@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "SAA-41",
+  "instrument": "",
+  "brand": "",
+  "parameters": "",
+  "subCategory": "Semi auto analyser",
+  "title": "220 Excbio  Analyser, Assays: Clinical Chemistry, Model Name/Number: Ec 9005",
+  "model": "",
+  "capacity": "",
+  "slug": "220-excbio-analyser-assays-clinical-chemistry-model-namenumber-ec-9005",
+  "id": "86db6e1e-3bae-47f9-b265-97b6daeda208",
+  "price": "₹ 80,000",
+  "availability": "",
+  "createdAt": "2026-08-07T06:53:08.589Z",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Biochemistry%20Analyzer%2FSemi%20auto%20analyser%2Fsemi-auto-analyser-500x500.jpeg?alt=media&token=cda7ab27-00cd-4224-9dab-82a3d5036bdb"
+  ],
+  "pdf": "",
+  "isPublished": true,
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "category": "Biochemistry Analyzer",
+  "throughput": "",
+  "uid": "biochemistry-analyzer-semi-auto-analyser-40"
+}

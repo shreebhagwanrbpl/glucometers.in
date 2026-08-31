@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "RAA-26",
+  "id": "56fa963a-4da7-46e2-a8d1-7fc0f97fe7b2",
+  "subCategory": "Random Access Analyzer",
+  "createdAt": "2026-08-07T06:56:09.384Z",
+  "brand": "",
+  "model": "",
+  "title": "Fully Automated Random Access Clinical Chemistry Analyzer",
+  "slug": "fully-automated-random-access-clinical-chemistry-analyzer",
+  "instrument": "",
+  "availability": "",
+  "category": "Ivds category",
+  "price": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FRandom%20Access%20Analyzer%2Fwebp-net-resizeimage-2022-04-19t132806-801-500x500.jpg?alt=media&token=491fc6da-d79a-4bd9-9179-7d4e72266fcf"
+  ],
+  "desc": "Fully Automated Random Access Clinical Chemistry Analyzer",
+  "automation": "",
+  "throughput": "",
+  "isPublished": true,
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "size": "",
+  "uid": "ivds-category-random-access-analyzer-25"
+}

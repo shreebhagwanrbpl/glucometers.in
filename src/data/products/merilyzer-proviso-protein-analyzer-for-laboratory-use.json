@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "createdAt": "2026-08-07T06:59:25.386Z",
+  "category": "Protein Analyzer",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "instrument": "",
+  "size": "",
+  "id": "ce20784f-ec89-482e-8f18-3660d627ac2e",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fmerilyzer-proviso-protein-analyzer-500x500.jpg?alt=media&token=b2f24234-dbe9-41ef-b764-cdab2d94a338"
+  ],
+  "pdf": "",
+  "availability": "",
+  "slug": "merilyzer-proviso-protein-analyzer-for-laboratory-use",
+  "isPublished": true,
+  "brand": "",
+  "categoryProductId": "CSPA-86",
+  "capacity": "",
+  "price": "₹ 1,00,000",
+  "throughput": "",
+  "title": "Merilyzer Proviso Protein Analyzer, For Laboratory Use",
+  "model": "",
+  "automation": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-85"
+}

@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:59:06.757Z",
+  "categoryProductId": "TTC-92",
+  "size": "",
+  "category": "Pathology Lab Equipments",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "desc": "",
+  "isPublished": true,
+  "instrument": "",
+  "availability": "",
+  "id": "753f9cb7-2a2a-4f74-9516-0024b71c52cc",
+  "capacity": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2Fcompressjpeg-online-image-36-500x500.png?alt=media&token=d48b22fa-09e1-45b8-9181-62a93a9c5956"
+  ],
+  "brand": "",
+  "slug": "versati-tabletop-centrifuge",
+  "automation": "",
+  "price": "",
+  "model": "",
+  "title": "Versati tabletop centrifuge",
+  "subCategory": "Table Top Centrifuge",
+  "uid": "pathology-lab-equipments-table-top-centrifuge-91"
+}

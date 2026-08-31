@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "capacity": "",
+  "isPublished": true,
+  "categoryProductId": "SCC-7",
+  "size": "",
+  "availability": "",
+  "createdAt": "2026-08-07T07:00:53.951Z",
+  "price": "",
+  "desc": "",
+  "automation": "",
+  "id": "0d0a69f4-4f10-44dd-90ba-77cb7260d844",
+  "title": "Fully Automatic Sysmex Cell Counter, Model Name/Number: xp300",
+  "model": "",
+  "throughput": "",
+  "subCategory": "Sysmex Cell Counter",
+  "instrument": "",
+  "slug": "fully-automatic-sysmex-cell-counter-model-namenumber-xp300",
+  "category": "Sysmex",
+  "parameters": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fsysmex-cell-counter-500x500.webp?alt=media&token=0938b26b-0479-446a-965d-c87e41403274"
+  ],
+  "uid": "sysmex-sysmex-cell-counter-6"
+}

@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "ASTS-195",
+  "title": "Accu Chek Active 100 Strips",
+  "model": "",
+  "instrument": "",
+  "category": "Other Categories",
+  "desc": "",
+  "parameters": "",
+  "price": "",
+  "createdAt": "2026-08-07T06:57:34.434Z",
+  "subCategory": "Accu-Chek Sugar Test Strips",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAccu-Chek%20Sugar%20Test%20Strips%2Fhttpspremmedical-inproductaccu-500x500.jpg?alt=media&token=bbffe81a-a41a-4205-ada1-c46cac5cfb31"
+  ],
+  "size": "",
+  "brand": "",
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "automation": "",
+  "isPublished": true,
+  "id": "6f61d1c6-a2dc-4372-a7ae-43a54f13af10",
+  "slug": "accu-chek-active-100-strips",
+  "throughput": "",
+  "availability": "",
+  "uid": "other-categories-accu-chek-sugar-test-strips-194"
+}

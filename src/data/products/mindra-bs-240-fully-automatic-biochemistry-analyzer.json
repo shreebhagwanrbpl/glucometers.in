@@ -1,0 +1,28 @@
+{
+  "price": "₹ 7,50,000",
+  "categoryProductId": "MLBA-13",
+  "parameters": "",
+  "size": "",
+  "title": "Mindra BS 240 Fully automatic Biochemistry Analyzer",
+  "model": "",
+  "isPublished": true,
+  "availability": "",
+  "instrument": "",
+  "brand": "",
+  "desc": "",
+  "category": "Mindray",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Laboratory%20Biochemistry%20Analyzer%2Fmindra-bs-240-fully-automatic-biochemistry-analyzer-500x500.jpg?alt=media&token=73cb3db5-0a67-459b-b314-3e7fa8ff2625"
+  ],
+  "usage": "",
+  "video": "",
+  "slug": "mindra-bs-240-fully-automatic-biochemistry-analyzer",
+  "subCategory": "Mindray Laboratory Biochemistry Analyzer",
+  "id": "eb350f3c-44f0-42b4-8514-3e06abfe49b6",
+  "pdf": "",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:57:25.158Z",
+  "capacity": "",
+  "automation": "",
+  "uid": "mindray-mindray-laboratory-biochemistry-analyzer-12"
+}

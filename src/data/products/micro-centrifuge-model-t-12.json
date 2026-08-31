@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "M-42",
+  "size": "",
+  "brand": "",
+  "availability": "",
+  "throughput": "",
+  "category": "Laboratory Centrifuge",
+  "price": "",
+  "isPublished": true,
+  "automation": "",
+  "desc": "",
+  "model": "",
+  "title": "Micro Centrifuge Model T-12",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:56:27.742Z",
+  "pdf": "",
+  "instrument": "",
+  "slug": "micro-centrifuge-model-t-12",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fmicro-centrifuge-model-t-12-500x500.jpg?alt=media&token=5d948de6-c7cd-44c1-9b92-552552e38055"
+  ],
+  "usage": "",
+  "video": "",
+  "id": "81490f69-116d-401b-b575-a2d88b4a2e91",
+  "capacity": "",
+  "subCategory": "Microcentrifuge",
+  "uid": "laboratory-centrifuge-microcentrifuge-41"
+}

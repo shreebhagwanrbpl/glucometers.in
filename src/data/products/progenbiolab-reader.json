@@ -1,0 +1,28 @@
+{
+  "category": "Pathology Lab Equipments",
+  "price": "₹ 2,25,000",
+  "id": "919f3182-cc05-4511-a2ac-c266854ac575",
+  "subCategory": "Elisa reader",
+  "size": "",
+  "title": "Progenbiolab  Reader",
+  "model": "",
+  "pdf": "",
+  "throughput": "",
+  "brand": "",
+  "automation": "",
+  "desc": "",
+  "isPublished": true,
+  "parameters": "",
+  "categoryProductId": "ER-12",
+  "video": "",
+  "usage": "",
+  "slug": "progenbiolab-reader",
+  "instrument": "",
+  "capacity": "",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20reader%2Felisa-microplate-reader-500x500.jpg?alt=media&token=0b6b5748-349f-4c24-8f4f-876537540c52"
+  ],
+  "createdAt": "2026-08-07T06:58:48.421Z",
+  "uid": "pathology-lab-equipments-elisa-reader-11"
+}

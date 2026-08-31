@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "id": "539a3646-5273-4191-9ea8-d5ca2fc2d3e6",
+  "availability": "",
+  "parameters": "",
+  "capacity": "",
+  "brand": "",
+  "isPublished": true,
+  "title": "Plastic SST TUBE",
+  "model": "",
+  "slug": "plastic-sst-tube",
+  "price": "",
+  "categoryProductId": "VBCT-72",
+  "category": "Blood Collection Tubes",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fyellow-edta-tube-500x500.jpg?alt=media&token=5f0fb2d8-d3f9-4f28-9c47-916535f9a54a"
+  ],
+  "subCategory": "Vacuum Blood Collection Tube",
+  "desc": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:54:27.929Z",
+  "automation": "",
+  "size": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-71"
+}

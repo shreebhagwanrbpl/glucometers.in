@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "brand": "",
+  "capacity": "",
+  "categoryProductId": "PC-10",
+  "isPublished": true,
+  "automation": "",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FPrp%20centrifuge%2Fez-spin-centrifuge-machine-500x500.jpg?alt=media&token=0e7a0424-262e-47b2-9942-a0bf221df390"
+  ],
+  "id": "54821dd7-2ee7-4aa5-94cf-a84bc6dd57e5",
+  "throughput": "",
+  "desc": "",
+  "model": "",
+  "title": "Prp/Prf  Machine- EZ-Spin, 300-5000 Rpm, Capacity: 6 Tubes",
+  "pdf": "",
+  "instrument": "",
+  "parameters": "",
+  "subCategory": "Prp centrifuge",
+  "category": "Laboratory Centrifuge",
+  "slug": "prpprf-machine--ez-spin-300-5000-rpm-capacity-6-tubes",
+  "createdAt": "2026-08-07T06:56:31.387Z",
+  "video": "",
+  "usage": "",
+  "availability": "",
+  "uid": "laboratory-centrifuge-prp-centrifuge-9"
+}

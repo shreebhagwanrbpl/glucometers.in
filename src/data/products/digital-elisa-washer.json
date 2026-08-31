@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "title": "Digital Elisa Washer",
+  "model": "",
+  "size": "",
+  "categoryProductId": "EW-121",
+  "throughput": "",
+  "pdf": "",
+  "brand": "",
+  "desc": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Fdigital-elisa-washer-500x500.jpg?alt=media&token=edeee36a-d780-45bc-86d3-54140f716bd4"
+  ],
+  "capacity": "",
+  "subCategory": "Elisa Washer",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:58:49.936Z",
+  "slug": "digital-elisa-washer",
+  "instrument": "",
+  "availability": "",
+  "id": "0ea4372a-7ecf-48c7-83bd-ff2c8233f785",
+  "category": "Pathology Lab Equipments",
+  "isPublished": true,
+  "uid": "pathology-lab-equipments-elisa-washer-120"
+}

@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "category": "Blood Collection Tubes",
+  "subCategory": "Fluoride Tubes",
+  "availability": "",
+  "id": "5cf1d4ab-c3dc-455b-a5dd-d6588dcf7cfd",
+  "slug": "accucera-sodium-flouride-blood-collection-tube",
+  "pdf": "",
+  "model": "",
+  "title": "Accucera Sodium Flouride Blood Collection Tube",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FFluoride%20Tubes%2F2-500x500.jpg?alt=media&token=3d6f6149-7752-485f-9f63-bd50ccca83b8"
+  ],
+  "desc": "",
+  "price": "",
+  "createdAt": "2026-08-07T06:53:53.579Z",
+  "size": "",
+  "instrument": "",
+  "isPublished": true,
+  "brand": "",
+  "parameters": "",
+  "capacity": "",
+  "categoryProductId": "FT-48",
+  "uid": "blood-collection-tubes-fluoride-tubes-47"
+}

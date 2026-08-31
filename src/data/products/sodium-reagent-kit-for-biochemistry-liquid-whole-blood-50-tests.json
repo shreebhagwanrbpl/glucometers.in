@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "createdAt": "2026-08-07T06:54:50.082Z",
+  "price": "₹ 432",
+  "availability": "",
+  "throughput": "",
+  "model": "",
+  "title": "Sodium Reagent Kit For Biochemistry (Liquid, Whole Blood, 50 Tests)",
+  "subCategory": "Diagnostic reagents",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Fso25-imresizer-500x500.png?alt=media&token=e447c70e-ce19-46e1-b726-dfe564d5e76c"
+  ],
+  "size": "",
+  "desc": "",
+  "categoryProductId": "DR-41",
+  "brand": "3.6",
+  "usage": "",
+  "video": "",
+  "id": "c4b73a88-66e0-4375-83bd-458da4cf055a",
+  "slug": "sodium-reagent-kit-for-biochemistry-liquid-whole-blood-50-tests",
+  "category": "Clinical Reagents",
+  "isPublished": true,
+  "instrument": "",
+  "parameters": "",
+  "pdf": "",
+  "uid": "clinical-reagents-diagnostic-reagents-40"
+}

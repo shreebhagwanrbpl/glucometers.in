@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fmicro-centrifuge-500x500.jpg?alt=media&token=4f492287-8fbe-4c89-a61c-043c4449b9f3"
+  ],
+  "automation": "",
+  "availability": "",
+  "slug": "automatic-eppendorf-microcentrifuge-mini-spin",
+  "throughput": "",
+  "isPublished": true,
+  "price": "",
+  "model": "",
+  "title": "Automatic Eppendorf Microcentrifuge Mini Spin",
+  "categoryProductId": "M-14",
+  "id": "4de61911-cfc1-4d90-be17-63100e4b8909",
+  "size": "",
+  "subCategory": "Microcentrifuge",
+  "category": "Laboratory Centrifuge",
+  "pdf": "",
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "desc": "",
+  "createdAt": "2026-08-07T06:56:27.741Z",
+  "parameters": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-13"
+}

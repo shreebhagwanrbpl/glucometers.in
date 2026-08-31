@@ -1,0 +1,28 @@
+{
+  "subCategory": "Microcentrifuge",
+  "brand": "",
+  "throughput": "",
+  "availability": "",
+  "pdf": "",
+  "automation": "",
+  "category": "Laboratory Centrifuge",
+  "slug": "starlab-microcentrifuge-24",
+  "id": "00dca783-de6f-4cf3-9708-1d7d35f67c13",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fstarlab-microcentrifuge-24-500x500.png?alt=media&token=a382a8d7-0a7e-4a1d-8908-37dcd983bf85"
+  ],
+  "price": "",
+  "title": "Starlab Microcentrifuge 24",
+  "model": "",
+  "size": "",
+  "capacity": "",
+  "categoryProductId": "M-211",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:56:27.751Z",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "desc": "Starlab Microcentrifuge 24",
+  "uid": "laboratory-centrifuge-microcentrifuge-210"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "Laboratory Centrifuge",
+  "brand": "",
+  "size": "",
+  "pdf": "",
+  "subCategory": "Electric Centrifuge",
+  "parameters": "",
+  "price": "",
+  "desc": "",
+  "model": "",
+  "title": "Clinical Electric Centrifuge Machine",
+  "instrument": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FElectric%20Centrifuge%2Felectric-centrifuge-machine-500x500.jpg?alt=media&token=a4089dfb-0ec6-4097-b031-2cd0b4812f4b"
+  ],
+  "capacity": "",
+  "createdAt": "2026-08-07T06:56:21.897Z",
+  "slug": "clinical-electric-centrifuge-machine",
+  "isPublished": true,
+  "automation": "",
+  "id": "1399e1c0-3c04-4575-8e16-5786c474c195",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "EC-16",
+  "uid": "laboratory-centrifuge-electric-centrifuge-15"
+}

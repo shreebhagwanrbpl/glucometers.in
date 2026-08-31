@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "subCategory": "Research Centrifuge",
+  "instrument": "",
+  "capacity": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2Fhtico-rectangular-centrifuge-research-500x500.jpeg?alt=media&token=055c0cac-8d7a-4f4b-bf4c-bb698f6396da"
+  ],
+  "id": "7aaa1875-4ad7-42e7-92d2-1bc861bbf66d",
+  "desc": "",
+  "categoryProductId": "RC-21",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:59:04.718Z",
+  "availability": "",
+  "price": "₹ 12,300",
+  "category": "Pathology Lab Equipments",
+  "slug": "htico-rectangular-centrifuge-research",
+  "model": "",
+  "title": "HTICO Rectangular Centrifuge (Research)",
+  "throughput": "",
+  "brand": "HTICO",
+  "pdf": "",
+  "automation": "",
+  "uid": "pathology-lab-equipments-research-centrifuge-20"
+}

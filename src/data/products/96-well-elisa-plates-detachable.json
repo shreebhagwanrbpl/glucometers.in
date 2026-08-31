@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "brand": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FLaboratory%20ELISA%20Microplate%2F96-well-elisa-plates-detachable-500x500.jpg?alt=media&token=ebc7ddca-f96b-47ee-8239-f7af86001442"
+  ],
+  "isPublished": true,
+  "id": "5c5f325d-eeb9-4791-b47f-ce492a0270dd",
+  "availability": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:58:53.344Z",
+  "price": "",
+  "desc": "",
+  "instrument": "",
+  "title": "96 Well ELISA Plates, Detachable",
+  "model": "",
+  "throughput": "",
+  "category": "Pathology Lab Equipments",
+  "slug": "96-well-elisa-plates-detachable",
+  "automation": "",
+  "pdf": "",
+  "categoryProductId": "LEM-32",
+  "subCategory": "Laboratory ELISA Microplate",
+  "video": "",
+  "usage": "",
+  "uid": "pathology-lab-equipments-laboratory-elisa-microplate-31"
+}

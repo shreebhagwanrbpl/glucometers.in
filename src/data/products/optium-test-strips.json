@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "price": "",
+  "id": "b1d5409a-7a9a-4462-8230-e482a66ee62d",
+  "title": "Optium Test Strips",
+  "model": "",
+  "parameters": "Shelf Life: 6 Months | Material: Plastic | Test Time: 5 Second | Usage/Application: Clinical, Home Purpose, Hospital",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Freestyle%20Blood%20Glucose%20Test%20Strips%2Fabbott-freestyle-optium-test-strips-50-strips-500x500.jpg?alt=media&token=7c088363-a69f-4d86-a55e-a1fb51e7aa81"
+  ],
+  "size": "",
+  "desc": "Shelf Life: 6 Months | Material: Plastic | Test Time: 5 Second | Usage/Application: Clinical, Home Purpose, Hospital",
+  "brand": "",
+  "capacity": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "slug": "optium-test-strips",
+  "categoryProductId": "AFBGTS-33",
+  "createdAt": "2026-08-07T06:52:59.666Z",
+  "subCategory": "Abbott Freestyle Blood Glucose Test Strips",
+  "category": "Abbott",
+  "automation": "",
+  "availability": "",
+  "throughput": "",
+  "uid": "abbott-abbott-freestyle-blood-glucose-test-strips-32"
+}

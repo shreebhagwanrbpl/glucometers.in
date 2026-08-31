@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "brand": "",
+  "parameters": "",
+  "size": "",
+  "capacity": "",
+  "price": "₹ 4,44,528",
+  "desc": "",
+  "categoryProductId": "ER-25",
+  "createdAt": "2026-08-07T06:58:48.422Z",
+  "isPublished": true,
+  "availability": "",
+  "title": "Microplate  Reader with LED Light Technology",
+  "model": "",
+  "slug": "microplate-reader-with-led-light-technology",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20reader%2Fmicroplate-elisa-reader-500x500.jpg?alt=media&token=17962a49-4f31-4fd4-a092-c25715bb9fc9"
+  ],
+  "id": "e0c62625-7579-4fdb-93e6-91418e376ed2",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "subCategory": "Elisa reader",
+  "category": "Pathology Lab Equipments",
+  "throughput": "",
+  "pdf": "",
+  "uid": "pathology-lab-equipments-elisa-reader-24"
+}

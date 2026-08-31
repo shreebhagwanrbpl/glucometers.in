@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:54:27.942Z",
+  "brand": "",
+  "isPublished": true,
+  "size": "",
+  "pdf": "",
+  "id": "73c1dc6a-369a-49b7-bd50-2b0a446920d6",
+  "throughput": "",
+  "category": "Blood Collection Tubes",
+  "price": "",
+  "automation": "",
+  "desc": "all types of blood collecting tubes",
+  "title": "Blood Collecting Tubes",
+  "model": "",
+  "parameters": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "categoryProductId": "VBCT-330",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fblood-250x250.jpg?alt=media&token=0fd58b7c-b66e-4d18-89cf-3d10512f51b8"
+  ],
+  "slug": "blood-collecting-tubes",
+  "instrument": "",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-329"
+}

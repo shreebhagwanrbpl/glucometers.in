@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "size": "",
+  "capacity": "",
+  "availability": "",
+  "subCategory": "Ultracentrifuge",
+  "createdAt": "2026-08-07T06:56:45.472Z",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "desc": "Implementing Optim Core Technology Installing and Configuring IBM Optim Data Privacy Solution Installing, Configuring, and Using Optim Data Growth for Archiving on Distributed Systems",
+  "id": "d4c7ab54-8ba3-4b95-bf03-e059902cf130",
+  "category": "Laboratory Centrifuge",
+  "automation": "",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FUltracentrifuge%2Finfosphere-optim-archive-500x500.jpg?alt=media&token=06a82dfc-811a-431d-bfe4-d80df4562ab3"
+  ],
+  "throughput": "",
+  "categoryProductId": "U-27",
+  "slug": "infosphere-optim-archive",
+  "isPublished": true,
+  "price": "",
+  "model": "",
+  "title": "Infosphere Optim Archive",
+  "uid": "laboratory-centrifuge-ultracentrifuge-26"
+}

@@ -1,0 +1,28 @@
+{
+  "subCategory": "Microcentrifuge",
+  "price": "",
+  "slug": "himedia-laboratory-microcentrifuge",
+  "title": "Himedia Laboratory Microcentrifuge",
+  "model": "",
+  "createdAt": "2026-08-07T06:56:27.745Z",
+  "automation": "",
+  "brand": "",
+  "id": "806b305e-55bd-46fe-b8f4-49955074627e",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fmicrocentrifuge-500x500.jpg?alt=media&token=54d2fa8a-9396-49f1-9139-d5cd775af6f0"
+  ],
+  "throughput": "",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "isPublished": true,
+  "size": "",
+  "categoryProductId": "M-100",
+  "parameters": "",
+  "pdf": "",
+  "desc": "",
+  "category": "Laboratory Centrifuge",
+  "availability": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-99"
+}

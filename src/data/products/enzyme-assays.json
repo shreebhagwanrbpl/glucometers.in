@@ -1,0 +1,28 @@
+{
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "subCategory": "Laboratory ELISA Microplate",
+  "size": "",
+  "automation": "",
+  "desc": "",
+  "categoryProductId": "LEM-23",
+  "throughput": "",
+  "pdf": "",
+  "price": "₹ 5,000",
+  "instrument": "",
+  "slug": "enzyme-assays",
+  "id": "c9fb1232-c59b-4742-b5c4-57213bb1464d",
+  "createdAt": "2026-08-07T06:58:53.343Z",
+  "parameters": "",
+  "availability": "",
+  "model": "",
+  "title": "Enzyme Assays",
+  "isPublished": true,
+  "category": "Pathology Lab Equipments",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FLaboratory%20ELISA%20Microplate%2Fenzyme-assays-500x500.png?alt=media&token=0b0b86be-4cb7-46ae-b9ce-ec52e6394974"
+  ],
+  "uid": "pathology-lab-equipments-laboratory-elisa-microplate-22"
+}

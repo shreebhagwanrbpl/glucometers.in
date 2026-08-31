@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "price": "₹ 800",
+  "createdAt": "2026-08-07T06:58:13.975Z",
+  "model": "",
+  "title": "Dengue Test Kit",
+  "id": "e416dc7d-7275-43bd-9184-5ba99ee21cc8",
+  "brand": "J mitra",
+  "capacity": "",
+  "isPublished": true,
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FJ%20Mitra%20Diagnostic%20Test%20Kit%2Fdengue-kits-500x500.png?alt=media&token=13357fd6-444b-46e4-88f3-186bb3822aaf"
+  ],
+  "throughput": "",
+  "desc": "",
+  "availability": "",
+  "instrument": "",
+  "video": "",
+  "pdf": "",
+  "usage": "",
+  "parameters": "",
+  "categoryProductId": "JMDTK-41",
+  "slug": "dengue-test-kit",
+  "subCategory": "J Mitra Diagnostic Test Kit",
+  "category": "Other Categories",
+  "uid": "other-categories-j-mitra-diagnostic-test-kit-40"
+}

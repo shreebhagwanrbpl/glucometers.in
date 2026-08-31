@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "ER-19",
+  "subCategory": "Elisa reader",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "id": "7ffee93f-2919-4afa-b827-df53d199a0f2",
+  "slug": "semi-automatic-reader-with-led-display",
+  "category": "Pathology Lab Equipments",
+  "createdAt": "2026-08-07T06:58:48.421Z",
+  "availability": "",
+  "title": "Semi Automatic  READER with LED Display",
+  "model": "",
+  "desc": "",
+  "isPublished": true,
+  "price": "₹ 1,60,000",
+  "throughput": "",
+  "capacity": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20reader%2Felisa-reader-500x500.jpg?alt=media&token=5a06a421-72b7-47a2-9ef2-9ec78b14dc3c"
+  ],
+  "size": "",
+  "automation": "",
+  "brand": "",
+  "uid": "pathology-lab-equipments-elisa-reader-18"
+}

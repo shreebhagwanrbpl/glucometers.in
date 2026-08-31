@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "category": "Protein Analyzer",
+  "title": "QR100 Protein Diagnostic Analyzers",
+  "model": "",
+  "id": "3b9dd82d-fabd-4224-bc1b-fa03390872a1",
+  "desc": "",
+  "categoryProductId": "CSPA-36",
+  "price": "₹ 43,000",
+  "createdAt": "2026-08-07T06:59:25.383Z",
+  "automation": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "size": "",
+  "brand": "",
+  "throughput": "",
+  "instrument": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fqr100-500x500.png?alt=media&token=0a72d137-b689-4cc9-bcce-2e80b653c7af"
+  ],
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "pdf": "",
+  "isPublished": true,
+  "slug": "qr100-protein-diagnostic-analyzers",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-35"
+}

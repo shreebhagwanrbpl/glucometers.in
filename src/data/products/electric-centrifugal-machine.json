@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "price": "",
+  "subCategory": "Electric Centrifuge",
+  "automation": "",
+  "id": "a4ac6806-0e69-4891-86dd-1f7722fecaa9",
+  "slug": "electric-centrifugal-machine",
+  "category": "Laboratory Centrifuge",
+  "categoryProductId": "EC-29",
+  "title": "Electric Centrifugal Machine",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FElectric%20Centrifuge%2Fcentrifugal-machine-500x500.jpeg?alt=media&token=9b0c7ba3-18ee-443f-8474-8682b87ad611"
+  ],
+  "brand": "",
+  "isPublished": true,
+  "capacity": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "availability": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:56:21.898Z",
+  "desc": "",
+  "instrument": "",
+  "uid": "laboratory-centrifuge-electric-centrifuge-28"
+}

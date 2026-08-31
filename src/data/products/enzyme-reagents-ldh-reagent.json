@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "createdAt": "2026-08-07T06:54:50.082Z",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "size": "",
+  "subCategory": "Diagnostic reagents",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Fldh-reagent-500x500.jpeg?alt=media&token=0afc9966-3dde-40f6-a35f-50af50c32fdd"
+  ],
+  "pdf": "",
+  "desc": "",
+  "availability": "",
+  "price": "₹ 450",
+  "category": "Clinical Reagents",
+  "slug": "enzyme-reagents-ldh-reagent",
+  "model": "",
+  "title": "Enzyme reagents LDH Reagent",
+  "isPublished": true,
+  "instrument": "",
+  "id": "ec8e6522-82b8-4136-b14a-c64ec57f81cb",
+  "brand": "4.4",
+  "parameters": "",
+  "categoryProductId": "DR-44",
+  "uid": "clinical-reagents-diagnostic-reagents-43"
+}

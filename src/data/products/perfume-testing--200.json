@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "capacity": "",
+  "automation": "",
+  "availability": "",
+  "isPublished": true,
+  "brand": "",
+  "throughput": "",
+  "title": "Perfume Testing , 200",
+  "model": "",
+  "price": "",
+  "pdf": "",
+  "size": "",
+  "images": [
+    "https://5.imimg.com/data5/IOS/Default/2025/6/522174357/OH/DM/QL/20484336/product-jpeg-500x500.jpeg"
+  ],
+  "category": "Test Strips",
+  "subCategory": "Test strips",
+  "id": "1cabce04-4c25-43d9-aa50-65b257aa5be5",
+  "categoryProductId": "TS-41",
+  "slug": "perfume-testing--200",
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T07:01:05.716Z",
+  "parameters": "",
+  "uid": "test-strips-test-strips-40"
+}

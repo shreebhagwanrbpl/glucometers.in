@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "capacity": "",
+  "instrument": "",
+  "id": "7badf998-2370-44e1-8f4e-71796cd00352",
+  "desc": "",
+  "pdf": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fautomated-cartridge-based-specific-protein-analyser-1672750469518-500x500.jpg?alt=media&token=5e9ca4f5-f2b0-44cf-bb48-7a5d05dd8be4"
+  ],
+  "size": "",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "categoryProductId": "CSPA-165",
+  "brand": "",
+  "category": "Protein Analyzer",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "title": "SPASIF PROTEIN ANALYSER",
+  "model": "",
+  "automation": "",
+  "slug": "spasif-protein-analyser",
+  "price": "₹ 1,20,000",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:59:25.394Z",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-164"
+}

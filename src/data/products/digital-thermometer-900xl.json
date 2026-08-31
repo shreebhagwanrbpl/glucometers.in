@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "slug": "digital-thermometer-900xl",
+  "price": "",
+  "automation": "",
+  "capacity": "",
+  "pdf": "",
+  "categoryProductId": "PT-70",
+  "isPublished": true,
+  "throughput": "",
+  "title": "Digital Thermometer 900xl",
+  "model": "",
+  "instrument": "",
+  "size": "",
+  "parameters": "",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FPrecision%20Thermometer%2F953_2011-02-11_13-500x500.jpg?alt=media&token=4e67883c-0631-4a29-beff-b4aad61722a2"
+  ],
+  "id": "78f28e52-af60-495a-bad7-8e3e3aa495de",
+  "desc": "Measurement Range: -50 to 1300C, -50 to 1999F Resolution: 0.1C, 1C, 0.1F, 1F , Maximum Voltage : 60V DC, 24V AC RF Field Derating : Strong RF fields can adversely affect measurement accuracy, Ambient Operating Range: 0 to 50C,32 to 122 F, Storage Temperature : -40 to 60F,-40 to 140 F, Humidity : 0% to 90%(0 to 35 C),0% to 70%(35 to 50C), Basic Accu",
+  "createdAt": "2026-08-07T06:57:06.381Z",
+  "category": "Laboratory thermometer",
+  "subCategory": "Precision Thermometer",
+  "uid": "laboratory-thermometer-precision-thermometer-69"
+}

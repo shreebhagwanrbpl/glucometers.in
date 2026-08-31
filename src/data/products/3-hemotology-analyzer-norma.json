@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "CC-42",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "size": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:55:26.545Z",
+  "subCategory": "Cell Counter",
+  "desc": "",
+  "price": "",
+  "slug": "3-hemotology-analyzer-norma",
+  "title": "3 Hemotology Analyzer Norma",
+  "model": "",
+  "category": "Hematology analyzers",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FCell%20Counter%2Fnorma-icon3-hemotology-analyzer-500x500.jpg?alt=media&token=cc39b49d-fe65-42c7-bcdd-d8c837808ee2"
+  ],
+  "id": "db5e7d77-9806-493b-9f6e-e342950a4134",
+  "isPublished": true,
+  "brand": "",
+  "pdf": "",
+  "throughput": "",
+  "availability": "",
+  "automation": "",
+  "uid": "hematology-analyzers-cell-counter-41"
+}

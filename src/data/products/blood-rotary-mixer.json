@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:53:14.243Z",
+  "brand": "",
+  "availability": "",
+  "category": "Blood bank equipments",
+  "title": "Blood Rotary Mixer",
+  "model": "",
+  "slug": "blood-rotary-mixer",
+  "parameters": "",
+  "id": "bf47948a-4e23-42a7-9f87-badd7c5f3a25",
+  "subCategory": "Blood Collection Mixer Machine",
+  "price": "₹ 25,000",
+  "instrument": "",
+  "categoryProductId": "BCMM-32",
+  "capacity": "",
+  "desc": "",
+  "throughput": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20Collection%20Mixer%20Machine%2Frotary-blood-mixer-500x500.png?alt=media&token=21c50124-ef25-4ed6-b608-7949f785993e"
+  ],
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "isPublished": true,
+  "uid": "blood-bank-equipments-blood-collection-mixer-machine-31"
+}

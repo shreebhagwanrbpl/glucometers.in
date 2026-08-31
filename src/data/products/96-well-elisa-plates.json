@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FLaboratory%20ELISA%20Microplate%2F96-well-elisa-plates-500x500.jpg?alt=media&token=039ca3a9-6900-41eb-928b-4c49a6728d94"
+  ],
+  "subCategory": "Laboratory ELISA Microplate",
+  "instrument": "",
+  "parameters": "",
+  "availability": "",
+  "id": "670f59af-b6b6-462a-9eef-222d6f8d3ddf",
+  "slug": "96-well-elisa-plates",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "LEM-33",
+  "createdAt": "2026-08-07T06:58:53.344Z",
+  "isPublished": true,
+  "desc": "",
+  "brand": "",
+  "automation": "",
+  "category": "Pathology Lab Equipments",
+  "title": "96 Well ELISA Plates",
+  "model": "",
+  "pdf": "",
+  "throughput": "",
+  "size": "",
+  "price": "",
+  "uid": "pathology-lab-equipments-laboratory-elisa-microplate-32"
+}

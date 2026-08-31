@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "capacity": "",
+  "categoryProductId": "M-252",
+  "slug": "i-fuge-m08",
+  "id": "8e4d265f-b19c-495d-a1e2-b945aefd81f3",
+  "automation": "",
+  "subCategory": "Microcentrifuge",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "brand": "",
+  "category": "Laboratory Centrifuge",
+  "instrument": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fi-fuge-m08-500x500.png?alt=media&token=98684e75-3933-438a-8b8c-2de3cecd5c87"
+  ],
+  "pdf": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:56:27.753Z",
+  "isPublished": true,
+  "price": "",
+  "desc": "",
+  "title": "I Fuge M08",
+  "model": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-251"
+}

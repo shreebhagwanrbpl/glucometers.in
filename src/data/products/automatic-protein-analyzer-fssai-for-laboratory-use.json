@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "CSPA-20",
+  "id": "bcffd3fe-f692-412b-bedf-26b781dd882b",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:59:25.382Z",
+  "desc": "",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "isPublished": true,
+  "size": "",
+  "title": "Automatic Protein Analyzer FSSAI, For Laboratory Use",
+  "model": "",
+  "category": "Protein Analyzer",
+  "price": "",
+  "pdf": "",
+  "parameters": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "availability": "",
+  "slug": "automatic-protein-analyzer-fssai-for-laboratory-use",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fautomatic-protein-analyzer-fssai-500x500.png?alt=media&token=d28401eb-ecb5-4f15-965a-bc3b2a487ce8"
+  ],
+  "brand": "",
+  "instrument": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-19"
+}

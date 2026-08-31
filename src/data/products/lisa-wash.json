@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:58:49.939Z",
+  "size": "",
+  "category": "Pathology Lab Equipments",
+  "parameters": "",
+  "subCategory": "Elisa Washer",
+  "automation": "",
+  "id": "00851db2-48df-46eb-acf8-65d762bdd78f",
+  "model": "",
+  "title": "Lisa Wash",
+  "throughput": "",
+  "price": "",
+  "categoryProductId": "EW-158",
+  "isPublished": true,
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Fscreenshot-110-500x500.png?alt=media&token=34552828-ab52-4bd2-977e-37f0c21e87db"
+  ],
+  "slug": "lisa-wash",
+  "availability": "",
+  "capacity": "",
+  "uid": "pathology-lab-equipments-elisa-washer-157"
+}

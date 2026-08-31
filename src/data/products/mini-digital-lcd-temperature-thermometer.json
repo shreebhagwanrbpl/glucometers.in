@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "LT-33",
+  "size": "",
+  "availability": "",
+  "price": "",
+  "createdAt": "2026-08-07T06:57:00.939Z",
+  "isPublished": true,
+  "title": "Mini Digital LCD Temperature Thermometer",
+  "model": "",
+  "id": "838d6be4-fd8c-45c1-af80-f0b2888adc20",
+  "brand": "Contact Supplier",
+  "parameters": "",
+  "capacity": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FLCD%20Thermometer%2F1-500x500.jpg?alt=media&token=8281ccf6-3721-4968-afa2-c1855f7182fe"
+  ],
+  "desc": "",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "subCategory": "LCD Thermometer",
+  "automation": "",
+  "slug": "mini-digital-lcd-temperature-thermometer",
+  "category": "Laboratory thermometer",
+  "uid": "laboratory-thermometer-lcd-thermometer-32"
+}

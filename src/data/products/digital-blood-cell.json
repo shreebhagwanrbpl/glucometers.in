@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:55:26.544Z",
+  "availability": "",
+  "automation": "",
+  "slug": "digital-blood-cell",
+  "isPublished": true,
+  "categoryProductId": "CC-33",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "category": "Hematology analyzers",
+  "instrument": "",
+  "desc": "",
+  "id": "18d68398-f604-44f3-8676-434569928888",
+  "parameters": "",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FCell%20Counter%2Felectrolyte-analyzer-ec-90-500x500.png?alt=media&token=14924cb0-a18f-473e-babd-19b88bdff5a1"
+  ],
+  "model": "",
+  "title": "Digital Blood Cell",
+  "subCategory": "Cell Counter",
+  "capacity": "",
+  "price": "Ask Price",
+  "pdf": "",
+  "size": "",
+  "uid": "hematology-analyzers-cell-counter-32"
+}

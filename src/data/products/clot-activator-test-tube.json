@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "categoryProductId": "CAT-167",
+  "size": "",
+  "model": "",
+  "title": "Clot Activator Test Tube",
+  "availability": "",
+  "parameters": "",
+  "brand": "",
+  "category": "Blood Collection Tubes",
+  "desc": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FClot%20Activator%20Tube%2Fclot-activate-non-vacuum-test-tube-500x500.jpg?alt=media&token=20190451-0fd1-4dc3-a6c7-e490790b8821"
+  ],
+  "subCategory": "Clot Activator Tube",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "slug": "clot-activator-test-tube",
+  "automation": "",
+  "id": "394d3a1b-fce3-4954-bc98-51189876bb2f",
+  "createdAt": "2026-08-07T06:53:33.818Z",
+  "pdf": "",
+  "isPublished": true,
+  "capacity": "",
+  "uid": "blood-collection-tubes-clot-activator-tube-166"
+}

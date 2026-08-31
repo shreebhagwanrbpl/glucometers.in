@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "id": "107dc313-955a-4f59-870c-370188e5f0cc",
+  "model": "",
+  "title": "Te Dispensing Needles",
+  "size": "",
+  "instrument": "",
+  "isPublished": true,
+  "desc": "",
+  "brand": "",
+  "category": "Syringe",
+  "parameters": "",
+  "categoryProductId": "MDN-16",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "slug": "te-dispensing-needles",
+  "automation": "",
+  "throughput": "",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2026/4/599090835/WG/JQ/EV/25531368/21-g-tt-dispensing-needle-500x500.jpg"
+  ],
+  "capacity": "",
+  "createdAt": "2026-08-07T07:00:29.581Z",
+  "subCategory": "Medical Dispensing Needle",
+  "pdf": "",
+  "uid": "syringe-medical-dispensing-needle-15"
+}

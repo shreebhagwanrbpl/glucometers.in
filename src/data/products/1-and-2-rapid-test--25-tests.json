@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "model": "",
+  "title": "1 And 2 Rapid Test , 25 Tests",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHiv%20test%20kit%2Fhiv-500x500.jpg?alt=media&token=142a0795-aa8f-4b17-b825-f34556448381"
+  ],
+  "id": "f1082491-3af4-42ee-9bdc-afbbc16b302c",
+  "price": "₹ 10",
+  "automation": "",
+  "slug": "1-and-2-rapid-test--25-tests",
+  "subCategory": "Hiv test kit",
+  "brand": "",
+  "pdf": "",
+  "desc": "",
+  "category": "Rapid Test Kit",
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T06:59:58.305Z",
+  "availability": "",
+  "categoryProductId": "HTK-21",
+  "size": "",
+  "parameters": "",
+  "instrument": "",
+  "isPublished": true,
+  "uid": "rapid-test-kit-hiv-test-kit-20"
+}

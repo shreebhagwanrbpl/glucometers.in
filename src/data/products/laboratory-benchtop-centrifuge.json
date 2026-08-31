@@ -1,0 +1,28 @@
+{
+  "title": "Laboratory benchtop centrifuge",
+  "model": "",
+  "parameters": "",
+  "desc": "",
+  "categoryProductId": "TTC-18",
+  "instrument": "",
+  "price": "",
+  "id": "bd2698bc-47ab-4b32-8da2-c3f772465e7c",
+  "capacity": "",
+  "pdf": "",
+  "availability": "",
+  "size": "",
+  "brand": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:56:42.425Z",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "slug": "laboratory-benchtop-centrifuge",
+  "subCategory": "Table Top Centrifuge",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FTable%20Top%20Centrifuge%2Flaboratory-benchtop-centrifuge-500x500.png?alt=media&token=72d47da5-95da-4737-a271-c6f4ae6c3190"
+  ],
+  "automation": "",
+  "category": "Laboratory Centrifuge",
+  "uid": "laboratory-centrifuge-table-top-centrifuge-17"
+}

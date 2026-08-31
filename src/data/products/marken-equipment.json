@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "capacity": "",
+  "categoryProductId": "BBE-7",
+  "desc": "",
+  "automation": "",
+  "brand": "",
+  "title": "MarkEn  Equipment",
+  "model": "",
+  "size": "",
+  "isPublished": true,
+  "price": "₹ 55,55,555",
+  "category": "Blood bank equipments",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20bank%20equipments%2Fblood-bank-equipment-500x500.png?alt=media&token=9b21dd90-ede6-4111-a4bf-de953773cc99"
+  ],
+  "pdf": "",
+  "availability": "",
+  "slug": "marken-equipment",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:53:12.944Z",
+  "usage": "",
+  "video": "",
+  "id": "5c19c750-865d-466e-b142-1fecd2ccada3",
+  "subCategory": "Blood bank equipments",
+  "instrument": "",
+  "uid": "blood-bank-equipments-blood-bank-equipments-6"
+}

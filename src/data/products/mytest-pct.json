@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "categoryProductId": "PRTK-31",
+  "price": "₹ 600",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FProcalcitonin%20Rapid%20Test%20Kit%2F1650280188202-jpg-500x500.jpg?alt=media&token=983a1ad8-0a1c-4387-9aa0-64bfa888c379"
+  ],
+  "category": "Rapid Test Kit",
+  "automation": "",
+  "model": "",
+  "title": "Mytest Pct",
+  "throughput": "",
+  "isPublished": true,
+  "availability": "",
+  "instrument": "",
+  "slug": "mytest-pct",
+  "createdAt": "2026-08-07T07:00:05.435Z",
+  "parameters": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "subCategory": "Procalcitonin Rapid Test Kit",
+  "id": "4c160edf-e219-4751-aa8b-42f38b8f5b62",
+  "capacity": "",
+  "uid": "rapid-test-kit-procalcitonin-rapid-test-kit-30"
+}

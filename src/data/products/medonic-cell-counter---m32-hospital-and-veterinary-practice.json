@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "size": "",
+  "pdf": "",
+  "price": "",
+  "availability": "",
+  "instrument": "",
+  "title": "Medonic Cell Counter - M32, Hospital And Veterinary Practice",
+  "model": "",
+  "brand": "Medonic",
+  "id": "c4193b61-7c72-4575-997c-5867195b3f1e",
+  "subCategory": "Medonic Cell Counter",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FMedonic%20Cell%20Counter%2Fproduct-500x500.jpeg?alt=media&token=5719320a-96fd-47dc-9781-e1974ebebf2c"
+  ],
+  "desc": "",
+  "categoryProductId": "MCC-60",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:58:18.525Z",
+  "slug": "medonic-cell-counter---m32-hospital-and-veterinary-practice",
+  "isPublished": true,
+  "throughput": "",
+  "automation": "",
+  "category": "Other Categories",
+  "uid": "other-categories-medonic-cell-counter-59"
+}

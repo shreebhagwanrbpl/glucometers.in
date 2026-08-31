@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "brand": "Medonic",
+  "parameters": "",
+  "slug": "fully-automatic-medonic-m51",
+  "pdf": "",
+  "category": "Other Categories",
+  "price": "₹ 6,50,000",
+  "subCategory": "Medonic Cell Counter",
+  "title": "Fully Automatic Medonic M51",
+  "model": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FMedonic%20Cell%20Counter%2Fmedonic-m51-5-part-diff-hematology-analyzer-500x500.jpg?alt=media&token=c993f9c9-e4df-4757-a597-0d025fc544d4"
+  ],
+  "id": "c86ad67e-95dc-455f-bfe2-7e6165f7edfe",
+  "automation": "Fully Automatic",
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "availability": "",
+  "throughput": "",
+  "isPublished": true,
+  "desc": "",
+  "createdAt": "2026-08-07T06:58:18.523Z",
+  "categoryProductId": "MCC-13",
+  "uid": "other-categories-medonic-cell-counter-12"
+}

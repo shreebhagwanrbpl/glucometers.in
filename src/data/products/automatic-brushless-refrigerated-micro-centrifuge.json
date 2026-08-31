@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "model": "",
+  "title": "Automatic Brushless Refrigerated Micro Centrifuge",
+  "capacity": "",
+  "desc": "",
+  "parameters": "",
+  "price": "",
+  "availability": "",
+  "isPublished": true,
+  "size": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:56:27.743Z",
+  "usage": "",
+  "video": "",
+  "category": "Laboratory Centrifuge",
+  "categoryProductId": "M-66",
+  "subCategory": "Microcentrifuge",
+  "automation": "",
+  "pdf": "",
+  "id": "44a1146b-e075-4fc9-89fb-eb6e7e131f01",
+  "slug": "automatic-brushless-refrigerated-micro-centrifuge",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fcentri1-500x500.jpg?alt=media&token=7aec201b-dc84-45b5-8c92-3ee6df8d600e"
+  ],
+  "throughput": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-65"
+}

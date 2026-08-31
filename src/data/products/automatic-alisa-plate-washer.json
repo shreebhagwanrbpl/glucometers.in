@@ -1,0 +1,28 @@
+{
+  "title": "AUTOMATIC ALISA PLATE WASHER",
+  "model": "",
+  "category": "Pathology Lab Equipments",
+  "desc": "",
+  "price": "",
+  "createdAt": "2026-08-07T06:58:49.938Z",
+  "id": "710be088-e32e-454c-a895-d3c598e30c4d",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Fresizeimagesize-500-x-500--500x500.png?alt=media&token=3520444d-3eba-4947-8cae-2920609a4d6f"
+  ],
+  "size": "",
+  "categoryProductId": "EW-148",
+  "subCategory": "Elisa Washer",
+  "brand": "",
+  "automation": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "capacity": "",
+  "availability": "",
+  "pdf": "",
+  "slug": "automatic-alisa-plate-washer",
+  "isPublished": true,
+  "uid": "pathology-lab-equipments-elisa-washer-147"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "Laboratory Centrifuge",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FElectric%20Centrifuge%2Felectrical-centrifuge-500x500.png?alt=media&token=879e72e0-2090-4f99-a419-7db4a0fda27a"
+  ],
+  "parameters": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:56:21.897Z",
+  "availability": "",
+  "instrument": "",
+  "subCategory": "Electric Centrifuge",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "id": "6f6c725e-ed98-4748-b345-80e7666fef50",
+  "slug": "scientico-electrical-centrifuge",
+  "brand": "",
+  "capacity": "",
+  "price": "",
+  "pdf": "",
+  "throughput": "",
+  "isPublished": true,
+  "categoryProductId": "EC-12",
+  "title": "Scientico Electrical Centrifuge",
+  "model": "",
+  "automation": "",
+  "uid": "laboratory-centrifuge-electric-centrifuge-11"
+}

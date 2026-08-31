@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "categoryProductId": "MC-8",
+  "parameters": "",
+  "isPublished": true,
+  "availability": "",
+  "createdAt": "2026-08-07T06:56:26.471Z",
+  "slug": "doctor-type-centrifuge-machine",
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "id": "6caea969-c046-4b8e-98a6-1ff3cd5db464",
+  "brand": "",
+  "desc": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMedico%20centrifuges%2Fdoctor-type-centrifuge-machine-500x500.jpg?alt=media&token=dfcb2b3f-8014-4384-9f53-fd89e6a39302"
+  ],
+  "automation": "",
+  "subCategory": "Medico centrifuges",
+  "category": "Laboratory Centrifuge",
+  "title": "Doctor Type Centrifuge Machine",
+  "model": "",
+  "size": "",
+  "throughput": "",
+  "price": "",
+  "uid": "laboratory-centrifuge-medico-centrifuges-7"
+}

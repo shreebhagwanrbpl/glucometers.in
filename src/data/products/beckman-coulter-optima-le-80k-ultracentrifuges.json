@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "category": "Laboratory Centrifuge",
+  "slug": "beckman-coulter-optima-le-80k-ultracentrifuges",
+  "subCategory": "Ultracentrifuge",
+  "price": "",
+  "automation": "",
+  "createdAt": "2026-08-07T06:56:45.470Z",
+  "availability": "",
+  "model": "",
+  "title": "Beckman Coulter Optima LE-80K Ultracentrifuges",
+  "throughput": "",
+  "size": "",
+  "instrument": "",
+  "pdf": "",
+  "capacity": "",
+  "parameters": "",
+  "categoryProductId": "U-17",
+  "isPublished": true,
+  "id": "4c91ffc5-8c1c-40e7-99dd-53f8dbb9732d",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FUltracentrifuge%2Fbeckman-optima-le-80k-500x500.jpg?alt=media&token=edee8e05-ac61-423a-b509-a8ddf4c78089"
+  ],
+  "usage": "",
+  "video": "",
+  "desc": "Optima LE-80K Ultracentrifuges perform common calculations such as CsCl speed reductions, run conversions, and more. ESP Efficient Sedimentation Program simulates separations to optimize run times. The imbalance-tolerant drive allows visual balancing of rotor loads and eliminates the need for operators to weigh individual samples. Features: Reliabi",
+  "uid": "laboratory-centrifuge-ultracentrifuge-16"
+}

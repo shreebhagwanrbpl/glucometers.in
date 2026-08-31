@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "availability": "",
+  "throughput": "",
+  "size": "",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "desc": "",
+  "createdAt": "2026-08-07T06:59:06.753Z",
+  "id": "50cd9b5a-47c0-4f54-8412-cd713f7e8ee9",
+  "subCategory": "Table Top Centrifuge",
+  "brand": "",
+  "slug": "li-0068-table-top-centrifuge-machine",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2Fli-0068-table-top-centrifuge-machine-500x500.jpg?alt=media&token=d1daa184-2dad-4723-be53-00dc9707952a"
+  ],
+  "categoryProductId": "TTC-49",
+  "category": "Pathology Lab Equipments",
+  "price": "₹ 1,13,200",
+  "pdf": "",
+  "parameters": "",
+  "isPublished": true,
+  "model": "",
+  "title": "LI-0068 Table Top Centrifuge Machine",
+  "instrument": "",
+  "uid": "pathology-lab-equipments-table-top-centrifuge-48"
+}

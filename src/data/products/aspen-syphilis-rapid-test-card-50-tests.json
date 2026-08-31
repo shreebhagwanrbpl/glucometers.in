@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "pdf": "",
+  "size": "",
+  "parameters": "",
+  "capacity": "",
+  "availability": "",
+  "subCategory": "RPR Syphilis Test Kit",
+  "instrument": "",
+  "price": "₹ 800",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FRPR%20Syphilis%20Test%20Kit%2Faspen-syphilis-rapid-test-card-500x500.JPG?alt=media&token=3a6240b4-0fa4-45c5-8dbd-1ebd265980bd"
+  ],
+  "createdAt": "2026-08-07T07:00:06.876Z",
+  "categoryProductId": "RSTK-23",
+  "desc": "",
+  "title": "Aspen Syphilis Rapid Test Card, 50 Tests",
+  "model": "",
+  "isPublished": true,
+  "slug": "aspen-syphilis-rapid-test-card-50-tests",
+  "category": "Rapid Test Kit",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "id": "74cc7549-72cc-49da-9da9-03ee13f08a01",
+  "uid": "rapid-test-kit-rpr-syphilis-test-kit-22"
+}

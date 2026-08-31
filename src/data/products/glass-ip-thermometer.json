@@ -1,0 +1,28 @@
+{
+  "subCategory": "IP Thermometer",
+  "desc": "",
+  "automation": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "availability": "",
+  "category": "Laboratory thermometer",
+  "size": "",
+  "isPublished": true,
+  "id": "b8ef3988-c14a-4dd7-82cb-08152acacd36",
+  "brand": "Contact Supplier",
+  "categoryProductId": "IT-11",
+  "slug": "glass-ip-thermometer",
+  "model": "",
+  "title": "Glass IP Thermometer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FIP%20Thermometer%2Fip-thermometer-500x500.jpg?alt=media&token=3379bef7-dd1e-4126-aa6b-a807903d1c0d"
+  ],
+  "instrument": "",
+  "capacity": "",
+  "price": "₹ 225",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:56:58.512Z",
+  "parameters": "",
+  "uid": "laboratory-thermometer-ip-thermometer-10"
+}

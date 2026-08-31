@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "isPublished": true,
+  "automation": "",
+  "size": "",
+  "throughput": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "id": "f614e5cc-42b3-43f6-9c63-b131163687d2",
+  "subCategory": "Laboratory Centrifuge",
+  "createdAt": "2026-08-07T06:56:25.245Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FLaboratory%20Centrifuge%2Flaboratory-centrifuge-for-blood-separation-500x500.jpg?alt=media&token=dbfc0b84-4fa5-4de8-a87f-70b226bba04c"
+  ],
+  "brand": "",
+  "slug": "for-blood-separation",
+  "category": "Laboratory Centrifuge",
+  "availability": "",
+  "price": "",
+  "instrument": "",
+  "categoryProductId": "LC-10",
+  "title": "(for blood separation)",
+  "model": "",
+  "parameters": "",
+  "uid": "laboratory-centrifuge-laboratory-centrifuge-9"
+}

@@ -1,0 +1,28 @@
+{
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "id": "42ad5a67-7f9a-460d-afe0-7ad70377e47c",
+  "createdAt": "2026-08-07T06:57:39.088Z",
+  "automation": "",
+  "size": "",
+  "capacity": "",
+  "desc": "",
+  "availability": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAccuSure%20Blood%20Glucose%20Test%20Strip%2Fphoto1655283036-2--500x500.jpeg?alt=media&token=7be5b22e-8d8b-4d50-bf4f-5477604455ad"
+  ],
+  "subCategory": "AccuSure Blood Glucose Test Strip",
+  "price": "",
+  "slug": "accusure-simple-blood-glucose-strip",
+  "category": "Other Categories",
+  "categoryProductId": "ABGTS-105",
+  "title": "Accusure Simple Blood Glucose Strip",
+  "model": "",
+  "parameters": "",
+  "brand": "",
+  "isPublished": true,
+  "instrument": "",
+  "uid": "other-categories-accusure-blood-glucose-test-strip-104"
+}

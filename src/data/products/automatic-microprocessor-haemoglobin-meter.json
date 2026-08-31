@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:55:54.033Z",
+  "pdf": "",
+  "id": "73615b16-4931-4d24-8118-f1ed68dc8103",
+  "category": "Ivds category",
+  "subCategory": "Hematology analyzers",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fbeaconic-b400-fully-automatic-clinical-chemistry-analyzer-500x500.jpg?alt=media&token=78312252-d14f-41f6-a1fb-32012f9de8e8"
+  ],
+  "categoryProductId": "HA-445",
+  "desc": "",
+  "automation": "",
+  "brand": "",
+  "parameters": "",
+  "capacity": "",
+  "slug": "automatic-microprocessor-haemoglobin-meter",
+  "instrument": "",
+  "price": "",
+  "isPublished": true,
+  "model": "",
+  "title": "Automatic Microprocessor Haemoglobin Meter",
+  "uid": "ivds-category-hematology-analyzers-444"
+}

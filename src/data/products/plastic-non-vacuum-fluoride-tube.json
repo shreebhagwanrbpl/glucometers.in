@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "throughput": "",
+  "pdf": "",
+  "automation": "",
+  "category": "Blood Collection Tubes",
+  "isPublished": true,
+  "slug": "plastic-non-vacuum-fluoride-tube",
+  "parameters": "",
+  "brand": "",
+  "instrument": "",
+  "id": "c2071ead-c295-46ce-807b-9a7c6ae702c2",
+  "createdAt": "2026-08-07T06:53:53.585Z",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FFluoride%20Tubes%2Fl-500x500.jpeg?alt=media&token=dd983f15-a2cd-4175-b713-51705a7d5573"
+  ],
+  "capacity": "",
+  "subCategory": "Fluoride Tubes",
+  "title": "Plastic Non Vacuum Fluoride Tube",
+  "model": "",
+  "categoryProductId": "FT-96",
+  "uid": "blood-collection-tubes-fluoride-tubes-95"
+}

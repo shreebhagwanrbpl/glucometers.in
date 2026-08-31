@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "model": "",
+  "title": "BLOOD  PP",
+  "id": "e4df6b6c-59fc-4ed8-ace4-b730673fd6a6",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FSafety%20lancet%2Fblood-lancet-pp-500x500.jpeg?alt=media&token=5d9b560f-3f5c-49d4-a6e2-60031b9e2dd0"
+  ],
+  "price": "",
+  "createdAt": "2026-08-07T06:53:23.322Z",
+  "instrument": "",
+  "slug": "blood-pp",
+  "brand": "",
+  "isPublished": true,
+  "parameters": "",
+  "automation": "",
+  "desc": "",
+  "categoryProductId": "SL-13",
+  "category": "Blood bank equipments",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "availability": "",
+  "subCategory": "Safety lancet",
+  "uid": "blood-bank-equipments-safety-lancet-12"
+}

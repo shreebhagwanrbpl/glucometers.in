@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "categoryProductId": "SCC-37",
+  "id": "e208d746-7938-4aca-9107-1ab907d537c5",
+  "title": "Automatic Sysmex Xn 330 Hematology Analyzer 6 Part",
+  "model": "",
+  "subCategory": "Sysmex Cell Counter",
+  "createdAt": "2026-08-07T07:00:53.953Z",
+  "size": "",
+  "desc": "",
+  "capacity": "",
+  "parameters": "",
+  "brand": "",
+  "pdf": "",
+  "instrument": "",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "slug": "automatic-sysmex-xn-330-hematology-analyzer-6-part",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fproduct-jpeg-500x500.jpg?alt=media&token=6f55ae83-86f6-4e86-b0c7-b9253a911426"
+  ],
+  "isPublished": true,
+  "automation": "",
+  "category": "Sysmex",
+  "uid": "sysmex-sysmex-cell-counter-36"
+}

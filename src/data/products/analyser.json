@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "SAA-37",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "availability": "",
+  "isPublished": true,
+  "throughput": "",
+  "slug": "analyser",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Biochemistry%20Analyzer%2FSemi%20auto%20analyser%2Fsemi-auto-analyser-500x500.png?alt=media&token=36c673d8-066b-40c4-8123-b86e98c14f6c"
+  ],
+  "automation": "",
+  "model": "",
+  "title": "Analyser",
+  "parameters": "",
+  "pdf": "",
+  "desc": "",
+  "price": "₹ 2,50,000",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:53:08.588Z",
+  "id": "d00808cd-9f13-4e3c-baf0-674542862656",
+  "category": "Biochemistry Analyzer",
+  "size": "",
+  "subCategory": "Semi auto analyser",
+  "brand": "",
+  "uid": "biochemistry-analyzer-semi-auto-analyser-36"
+}

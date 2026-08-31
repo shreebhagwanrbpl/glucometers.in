@@ -1,0 +1,28 @@
+{
+  "subCategory": "Microcentrifuge",
+  "instrument": "",
+  "price": "",
+  "parameters": "",
+  "slug": "neuation-mini-centrifuge",
+  "title": "Neuation Mini Centrifuge",
+  "model": "",
+  "availability": "",
+  "createdAt": "2026-08-07T06:56:27.743Z",
+  "category": "Laboratory Centrifuge",
+  "brand": "",
+  "categoryProductId": "M-74",
+  "size": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "id": "0f6d39e3-619e-470a-b9e4-20bb7565b1b1",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fneuation-centrifuge-500x500.png?alt=media&token=13bbc408-d855-4dde-8269-b827b1aa82ad"
+  ],
+  "automation": "",
+  "desc": "",
+  "throughput": "",
+  "capacity": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-73"
+}

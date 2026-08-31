@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "HTK-10",
+  "isPublished": true,
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHemoglobin%20Test%20Kit%2Fhba1c-test-kit-finecare-500x500.jpg?alt=media&token=bbad2656-a025-49e4-9b28-97eca6a7fb11"
+  ],
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "availability": "",
+  "id": "f3d89026-7701-41c7-a0b8-005fd49b4cd2",
+  "capacity": "",
+  "instrument": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:59:49.009Z",
+  "throughput": "",
+  "subCategory": "Hemoglobin Test Kit",
+  "model": "",
+  "title": "Finecare HbA1c Test Kit",
+  "automation": "",
+  "price": "₹ 2,875",
+  "category": "Rapid Test Kit",
+  "pdf": "",
+  "slug": "finecare-hba1c-test-kit",
+  "brand": "",
+  "uid": "rapid-test-kit-hemoglobin-test-kit-9"
+}

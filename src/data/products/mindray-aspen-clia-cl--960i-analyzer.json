@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "categoryProductId": "MCIA-31",
+  "availability": "",
+  "throughput": "",
+  "price": "",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Chemiluminescence%20Immunoassay%20Analyzer%2Fclia-analyzer-500x500.png?alt=media&token=2c725abb-e369-4601-b736-70c0630f74a9"
+  ],
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:57:20.281Z",
+  "title": "Mindray Aspen Clia  CL -960i Analyzer",
+  "model": "",
+  "automation": "",
+  "capacity": "",
+  "parameters": "",
+  "slug": "mindray-aspen-clia-cl--960i-analyzer",
+  "instrument": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "category": "Mindray",
+  "id": "5b1385bc-36b5-4fb2-ab82-061972827423",
+  "subCategory": "Mindray Chemiluminescence Immunoassay Analyzer",
+  "uid": "mindray-mindray-chemiluminescence-immunoassay-analyzer-30"
+}

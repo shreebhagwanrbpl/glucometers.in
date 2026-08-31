@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "subCategory": "RBC Pipette",
+  "size": "",
+  "availability": "",
+  "price": "₹ 25",
+  "capacity": "1 ml",
+  "desc": "",
+  "instrument": "",
+  "pdf": "",
+  "parameters": "",
+  "categoryProductId": "RP-16",
+  "model": "",
+  "title": "RBC Pipette With Tubing (100 Mark Graduation)",
+  "slug": "rbc-pipette-with-tubing-100-mark-graduation",
+  "createdAt": "2026-08-07T06:59:02.229Z",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FRBC%20Pipette%2Fproduct-jpeg-500x500.png?alt=media&token=3df75d23-5680-4181-87bb-a182699c6615"
+  ],
+  "throughput": "",
+  "isPublished": true,
+  "id": "35534dc5-2b18-468c-a8b4-f967a689f05d",
+  "usage": "",
+  "video": "",
+  "category": "Pathology Lab Equipments",
+  "uid": "pathology-lab-equipments-rbc-pipette-15"
+}

@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "title": "DESCO Plastic Round  , For Hospital",
+  "model": "",
+  "createdAt": "2026-08-07T06:53:17.404Z",
+  "price": "₹ 59",
+  "parameters": "",
+  "categoryProductId": "BL-26",
+  "pdf": "",
+  "subCategory": "Blood lancet",
+  "slug": "desco-plastic-round--for-hospital",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20lancet%2Flancet-plastic-round-blue-500x500.jpg?alt=media&token=d7e666a9-48e1-4892-b995-d0e2e010782a"
+  ],
+  "id": "84f619a8-df9b-4155-bf01-4f9b7f342392",
+  "brand": "",
+  "capacity": "",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "availability": "",
+  "isPublished": true,
+  "category": "Blood bank equipments",
+  "size": "",
+  "throughput": "",
+  "uid": "blood-bank-equipments-blood-lancet-25"
+}

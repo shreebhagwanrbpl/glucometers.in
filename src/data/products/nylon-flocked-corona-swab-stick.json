@@ -1,0 +1,28 @@
+{
+  "subCategory": "Corona Test Kit",
+  "price": "₹ 3",
+  "createdAt": "2026-08-07T06:59:36.070Z",
+  "slug": "nylon-flocked-corona-swab-stick",
+  "category": "Rapid Test Kit",
+  "model": "",
+  "title": "Nylon Flocked Corona Swab Stick",
+  "brand": "",
+  "availability": "",
+  "automation": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FCorona%20Test%20Kit%2Fproduct-jpeg-500x500.png?alt=media&token=e52d07e0-a8d3-4283-b2df-673c6aa969b6"
+  ],
+  "size": "",
+  "pdf": "",
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "isPublished": true,
+  "capacity": "",
+  "parameters": "",
+  "id": "98fbd1ce-f9f9-40bb-abcb-fdddbb126d35",
+  "desc": "",
+  "categoryProductId": "CTK-15",
+  "uid": "rapid-test-kit-corona-test-kit-14"
+}

@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "createdAt": "2026-08-07T06:53:53.591Z",
+  "desc": "floraid tube",
+  "capacity": "",
+  "parameters": "",
+  "categoryProductId": "FT-134",
+  "brand": "",
+  "instrument": "",
+  "subCategory": "Fluoride Tubes",
+  "title": "floraid tube",
+  "model": "",
+  "size": "",
+  "price": "",
+  "id": "fd654336-345a-4dc8-b9f6-dcbd4fd71809",
+  "category": "Blood Collection Tubes",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FFluoride%20Tubes%2Fdownload-64-500x500.jpg?alt=media&token=9ba86397-8f43-4800-beb3-3a86da395d92"
+  ],
+  "throughput": "",
+  "slug": "floraid-tube",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "uid": "blood-collection-tubes-fluoride-tubes-133"
+}

@@ -1,0 +1,28 @@
+{
+  "subCategory": "Blood lancet",
+  "createdAt": "2026-08-07T06:53:17.404Z",
+  "size": "",
+  "capacity": "",
+  "id": "d0120ce4-15f3-4fc1-8fc7-9cab47fca4ae",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20lancet%2F31-g-poc-lancet-500x500.png?alt=media&token=c9158576-dc05-4f8a-80a3-e353b4ea24bc"
+  ],
+  "desc": "",
+  "automation": "",
+  "brand": "",
+  "parameters": "",
+  "isPublished": true,
+  "availability": "",
+  "slug": "plastic-poc",
+  "pdf": "",
+  "categoryProductId": "BL-25",
+  "category": "Blood bank equipments",
+  "instrument": "",
+  "price": "₹ 50",
+  "title": "Plastic POC",
+  "model": "",
+  "uid": "blood-bank-equipments-blood-lancet-24"
+}

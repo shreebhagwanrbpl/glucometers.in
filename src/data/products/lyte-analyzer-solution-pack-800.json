@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "id": "1a5e6d0f-5199-43d8-8ec3-c4a6c4dfc53a",
+  "availability": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "isPublished": true,
+  "automation": "",
+  "category": "Ivds category",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FElectrolyte%20analyzer%2Fnew-product-500x500.jpg?alt=media&token=fdc8fb69-298c-4b12-b982-1630b5b91026"
+  ],
+  "pdf": "",
+  "size": "",
+  "title": "Lyte analyzer solution pack 800",
+  "model": "",
+  "price": "",
+  "subCategory": "Electrolyte analyzer",
+  "categoryProductId": "EA-15",
+  "slug": "lyte-analyzer-solution-pack-800",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:55:52.327Z",
+  "capacity": "",
+  "brand": "",
+  "instrument": "",
+  "uid": "ivds-category-electrolyte-analyzer-14"
+}

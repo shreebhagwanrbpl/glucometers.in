@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Automatic Sysmex XNL 330 Hematology Analyzers, 5 Part",
+  "capacity": "",
+  "isPublished": true,
+  "desc": "",
+  "price": "",
+  "instrument": "",
+  "size": "",
+  "availability": "",
+  "brand": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fsysmex-xnl-330-hematology-analyzers-500x500.png?alt=media&token=32cd728d-12ff-40c0-a68e-5849acea887c"
+  ],
+  "automation": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T07:00:53.952Z",
+  "subCategory": "Sysmex Cell Counter",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "category": "Sysmex",
+  "categoryProductId": "SCC-28",
+  "id": "dd8f96ec-7878-411e-8d01-798adf24bcdd",
+  "slug": "automatic-sysmex-xnl-330-hematology-analyzers-5-part",
+  "uid": "sysmex-sysmex-cell-counter-27"
+}

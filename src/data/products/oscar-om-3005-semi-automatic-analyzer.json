@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "capacity": "",
+  "subCategory": "Semi auto analyser",
+  "size": "",
+  "categoryProductId": "SAA-8",
+  "price": "₹ 1,00,000",
+  "desc": "",
+  "automation": "",
+  "model": "",
+  "title": "Oscar OM 3005 Semi Automatic Analyzer",
+  "id": "1c430385-3f14-41a0-8e7b-6c5cf8781c0d",
+  "throughput": "",
+  "instrument": "",
+  "slug": "oscar-om-3005-semi-automatic-analyzer",
+  "availability": "",
+  "category": "Biochemistry Analyzer",
+  "parameters": "",
+  "isPublished": true,
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Biochemistry%20Analyzer%2FSemi%20auto%20analyser%2Foscar-om-3005-semi-automatic-500x500.webp?alt=media&token=f78db519-fc1e-4297-89f0-ef1e6fb6ab13"
+  ],
+  "createdAt": "2026-08-07T06:53:08.587Z",
+  "uid": "biochemistry-analyzer-semi-auto-analyser-7"
+}

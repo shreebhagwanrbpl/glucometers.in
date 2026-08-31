@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "category": "Blood Collection Tubes",
+  "desc": "Available in all sizes. Also deals in other lab products.",
+  "subCategory": "Laboratory Non Vacuum Blood Collection Tube",
+  "size": "",
+  "throughput": "",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:54:06.318Z",
+  "parameters": "",
+  "pdf": "",
+  "brand": "",
+  "capacity": "",
+  "isPublished": true,
+  "id": "6b4c7c0d-b1d8-423f-9810-97be1a0d63e5",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FLaboratory%20Non%20Vacuum%20Blood%20Collection%20Tube%2Fimages-250x250.jpeg?alt=media&token=de0dd8ea-36f0-40ed-904a-b3ab27f5b51a"
+  ],
+  "model": "",
+  "title": "Non- Vacuum Tubes",
+  "slug": "non--vacuum-tubes",
+  "categoryProductId": "LNVBCT-307",
+  "price": "",
+  "uid": "blood-collection-tubes-laboratory-non-vacuum-blood-collection-tube-306"
+}

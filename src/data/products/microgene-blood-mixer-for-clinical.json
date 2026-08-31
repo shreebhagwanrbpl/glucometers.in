@@ -1,0 +1,28 @@
+{
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "capacity": "",
+  "size": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20Collection%20Mixer%20Machine%2Fproduct-jpeg-500x500.jpg?alt=media&token=9e9d792b-0ac8-4bed-ab84-f7954685bc64"
+  ],
+  "availability": "",
+  "pdf": "",
+  "desc": "",
+  "id": "74aabf72-f83f-45f0-b9cb-d643fd0d2505",
+  "createdAt": "2026-08-07T06:53:14.244Z",
+  "isPublished": true,
+  "category": "Blood bank equipments",
+  "price": "₹ 8,000",
+  "slug": "microgene-blood-mixer-for-clinical",
+  "title": "Microgene Blood Mixer, For Clinical",
+  "model": "",
+  "categoryProductId": "BCMM-34",
+  "parameters": "",
+  "brand": "",
+  "subCategory": "Blood Collection Mixer Machine",
+  "instrument": "",
+  "uid": "blood-bank-equipments-blood-collection-mixer-machine-33"
+}

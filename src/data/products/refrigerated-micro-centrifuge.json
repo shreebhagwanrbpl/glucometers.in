@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "brand": "",
+  "instrument": "",
+  "isPublished": true,
+  "parameters": "",
+  "availability": "",
+  "categoryProductId": "M-61",
+  "price": "",
+  "desc": "",
+  "capacity": "",
+  "title": "Refrigerated Micro Centrifuge",
+  "model": "",
+  "subCategory": "Microcentrifuge",
+  "pdf": "",
+  "slug": "refrigerated-micro-centrifuge",
+  "automation": "",
+  "createdAt": "2026-08-07T06:56:27.743Z",
+  "category": "Laboratory Centrifuge",
+  "usage": "",
+  "video": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Frefrigerated-microcentrifuge-500x500.jpg?alt=media&token=625895ed-3805-4684-9970-e10a7a6b52c3"
+  ],
+  "throughput": "",
+  "id": "1cba6b48-2073-4447-85e6-52cb2c9a9a71",
+  "uid": "laboratory-centrifuge-microcentrifuge-60"
+}

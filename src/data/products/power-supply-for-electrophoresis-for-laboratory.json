@@ -1,0 +1,28 @@
+{
+  "category": "Ivds category",
+  "id": "c607e9f1-416b-4991-9d35-b4d8d7a0a35c",
+  "price": "",
+  "size": "",
+  "pdf": "",
+  "title": "Power Supply For Electrophoresis, For Laboratory",
+  "model": "",
+  "brand": "",
+  "automation": "",
+  "isPublished": true,
+  "categoryProductId": "HA-232",
+  "createdAt": "2026-08-07T06:55:54.023Z",
+  "desc": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "availability": "",
+  "instrument": "",
+  "slug": "power-supply-for-electrophoresis-for-laboratory",
+  "capacity": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fmeril-merilyzer-autoquant-200-fully-biochemistry-analyzer-for-hospital-500x500.png?alt=media&token=7ab0ecc6-693e-45ff-8289-99c400863413"
+  ],
+  "subCategory": "Hematology analyzers",
+  "uid": "ivds-category-hematology-analyzers-231"
+}

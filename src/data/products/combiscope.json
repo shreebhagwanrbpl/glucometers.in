@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:58:11.010Z",
+  "capacity": "",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "desc": "",
+  "id": "1a192685-0f71-4ab0-8d45-fdcf7828caa2",
+  "instrument": "",
+  "isPublished": true,
+  "slug": "combiscope",
+  "availability": "",
+  "brand": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FHoriba%20Hematology%20Analyzers%2Fcombiscope-500x500-500x500.jpg?alt=media&token=165474d6-8c6a-4662-80ee-bdf44d079d90"
+  ],
+  "category": "Other Categories",
+  "automation": "",
+  "pdf": "",
+  "price": "",
+  "subCategory": "Horiba Hematology Analyzers",
+  "categoryProductId": "HHA-124",
+  "model": "",
+  "title": "CombiScope",
+  "uid": "other-categories-horiba-hematology-analyzers-123"
+}

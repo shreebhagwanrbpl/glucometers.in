@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "brand": "",
+  "category": "Ivds category",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FImmunoassay%20analyzer%2Ffa50-quantitative-immunoassay-analyzer-1-500x500.jpeg?alt=media&token=9c8ed497-c03a-4f6b-ae98-a97bc515529a"
+  ],
+  "parameters": "",
+  "id": "63cd893c-60cd-49fb-b956-ec1f0f27f8fa",
+  "model": "",
+  "title": "Genrui FA50 POCT Immunofluorescence Analyzer",
+  "instrument": "",
+  "price": "",
+  "slug": "genrui-fa50-poct-immunofluorescence-analyzer",
+  "throughput": "",
+  "pdf": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:56:01.751Z",
+  "automation": "",
+  "desc": "",
+  "categoryProductId": "IA-49",
+  "size": "",
+  "subCategory": "Immunoassay analyzer",
+  "video": "",
+  "usage": "",
+  "uid": "ivds-category-immunoassay-analyzer-48"
+}

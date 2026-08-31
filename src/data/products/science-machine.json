@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FLaboratory%20Centrifuge%2Fproduct-jpeg-500x500.jpg?alt=media&token=aae386f9-d18e-492a-b8fb-30a65316a6ee"
+  ],
+  "createdAt": "2026-08-07T06:56:25.245Z",
+  "availability": "",
+  "slug": "science-machine",
+  "parameters": "",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "subCategory": "Laboratory Centrifuge",
+  "brand": "",
+  "throughput": "",
+  "size": "",
+  "pdf": "",
+  "automation": "",
+  "id": "6faa78aa-15be-4839-ade1-68c5fe6bd881",
+  "price": "",
+  "category": "Laboratory Centrifuge",
+  "categoryProductId": "LC-6",
+  "isPublished": true,
+  "desc": "",
+  "model": "",
+  "title": "Science   Machine",
+  "uid": "laboratory-centrifuge-laboratory-centrifuge-5"
+}

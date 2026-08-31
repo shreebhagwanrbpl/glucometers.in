@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "parameters": "",
+  "instrument": "",
+  "brand": "",
+  "model": "",
+  "title": "Blood Roller Mixer",
+  "price": "₹ 1,999",
+  "createdAt": "2026-08-07T06:53:14.240Z",
+  "category": "Blood bank equipments",
+  "pdf": "",
+  "size": "",
+  "subCategory": "Blood Collection Mixer Machine",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20Collection%20Mixer%20Machine%2Froller-mixer-blood-roller-mixer-500x500.jpg?alt=media&token=5f410f21-8317-4a62-8aae-3854135956eb"
+  ],
+  "availability": "",
+  "id": "dc9181cd-04f4-458e-ba6a-8a7a8a1815af",
+  "slug": "blood-roller-mixer",
+  "capacity": "",
+  "throughput": "",
+  "categoryProductId": "BCMM-1",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "uid": "blood-bank-equipments-blood-collection-mixer-machine-0"
+}

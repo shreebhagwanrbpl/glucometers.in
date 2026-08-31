@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "desc": "",
+  "parameters": "",
+  "instrument": "",
+  "pdf": "",
+  "size": "",
+  "category": "Laboratory thermometer",
+  "id": "969bdbca-d540-43e9-a7d8-f96ccc5c426f",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "LT-12",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FLCD%20Thermometer%2Fproduct-jpeg-500x500.jpg?alt=media&token=5c6df430-9e25-4587-94a8-e62366065ac5"
+  ],
+  "subCategory": "LCD Thermometer",
+  "availability": "",
+  "createdAt": "2026-08-07T06:57:00.938Z",
+  "brand": "Contact Supplier",
+  "capacity": "",
+  "model": "",
+  "title": "Thermometer LCD Temperature",
+  "slug": "thermometer-lcd-temperature",
+  "throughput": "",
+  "price": "",
+  "automation": "",
+  "uid": "laboratory-thermometer-lcd-thermometer-11"
+}

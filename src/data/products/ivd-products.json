@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "C-27",
+  "parameters": "",
+  "instrument": "",
+  "size": "",
+  "category": "Pathology Lab Equipments",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "subCategory": "Coagulometer",
+  "slug": "ivd-products",
+  "availability": "",
+  "capacity": "",
+  "brand": "",
+  "id": "9493eae1-f7d7-4fb7-854a-06dbfc1f15f8",
+  "createdAt": "2026-08-07T06:58:45.660Z",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FCoagulometer%2Fivd-products-500x500.jpg?alt=media&token=55c661ca-c07d-4986-8ee2-f0fa6f874366"
+  ],
+  "throughput": "",
+  "title": "Ivd Products",
+  "model": "",
+  "isPublished": true,
+  "automation": "",
+  "uid": "pathology-lab-equipments-coagulometer-26"
+}

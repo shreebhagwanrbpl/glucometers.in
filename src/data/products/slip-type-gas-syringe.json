@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Slip Type Gas Syringe",
+  "parameters": "",
+  "price": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T07:00:22.567Z",
+  "categoryProductId": "GS-39",
+  "pdf": "",
+  "slug": "slip-type-gas-syringe",
+  "capacity": "",
+  "id": "3ee1dbc9-4abc-416e-a6a9-3a0432cb7d00",
+  "subCategory": "Gas Syringe",
+  "brand": "",
+  "availability": "",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "size": "",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2020/12/RH/RJ/FE/38453341/gas-syringe-500x500.jpg"
+  ],
+  "isPublished": true,
+  "category": "Syringe",
+  "automation": "",
+  "uid": "syringe-gas-syringe-38"
+}

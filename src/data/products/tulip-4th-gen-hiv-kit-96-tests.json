@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "brand": "",
+  "subCategory": "Elisa kits",
+  "size": "",
+  "pdf": "",
+  "parameters": "",
+  "capacity": "",
+  "availability": "",
+  "id": "b0525fb0-00d5-465d-a57c-1319af1e61e0",
+  "price": "₹ 3,000",
+  "desc": "",
+  "title": "TULIP 4TH GEN HIV  KIT, 96 Tests",
+  "model": "",
+  "category": "Rapid Test Kit",
+  "categoryProductId": "EK-7",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FElisa%20kits%2Ftulip-4th-gen-hiv-elisa-kit-500x500.png?alt=media&token=1424e1cc-24bc-4da1-98e6-b4f6683e5d30"
+  ],
+  "slug": "tulip-4th-gen-hiv-kit-96-tests",
+  "createdAt": "2026-08-07T06:59:43.400Z",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "uid": "rapid-test-kit-elisa-kits-6"
+}

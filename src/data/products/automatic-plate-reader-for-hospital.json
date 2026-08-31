@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "instrument": "",
+  "desc": "",
+  "pdf": "",
+  "parameters": "",
+  "capacity": "",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Elisa reader",
+  "availability": "",
+  "category": "Pathology Lab Equipments",
+  "id": "82c61873-7e53-4a5b-871c-b01697e5efc3",
+  "brand": "",
+  "categoryProductId": "ER-22",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20reader%2Fautomatic-elisa-plate-reader-500x500.jpg?alt=media&token=f6f3ebcd-5e61-48dd-ba03-8c0a4fcaa4d7"
+  ],
+  "automation": "",
+  "model": "",
+  "title": "Automatic  Plate Reader, For Hospital",
+  "slug": "automatic-plate-reader-for-hospital",
+  "createdAt": "2026-08-07T06:58:48.422Z",
+  "price": "₹ 1,90,000",
+  "throughput": "",
+  "uid": "pathology-lab-equipments-elisa-reader-21"
+}

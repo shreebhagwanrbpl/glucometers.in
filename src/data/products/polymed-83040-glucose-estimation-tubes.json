@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "size": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "isPublished": true,
+  "id": "2ced04ab-0a26-43cc-95eb-7725457c5d46",
+  "availability": "",
+  "capacity": "",
+  "desc": "",
+  "price": "",
+  "createdAt": "2026-08-07T06:53:53.611Z",
+  "subCategory": "Fluoride Tubes",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FFluoride%20Tubes%2Fwebp-net-resizeimage-74--500x500.png?alt=media&token=367ee819-2220-4c41-8447-96111a272146"
+  ],
+  "model": "",
+  "title": "Polymed 83040 Glucose Estimation Tubes",
+  "slug": "polymed-83040-glucose-estimation-tubes",
+  "brand": "",
+  "category": "Blood Collection Tubes",
+  "automation": "",
+  "categoryProductId": "FT-213",
+  "throughput": "",
+  "uid": "blood-collection-tubes-fluoride-tubes-212"
+}

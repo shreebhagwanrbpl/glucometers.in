@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "automation": "",
+  "id": "6d00202b-fba8-45fc-87fd-38c8f357ae48",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:57:15.376Z",
+  "category": "Mindray",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Cell%20Counter%2Fhematology-machine-500x500.jpeg?alt=media&token=dc06dc54-da07-4592-9630-a0d512b639ca"
+  ],
+  "subCategory": "Mindray Cell Counter",
+  "size": "",
+  "pdf": "",
+  "title": "Mindray Bc 2800 Cell Counter",
+  "model": "",
+  "price": "₹ 2,40,000",
+  "categoryProductId": "MCC-35",
+  "instrument": "",
+  "slug": "mindray-bc-2800-cell-counter",
+  "parameters": "",
+  "isPublished": true,
+  "brand": "",
+  "capacity": "",
+  "uid": "mindray-mindray-cell-counter-34"
+}

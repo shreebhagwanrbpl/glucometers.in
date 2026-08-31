@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FRBC%20Pipette%2Fred-rbc-capsules-250x250.jpg?alt=media&token=45d65a3b-1630-43d3-beba-cb391e8142e1"
+  ],
+  "brand": "",
+  "capacity": "",
+  "id": "368d4dad-dae5-4225-a4d6-7cab1014b16d",
+  "size": "",
+  "price": "",
+  "throughput": "",
+  "desc": "",
+  "categoryProductId": "RP-41",
+  "title": "Red RBC Capsules",
+  "model": "",
+  "automation": "",
+  "slug": "red-rbc-capsules",
+  "category": "Pathology Lab Equipments",
+  "parameters": "",
+  "subCategory": "RBC Pipette",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:59:02.232Z",
+  "pdf": "",
+  "availability": "",
+  "uid": "pathology-lab-equipments-rbc-pipette-40"
+}

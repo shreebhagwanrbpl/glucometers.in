@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:59:25.385Z",
+  "title": "Protein Analyzer",
+  "model": "",
+  "capacity": "",
+  "desc": "",
+  "price": "₹ 4,00,000",
+  "pdf": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "parameters": "",
+  "size": "",
+  "brand": "",
+  "instrument": "",
+  "throughput": "",
+  "id": "b889d2c2-3032-495a-a5c1-3787f45ba421",
+  "category": "Protein Analyzer",
+  "availability": "",
+  "isPublished": true,
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fprotein-analyzer-500x500.jpg?alt=media&token=28ec6ec5-8913-450d-ab6d-15c2bd0d6c7e"
+  ],
+  "usage": "",
+  "video": "",
+  "categoryProductId": "CSPA-68",
+  "slug": "protein-analyzer",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-67"
+}

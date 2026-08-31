@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2Fcentrifuge-rectangular-500x500.jpg?alt=media&token=a010dde8-e3ac-44e5-bde6-a14e4c85f936"
+  ],
+  "createdAt": "2026-08-07T06:59:04.718Z",
+  "category": "Pathology Lab Equipments",
+  "desc": "",
+  "brand": "",
+  "parameters": "",
+  "model": "",
+  "title": "Centrifuge Rectangular Research",
+  "size": "",
+  "isPublished": true,
+  "instrument": "",
+  "price": "₹ 32,000",
+  "capacity": "",
+  "throughput": "",
+  "availability": "",
+  "pdf": "",
+  "automation": "",
+  "id": "799468c3-9d6b-4103-af50-44d78728466e",
+  "slug": "centrifuge-rectangular-research",
+  "categoryProductId": "RC-11",
+  "usage": "",
+  "video": "",
+  "subCategory": "Research Centrifuge",
+  "uid": "pathology-lab-equipments-research-centrifuge-10"
+}

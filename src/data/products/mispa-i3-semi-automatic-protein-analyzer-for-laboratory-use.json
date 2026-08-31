@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "brand": "",
+  "instrument": "",
+  "size": "",
+  "category": "Protein Analyzer",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:59:25.385Z",
+  "price": "₹ 1,75,000",
+  "desc": "",
+  "model": "",
+  "title": "Mispa I3 Semi Automatic Protein Analyzer, For Laboratory Use",
+  "id": "b627beb0-cb43-45d0-81d5-c7cc9dd223bc",
+  "slug": "mispa-i3-semi-automatic-protein-analyzer-for-laboratory-use",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "capacity": "",
+  "categoryProductId": "CSPA-65",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fmispa-i3-500x500.png?alt=media&token=73494c8d-21ab-4fa5-ac60-89d3b4c3f962"
+  ],
+  "throughput": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-64"
+}

@@ -1,0 +1,28 @@
+{
+  "subCategory": "Cancer Detection Kit",
+  "brand": "",
+  "size": "",
+  "categoryProductId": "CDK-35",
+  "price": "",
+  "desc": "",
+  "capacity": "",
+  "automation": "",
+  "id": "eaeb61b5-a858-483f-9931-56690f9814a0",
+  "model": "",
+  "title": "Cancer Diagnosis Test",
+  "createdAt": "2026-08-07T06:59:31.535Z",
+  "throughput": "",
+  "instrument": "",
+  "slug": "cancer-diagnosis-test",
+  "isPublished": true,
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FCancer%20Detection%20Kit%2Fv-250x250.jpg?alt=media&token=37031047-fa14-4265-8fe8-559cdb94e1d6"
+  ],
+  "category": "Rapid Test Kit",
+  "availability": "",
+  "uid": "rapid-test-kit-cancer-detection-kit-34"
+}

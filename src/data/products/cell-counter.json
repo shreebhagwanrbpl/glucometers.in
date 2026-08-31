@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "HA-157",
+  "pdf": "",
+  "throughput": "",
+  "brand": "",
+  "desc": "",
+  "subCategory": "Hematology analyzers",
+  "automation": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fcell-scan-60-plus-hematology-analyzer-500x500.jpg?alt=media&token=19c18517-5900-4b50-970a-844bac8ea8e0"
+  ],
+  "model": "",
+  "title": "Cell Counter",
+  "category": "Ivds category",
+  "price": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:55:54.019Z",
+  "availability": "",
+  "capacity": "",
+  "parameters": "",
+  "id": "75d0853e-0b7c-40da-8602-d5d2be564f1d",
+  "slug": "cell-counter",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "uid": "ivds-category-hematology-analyzers-156"
+}

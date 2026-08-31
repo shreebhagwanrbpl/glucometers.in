@@ -1,0 +1,28 @@
+{
+  "id": "791d8ba6-1e3c-4dae-8a14-50382a832070",
+  "instrument": "",
+  "isPublished": true,
+  "parameters": "",
+  "capacity": "",
+  "brand": "",
+  "categoryProductId": "DT-15",
+  "pdf": "",
+  "model": "",
+  "title": "Steel Analog  Temperature Gauge",
+  "availability": "",
+  "slug": "steel-analog-temperature-gauge",
+  "price": "₹ 900",
+  "category": "Laboratory thermometer",
+  "subCategory": "Dial thermometer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FDial%20thermometer%2Fdial-temperature-gauge-500x500.jpg?alt=media&token=525544ce-7f0e-4547-aca2-1e210cd02f42"
+  ],
+  "desc": "",
+  "createdAt": "2026-08-07T06:56:52.556Z",
+  "automation": "",
+  "size": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "uid": "laboratory-thermometer-dial-thermometer-14"
+}

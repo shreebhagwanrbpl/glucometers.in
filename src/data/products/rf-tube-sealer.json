@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "throughput": "",
+  "brand": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20bag%20tube%2Frf-tube-sealer-500x500.jpg?alt=media&token=b27a8d4c-058b-411f-a108-88e005c1323e"
+  ],
+  "pdf": "",
+  "automation": "",
+  "id": "8d51e19b-4181-46f9-a376-57329ddb6ef0",
+  "createdAt": "2026-08-07T06:53:11.593Z",
+  "price": "",
+  "isPublished": true,
+  "desc": "",
+  "availability": "",
+  "model": "",
+  "title": "RF Tube Sealer",
+  "slug": "rf-tube-sealer",
+  "category": "Blood bank equipments",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "categoryProductId": "BBT-24",
+  "instrument": "",
+  "subCategory": "Blood bag tube",
+  "uid": "blood-bank-equipments-blood-bag-tube-23"
+}

@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "CTSTS-100",
+  "instrument": "",
+  "price": "",
+  "id": "49741edf-37db-42ce-91e6-5b76d61750af",
+  "title": "Ts-289",
+  "model": "",
+  "category": "Other Categories",
+  "parameters": "",
+  "size": "",
+  "subCategory": "Contour Ts Sugar Test Strips",
+  "desc": "",
+  "brand": "",
+  "usage": "",
+  "video": "",
+  "slug": "ts-289",
+  "capacity": "",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FContour%20Ts%20Sugar%20Test%20Strips%2Fts-289-500x500.jpeg?alt=media&token=425283f8-c016-4d87-a9e7-bcd2f9a06e27"
+  ],
+  "automation": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:57:55.203Z",
+  "throughput": "",
+  "pdf": "",
+  "uid": "other-categories-contour-ts-sugar-test-strips-99"
+}

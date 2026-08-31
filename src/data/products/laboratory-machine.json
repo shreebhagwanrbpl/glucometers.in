@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "instrument": "",
+  "desc": "",
+  "parameters": "",
+  "brand": "",
+  "id": "fd6bbfa5-c5d2-4cb9-876e-abc47c62d5b4",
+  "model": "",
+  "title": "Laboratory   Machine",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:58:47.305Z",
+  "price": "₹ 9,000",
+  "availability": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FDigital%20centrifuge%20machine%2Fproduct-jpeg-500x500.jpg?alt=media&token=ea60c9ac-1332-4879-9fb5-d32c570ae7b9"
+  ],
+  "subCategory": "Digital centrifuge machine",
+  "categoryProductId": "DCM-11",
+  "slug": "laboratory-machine",
+  "automation": "",
+  "category": "Pathology Lab Equipments",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "uid": "pathology-lab-equipments-digital-centrifuge-machine-10"
+}

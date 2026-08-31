@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "throughput": "",
+  "desc": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FBoditech%20Immunoassay%20Analyzer%2Fboditech-i-chroma-iii-500x500.jpg?alt=media&token=897c566b-0cd3-4cd3-8eea-17b9b2284921"
+  ],
+  "size": "",
+  "capacity": "",
+  "isPublished": true,
+  "categoryProductId": "BIA-40",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "brand": "Boditech",
+  "id": "239859b4-64cb-4a06-930a-c99ffb709067",
+  "title": "Boditech I Chroma III Diagnostic Immuno Analyzer",
+  "model": "",
+  "parameters": "",
+  "slug": "boditech-i-chroma-iii-diagnostic-immuno-analyzer",
+  "category": "Pathology Lab Equipments",
+  "subCategory": "Boditech Immunoassay Analyzer",
+  "price": "₹ 2,50,000",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:58:44.365Z",
+  "uid": "pathology-lab-equipments-boditech-immunoassay-analyzer-39"
+}

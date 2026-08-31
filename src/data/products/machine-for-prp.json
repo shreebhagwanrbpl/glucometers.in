@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "category": "Laboratory Centrifuge",
+  "pdf": "",
+  "isPublished": true,
+  "automation": "",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "desc": "",
+  "id": "d7932b1f-45ca-4e19-ba5e-3df79176dfca",
+  "createdAt": "2026-08-07T06:56:31.387Z",
+  "brand": "",
+  "instrument": "",
+  "subCategory": "Prp centrifuge",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FPrp%20centrifuge%2Fcentrifuge-machine-for-prp-500x500.jpg?alt=media&token=96884ff4-c019-4224-878a-92179b7160de"
+  ],
+  "parameters": "",
+  "capacity": "",
+  "slug": "machine-for-prp",
+  "categoryProductId": "PC-7",
+  "price": "",
+  "title": "Machine for PRP",
+  "model": "",
+  "uid": "laboratory-centrifuge-prp-centrifuge-6"
+}

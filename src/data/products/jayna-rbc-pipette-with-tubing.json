@@ -1,0 +1,28 @@
+{
+  "capacity": "10 ml",
+  "desc": "",
+  "pdf": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FRBC%20Pipette%2Frbc-pipette-500x500.png?alt=media&token=55c2c366-09b0-440b-bbb1-b10073132daf"
+  ],
+  "size": "",
+  "isPublished": true,
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "categoryProductId": "RP-18",
+  "automation": "",
+  "availability": "",
+  "id": "34667c65-a4c4-494b-b69a-f9fe57b644a1",
+  "throughput": "",
+  "brand": "",
+  "category": "Pathology Lab Equipments",
+  "subCategory": "RBC Pipette",
+  "title": "JAYNA RBC Pipette With Tubing",
+  "model": "",
+  "createdAt": "2026-08-07T06:59:02.229Z",
+  "slug": "jayna-rbc-pipette-with-tubing",
+  "price": "₹ 20",
+  "uid": "pathology-lab-equipments-rbc-pipette-17"
+}

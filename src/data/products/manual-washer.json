@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "brand": "",
+  "categoryProductId": "EW-115",
+  "isPublished": true,
+  "title": "Manual Washer",
+  "model": "",
+  "capacity": "",
+  "throughput": "",
+  "slug": "manual-washer",
+  "price": "",
+  "automation": "",
+  "createdAt": "2026-08-07T06:58:49.935Z",
+  "desc": "",
+  "parameters": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2F2-250x250.jpg?alt=media&token=a2f0945a-70d6-40b9-9ba6-10a12d209802"
+  ],
+  "pdf": "",
+  "id": "3110a0a0-bb85-45b4-9160-296a60fef41c",
+  "subCategory": "Elisa Washer",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "category": "Pathology Lab Equipments",
+  "uid": "pathology-lab-equipments-elisa-washer-114"
+}

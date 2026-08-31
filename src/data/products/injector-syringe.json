@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "price": "",
+  "slug": "injector-syringe",
+  "model": "",
+  "title": "Injector Syringe",
+  "images": [
+    "https://3.imimg.com/data3/YK/EK/MY-8480993/syringes-250x250.jpg"
+  ],
+  "brand": "",
+  "parameters": "",
+  "instrument": "",
+  "isPublished": true,
+  "size": "",
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T07:00:40.242Z",
+  "throughput": "",
+  "category": "Syringe",
+  "pdf": "",
+  "id": "ae44fe8c-ba84-443b-adab-e38ef421baee",
+  "automation": "",
+  "desc": "",
+  "subCategory": "Syringe Injector",
+  "availability": "",
+  "categoryProductId": "SI-49",
+  "uid": "syringe-syringe-injector-48"
+}

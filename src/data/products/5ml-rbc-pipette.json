@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "isPublished": true,
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FRBC%20Pipette%2Fblood-diluting-pipettes-w-b-c-with-rubber-and-mouth-piece-500x500.jpg?alt=media&token=ba6cedda-4666-42e8-9c43-e50d4cc8fdd8"
+  ],
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "capacity": "30ml",
+  "size": "",
+  "availability": "",
+  "model": "",
+  "title": "5ml Rbc Pipette",
+  "subCategory": "RBC Pipette",
+  "price": "₹ 12",
+  "throughput": "",
+  "id": "8ae5378f-6452-428c-9c59-9d053bd09368",
+  "createdAt": "2026-08-07T06:59:02.230Z",
+  "category": "Pathology Lab Equipments",
+  "slug": "5ml-rbc-pipette",
+  "automation": "",
+  "brand": "",
+  "categoryProductId": "RP-26",
+  "uid": "pathology-lab-equipments-rbc-pipette-25"
+}

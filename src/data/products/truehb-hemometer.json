@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "categoryProductId": "H-105",
+  "subCategory": "Haemometer",
+  "slug": "truehb-hemometer",
+  "parameters": "",
+  "id": "9ccb121d-dca6-4d95-a37c-d18aada9017b",
+  "video": "",
+  "usage": "",
+  "category": "Hematology analyzers",
+  "createdAt": "2026-08-07T06:55:32.805Z",
+  "isPublished": true,
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHaemometer%2Fimg-3819-jpg-500x500.jpg?alt=media&token=23df62f5-28f3-48d2-b8cc-13f87ca77095"
+  ],
+  "size": "",
+  "capacity": "",
+  "automation": "",
+  "price": "",
+  "pdf": "",
+  "desc": "TrueHb Hemometer",
+  "throughput": "",
+  "title": "TrueHb Hemometer",
+  "model": "",
+  "availability": "",
+  "uid": "hematology-analyzers-haemometer-104"
+}

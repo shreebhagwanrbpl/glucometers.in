@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "isPublished": true,
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fsysmex-hematology-analyses-250x250.jpg?alt=media&token=60bc2697-3ca2-4bf8-a30d-78888b2f584b"
+  ],
+  "categoryProductId": "SCC-96",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "throughput": "",
+  "slug": "sysmex-hematology-analyses",
+  "automation": "",
+  "subCategory": "Sysmex Cell Counter",
+  "title": "Sysmex  (Hematology Analyses)",
+  "model": "",
+  "parameters": "",
+  "instrument": "",
+  "desc": "",
+  "createdAt": "2026-08-07T07:00:53.956Z",
+  "price": "",
+  "size": "",
+  "brand": "",
+  "category": "Sysmex",
+  "id": "82da7f3e-70cd-48d5-a754-9d0cad6ae443",
+  "uid": "sysmex-sysmex-cell-counter-95"
+}

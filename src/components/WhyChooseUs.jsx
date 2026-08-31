@@ -15,26 +15,22 @@ export default function WhyChooseUs() {
     {
       icon: <Microscope size={30} />,
       title: "Advanced Technology",
-      description:
-        "Modern biomedical and diagnostic equipment for accurate healthcare solutions.",
+      description: "High-precision digital glucose sensors designed for consistent blood sugar readings and daily clinical safety.",
     },
     {
       icon: <ShieldCheck size={30} />,
       title: "Trusted Quality",
-      description:
-        "Reliable and certified diagnostic systems with premium quality standards.",
+      description: "Quality-tested glucose meters manufactured for reliable diagnostic accuracy and long-term diabetes care.",
     },
     {
       icon: <HeartPulse size={30} />,
       title: "Healthcare Focused",
-      description:
-        "Delivering healthcare-driven biomedical solutions with precision and care.",
+      description: "Supporting home users and clinics in adopting reliable blood sugar tracking devices with direct warranty support.",
     },
     {
       icon: <BadgeCheck size={30} />,
       title: "Expert Support",
-      description:
-        "Professional consultation and technical support for all medical needs.",
+      description: "Prompt customer support and calibration guidance for all blood glucose monitoring kits and diabetes tools.",
     },
   ];
 
@@ -50,9 +46,9 @@ export default function WhyChooseUs() {
 
         {/* Section Title */}
         <SectionTitle
-          badge="Why Choose Us"
-          title="Trusted Biomedical Excellence"
-          description="We deliver innovative diagnostic technologies and biomedical solutions with precision, trust, and unmatched service quality."
+          badge="Why Buyers Choose Our Glucose Solutions"
+          title="Accurate Glucose Monitoring Systems"
+          description="We offer easy-to-use digital blood sugar monitors, original diabetes care kits, and responsive customer guidance."
           center
         />
 

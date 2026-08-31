@@ -7,13 +7,9 @@ import Image from "next/image";
 import { doc, getDoc } from "firebase/firestore";
 import { db } from "@/lib/firebase";
 
-import CBG from "../components/img/CBG.png";
-
 import {
   ArrowRight,
   ShieldCheck,
-  Microscope,
-  BadgeCheck,
 } from "lucide-react";
 
 export default function HeroSection({ city }) {
@@ -30,7 +26,13 @@ export default function HeroSection({ city }) {
     const fetchHeroData = async () => {
       try {
         const snap = await getDoc(
-          doc(db, "websites", "centralbiomedicals", "pages", "home")
+          doc(
+            db,
+            "websites",
+            "glucometersin",
+            "pages",
+            "home"
+          )
         );
 
         if (snap.exists()) {
@@ -52,33 +54,95 @@ export default function HeroSection({ city }) {
     : "";
 
   const makeLink = (path) => {
-    return districtSlug ? `/${districtSlug}${path}` : path;
+    return districtSlug
+      ? `/${districtSlug}${path}`
+      : path;
   };
 
   return (
-    <section className="gradient-bg overflow-hidden">
-      <div className="container-custom min-h-[85vh] py-20 lg:py-0 grid lg:grid-cols-2 gap-14 items-center">
+    <section className="relative isolate min-h-[680px] overflow-hidden bg-white">
 
-        {/* Left Content */}
+      {/* =====================================================
+          BACKGROUND IMAGE
+      ===================================================== */}
+
+      <div className="absolute inset-0 -z-20">
+
+        <Image
+          src="/biomedical-lab-banner.png"
+          alt="Modern Biomedical Laboratory"
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover object-center lg:object-right"
+        />
+
+      </div>
+
+      {/* =====================================================
+          LEFT WHITE OVERLAY
+      ===================================================== */}
+
+      <div className="absolute inset-0 -z-10 bg-gradient-to-r from-white via-white/98 via-[45%] to-white/20" />
+
+      {/* =====================================================
+          SOFT CYAN OVERLAY
+      ===================================================== */}
+
+      <div className="absolute inset-0 -z-10 bg-gradient-to-br from-cyan-50/30 via-transparent to-sky-100/10" />
+
+      {/* =====================================================
+          CONTENT
+      ===================================================== */}
+
+      <div className="container-custom relative z-10 min-h-[680px] flex items-center">
+
         <motion.div
-          initial={{ opacity: 0, y: 70 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.7 }}
+          initial={{
+            opacity: 0,
+            x: -50,
+          }}
+          animate={{
+            opacity: 1,
+            x: 0,
+          }}
+          transition={{
+            duration: 0.8,
+            ease: "easeOut",
+          }}
+          className="w-full max-w-[680px] py-24 lg:py-20"
         >
 
-          {/* Badge */}
-          <div className="inline-flex items-center gap-2 rounded-full border border-cyan-200 bg-cyan-50/80 backdrop-blur-md px-4 py-2 text-sm font-semibold text-cyan-700 shadow-sm mb-7">
-            <ShieldCheck size={18} className="text-cyan-600" />
+          {/* =================================================
+              BADGE
+          ================================================= */}
+
+          <div className="mb-7 inline-flex items-center gap-2 rounded-full border border-cyan-200 bg-white/85 px-4 py-2 text-sm font-semibold text-cyan-700 shadow-sm backdrop-blur-md">
+
+            <ShieldCheck
+              size={18}
+              className="text-cyan-600"
+            />
+
             Trusted Biomedical Systems
+
           </div>
 
-          {/* Title */}
-          <h1 className="text-4xl sm:text-5xl lg:text-7xl font-extrabold leading-tight text-cyan-950 tracking-tight">
+          {/* =================================================
+              TITLE
+          ================================================= */}
+
+          <h1 className="text-4xl font-extrabold leading-[1.08] tracking-tight text-cyan-950 sm:text-5xl lg:text-6xl">
+
             {loading ? (
               <div className="animate-pulse space-y-4">
-                <div className="h-12 rounded-xl bg-cyan-100 w-[80%]" />
-                <div className="h-12 rounded-xl bg-cyan-100 w-[60%]" />
-                <div className="h-12 rounded-xl bg-cyan-100 w-[70%]" />
+
+                <div className="h-14 w-[90%] rounded-xl bg-cyan-100" />
+
+                <div className="h-14 w-[75%] rounded-xl bg-cyan-100" />
+
+                <div className="h-14 w-[85%] rounded-xl bg-cyan-100" />
+
               </div>
             ) : (
               <>
@@ -87,6 +151,7 @@ export default function HeroSection({ city }) {
                 {city && (
                   <>
                     <br />
+
                     <span className="bg-gradient-to-r from-cyan-600 via-sky-500 to-cyan-400 bg-clip-text text-2xl font-bold text-transparent lg:text-4xl">
                       in {city}
                     </span>
@@ -94,18 +159,28 @@ export default function HeroSection({ city }) {
                 )}
               </>
             )}
+
           </h1>
 
-          {/* Description */}
+          {/* =================================================
+              DESCRIPTION
+          ================================================= */}
+
           {loading ? (
             <div className="mt-7 animate-pulse space-y-3">
-              <div className="h-4 rounded bg-cyan-100 w-full" />
-              <div className="h-4 rounded bg-cyan-100 w-[90%]" />
-              <div className="h-4 rounded bg-cyan-100 w-[75%]" />
+
+              <div className="h-4 w-full rounded bg-cyan-100" />
+
+              <div className="h-4 w-[90%] rounded bg-cyan-100" />
+
+              <div className="h-4 w-[75%] rounded bg-cyan-100" />
+
             </div>
           ) : (
             <p className="mt-7 max-w-xl text-lg leading-8 text-cyan-900/75">
+
               {heroData.description}
+
               {city && (
                 <>
                   {" "}
@@ -115,142 +190,112 @@ export default function HeroSection({ city }) {
                   </strong>
                 </>
               )}
+
             </p>
           )}
 
-          {/* Buttons */}
+          {/* =================================================
+              BUTTONS
+          ================================================= */}
+
           <div className="mt-10 flex flex-col gap-4 sm:flex-row">
+
             {loading ? (
               <>
-                <div className="h-12 w-44 animate-pulse rounded-xl bg-cyan-100" />
-                <div className="h-12 w-36 animate-pulse rounded-xl bg-cyan-100" />
+                <div className="h-14 w-48 animate-pulse rounded-xl bg-cyan-100" />
+
+                <div className="h-14 w-40 animate-pulse rounded-xl bg-cyan-100" />
               </>
             ) : (
               <>
-                <Link href={makeLink("/services")}>
+                <Link href={makeLink("/items")}>
+
                   <button className="group flex items-center gap-2 rounded-xl bg-gradient-to-r from-cyan-600 to-sky-500 px-7 py-4 font-semibold text-white shadow-lg shadow-cyan-300/40 transition-all duration-300 hover:-translate-y-1 hover:shadow-cyan-400/50">
-                    {heroData.button1Text || "Explore Services"}
+
+                    {heroData.button1Text ||
+                      "Explore Products"}
 
                     <ArrowRight
                       size={18}
                       className="transition-transform duration-300 group-hover:translate-x-1"
                     />
+
                   </button>
+
                 </Link>
 
                 <Link href={makeLink("/contact")}>
-                  <button className="rounded-xl border border-cyan-200 bg-white/80 px-7 py-4 font-semibold text-cyan-700 backdrop-blur transition-all duration-300 hover:border-cyan-400 hover:bg-cyan-50 hover:shadow-lg">
-                    {heroData.button2Text || "Contact Us"}
+
+                  <button className="rounded-xl border border-cyan-200 bg-white/85 px-7 py-4 font-semibold text-cyan-700 shadow-sm backdrop-blur-md transition-all duration-300 hover:-translate-y-1 hover:border-cyan-400 hover:bg-cyan-50 hover:shadow-lg">
+
+                    {heroData.button2Text ||
+                      "Contact Us"}
+
                   </button>
+
                 </Link>
               </>
             )}
+
           </div>
 
-          {/* Stats */}
-          <div className="mt-14 flex flex-wrap gap-6">
+          {/* =================================================
+              STATS
+          ================================================= */}
 
-            <div className="rounded-2xl border border-cyan-100 bg-white/70 px-6 py-5 shadow-md backdrop-blur-md transition hover:-translate-y-1 hover:shadow-xl">
+          <div className="mt-14 flex flex-wrap gap-4 sm:gap-5">
+
+            {/* Stat 1 */}
+            <div className="rounded-2xl border border-cyan-100 bg-white/80 px-5 py-4 shadow-md backdrop-blur-md transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
+
               <h3 className="bg-gradient-to-r from-cyan-600 to-sky-500 bg-clip-text text-3xl font-bold text-transparent">
                 10+
               </h3>
-              <p className="mt-1 text-cyan-900/70">
+
+              <p className="mt-1 text-sm font-medium text-cyan-900/70">
                 Years Experience
               </p>
+
             </div>
 
-            <div className="rounded-2xl border border-cyan-100 bg-white/70 px-6 py-5 shadow-md backdrop-blur-md transition hover:-translate-y-1 hover:shadow-xl">
+            {/* Stat 2 */}
+            <div className="rounded-2xl border border-cyan-100 bg-white/80 px-5 py-4 shadow-md backdrop-blur-md transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
+
               <h3 className="bg-gradient-to-r from-cyan-600 to-sky-500 bg-clip-text text-3xl font-bold text-transparent">
                 500+
               </h3>
-              <p className="mt-1 text-cyan-900/70">
+
+              <p className="mt-1 text-sm font-medium text-cyan-900/70">
                 Products Delivered
               </p>
+
             </div>
 
-            <div className="rounded-2xl border border-cyan-100 bg-white/70 px-6 py-5 shadow-md backdrop-blur-md transition hover:-translate-y-1 hover:shadow-xl">
+            {/* Stat 3 */}
+            <div className="rounded-2xl border border-cyan-100 bg-white/80 px-5 py-4 shadow-md backdrop-blur-md transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
+
               <h3 className="bg-gradient-to-r from-cyan-600 to-sky-500 bg-clip-text text-3xl font-bold text-transparent">
                 100%
               </h3>
-              <p className="mt-1 text-cyan-900/70">
+
+              <p className="mt-1 text-sm font-medium text-cyan-900/70">
                 Quality Assurance
               </p>
+
             </div>
 
           </div>
-
-        </motion.div>
-
-        {/* Right Side */}
-        <motion.div
-          initial={{ opacity: 0, x: 80 }}
-          animate={{ opacity: 1, x: 0 }}
-          transition={{ duration: 0.8 }}
-          className="relative"
-        >
-
-          {/* Main Image Card */}
-          <div className="rounded-[40px] border border-cyan-100/70 bg-white/50 p-5 backdrop-blur-xl shadow-[0_20px_60px_rgba(8,145,178,0.15)]">
-
-            <Image
-              src={CBG}
-              alt="Central Biomedical"
-              width={1200}
-              height={900}
-              className="h-[350px] w-full rounded-[30px] object-cover object-[20%_center] sm:h-[450px] lg:h-[550px]"
-            />
-
-          </div>
-
-          {/* Floating Card 1 */}
-          <div
-            className="absolute -left-10 top-10 hidden lg:flex items-center gap-4 rounded-3xl border border-cyan-100 bg-white/70 px-5 py-4 backdrop-blur-xl shadow-[0_15px_40px_rgba(8,145,178,0.18)] transition-all duration-300 hover:-translate-y-2 hover:shadow-[0_20px_50px_rgba(8,145,178,0.25)]"
-            style={{ marginTop: "-27px" }}
-          >
-
-            <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-cyan-500 to-sky-500 text-white shadow-lg shadow-cyan-300/40">
-              <Microscope size={26} />
-            </div>
-
-            <div>
-              <h4 className="font-bold text-cyan-950">
-                Modern Labs
-              </h4>
-
-              <p className="text-sm text-cyan-900/70">
-                Precision Equipment
-              </p>
-            </div>
-
-          </div>
-
-          {/* Floating Card 2 */}
-          <div className="absolute -right-8 bottom-10 hidden lg:flex items-center gap-4 rounded-3xl border border-cyan-100 bg-white/70 px-5 py-4 backdrop-blur-xl shadow-[0_15px_40px_rgba(8,145,178,0.18)] transition-all duration-300 hover:-translate-y-2 hover:shadow-[0_20px_50px_rgba(8,145,178,0.25)]">
-
-            <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-cyan-500 to-sky-500 text-white shadow-lg shadow-cyan-300/40">
-              <BadgeCheck size={26} />
-            </div>
-
-            <div>
-              <h4 className="font-bold text-cyan-950">
-                Trusted Quality
-              </h4>
-
-              <p className="text-sm text-cyan-900/70">
-                Certified Solutions
-              </p>
-            </div>
-
-          </div>
-
-          {/* Glow Effects */}
-          <div className="absolute -top-10 -right-10 -z-10 h-44 w-44 rounded-full bg-cyan-300/30 blur-[90px]" />
-
-          <div className="absolute -bottom-10 -left-10 -z-10 h-52 w-52 rounded-full bg-sky-300/20 blur-[100px]" />
 
         </motion.div>
 
       </div>
+
+      {/* =====================================================
+          BOTTOM FADE
+      ===================================================== */}
+
+      <div className="pointer-events-none absolute bottom-0 left-0 right-0 z-0 h-24 bg-gradient-to-t from-white/40 to-transparent" />
+
     </section>
   );
 }

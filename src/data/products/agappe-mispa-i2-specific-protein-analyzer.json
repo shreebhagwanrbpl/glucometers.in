@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "CSPA-76",
+  "size": "",
+  "instrument": "",
+  "capacity": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "isPublished": true,
+  "parameters": "",
+  "id": "36cbf1ee-a326-4953-bd29-63f419f91d4d",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fagappe-mispa-i2-specific-protein-analyzer-500x500.png?alt=media&token=806faadd-903b-4ad4-8d8b-4d195dd21253"
+  ],
+  "slug": "agappe-mispa-i2-specific-protein-analyzer",
+  "brand": "",
+  "throughput": "",
+  "availability": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "price": "",
+  "category": "Protein Analyzer",
+  "model": "",
+  "title": "Agappe Mispa I2 Specific Protein Analyzer",
+  "createdAt": "2026-08-07T06:59:25.386Z",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-75"
+}

@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "capacity": "",
+  "brand": "",
+  "desc": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FLaboratory%20Non%20Vacuum%20Blood%20Collection%20Tube%2Fk3-edta-2ml-non-vacuum-jpg-500x500.jpg?alt=media&token=8c80672f-eb5d-4d4d-814d-d052417ac8b9"
+  ],
+  "subCategory": "Laboratory Non Vacuum Blood Collection Tube",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:54:06.316Z",
+  "title": "Non Vacuum Vail",
+  "model": "",
+  "parameters": "",
+  "price": "",
+  "automation": "",
+  "categoryProductId": "LNVBCT-289",
+  "availability": "",
+  "throughput": "",
+  "category": "Blood Collection Tubes",
+  "isPublished": true,
+  "id": "378ef43c-4dd2-4fed-a95c-4925369bf224",
+  "slug": "non-vacuum-vail",
+  "usage": "",
+  "video": "",
+  "uid": "blood-collection-tubes-laboratory-non-vacuum-blood-collection-tube-288"
+}

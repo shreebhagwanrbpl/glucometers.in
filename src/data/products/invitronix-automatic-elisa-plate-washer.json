@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "brand": "Invitronix",
+  "id": "a4572492-f4f7-4cc5-9e0f-1291e6f2d891",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Fautomatic-elisa-plate-washer-500x500.jpeg?alt=media&token=dd929f4c-f843-4d31-8d9b-14b6bdad405c"
+  ],
+  "instrument": "",
+  "category": "Pathology Lab Equipments",
+  "slug": "invitronix-automatic-elisa-plate-washer",
+  "pdf": "",
+  "price": "₹ 1,30,000",
+  "availability": "",
+  "title": "Invitronix Automatic Elisa Plate Washer",
+  "model": "",
+  "isPublished": true,
+  "capacity": "",
+  "createdAt": "2026-08-07T06:58:49.933Z",
+  "size": "As per customer",
+  "categoryProductId": "EW-85",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "subCategory": "Elisa Washer",
+  "automation": "",
+  "desc": "",
+  "uid": "pathology-lab-equipments-elisa-washer-84"
+}

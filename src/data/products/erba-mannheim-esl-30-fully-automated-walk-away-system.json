@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "categoryProductId": "HA-101",
+  "brand": "",
+  "parameters": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:55:54.017Z",
+  "subCategory": "Hematology analyzers",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fautomax-fully-automated-chemistry-analyzer-2-500x500.png?alt=media&token=e0a76e9d-4f5d-491f-abd9-c91fc8c94927"
+  ],
+  "desc": "",
+  "category": "Ivds category",
+  "model": "",
+  "title": "Erba Mannheim ESL 30 Fully Automated walk-away System",
+  "availability": "",
+  "pdf": "",
+  "slug": "erba-mannheim-esl-30-fully-automated-walk-away-system",
+  "isPublished": true,
+  "capacity": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "id": "93f7061f-c30d-484a-95cd-4b3d6e1bcfbc",
+  "automation": "",
+  "uid": "ivds-category-hematology-analyzers-100"
+}

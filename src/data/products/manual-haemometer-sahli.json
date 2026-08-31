@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "subCategory": "Haemometer",
+  "slug": "manual-haemometer-sahli",
+  "brand": "",
+  "automation": "",
+  "availability": "",
+  "throughput": "",
+  "price": "",
+  "model": "",
+  "title": "Manual Haemometer Sahli",
+  "id": "6239ed01-bb84-44c6-875c-e1d24339c381",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHaemometer%2Fc7f84afc-6c98-4306-8e48-285059066eb1-500x500.jpg?alt=media&token=0aae7e36-7a50-4950-85ac-1c9d0f460fe5"
+  ],
+  "isPublished": true,
+  "category": "Hematology analyzers",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "desc": "Amber coloured glass bottle -1 No. Glass Stirrer -1 No. Dropper with teat -1 No. Cleaning Brush -1 No. Spare latex tubing one meter -1 No.",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:55:32.808Z",
+  "categoryProductId": "H-118",
+  "parameters": "",
+  "pdf": "",
+  "uid": "hematology-analyzers-haemometer-117"
+}

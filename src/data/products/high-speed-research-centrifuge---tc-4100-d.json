@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "RC-57",
+  "automation": "",
+  "availability": "",
+  "pdf": "",
+  "throughput": "",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "category": "Pathology Lab Equipments",
+  "subCategory": "Research Centrifuge",
+  "createdAt": "2026-08-07T06:59:04.719Z",
+  "model": "",
+  "title": "High Speed Research Centrifuge - TC 4100 D",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2Fhigh-speed-research-centrifuge-tc-4100-d-500x500.PNG?alt=media&token=eb3dc059-8c28-4d28-8b85-78b291612232"
+  ],
+  "price": "",
+  "id": "ba8f5882-77c3-460f-8337-5b170ab26a9f",
+  "instrument": "",
+  "brand": "",
+  "capacity": "",
+  "parameters": "",
+  "slug": "high-speed-research-centrifuge---tc-4100-d",
+  "isPublished": true,
+  "uid": "pathology-lab-equipments-research-centrifuge-56"
+}

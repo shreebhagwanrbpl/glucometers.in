@@ -1,0 +1,28 @@
+{
+  "id": "912693a6-c2b0-4ad6-a728-5675ce3c7040",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T06:56:26.471Z",
+  "isPublished": true,
+  "parameters": "",
+  "capacity": "",
+  "slug": "clinical-centrifuge",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMedico%20centrifuges%2Fclinical-centrifuge-500x500.jpg?alt=media&token=340a41ea-c5f1-4ac5-8384-36b2a939349d"
+  ],
+  "instrument": "",
+  "categoryProductId": "MC-15",
+  "model": "",
+  "title": "Clinical Centrifuge",
+  "throughput": "",
+  "availability": "",
+  "desc": "",
+  "automation": "",
+  "price": "",
+  "subCategory": "Medico centrifuges",
+  "size": "",
+  "brand": "",
+  "category": "Laboratory Centrifuge",
+  "uid": "laboratory-centrifuge-medico-centrifuges-14"
+}

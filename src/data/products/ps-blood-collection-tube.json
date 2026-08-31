@@ -1,0 +1,28 @@
+{
+  "title": "PS Blood Collection Tube",
+  "model": "",
+  "desc": "",
+  "capacity": "",
+  "price": "",
+  "subCategory": "Laboratory Non Vacuum Blood Collection Tube",
+  "createdAt": "2026-08-07T06:54:06.317Z",
+  "availability": "",
+  "throughput": "",
+  "brand": "",
+  "size": "",
+  "automation": "",
+  "id": "769b95b0-073d-4796-b682-9d7ac847cbae",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FLaboratory%20Non%20Vacuum%20Blood%20Collection%20Tube%2Fps-blood-collection-tube-500x500.jpg?alt=media&token=993e1aa7-a36e-4e17-b311-501996969d0a"
+  ],
+  "video": "",
+  "usage": "",
+  "category": "Blood Collection Tubes",
+  "instrument": "",
+  "isPublished": true,
+  "categoryProductId": "LNVBCT-300",
+  "slug": "ps-blood-collection-tube",
+  "pdf": "",
+  "uid": "blood-collection-tubes-laboratory-non-vacuum-blood-collection-tube-299"
+}

@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "price": "₹ 1,850",
+  "slug": "thermometer-",
+  "subCategory": "Dial thermometer",
+  "instrument": "",
+  "title": "Thermometer .",
+  "model": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:56:52.556Z",
+  "brand": "",
+  "categoryProductId": "DT-7",
+  "category": "Laboratory thermometer",
+  "availability": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "size": "",
+  "throughput": "",
+  "desc": "",
+  "capacity": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FDial%20thermometer%2Fproduct-jpeg-500x500.jpg?alt=media&token=14c22884-4ff6-4338-bd53-e2cb3feeac87"
+  ],
+  "id": "f2e2cfd6-0a85-42f5-ae04-559a05324657",
+  "uid": "laboratory-thermometer-dial-thermometer-6"
+}

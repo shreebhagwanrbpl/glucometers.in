@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "desc": "",
+  "instrument": "",
+  "capacity": "",
+  "brand": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHDL%20Cholesterol%20Test%20Kit%2Fspinreact-reagent-cholesterol-500x500.jpeg?alt=media&token=6aa70e50-8a53-4538-8344-8eca04cd71ac"
+  ],
+  "pdf": "",
+  "createdAt": "2026-08-07T06:59:47.024Z",
+  "model": "",
+  "title": "Spinreact Cholesterol Reagent Kit",
+  "size": "",
+  "id": "5a2b3244-8170-425f-a4d0-ff5f245e0234",
+  "price": "₹ 12,849",
+  "availability": "",
+  "category": "Rapid Test Kit",
+  "throughput": "",
+  "slug": "spinreact-cholesterol-reagent-kit",
+  "categoryProductId": "HCTK-42",
+  "subCategory": "HDL Cholesterol Test Kit",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "uid": "rapid-test-kit-hdl-cholesterol-test-kit-41"
+}

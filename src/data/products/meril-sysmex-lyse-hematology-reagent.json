@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "parameters": "",
+  "model": "",
+  "title": "Meril Sysmex Lyse Hematology Reagent",
+  "categoryProductId": "HR-14",
+  "category": "Clinical Reagents",
+  "price": "₹ 1,999",
+  "instrument": "",
+  "brand": "4.3",
+  "createdAt": "2026-08-07T06:54:51.350Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FHematology%20reagents%2Fmeril-sysmex-lyse-hematology-reagent-500x500.jpg?alt=media&token=e3790d26-7d46-4425-a2df-b65f9c251048"
+  ],
+  "slug": "meril-sysmex-lyse-hematology-reagent",
+  "id": "d3e9fb46-ef81-49c3-ae79-c96c27dcd11a",
+  "availability": "",
+  "pdf": "",
+  "subCategory": "Hematology reagents",
+  "capacity": "",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "throughput": "",
+  "automation": "",
+  "uid": "clinical-reagents-hematology-reagents-13"
+}

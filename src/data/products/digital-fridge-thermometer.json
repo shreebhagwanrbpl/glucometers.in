@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "subCategory": "Fridge thermometer",
+  "size": "",
+  "price": "",
+  "throughput": "",
+  "availability": "",
+  "category": "Laboratory thermometer",
+  "title": "Digital Fridge Thermometer",
+  "model": "",
+  "brand": "",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FFridge%20thermometer%2Fdigital-fridge-thermometer-500x500.jpg?alt=media&token=8d0568b5-3b4d-4566-994f-573fdbac6889"
+  ],
+  "createdAt": "2026-08-07T06:56:56.052Z",
+  "isPublished": true,
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "slug": "digital-fridge-thermometer",
+  "instrument": "",
+  "id": "05e300c4-7839-4d56-bb13-539793c74332",
+  "categoryProductId": "FT-1",
+  "parameters": "",
+  "uid": "laboratory-thermometer-fridge-thermometer-0"
+}

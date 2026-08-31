@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "category": "Blood Collection Tubes",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fserum-gel-tube-500x500.jpg?alt=media&token=971af174-d3ae-4395-95c1-39d4c8a84aee"
+  ],
+  "desc": "POLYMED Serum Gel Tube Clot Activator a blood collection tube used in clinical labs for tests that require a sample of blood serum. These tubes contain both a clot activator and a separation gel, which work together to produce a clean, uncontaminated serum sample.",
+  "capacity": "",
+  "price": "",
+  "slug": "serum-gel-tube",
+  "model": "",
+  "title": "Serum Gel Tube",
+  "isPublished": true,
+  "availability": "",
+  "brand": "",
+  "instrument": "",
+  "id": "39e01b9e-9c84-47a8-86b7-f7301dc79261",
+  "categoryProductId": "VBCT-122",
+  "createdAt": "2026-08-07T06:54:27.931Z",
+  "parameters": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-121"
+}

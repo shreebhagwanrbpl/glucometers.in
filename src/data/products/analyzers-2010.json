@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "slug": "analyzers-2010",
+  "subCategory": "Esr analyzer",
+  "parameters": "",
+  "model": "",
+  "title": "Analyzers  2010",
+  "instrument": "",
+  "id": "a08e0b1a-3f51-40ff-9199-850c41febae2",
+  "capacity": "",
+  "brand": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "size": "",
+  "createdAt": "2026-08-07T06:55:31.361Z",
+  "categoryProductId": "EA-27",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FEsr%20analyzer%2Fesr-analyzers-esr-2010-500x500.png?alt=media&token=4275fb59-0bfe-43dd-9715-545472c6f6ef"
+  ],
+  "desc": "",
+  "throughput": "",
+  "availability": "",
+  "category": "Hematology analyzers",
+  "automation": "",
+  "uid": "hematology-analyzers-esr-analyzer-26"
+}

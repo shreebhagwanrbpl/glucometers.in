@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "size": "",
+  "availability": "",
+  "parameters": "",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "desc": "",
+  "isPublished": true,
+  "categoryProductId": "BCT-12",
+  "id": "df31a6aa-0e97-4a4f-a2c0-4154acc94d65",
+  "brand": "",
+  "slug": "plastic-2ml-blood-collection-tubes",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FBlood%20Collection%20Tubes%2Fblood-collection-tubes-500x500.jpg?alt=media&token=3ee73094-234a-413f-bac0-160e07205f19"
+  ],
+  "subCategory": "Blood Collection Tubes",
+  "pdf": "",
+  "price": "",
+  "automation": "",
+  "category": "Blood Collection Tubes",
+  "title": "Plastic 2ml Blood Collection Tubes",
+  "model": "",
+  "createdAt": "2026-08-07T06:53:28.778Z",
+  "throughput": "",
+  "uid": "blood-collection-tubes-blood-collection-tubes-11"
+}

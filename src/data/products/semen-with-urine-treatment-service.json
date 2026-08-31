@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Semen%2FSemen%20Analysis%2Fsemen-with-urine-treatment-service-500x500.png?alt=media&token=746f13ab-915e-4c42-aa3b-b07cf6c94f59"
+  ],
+  "instrument": "",
+  "brand": "",
+  "categoryProductId": "SA-23",
+  "parameters": "",
+  "title": "Semen With Urine Treatment Service",
+  "model": "",
+  "isPublished": true,
+  "slug": "semen-with-urine-treatment-service",
+  "price": "",
+  "createdAt": "2026-08-07T07:00:16.874Z",
+  "id": "01285e70-12d3-4cc3-bb40-6aaaee3ffbe4",
+  "category": "Semen",
+  "desc": "",
+  "pdf": "",
+  "availability": "",
+  "subCategory": "Semen Analysis",
+  "automation": "",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "uid": "semen-semen-analysis-22"
+}

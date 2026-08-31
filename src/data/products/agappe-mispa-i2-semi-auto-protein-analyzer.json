@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "throughput": "",
+  "category": "Protein Analyzer",
+  "categoryProductId": "CSPA-18",
+  "price": "₹ 89,000",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "id": "0b65b8ce-b7b3-4812-a307-467d88bb6e60",
+  "automation": "",
+  "desc": "",
+  "model": "",
+  "title": "Agappe Mispa I2 Semi Auto Protein Analyzer",
+  "parameters": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:59:25.382Z",
+  "instrument": "",
+  "slug": "agappe-mispa-i2-semi-auto-protein-analyzer",
+  "availability": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fagappe-12009011-alpha-1-acid-glycoprotein-15-t-specific-protein-analyzer-500x500.jpg?alt=media&token=5290c42f-c7d3-4313-a2d7-2b499a055ba0"
+  ],
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-17"
+}

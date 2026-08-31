@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "desc": "",
+  "availability": "",
+  "instrument": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "BGA-18",
+  "isPublished": true,
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FBlood%20Gas%20Analyzer%2Fepoc-blood-analysis-system-bgem-machine-500x500.png?alt=media&token=ec367068-424d-4394-8eec-50a4d9225d7d"
+  ],
+  "automation": "",
+  "category": "Ivds category",
+  "brand": "",
+  "throughput": "",
+  "pdf": "",
+  "title": "EPOC  Analysis System (BGEM Machine), POC analyzers, For Hospital",
+  "model": "",
+  "slug": "epoc-analysis-system-bgem-machine-poc-analyzers-for-hospital",
+  "subCategory": "Blood Gas Analyzer",
+  "price": "",
+  "id": "5289d53f-98e0-44d1-81f6-8fda5ca83946",
+  "createdAt": "2026-08-07T06:55:50.046Z",
+  "uid": "ivds-category-blood-gas-analyzer-17"
+}

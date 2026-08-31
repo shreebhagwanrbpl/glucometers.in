@@ -1,0 +1,28 @@
+{
+  "subCategory": "Haemometer",
+  "size": "",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHaemometer%2Fsuperior-marienfeld-sahli-haemometer-500x500.jpg?alt=media&token=87cecf88-8301-487c-b1a4-df0d9c274c18"
+  ],
+  "instrument": "",
+  "capacity": "",
+  "slug": "superior-marienfeld-sahli-haemometer",
+  "isPublished": true,
+  "throughput": "",
+  "availability": "",
+  "brand": "",
+  "id": "61b7970e-95e6-45c3-b869-5ee162a777ed",
+  "automation": "",
+  "createdAt": "2026-08-07T06:55:32.800Z",
+  "price": "",
+  "category": "Hematology analyzers",
+  "title": "Superior Marienfeld Sahli Haemometer",
+  "model": "",
+  "categoryProductId": "H-86",
+  "pdf": "",
+  "uid": "hematology-analyzers-haemometer-85"
+}

@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "isPublished": true,
+  "desc": "",
+  "pdf": "",
+  "parameters": "",
+  "capacity": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "subCategory": "Hepatitis B Test Kit",
+  "availability": "",
+  "category": "Rapid Test Kit",
+  "brand": "",
+  "id": "cb48ee32-1774-4deb-9042-d1dcf8659d8c",
+  "categoryProductId": "HBTK-7",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHepatitis%20B%20Test%20Kit%2Fhepacard-j-mitra-testing-kit-500x500.jpg?alt=media&token=9f5791bc-edf9-4bb0-8b07-f4d83eb611c0"
+  ],
+  "model": "",
+  "title": "Hepacard J Mitra Testing Kit",
+  "automation": "",
+  "slug": "hepacard-j-mitra-testing-kit",
+  "createdAt": "2026-08-07T06:59:52.353Z",
+  "price": "₹ 12",
+  "throughput": "",
+  "uid": "rapid-test-kit-hepatitis-b-test-kit-6"
+}

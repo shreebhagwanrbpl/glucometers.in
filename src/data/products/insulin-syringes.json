@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "brand": "",
+  "id": "4e15a829-2c4b-4c74-86a4-73c64af78dc8",
+  "size": "",
+  "desc": "",
+  "price": "",
+  "parameters": "",
+  "title": "Insulin Syringes",
+  "model": "",
+  "instrument": "",
+  "subCategory": "Insulin syringe",
+  "slug": "insulin-syringes",
+  "throughput": "",
+  "categoryProductId": "IS-36",
+  "images": [
+    "https://5.imimg.com/data5/MB/US/MY-33346101/insulin-syringes-500x500.jpg"
+  ],
+  "category": "Syringe",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T07:00:27.278Z",
+  "isPublished": true,
+  "availability": "",
+  "pdf": "",
+  "uid": "syringe-insulin-syringe-35"
+}

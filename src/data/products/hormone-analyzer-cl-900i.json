@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "throughput": "",
+  "size": "",
+  "automation": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:57:20.281Z",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Chemiluminescence%20Immunoassay%20Analyzer%2Fhormone-analyzer-cl-900i-500x500.png?alt=media&token=a7bec5b2-4018-4a02-bf09-2bd58c5d1a4d"
+  ],
+  "slug": "hormone-analyzer-cl-900i",
+  "category": "Mindray",
+  "categoryProductId": "MCIA-44",
+  "availability": "",
+  "price": "",
+  "parameters": "",
+  "title": "Hormone Analyzer CL-900i",
+  "model": "",
+  "id": "f0cb00d2-715a-44e6-bea2-d45896f6e294",
+  "subCategory": "Mindray Chemiluminescence Immunoassay Analyzer",
+  "instrument": "",
+  "uid": "mindray-mindray-chemiluminescence-immunoassay-analyzer-43"
+}

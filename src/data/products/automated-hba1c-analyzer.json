@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "capacity": "",
+  "instrument": "",
+  "desc": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%5CHBA1C%2FAutomated%20HbA1c%20Analyzer.jpg?alt=media&token=a8937612-57c2-4c90-ba17-7d19b12300b0"
+  ],
+  "size": "",
+  "categoryProductId": "HA-4",
+  "subCategory": "HbA1c Analyzer",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "brand": "",
+  "category": "Hematology analyzers",
+  "id": "a8753b39-ac5d-43fd-ac5a-d96fb97e34f3",
+  "title": "Automated Hba1c Analyzer",
+  "model": "",
+  "automation": "",
+  "slug": "automated-hba1c-analyzer",
+  "price": "₹ 90,000",
+  "isPublished": true,
+  "throughput": "",
+  "createdAt": "2026-08-07T06:55:35.830Z",
+  "uid": "hematology-analyzers-hba1c-analyzer-3"
+}

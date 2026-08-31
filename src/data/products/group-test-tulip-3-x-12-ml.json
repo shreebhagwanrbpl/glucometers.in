@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Group Test  Tulip, 3 x 12 ML",
+  "categoryProductId": "BGTK-21",
+  "desc": "",
+  "price": "₹ 520",
+  "throughput": "",
+  "size": "",
+  "capacity": "",
+  "brand": "",
+  "subCategory": "Blood group test kit",
+  "automation": "",
+  "parameters": "",
+  "id": "1d3c0d78-2c2e-44eb-83c3-117342f94772",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FBlood%20group%20test%20kit%2Fanti-abd-t-imresizer-500x500.png?alt=media&token=c93da1f6-d142-45d1-b0fc-9676a5e4f50b"
+  ],
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "instrument": "",
+  "availability": "",
+  "category": "Rapid Test Kit",
+  "isPublished": true,
+  "slug": "group-test-tulip-3-x-12-ml",
+  "createdAt": "2026-08-07T06:59:30.989Z",
+  "uid": "rapid-test-kit-blood-group-test-kit-20"
+}

@@ -1,0 +1,28 @@
+{
+  "price": "₹ 1,30,000",
+  "availability": "",
+  "createdAt": "2026-08-07T06:58:49.934Z",
+  "title": "J-Mitra EW-180 Elisa Washer",
+  "model": "",
+  "size": "",
+  "capacity": "",
+  "isPublished": true,
+  "throughput": "",
+  "id": "90d0192e-6015-4ae9-963a-47e276bff950",
+  "brand": "J-Mitra",
+  "desc": "",
+  "automation": "Fully Automatic",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Few-180-elisa-washer--500x500.jpg?alt=media&token=6600822e-a06e-45c0-8b6c-f71d2779e1ac"
+  ],
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "category": "Pathology Lab Equipments",
+  "slug": "j-mitra-ew-180-elisa-washer",
+  "instrument": "",
+  "categoryProductId": "EW-94",
+  "subCategory": "Elisa Washer",
+  "pdf": "",
+  "uid": "pathology-lab-equipments-elisa-washer-93"
+}

@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FClinical%20Blood%20Chemistry%20Analyzer%2Faspen-arterial-blood-gas-analyzer-bg-plus-500x500.png?alt=media&token=3e7c4581-ebbf-494c-930c-9e17ccce95dd"
+  ],
+  "category": "Ivds category",
+  "desc": "",
+  "availability": "",
+  "throughput": "",
+  "pdf": "",
+  "subCategory": "Clinical Blood Chemistry Analyzer",
+  "size": "",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "id": "be54e866-bbf1-4ea1-ad28-705e670a7e47",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:55:51.943Z",
+  "categoryProductId": "CBCA-6",
+  "capacity": "",
+  "instrument": "",
+  "brand": "EDAN",
+  "isPublished": true,
+  "model": "",
+  "title": "EDAN i15 Blood Gas Chemistry Analyzer, For Laboratory",
+  "slug": "edan-i15-blood-gas-chemistry-analyzer-for-laboratory",
+  "price": "",
+  "uid": "ivds-category-clinical-blood-chemistry-analyzer-5"
+}

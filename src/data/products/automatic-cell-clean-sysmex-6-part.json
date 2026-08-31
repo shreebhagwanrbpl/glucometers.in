@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T07:00:53.951Z",
+  "categoryProductId": "SCC-8",
+  "category": "Sysmex",
+  "brand": "",
+  "instrument": "",
+  "slug": "automatic-cell-clean-sysmex-6-part",
+  "availability": "",
+  "isPublished": true,
+  "parameters": "",
+  "price": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fproduct-jpeg-500x500.jpg?alt=media&token=6f55ae83-86f6-4e86-b0c7-b9253a911426"
+  ],
+  "model": "",
+  "title": "Automatic Cell Clean Sysmex, 6 Part",
+  "subCategory": "Sysmex Cell Counter",
+  "size": "",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "id": "b6b14cce-57e4-4c79-afe2-f34232a0dc19",
+  "automation": "",
+  "desc": "",
+  "throughput": "",
+  "uid": "sysmex-sysmex-cell-counter-7"
+}

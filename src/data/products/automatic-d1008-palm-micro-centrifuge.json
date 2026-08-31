@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "isPublished": true,
+  "throughput": "",
+  "pdf": "",
+  "price": "",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fd1008-palm-micro-centrifuge-500x500.jpg?alt=media&token=7f6ae669-b470-4560-b055-fb93f437ae15"
+  ],
+  "category": "Laboratory Centrifuge",
+  "automation": "",
+  "title": "Automatic D1008 Palm Micro Centrifuge",
+  "model": "",
+  "id": "f8896d77-b6e1-43e7-ab61-4107e5a01e46",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:56:27.747Z",
+  "slug": "automatic-d1008-palm-micro-centrifuge",
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Microcentrifuge",
+  "categoryProductId": "M-140",
+  "availability": "",
+  "capacity": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-139"
+}

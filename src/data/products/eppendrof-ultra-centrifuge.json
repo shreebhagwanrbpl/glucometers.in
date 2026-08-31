@@ -1,0 +1,28 @@
+{
+  "title": "Eppendrof Ultra Centrifuge",
+  "model": "",
+  "categoryProductId": "U-11",
+  "desc": "",
+  "price": "",
+  "throughput": "",
+  "size": "",
+  "capacity": "",
+  "brand": "",
+  "subCategory": "Ultracentrifuge",
+  "automation": "",
+  "parameters": "",
+  "id": "b7ebba4b-0980-4ec6-9ec4-c57057c3ec36",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FUltracentrifuge%2Feppendrof-ultra-centrifuge-500x500.png?alt=media&token=f8f0973f-69e6-4ea7-aca6-df41ed12189f"
+  ],
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "instrument": "",
+  "category": "Laboratory Centrifuge",
+  "availability": "",
+  "slug": "eppendrof-ultra-centrifuge",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:56:45.469Z",
+  "uid": "laboratory-centrifuge-ultracentrifuge-10"
+}

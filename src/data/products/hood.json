@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "brand": "",
+  "size": "",
+  "images": [
+    "https://5.imimg.com/data5/BV/TE/YP/ANDROID-24271225/prod-20200608-21404284625129-jpg-500x500.jpg"
+  ],
+  "pdf": "",
+  "subCategory": "Pcr workstation",
+  "throughput": "",
+  "price": "₹ 24,000",
+  "desc": "",
+  "automation": "",
+  "title": "Hood",
+  "model": "",
+  "categoryProductId": "PW-12",
+  "createdAt": "2026-08-07T06:59:16.915Z",
+  "parameters": "",
+  "instrument": "",
+  "isPublished": true,
+  "slug": "hood",
+  "category": "PCR Machine",
+  "availability": "",
+  "id": "81a7c01c-0c7a-44f6-98b4-c0c065ebceea",
+  "usage": "",
+  "video": "",
+  "uid": "pcr-machine-pcr-workstation-11"
+}

@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:55:32.805Z",
+  "throughput": "",
+  "category": "Hematology analyzers",
+  "automation": "",
+  "categoryProductId": "H-106",
+  "isPublished": true,
+  "availability": "",
+  "slug": "shali-haemometer",
+  "usage": "",
+  "video": "",
+  "id": "5d562a8d-9b3a-4f55-b7ea-14a17820fdd6",
+  "brand": "",
+  "desc": "Shali Haemometer",
+  "pdf": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHaemometer%2Fshali-haemometer-500x500.jpg?alt=media&token=b4a9f855-429c-4a96-b8ce-d8c390c8b8e3"
+  ],
+  "parameters": "",
+  "model": "",
+  "title": "Shali Haemometer",
+  "size": "",
+  "price": "",
+  "subCategory": "Haemometer",
+  "instrument": "",
+  "uid": "hematology-analyzers-haemometer-105"
+}

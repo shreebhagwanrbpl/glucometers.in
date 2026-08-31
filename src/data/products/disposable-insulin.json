@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "parameters": "",
+  "capacity": "",
+  "categoryProductId": "IS-13",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2026/3/595081807/CA/AF/WI/7796799/disposable-insulin-syringe-500x500.jpeg"
+  ],
+  "slug": "disposable-insulin",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "availability": "",
+  "pdf": "",
+  "id": "2851a736-08d6-4c48-b937-f576f4cdcd95",
+  "desc": "",
+  "category": "Syringe",
+  "brand": "",
+  "title": "Disposable Insulin",
+  "model": "",
+  "createdAt": "2026-08-07T07:00:27.276Z",
+  "automation": "",
+  "price": "",
+  "throughput": "",
+  "size": "",
+  "subCategory": "Insulin syringe",
+  "uid": "syringe-insulin-syringe-12"
+}

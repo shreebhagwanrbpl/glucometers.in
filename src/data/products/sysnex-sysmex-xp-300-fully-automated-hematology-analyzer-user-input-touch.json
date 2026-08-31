@@ -1,0 +1,28 @@
+{
+  "category": "Sysmex",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fautomated-haematology-analyzer-500x500.jpg?alt=media&token=43940458-fcf3-47b0-9e7a-233f0bd061a6"
+  ],
+  "throughput": "",
+  "desc": "",
+  "availability": "",
+  "automation": "",
+  "pdf": "",
+  "size": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "id": "52f6c70e-7447-4966-8ae0-de08a96ef0a1",
+  "createdAt": "2026-08-07T07:00:53.957Z",
+  "capacity": "",
+  "brand": "",
+  "title": "Sysnex Sysmex XP-300 Fully Automated Hematology Analyzer, User Input: Touch",
+  "model": "",
+  "slug": "sysnex-sysmex-xp-300-fully-automated-hematology-analyzer-user-input-touch",
+  "parameters": "",
+  "price": "",
+  "subCategory": "Sysmex Cell Counter",
+  "categoryProductId": "SCC-100",
+  "instrument": "",
+  "uid": "sysmex-sysmex-cell-counter-99"
+}

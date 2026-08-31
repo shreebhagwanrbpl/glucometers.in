@@ -1,0 +1,28 @@
+{
+  "price": "₹ 28",
+  "automation": "",
+  "title": "Oskit Corona (SARS CoV2)  Antigen Test Kit, ICMR Approved",
+  "model": "",
+  "throughput": "",
+  "size": "",
+  "desc": "",
+  "brand": "",
+  "category": "Rapid Test Kit",
+  "pdf": "",
+  "subCategory": "Corona Test Kit",
+  "video": "",
+  "usage": "",
+  "slug": "oskit-corona-sars-cov2-antigen-test-kit-icmr-approved",
+  "id": "89a5a2ce-64ff-4a95-a377-53f9fc55b4fc",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FCorona%20Test%20Kit%2Foskit-sars-cov2-corona-antigen-test-500x500.png?alt=media&token=8788a895-2e0d-4d1d-ab37-e87105d07009"
+  ],
+  "categoryProductId": "CTK-31",
+  "instrument": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:59:36.071Z",
+  "isPublished": true,
+  "parameters": "",
+  "uid": "rapid-test-kit-corona-test-kit-30"
+}

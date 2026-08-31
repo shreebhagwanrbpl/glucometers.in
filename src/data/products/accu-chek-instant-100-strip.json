@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "capacity": "",
+  "categoryProductId": "ASTS-19",
+  "subCategory": "Accu-Chek Sugar Test Strips",
+  "throughput": "",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAccu-Chek%20Sugar%20Test%20Strips%2Faccu-chek-instant-100-strip-500x500.jpeg?alt=media&token=ce94fc4f-dfd8-4d88-9484-d0e96848eeaa"
+  ],
+  "parameters": "",
+  "instrument": "",
+  "brand": "",
+  "pdf": "",
+  "isPublished": true,
+  "model": "Instant",
+  "title": "Accu Chek Instant 100 Strip",
+  "slug": "accu-chek-instant-100-strip",
+  "availability": "",
+  "category": "Other Categories",
+  "price": "₹ 1,999",
+  "createdAt": "2026-08-07T06:57:34.427Z",
+  "id": "c7466b2a-11ef-41e5-8a57-3d4d60a8580b",
+  "uid": "other-categories-accu-chek-sugar-test-strips-18"
+}

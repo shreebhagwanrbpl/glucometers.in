@@ -1,0 +1,28 @@
+{
+  "subCategory": "Laboratory Urinometer",
+  "title": "Urinometer",
+  "model": "",
+  "price": "₹ 550",
+  "category": "Pathology Lab Equipments",
+  "pdf": "",
+  "categoryProductId": "LU-2",
+  "slug": "urinometer",
+  "instrument": "",
+  "id": "9225eac2-c3d8-486f-8c0e-673c9a1d8937",
+  "brand": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:58:56.648Z",
+  "automation": "",
+  "desc": "",
+  "isPublished": true,
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FLaboratory%20Urinometer%2Furinometer-500x500.jpg?alt=media&token=0b0d4d39-5ff5-453a-8f65-2e5f7556be31"
+  ],
+  "availability": "",
+  "uid": "pathology-lab-equipments-laboratory-urinometer-1"
+}

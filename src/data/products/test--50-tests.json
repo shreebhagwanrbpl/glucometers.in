@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "HTK-36",
+  "category": "Rapid Test Kit",
+  "brand": "",
+  "model": "",
+  "title": "Test , 50 Tests",
+  "id": "494a9ca2-4b1c-4e3c-9e1b-9c00eea397d0",
+  "parameters": "",
+  "availability": "",
+  "slug": "test--50-tests",
+  "pdf": "",
+  "instrument": "",
+  "price": "₹ 11.5",
+  "subCategory": "Hiv test kit",
+  "throughput": "",
+  "capacity": "",
+  "desc": "",
+  "createdAt": "2026-08-07T06:59:58.306Z",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHiv%20test%20kit%2Fhiv-1-and-2-rapid-detection-test-kit-500x500.jpeg?alt=media&token=4f1ef7ef-2939-4b8f-9abf-7b3e4074b92d"
+  ],
+  "isPublished": true,
+  "size": "",
+  "video": "",
+  "usage": "",
+  "uid": "rapid-test-kit-hiv-test-kit-35"
+}

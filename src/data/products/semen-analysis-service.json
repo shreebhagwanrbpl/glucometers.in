@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "desc": "",
+  "size": "",
+  "isPublished": true,
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Semen%2FSemen%20Analysis%2Fbasic-semen-analysis-service-250x250.png?alt=media&token=4f802646-f6fe-4ad3-81cb-4c574202aef9"
+  ],
+  "title": "Semen Analysis Service",
+  "model": "",
+  "availability": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T07:00:16.874Z",
+  "category": "Semen",
+  "id": "49d2b136-2e50-4196-a8aa-ec247f570847",
+  "price": "",
+  "pdf": "",
+  "throughput": "",
+  "automation": "",
+  "capacity": "",
+  "subCategory": "Semen Analysis",
+  "slug": "semen-analysis-service",
+  "usage": "",
+  "video": "",
+  "categoryProductId": "SA-20",
+  "uid": "semen-semen-analysis-19"
+}

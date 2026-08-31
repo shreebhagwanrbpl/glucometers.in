@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "createdAt": "2026-08-07T06:57:03.633Z",
+  "categoryProductId": "PTT-39",
+  "availability": "",
+  "subCategory": "Pen type thermometer",
+  "pdf": "",
+  "automation": "",
+  "size": "",
+  "category": "Laboratory thermometer",
+  "video": "",
+  "usage": "",
+  "id": "83fbe1a0-677c-4abf-9de3-71373431a40f",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FPen%20type%20thermometer%2Fhtc-digital-thermometer-dt-2-500x500.jpeg?alt=media&token=7e099a8b-f916-4818-8aba-00f885992bd8"
+  ],
+  "instrument": "",
+  "parameters": "",
+  "brand": "",
+  "capacity": "",
+  "title": "HTC Digital Thermometer ( DT-2 )",
+  "model": "",
+  "slug": "htc-digital-thermometer--dt-2-",
+  "isPublished": true,
+  "price": "",
+  "uid": "laboratory-thermometer-pen-type-thermometer-38"
+}

@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "automation": "",
+  "createdAt": "2026-08-07T07:00:49.352Z",
+  "slug": "hypodermic",
+  "availability": "",
+  "model": "",
+  "title": "Hypodermic",
+  "desc": "",
+  "price": "",
+  "id": "cdd1539f-c40d-4ba8-b320-802dbbbbb165",
+  "subCategory": "Hypodermic needles",
+  "category": "Syringe Needles",
+  "parameters": "",
+  "categoryProductId": "HN-1",
+  "pdf": "",
+  "images": [
+    "https://3.imimg.com/data3/AU/TL/FCP-6469558/images-4f58dfa13612a_needleshypo230x230-500x500.png"
+  ],
+  "size": "",
+  "instrument": "",
+  "brand": "",
+  "uid": "syringe-needles-hypodermic-needles-0"
+}

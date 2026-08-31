@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fpa54-specific-protein-analyzer-500x500.jpg?alt=media&token=96086d75-057e-44d2-96aa-b73b2ca72b41"
+  ],
+  "automation": "",
+  "category": "Protein Analyzer",
+  "throughput": "",
+  "desc": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:59:25.382Z",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "id": "251e70c3-db76-4cf5-bc4c-63768121073c",
+  "categoryProductId": "CSPA-12",
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "pdf": "",
+  "brand": "",
+  "availability": "",
+  "isPublished": true,
+  "title": "PA54 Specific Protein Analyzer",
+  "model": "",
+  "instrument": "",
+  "slug": "pa54-specific-protein-analyzer",
+  "parameters": "",
+  "price": "₹ 85,000",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-11"
+}

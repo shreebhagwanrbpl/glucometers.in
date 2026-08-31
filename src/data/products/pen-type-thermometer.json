@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:57:03.632Z",
+  "subCategory": "Pen type thermometer",
+  "categoryProductId": "PTT-7",
+  "category": "Laboratory thermometer",
+  "slug": "pen-type-thermometer",
+  "throughput": "",
+  "id": "eeee7f8b-82ff-434b-978b-04b811d5fd3f",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FPen%20type%20thermometer%2Fproduct-jpeg-500x500.jpg?alt=media&token=e3bb1c9b-72db-475c-ba21-fc21baa8d20d"
+  ],
+  "price": "",
+  "automation": "",
+  "title": "Pen Type Thermometer",
+  "model": "",
+  "availability": "",
+  "size": "",
+  "parameters": "",
+  "capacity": "",
+  "instrument": "",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "desc": "",
+  "uid": "laboratory-thermometer-pen-type-thermometer-6"
+}

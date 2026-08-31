@@ -1,0 +1,28 @@
+{
+  "subCategory": "Blood Sample Collection Test Tube",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "capacity": "",
+  "slug": "plastic-blood-test-tube",
+  "parameters": "",
+  "automation": "",
+  "title": "Plastic Blood Test Tube",
+  "model": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:53:30.719Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FBlood%20Sample%20Collection%20Test%20Tube%2Fblood-test-tube-500x500.jpeg?alt=media&token=5c959680-555f-4e9a-9fb0-cfa428d6db39"
+  ],
+  "desc": "",
+  "price": "",
+  "throughput": "",
+  "size": "",
+  "categoryProductId": "BSCTT-5",
+  "category": "Blood Collection Tubes",
+  "brand": "",
+  "id": "6a535f12-97fb-4399-bd31-d8277a86b9dc",
+  "availability": "",
+  "uid": "blood-collection-tubes-blood-sample-collection-test-tube-4"
+}

@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Manual Haemometer Marienfeld",
+  "parameters": "",
+  "pdf": "",
+  "subCategory": "Haemometer",
+  "price": "",
+  "instrument": "",
+  "availability": "",
+  "slug": "manual-haemometer-marienfeld",
+  "capacity": "",
+  "brand": "",
+  "desc": "",
+  "createdAt": "2026-08-07T06:55:32.799Z",
+  "id": "c195fdac-3b63-4402-8234-2a5699b35693",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHaemometer%2Fmanual-haemometer-marienfeld-500x500.jpeg?alt=media&token=f8e2d826-f99f-4651-ab89-0cc9b84ffb41"
+  ],
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "category": "Hematology analyzers",
+  "throughput": "",
+  "size": "",
+  "automation": "",
+  "categoryProductId": "H-77",
+  "uid": "hematology-analyzers-haemometer-76"
+}

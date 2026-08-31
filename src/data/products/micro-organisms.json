@@ -1,0 +1,28 @@
+{
+  "category": "Pathology Lab Equipments",
+  "pdf": "",
+  "availability": "",
+  "id": "a89f9066-5ec5-47f3-98c6-9dd52bc05346",
+  "throughput": "",
+  "subCategory": "Microorganism Solution",
+  "automation": "",
+  "categoryProductId": "MS-99",
+  "usage": "",
+  "video": "",
+  "slug": "micro-organisms",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:58:58.060Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FMicroorganism%20Solution%2Fprod-20240712-1756059137814391167600371-jpg-500x500.jpg?alt=media&token=edc95126-b8bc-47fb-ba05-0a88b806279b"
+  ],
+  "brand": "",
+  "capacity": "",
+  "instrument": "",
+  "desc": "",
+  "size": "",
+  "title": "MICRO-ORGANISMS",
+  "model": "",
+  "price": "",
+  "isPublished": true,
+  "uid": "pathology-lab-equipments-microorganism-solution-98"
+}

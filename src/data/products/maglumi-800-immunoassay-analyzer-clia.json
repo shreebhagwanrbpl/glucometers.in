@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "pdf": "",
+  "brand": "",
+  "id": "5ccd54b1-26a6-4cf7-a360-66fefb0f01dc",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FImmunoassay%20analyzer%2Fmaglumi-800-immunoassay-analyzer-clia-500x500.png?alt=media&token=36d800a3-8636-45c1-9c44-a2e7a287eb6e"
+  ],
+  "instrument": "",
+  "title": "Maglumi 800 Immunoassay Analyzer Clia",
+  "model": "",
+  "availability": "",
+  "createdAt": "2026-08-07T06:56:01.750Z",
+  "categoryProductId": "IA-22",
+  "isPublished": true,
+  "parameters": "",
+  "slug": "maglumi-800-immunoassay-analyzer-clia",
+  "price": "",
+  "automation": "",
+  "category": "Ivds category",
+  "desc": "",
+  "throughput": "",
+  "size": "",
+  "subCategory": "Immunoassay analyzer",
+  "usage": "",
+  "video": "",
+  "uid": "ivds-category-immunoassay-analyzer-21"
+}

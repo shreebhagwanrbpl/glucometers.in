@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "desc": "",
+  "createdAt": "2026-08-07T06:55:54.015Z",
+  "category": "Ivds category",
+  "throughput": "",
+  "availability": "",
+  "pdf": "",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "isPublished": true,
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fmeril-merilyzer-autoquant-200-fully-biochemistry-analyzer-for-hospital-500x500.png?alt=media&token=7ab0ecc6-693e-45ff-8289-99c400863413"
+  ],
+  "categoryProductId": "HA-41",
+  "brand": "",
+  "instrument": "",
+  "model": "",
+  "title": "Mindray Manual BC-5380 Hematology Analyzer, For Hospital, User Input: Touch",
+  "slug": "mindray-manual-bc-5380-hematology-analyzer-for-hospital-user-input-touch",
+  "id": "e43f23e4-140c-46ad-b012-f501a2b99a5d",
+  "subCategory": "Hematology analyzers",
+  "price": "",
+  "parameters": "",
+  "uid": "ivds-category-hematology-analyzers-40"
+}

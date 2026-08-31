@@ -81,14 +81,9 @@ export default function CTASection({ city }) {
                 Get In Touch
               </span>
 
-              <h2 className="text-4xl font-extrabold leading-tight lg:text-6xl">
-                Need Premium Biomedical Solutions?
-              </h2>
+              <h2 className="text-4xl font-extrabold leading-tight lg:text-6xl">Looking for Reliable Glucose Monitors?</h2>
 
-              <p className="mt-6 max-w-xl text-lg leading-8 text-white/90">
-                Discover innovative diagnostic systems and trusted biomedical
-                technologies tailored for modern healthcare excellence.
-              </p>
+              <p className="mt-6 max-w-xl text-lg leading-8 text-white/90">Explore our range of digital glucometers and blood glucose monitoring systems designed for quick, accurate, and simple diabetes care tracking.</p>
 
             </div>
 
@@ -106,7 +101,7 @@ export default function CTASection({ city }) {
                 </h3>
 
                 <p className="mt-3 leading-7 text-cyan-900/70">
-                  Contact our biomedical experts for consultation,
+                  Get in touch with our glucose monitoring specialists for consultation,
                   equipment, installation and healthcare support.
                 </p>
 

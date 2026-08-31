@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "availability": "",
+  "id": "2bff97ad-5fd0-40af-b8d2-b95d798e90cc",
+  "desc": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T06:58:49.932Z",
+  "category": "Pathology Lab Equipments",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Fmindray-mw12a-elisa-washer-500x500.png?alt=media&token=55c72491-89ee-453b-9978-82264216c75e"
+  ],
+  "subCategory": "Elisa Washer",
+  "size": "96 well plates",
+  "pdf": "",
+  "model": "",
+  "title": "Mindray MW12A Elisa Washer, 96 well plates",
+  "price": "₹ 1,20,000",
+  "categoryProductId": "EW-47",
+  "slug": "mindray-mw12a-elisa-washer-96-well-plates",
+  "instrument": "",
+  "parameters": "",
+  "isPublished": true,
+  "capacity": "",
+  "brand": "",
+  "uid": "pathology-lab-equipments-elisa-washer-46"
+}

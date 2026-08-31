@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "createdAt": "2026-08-07T06:54:44.009Z",
+  "price": "₹ 8,283",
+  "subCategory": "Alkaline phosphatase reagent",
+  "model": "",
+  "title": "Spinreact ALP LQ Reagent Kit",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FAlkaline%20phosphatase%20reagent%2Fspinreact-reagent-alp-lq-500x500.jpeg?alt=media&token=31ae2122-cd26-4a87-88aa-bba9f8cc0f58"
+  ],
+  "size": "",
+  "desc": "",
+  "brand": "",
+  "capacity": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "isPublished": true,
+  "slug": "spinreact-alp-lq-reagent-kit",
+  "id": "af74cd29-b1f6-490b-8840-932f29b3e20c",
+  "throughput": "",
+  "category": "Clinical Reagents",
+  "categoryProductId": "APR-4",
+  "automation": "",
+  "availability": "",
+  "uid": "clinical-reagents-alkaline-phosphatase-reagent-3"
+}

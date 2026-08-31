@@ -1,0 +1,28 @@
+{
+  "title": "Rapiscan Procalcitonin (Pct) Poct Test, 25 Tests",
+  "model": "",
+  "desc": "",
+  "category": "Rapid Test Kit",
+  "price": "₹ 8,750",
+  "createdAt": "2026-08-07T07:00:05.434Z",
+  "id": "8c144f11-27d8-4137-98b5-3afd572c9b02",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FProcalcitonin%20Rapid%20Test%20Kit%2Fproduct-jpeg-500x500.jpeg?alt=media&token=7348092b-e54c-4dd0-bdff-4c3866859537"
+  ],
+  "size": "",
+  "brand": "",
+  "categoryProductId": "PRTK-16",
+  "subCategory": "Procalcitonin Rapid Test Kit",
+  "automation": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "capacity": "",
+  "availability": "",
+  "pdf": "",
+  "slug": "rapiscan-procalcitonin-pct-poct-test-25-tests",
+  "isPublished": true,
+  "uid": "rapid-test-kit-procalcitonin-rapid-test-kit-15"
+}

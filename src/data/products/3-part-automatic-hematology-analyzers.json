@@ -1,0 +1,28 @@
+{
+  "id": "aa315d43-5a9f-4ea1-af9f-0e3f9f15012e",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "throughput": "",
+  "isPublished": true,
+  "category": "Ivds category",
+  "availability": "",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fbeaconic-b400-fully-automatic-clinical-chemistry-analyzer-500x500.jpg?alt=media&token=78312252-d14f-41f6-a1fb-32012f9de8e8"
+  ],
+  "price": "",
+  "capacity": "",
+  "subCategory": "Hematology analyzers",
+  "slug": "3-part-automatic-hematology-analyzers",
+  "model": "",
+  "title": "3-Part Automatic Hematology Analyzers",
+  "pdf": "",
+  "instrument": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:55:54.032Z",
+  "categoryProductId": "HA-427",
+  "parameters": "",
+  "uid": "ivds-category-hematology-analyzers-426"
+}

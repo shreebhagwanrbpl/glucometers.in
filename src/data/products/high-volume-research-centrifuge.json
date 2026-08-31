@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "RC-53",
+  "price": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:59:04.719Z",
+  "model": "",
+  "title": "High Volume Research Centrifuge",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2Fhigh-volume-research-centrifuge-250x250.jpg?alt=media&token=3a029a04-5711-4e2e-9bde-fa99df3f396f"
+  ],
+  "subCategory": "Research Centrifuge",
+  "brand": "",
+  "instrument": "",
+  "availability": "",
+  "desc": "",
+  "category": "Pathology Lab Equipments",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "id": "ebc969fa-4cf2-421c-9e9b-cb8c4675d84e",
+  "automation": "",
+  "slug": "high-volume-research-centrifuge",
+  "throughput": "",
+  "capacity": "",
+  "isPublished": true,
+  "uid": "pathology-lab-equipments-research-centrifuge-52"
+}

@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "subCategory": "Diagnostic reagents",
+  "throughput": "",
+  "desc": "",
+  "size": "",
+  "availability": "",
+  "capacity": "",
+  "categoryProductId": "DR-28",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Frbc-diluting-fluid-500ml-500x500.jpeg?alt=media&token=94e46b63-7525-4e43-95c6-f791a70daa93"
+  ],
+  "brand": "4.2",
+  "category": "Clinical Reagents",
+  "instrument": "",
+  "model": "",
+  "title": "Rbc Diluting Fluid 500ml",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:54:50.081Z",
+  "slug": "rbc-diluting-fluid-500ml",
+  "id": "b94a60e4-888a-41b5-837a-2f9d1688639e",
+  "price": "₹ 95",
+  "uid": "clinical-reagents-diagnostic-reagents-27"
+}

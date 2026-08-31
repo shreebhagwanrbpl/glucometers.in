@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Contact Washer",
+  "capacity": "",
+  "price": "",
+  "createdAt": "2026-08-07T06:58:49.940Z",
+  "pdf": "",
+  "subCategory": "Elisa Washer",
+  "slug": "contact-washer",
+  "parameters": "",
+  "availability": "",
+  "instrument": "",
+  "brand": "",
+  "desc": "",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "EW-167",
+  "automation": "",
+  "category": "Pathology Lab Equipments",
+  "isPublished": true,
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Fcontact-washer-250x250.jpg?alt=media&token=72e0f26e-a640-41a2-bfe3-7af21c63133e"
+  ],
+  "id": "2ec31002-6539-474a-9a38-41242e655c73",
+  "uid": "pathology-lab-equipments-elisa-washer-166"
+}

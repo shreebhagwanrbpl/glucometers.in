@@ -1,0 +1,28 @@
+{
+  "category": "Other Categories",
+  "availability": "",
+  "pdf": "",
+  "desc": "",
+  "size": "",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:57:46.979Z",
+  "isPublished": true,
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAlere%20Test%20Strips%2Falere-machine-500x500.png?alt=media&token=0fa57627-3559-42c4-956d-747aa83655bc"
+  ],
+  "parameters": "",
+  "capacity": "",
+  "brand": "",
+  "instrument": "",
+  "categoryProductId": "ATS-39",
+  "title": "Alere Triage Machine",
+  "model": "",
+  "id": "9bba3a35-b03b-4dfc-b2ca-e28b804c26d6",
+  "subCategory": "Alere Test Strips",
+  "slug": "alere-triage-machine",
+  "price": "",
+  "uid": "other-categories-alere-test-strips-38"
+}

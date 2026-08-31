@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "model": "",
+  "title": "Thermo Scientific Multifuge 1S-R Table Top Centrifuge",
+  "capacity": "",
+  "desc": "",
+  "price": "₹ 2,00,000",
+  "availability": "",
+  "throughput": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:59:06.757Z",
+  "brand": "",
+  "automation": "",
+  "subCategory": "Table Top Centrifuge",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "categoryProductId": "TTC-101",
+  "category": "Pathology Lab Equipments",
+  "pdf": "",
+  "id": "69d553d0-b03b-472b-9f1a-73eaaae61244",
+  "slug": "thermo-scientific-multifuge-1s-r-table-top-centrifuge",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2Fmultifuge-1s-r-500x500.jpg?alt=media&token=1b485555-0b5d-4741-8bc5-e121bc909fce"
+  ],
+  "uid": "pathology-lab-equipments-table-top-centrifuge-100"
+}

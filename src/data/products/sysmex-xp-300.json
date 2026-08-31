@@ -1,0 +1,28 @@
+{
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "category": "Sysmex",
+  "size": "",
+  "categoryProductId": "SCC-119",
+  "parameters": "",
+  "availability": "",
+  "isPublished": true,
+  "desc": "",
+  "createdAt": "2026-08-07T07:00:53.958Z",
+  "price": "",
+  "capacity": "",
+  "slug": "sysmex-xp-300",
+  "title": "Sysmex Xp 300",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fxp300-jpg-500x500.jpg?alt=media&token=c3ea317f-0040-4792-9259-ff13ef4490ed"
+  ],
+  "subCategory": "Sysmex Cell Counter",
+  "id": "0c3807ae-0678-4f74-8f76-6610e2aa436b",
+  "brand": "",
+  "pdf": "",
+  "automation": "",
+  "throughput": "",
+  "uid": "sysmex-sysmex-cell-counter-118"
+}

@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "LEM-22",
+  "title": "Microplates",
+  "model": "",
+  "category": "Pathology Lab Equipments",
+  "availability": "",
+  "price": "",
+  "parameters": "",
+  "pdf": "",
+  "slug": "microplates",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FLaboratory%20ELISA%20Microplate%2Fzgdfsgrsdg-500x500.JPG?alt=media&token=8182288f-2c5e-4d7c-aed2-2d3b85ab06f6"
+  ],
+  "instrument": "",
+  "brand": "",
+  "subCategory": "Laboratory ELISA Microplate",
+  "throughput": "",
+  "desc": "",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:58:53.343Z",
+  "size": "",
+  "isPublished": true,
+  "id": "223219da-3f1c-45d0-94c9-ceab12ced173",
+  "uid": "pathology-lab-equipments-laboratory-elisa-microplate-21"
+}

@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T07:00:44.107Z",
+  "model": "",
+  "title": "Veterinary Syringe Feeding",
+  "desc": "",
+  "capacity": "",
+  "price": "",
+  "parameters": "",
+  "size": "",
+  "instrument": "",
+  "subCategory": "Veterinary Syringe",
+  "brand": "",
+  "throughput": "",
+  "category": "Syringe",
+  "availability": "",
+  "id": "89384ba9-13ff-421a-bd5d-34d725471284",
+  "automation": "",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2023/8/334196565/NR/UJ/GT/145966239/sryinge-500x500.jpg"
+  ],
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "categoryProductId": "VS-20",
+  "slug": "veterinary-syringe-feeding",
+  "isPublished": true,
+  "uid": "syringe-veterinary-syringe-19"
+}

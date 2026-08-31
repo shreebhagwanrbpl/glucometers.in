@@ -1,0 +1,28 @@
+{
+  "category": "Pathology Lab Equipments",
+  "brand": "",
+  "instrument": "",
+  "id": "febe6580-9eac-40b4-b22a-127dde5297db",
+  "parameters": "",
+  "slug": "transcutaneous-bilirubin-meter",
+  "pdf": "",
+  "subCategory": "Bilirubinometer",
+  "price": "₹ 35,00,000",
+  "model": "",
+  "title": "Transcutaneous Bilirubin meter",
+  "createdAt": "2026-08-07T06:58:40.995Z",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FBilirubinometer%2Ftranscutaneous-bilirubin-meter-500x500.png?alt=media&token=fe2c3658-2073-4a5c-bf95-e4791100e6bf"
+  ],
+  "size": "",
+  "capacity": "",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "isPublished": true,
+  "categoryProductId": "B-8",
+  "throughput": "",
+  "desc": "",
+  "uid": "pathology-lab-equipments-bilirubinometer-7"
+}

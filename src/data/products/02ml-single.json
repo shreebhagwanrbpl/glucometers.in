@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "categoryProductId": "PT-5",
+  "subCategory": "Pcr tube",
+  "slug": "02ml-single",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:59:13.367Z",
+  "pdf": "",
+  "availability": "",
+  "automation": "",
+  "isPublished": true,
+  "parameters": "",
+  "brand": "",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2026/6/620408787/PB/UK/HX/266360889/0-2ml-single-tube-pcr-tube-500x500.png"
+  ],
+  "instrument": "",
+  "category": "PCR Machine",
+  "size": "",
+  "price": "₹ 24",
+  "id": "f6ce2220-57ed-41f0-96db-8029fb8ed685",
+  "desc": "",
+  "title": "0.2ml Single",
+  "model": "",
+  "uid": "pcr-machine-pcr-tube-4"
+}

@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "desc": "",
+  "subCategory": "Laboratory Centrifuge",
+  "instrument": "",
+  "id": "8447f2c2-4232-41d3-a5f5-d7662ed101e6",
+  "createdAt": "2026-08-07T06:56:25.245Z",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "availability": "",
+  "isPublished": true,
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FLaboratory%20Centrifuge%2Fhaier-lx-75l2400r-laboratory-centrifuge-500x500.jpg?alt=media&token=2a6b4a40-0a91-426e-8408-dd55c066df5c"
+  ],
+  "slug": "haier-lx-75l2400r",
+  "model": "",
+  "title": "Haier LX 75L2400R",
+  "throughput": "",
+  "categoryProductId": "LC-32",
+  "price": "",
+  "pdf": "",
+  "automation": "",
+  "category": "Laboratory Centrifuge",
+  "uid": "laboratory-centrifuge-laboratory-centrifuge-31"
+}

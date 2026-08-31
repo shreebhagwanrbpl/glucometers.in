@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "VBCT-231",
+  "instrument": "",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "category": "Blood Collection Tubes",
+  "parameters": "",
+  "isPublished": true,
+  "pdf": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:54:27.936Z",
+  "model": "",
+  "title": "EDTA Vacuum & Non Vacuum Blood Collection Tube 3 ML",
+  "capacity": "",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fedta-vacuum-non-vacuum-blood-collection-tube-3-ml-500x500.jpg?alt=media&token=dcacf5df-5e31-4c82-bd80-0b9e28a7c93f"
+  ],
+  "price": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "id": "8112af3d-7a7c-467b-9de4-d63bb9664a4e",
+  "slug": "edta-vacuum--non-vacuum-blood-collection-tube-3-ml",
+  "automation": "",
+  "brand": "",
+  "throughput": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-230"
+}

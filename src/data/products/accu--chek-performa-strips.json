@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "automation": "",
+  "categoryProductId": "ASTS-251",
+  "brand": "",
+  "availability": "",
+  "throughput": "",
+  "size": "",
+  "price": "",
+  "desc": "",
+  "createdAt": "2026-08-07T06:57:34.436Z",
+  "model": "",
+  "title": "Accu- Chek Performa Strips",
+  "subCategory": "Accu-Chek Sugar Test Strips",
+  "pdf": "",
+  "slug": "accu--chek-performa-strips",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAccu-Chek%20Sugar%20Test%20Strips%2Fnoimage(125X125).svg?alt=media&token=a86e3aaa-25d2-4cf1-bf96-09fc2f54b7b6"
+  ],
+  "category": "Other Categories",
+  "id": "d3c8f016-300b-4318-bce8-5aaf1f882527",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "isPublished": true,
+  "uid": "other-categories-accu-chek-sugar-test-strips-250"
+}

@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "C-42",
+  "size": "",
+  "capacity": "",
+  "automation": "",
+  "subCategory": "Coagulometer",
+  "createdAt": "2026-08-07T06:58:45.661Z",
+  "usage": "",
+  "video": "",
+  "desc": "",
+  "throughput": "",
+  "instrument": "",
+  "brand": "",
+  "availability": "",
+  "category": "Pathology Lab Equipments",
+  "parameters": "",
+  "slug": "ca-coagulometers",
+  "pdf": "",
+  "id": "61b4bec7-2b82-454a-b1e1-e8600014d5f3",
+  "isPublished": true,
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FCoagulometer%2Fca-01-02-coagulometer-250x250.jpg?alt=media&token=91e495bc-a7ee-4546-8779-2a87295ce766"
+  ],
+  "title": "CA Coagulometers",
+  "model": "",
+  "uid": "pathology-lab-equipments-coagulometer-41"
+}

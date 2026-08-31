@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "availability": "",
+  "id": "8e32b305-0efc-44d4-a7ea-e4f732331a8c",
+  "category": "Mindray",
+  "createdAt": "2026-08-07T06:57:20.281Z",
+  "subCategory": "Mindray Chemiluminescence Immunoassay Analyzer",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Chemiluminescence%20Immunoassay%20Analyzer%2Fproduct-jpeg-500x500.jpg?alt=media&token=6cc629d5-6b9a-450c-a87c-a2bb2d3aa613"
+  ],
+  "desc": "",
+  "instrument": "",
+  "brand": "",
+  "capacity": "",
+  "throughput": "",
+  "slug": "mindray-cl-900i-harmon-analyzer",
+  "pdf": "",
+  "automation": "",
+  "isPublished": true,
+  "price": "",
+  "categoryProductId": "MCIA-38",
+  "title": "Mindray CL-900i harmon analyzer",
+  "model": "",
+  "uid": "mindray-mindray-chemiluminescence-immunoassay-analyzer-37"
+}

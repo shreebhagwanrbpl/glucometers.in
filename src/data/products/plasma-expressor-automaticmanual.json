@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:53:21.595Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FPlasma%20Expressor%20Machine%2Fplasma-expressor-automatic-manual-500x500.png?alt=media&token=31139042-f573-4ab9-885b-461a2af5ef5d"
+  ],
+  "instrument": "",
+  "availability": "",
+  "subCategory": "Plasma Expressor Machine",
+  "video": "",
+  "usage": "",
+  "category": "Blood bank equipments",
+  "categoryProductId": "PEM-12",
+  "desc": "",
+  "brand": "",
+  "pdf": "",
+  "slug": "plasma-expressor-automaticmanual",
+  "capacity": "",
+  "isPublished": true,
+  "throughput": "",
+  "price": "",
+  "automation": "",
+  "id": "1b7275e5-b164-44e4-bcee-4fad30c929d8",
+  "title": "Plasma Expressor Automatic/manual",
+  "model": "",
+  "uid": "blood-bank-equipments-plasma-expressor-machine-11"
+}

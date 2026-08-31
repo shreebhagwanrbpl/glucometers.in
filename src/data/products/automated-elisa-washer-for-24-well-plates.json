@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "brand": "",
+  "size": "24 well plates",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Funtitled-design-500x500.png?alt=media&token=6ead845c-4db9-46a0-89ef-6f67c156054d"
+  ],
+  "subCategory": "Elisa Washer",
+  "pdf": "",
+  "automation": "Automatic",
+  "id": "109e60b3-f053-49a5-82da-a12795f2778f",
+  "price": "₹ 88,520",
+  "desc": "",
+  "category": "Pathology Lab Equipments",
+  "model": "",
+  "title": "Automated Elisa Washer for 24 Well Plates",
+  "availability": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:58:49.933Z",
+  "slug": "automated-elisa-washer-for-24-well-plates",
+  "capacity": "",
+  "categoryProductId": "EW-80",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "uid": "pathology-lab-equipments-elisa-washer-79"
+}

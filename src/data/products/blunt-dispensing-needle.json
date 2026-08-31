@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "capacity": "",
+  "subCategory": "Medical Dispensing Needle",
+  "instrument": "",
+  "brand": "",
+  "availability": "",
+  "title": "Blunt Dispensing Needle",
+  "model": "",
+  "id": "71c2ba96-8b12-45c2-971b-64c06cf431f4",
+  "slug": "blunt-dispensing-needle",
+  "createdAt": "2026-08-07T07:00:29.581Z",
+  "price": "",
+  "isPublished": true,
+  "desc": "",
+  "category": "Syringe",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2021/7/YT/CO/MZ/123672755/introducer-needle-500x500.jpg"
+  ],
+  "throughput": "",
+  "pdf": "",
+  "categoryProductId": "MDN-20",
+  "automation": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "uid": "syringe-medical-dispensing-needle-19"
+}

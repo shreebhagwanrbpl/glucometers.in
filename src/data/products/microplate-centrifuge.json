@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "subCategory": "Microcentrifuge",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fpcr-plate-centrifuge-500x500.jpg?alt=media&token=eb2061af-18ad-44e5-a2ae-c1e5d7f4df0d"
+  ],
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:56:27.745Z",
+  "category": "Laboratory Centrifuge",
+  "slug": "microplate-centrifuge",
+  "isPublished": true,
+  "pdf": "",
+  "title": "Microplate Centrifuge",
+  "model": "",
+  "desc": "",
+  "categoryProductId": "M-107",
+  "price": "",
+  "size": "",
+  "automation": "",
+  "capacity": "",
+  "brand": "",
+  "throughput": "",
+  "id": "83747ccc-bab4-4f74-82f0-a37e2f4aad4c",
+  "uid": "laboratory-centrifuge-microcentrifuge-106"
+}

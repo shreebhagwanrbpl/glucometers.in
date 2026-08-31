@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "slug": "hbg-blood-counting-chamber",
+  "instrument": "",
+  "model": "",
+  "title": "HBG Blood Counting Chamber",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:55:41.227Z",
+  "brand": "",
+  "isPublished": true,
+  "category": "Hematology analyzers",
+  "availability": "",
+  "categoryProductId": "MBCCD-48",
+  "usage": "",
+  "video": "",
+  "id": "4c628dff-35b4-4257-a8e0-2870de78f5e4",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FManual%20Blood%20Cell%20Counting%20Device%2Fhbg-counting-chamber-500x500.jpg?alt=media&token=5caed032-3033-4b7d-8f01-30e565e437f7"
+  ],
+  "desc": "",
+  "capacity": "",
+  "automation": "",
+  "throughput": "",
+  "pdf": "",
+  "subCategory": "Manual Blood Cell Counting Device",
+  "uid": "hematology-analyzers-manual-blood-cell-counting-device-47"
+}

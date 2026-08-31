@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "category": "Biochemistry Analyzer",
+  "automation": "",
+  "categoryProductId": "FABA-16",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Biochemistry%20Analyzer%2FFully%20automated%20biochemistry%20analyzer%2Fprecichem-f-200-fully-auto-analyzer-500x500.jpg?alt=media&token=69a8032a-4a69-43c0-911e-121e6d1056e8"
+  ],
+  "availability": "",
+  "createdAt": "2026-08-07T06:53:07.240Z",
+  "isPublished": true,
+  "desc": "",
+  "capacity": "",
+  "price": "",
+  "pdf": "",
+  "model": "",
+  "title": "PreciCHEM F 200 Fully Auto Analyzer",
+  "slug": "precichem-f-200-fully-auto-analyzer",
+  "brand": "",
+  "id": "96da5ec2-9268-47d8-9212-6120d4bb0cfc",
+  "parameters": "",
+  "subCategory": "Fully automated biochemistry analyzer",
+  "instrument": "",
+  "uid": "biochemistry-analyzer-fully-automated-biochemistry-analyzer-15"
+}

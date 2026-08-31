@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fneuation-centrifuge-machine-500x500.jpg?alt=media&token=935c3c71-e174-40f0-bbdd-bc0299e8fd10"
+  ],
+  "automation": "",
+  "id": "d442c881-c5f9-40a8-893a-528232c5af86",
+  "throughput": "",
+  "capacity": "",
+  "availability": "",
+  "subCategory": "Microcentrifuge",
+  "brand": "",
+  "title": "NEUATION Centrifuge Machine",
+  "model": "",
+  "createdAt": "2026-08-07T06:56:27.741Z",
+  "slug": "neuation-centrifuge-machine",
+  "price": "",
+  "categoryProductId": "M-7",
+  "category": "Laboratory Centrifuge",
+  "desc": "",
+  "isPublished": true,
+  "instrument": "",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "size": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-6"
+}

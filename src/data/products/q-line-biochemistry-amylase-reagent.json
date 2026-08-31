@@ -1,0 +1,28 @@
+{
+  "subCategory": "Diagnostic reagents",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "category": "Clinical Reagents",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Fq-line-biochemistry-amylase-reagent-500x500.jpg?alt=media&token=7cecc286-53ca-41c3-b847-a5654e81debb"
+  ],
+  "createdAt": "2026-08-07T06:54:50.082Z",
+  "categoryProductId": "DR-46",
+  "size": "",
+  "title": "Q Line Biochemistry Amylase Reagent",
+  "model": "",
+  "automation": "",
+  "id": "252b365a-89e8-4b29-9a4a-41214e2815bc",
+  "isPublished": true,
+  "price": "₹ 2,000",
+  "throughput": "",
+  "slug": "q-line-biochemistry-amylase-reagent",
+  "availability": "",
+  "pdf": "",
+  "capacity": "",
+  "brand": "3",
+  "uid": "clinical-reagents-diagnostic-reagents-45"
+}

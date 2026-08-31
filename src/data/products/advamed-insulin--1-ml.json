@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "AdvaMed Insulin , 1 ML",
+  "instrument": "",
+  "desc": "",
+  "createdAt": "2026-08-07T07:00:27.278Z",
+  "price": "",
+  "parameters": "",
+  "isPublished": true,
+  "images": [
+    "https://5.imimg.com/data5/BV/QN/MY-6042056/insuline-syringe-500x500.jpg"
+  ],
+  "size": "",
+  "brand": "",
+  "capacity": "",
+  "categoryProductId": "IS-44",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Insulin syringe",
+  "pdf": "",
+  "id": "6dcb7ba2-78c3-486b-9ad6-a99561f9a419",
+  "automation": "",
+  "slug": "advamed-insulin--1-ml",
+  "category": "Syringe",
+  "throughput": "",
+  "uid": "syringe-insulin-syringe-43"
+}

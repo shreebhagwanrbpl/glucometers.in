@@ -1,0 +1,28 @@
+{
+  "price": "₹ 8",
+  "model": "",
+  "title": "GeneBio HBSAG Rapid Antigen Test Kit",
+  "size": "",
+  "automation": "",
+  "availability": "",
+  "id": "2e361600-3ddf-4562-8c2f-b3f72ef31f0f",
+  "brand": "",
+  "desc": "",
+  "category": "Rapid Test Kit",
+  "throughput": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHepatitis%20B%20Test%20Kit%2Fhbsag-rapid-antigen-test-kit-500x500.jpeg?alt=media&token=03b893ea-760d-4f6a-bc62-820485a989f7"
+  ],
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "categoryProductId": "HBTK-9",
+  "slug": "genebio-hbsag-rapid-antigen-test-kit",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:59:52.353Z",
+  "pdf": "",
+  "subCategory": "Hepatitis B Test Kit",
+  "capacity": "",
+  "uid": "rapid-test-kit-hepatitis-b-test-kit-8"
+}

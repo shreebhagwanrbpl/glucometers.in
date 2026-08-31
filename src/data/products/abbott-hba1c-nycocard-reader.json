@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "instrument": "",
+  "pdf": "",
+  "isPublished": true,
+  "capacity": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:53:20.124Z",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "NR-3",
+  "slug": "abbott-hba1c-nycocard-reader",
+  "subCategory": "Nycocard Reader",
+  "category": "Blood bank equipments",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FNycocard%20Reader%2Fsemi-automated-hba1c-analyzer-nycocard-reader-500x500.jpg?alt=media&token=d3e13775-67d9-43bc-8756-ad9d08c17701"
+  ],
+  "brand": "",
+  "desc": "",
+  "id": "e632b75a-3294-48dd-a99d-f1b008bab76f",
+  "size": "",
+  "automation": "",
+  "title": "Abbott HBA1C Nycocard Reader",
+  "model": "",
+  "throughput": "",
+  "price": "",
+  "uid": "blood-bank-equipments-nycocard-reader-2"
+}

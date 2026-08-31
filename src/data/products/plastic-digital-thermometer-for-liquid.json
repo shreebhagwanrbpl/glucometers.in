@@ -1,0 +1,28 @@
+{
+  "brand": "Contact Supplier",
+  "createdAt": "2026-08-07T06:57:00.938Z",
+  "size": "",
+  "instrument": "",
+  "capacity": "",
+  "pdf": "",
+  "subCategory": "LCD Thermometer",
+  "parameters": "",
+  "id": "9ac38720-dc77-42a5-8e03-ef4a06613fc8",
+  "price": "",
+  "desc": "",
+  "model": "",
+  "title": "Plastic Digital Thermometer FOR LIQUID",
+  "category": "Laboratory thermometer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FLCD%20Thermometer%2Fdigital-thermometer-500x500.png?alt=media&token=603c5825-edce-4c28-b94c-db205fe92af1"
+  ],
+  "slug": "plastic-digital-thermometer-for-liquid",
+  "categoryProductId": "LT-10",
+  "isPublished": true,
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "availability": "",
+  "throughput": "",
+  "uid": "laboratory-thermometer-lcd-thermometer-9"
+}

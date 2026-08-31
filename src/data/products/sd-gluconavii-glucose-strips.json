@@ -1,0 +1,28 @@
+{
+  "id": "c5eb5505-d500-46c9-b216-239b9a38fba5",
+  "createdAt": "2026-08-07T07:00:59.427Z",
+  "category": "Test Strips",
+  "parameters": "",
+  "isPublished": true,
+  "categoryProductId": "GSBGTS-4",
+  "brand": "SD Biosensor",
+  "availability": "",
+  "pdf": "",
+  "instrument": "",
+  "model": "01GS30D",
+  "title": "SD GlucoNavii Glucose strips ",
+  "slug": "sd-gluconavii-glucose-strips",
+  "price": "",
+  "subCategory": "Gluco spark blood glucose test strips",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2022/12/TK/GS/EC/14123088/sd-gluconavii-blood-glucose-test-strips-500x500.jpeg"
+  ],
+  "capacity": "",
+  "desc": "STANDARD™ GlucoNavii Blood Glucose Test Strips are disposable electrochemical biosensor strips that use GDH-FAD enzyme technology for accurate blood glucose measurement. The strips require only 0.5 µL of blood and provide results in approximately 5 seconds. They feature no-coding technology, helping reduce user errors while delivering fast, accurate, and reliable glucose testing for home and professional use.",
+  "throughput": "50 tests per vial (100 tests per 50T × 2 pack)",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "uid": "test-strips-gluco-spark-blood-glucose-test-strips-2"
+}

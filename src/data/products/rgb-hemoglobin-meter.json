@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "parameters": "",
+  "createdAt": "2026-08-07T06:55:38.270Z",
+  "categoryProductId": "HM-8",
+  "category": "Hematology analyzers",
+  "brand": "",
+  "instrument": "",
+  "desc": "",
+  "size": "",
+  "model": "",
+  "title": "RGB Hemoglobin Meter",
+  "price": "",
+  "pdf": "",
+  "subCategory": "Hemoglobin meter",
+  "capacity": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHemoglobin%20meter%2Frgb-hemoglobin-meter-with-25t-strips-500x500.jpeg?alt=media&token=73666a5e-146b-4666-9410-d6bb054e08f6"
+  ],
+  "availability": "",
+  "automation": "",
+  "slug": "rgb-hemoglobin-meter",
+  "usage": "",
+  "video": "",
+  "id": "e6bb335d-d987-4ed4-9804-8fc0a26a0cc8",
+  "uid": "hematology-analyzers-hemoglobin-meter-7"
+}

@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "id": "b58f09b0-3821-43a4-bbe7-ddf81765f63b",
+  "throughput": "",
+  "brand": "",
+  "isPublished": true,
+  "model": "",
+  "title": "Manual Micro Centrifuge Machine",
+  "capacity": "",
+  "slug": "manual-micro-centrifuge-machine",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fmicro-centrifuges-500x500.png?alt=media&token=2c0baa02-66a9-4929-b30a-bfe23adedb55"
+  ],
+  "categoryProductId": "M-71",
+  "desc": "",
+  "createdAt": "2026-08-07T06:56:27.743Z",
+  "pdf": "",
+  "category": "Laboratory Centrifuge",
+  "instrument": "",
+  "subCategory": "Microcentrifuge",
+  "availability": "",
+  "size": "",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-70"
+}

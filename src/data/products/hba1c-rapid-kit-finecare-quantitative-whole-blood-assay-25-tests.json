@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "capacity": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:59:49.011Z",
+  "categoryProductId": "HTK-29",
+  "video": "",
+  "usage": "",
+  "id": "8fb3e5ee-0812-4ccd-a12e-a876020106f4",
+  "isPublished": true,
+  "instrument": "",
+  "desc": "",
+  "brand": "",
+  "throughput": "",
+  "category": "Rapid Test Kit",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHemoglobin%20Test%20Kit%2Fproduct-jpeg-500x500.jpg?alt=media&token=bedb78e1-0e09-4d40-817b-139d5a050cee"
+  ],
+  "automation": "",
+  "slug": "hba1c-rapid-kit-finecare-quantitative-whole-blood-assay-25-tests",
+  "price": "₹ 1,890",
+  "availability": "",
+  "title": "HBA1C Rapid Kit Finecare Quantitative Whole Blood Assay (25 Tests)",
+  "model": "",
+  "subCategory": "Hemoglobin Test Kit",
+  "uid": "rapid-test-kit-hemoglobin-test-kit-28"
+}

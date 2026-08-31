@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "brand": "",
+  "size": "",
+  "capacity": "",
+  "automation": "",
+  "availability": "",
+  "isPublished": true,
+  "throughput": "",
+  "categoryProductId": "VBCT-253",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fvaccum-blood-collection-tubes-1655987668214-500x500.jpg?alt=media&token=4f90e84a-36b1-4a5d-a02c-7318542ec874"
+  ],
+  "price": "",
+  "desc": "Vaccum Blood Collection Tubes",
+  "title": "Vaccum Blood Collection Tubes",
+  "model": "",
+  "createdAt": "2026-08-07T06:54:27.937Z",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "category": "Blood Collection Tubes",
+  "slug": "vaccum-blood-collection-tubes",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "id": "bb6812dc-c269-45fe-88b6-d49b18ab35ef",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-252"
+}

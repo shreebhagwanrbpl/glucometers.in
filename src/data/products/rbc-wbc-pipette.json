@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "categoryProductId": "RP-27",
+  "desc": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "isPublished": true,
+  "pdf": "",
+  "size": "",
+  "capacity": "",
+  "id": "c124d399-a757-442a-877c-28e4352d06a6",
+  "title": "RBC WBC Pipette",
+  "model": "",
+  "subCategory": "RBC Pipette",
+  "availability": "",
+  "createdAt": "2026-08-07T06:59:02.230Z",
+  "price": "₹ 15",
+  "instrument": "",
+  "category": "Pathology Lab Equipments",
+  "slug": "rbc-wbc-pipette",
+  "brand": "Top",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FRBC%20Pipette%2Ftarson-rbc-wbc-pipette-500x500.jpg?alt=media&token=e4536ac6-45f8-42ec-8afe-d8e484db3b36"
+  ],
+  "parameters": "",
+  "uid": "pathology-lab-equipments-rbc-pipette-26"
+}

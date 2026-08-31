@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20lancet%2Fblood-lancets-500x500.jpg?alt=media&token=93ca8dc0-777c-49c1-a786-350b75cb41b9"
+  ],
+  "categoryProductId": "BL-11",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "isPublished": true,
+  "category": "Blood bank equipments",
+  "slug": "lancets",
+  "id": "664c872f-3824-43a8-935a-843680c0d4b8",
+  "createdAt": "2026-08-07T06:53:17.402Z",
+  "pdf": "",
+  "model": "",
+  "title": "Lancets",
+  "availability": "",
+  "subCategory": "Blood lancet",
+  "desc": "",
+  "price": "",
+  "size": "",
+  "capacity": "",
+  "instrument": "",
+  "brand": "",
+  "parameters": "",
+  "uid": "blood-bank-equipments-blood-lancet-10"
+}

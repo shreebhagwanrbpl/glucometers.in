@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "categoryProductId": "EC-7",
+  "availability": "",
+  "size": "",
+  "category": "Laboratory Centrifuge",
+  "automation": "",
+  "id": "4654cbea-270c-4c9f-a809-500ad621051f",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "subCategory": "Electric Centrifuge",
+  "brand": "",
+  "createdAt": "2026-08-07T06:56:21.897Z",
+  "slug": "doctor-centrifuge-machine",
+  "pdf": "",
+  "capacity": "",
+  "parameters": "",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FElectric%20Centrifuge%2Fdoctor-centrifuge-machine-500x500.jpg?alt=media&token=3a5e3cad-31a7-4246-a8cf-dd221b61d660"
+  ],
+  "isPublished": true,
+  "instrument": "",
+  "title": "Doctor Centrifuge Machine",
+  "model": "",
+  "uid": "laboratory-centrifuge-electric-centrifuge-6"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "604de381-70bb-4121-aa96-7318b2a42696",
+  "instrument": "",
+  "parameters": "",
+  "desc": "",
+  "video": "",
+  "usage": "For Blood Glucose Testing",
+  "category": "Other Categories",
+  "pdf": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:58:30.220Z",
+  "categoryProductId": "OTGSTS-90",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FOne%20Touch%20Glucose%20Sugar%20Test%20Strips%2Fone-touch-select-test-strip-500x500.jpg?alt=media&token=de842ccd-028a-487e-916e-a7d9e65daea8"
+  ],
+  "title": "One Touch Select Test Strip, 50 Strips",
+  "model": "",
+  "availability": "",
+  "capacity": "",
+  "price": "",
+  "automation": "",
+  "subCategory": "One Touch Glucose Sugar Test Strips",
+  "slug": "one-touch-select-test-strip-50-strips",
+  "brand": "One Touch",
+  "throughput": "",
+  "uid": "other-categories-one-touch-glucose-sugar-test-strips-89"
+}

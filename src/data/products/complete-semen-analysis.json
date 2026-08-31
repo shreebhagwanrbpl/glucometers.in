@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Semen%2FSemen%20Analysis%2Fcomplete-semen-analysis-250x250.jpg?alt=media&token=5fc82a10-e574-45d3-be9c-1fca0742d1e6"
+  ],
+  "parameters": "",
+  "desc": "",
+  "subCategory": "Semen Analysis",
+  "availability": "",
+  "instrument": "",
+  "category": "Semen",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "isPublished": true,
+  "categoryProductId": "SA-19",
+  "brand": "",
+  "pdf": "",
+  "throughput": "",
+  "createdAt": "2026-08-07T07:00:16.874Z",
+  "model": "",
+  "title": "Complete Semen Analysis",
+  "slug": "complete-semen-analysis",
+  "capacity": "",
+  "automation": "",
+  "price": "",
+  "id": "303fad1b-f959-416a-a16c-e02cebc8b472",
+  "uid": "semen-semen-analysis-18"
+}

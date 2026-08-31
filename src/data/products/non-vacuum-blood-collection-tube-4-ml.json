@@ -1,0 +1,28 @@
+{
+  "desc": "Non Vacuum Blood Collection Tube",
+  "category": "Blood Collection Tubes",
+  "createdAt": "2026-08-07T06:54:06.303Z",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "subCategory": "Laboratory Non Vacuum Blood Collection Tube",
+  "instrument": "",
+  "categoryProductId": "LNVBCT-84",
+  "capacity": "",
+  "throughput": "",
+  "id": "f72d2e9a-7686-4c1d-a296-e7564d6ddf68",
+  "automation": "",
+  "brand": "",
+  "model": "",
+  "title": "Non Vacuum Blood Collection Tube (4 ml)",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FLaboratory%20Non%20Vacuum%20Blood%20Collection%20Tube%2Fnon-vacuum-blood-collection-tube-500x500.jpg?alt=media&token=98fd2403-bc9d-40c1-87ca-7ce4b5e1612d"
+  ],
+  "slug": "non-vacuum-blood-collection-tube-4-ml",
+  "availability": "",
+  "price": "",
+  "pdf": "",
+  "isPublished": true,
+  "uid": "blood-collection-tubes-laboratory-non-vacuum-blood-collection-tube-83"
+}

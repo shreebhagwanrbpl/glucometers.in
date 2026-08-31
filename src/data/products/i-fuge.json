@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "desc": "",
+  "availability": "",
+  "automation": "",
+  "brand": "",
+  "model": "",
+  "title": "I Fuge",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:59:06.757Z",
+  "price": "",
+  "isPublished": true,
+  "pdf": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2F242343196-product-1779276730484-500x500.png?alt=media&token=c221242f-7df0-46c2-a363-1defae2a6da2"
+  ],
+  "id": "02b57560-0ac2-4c73-a969-993035ff8c7a",
+  "slug": "i-fuge",
+  "parameters": "",
+  "category": "Pathology Lab Equipments",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "subCategory": "Table Top Centrifuge",
+  "categoryProductId": "TTC-98",
+  "uid": "pathology-lab-equipments-table-top-centrifuge-97"
+}

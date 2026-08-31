@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "CAT-182",
+  "subCategory": "Clot Activator Tube",
+  "capacity": "",
+  "desc": "Activated Clotting",
+  "id": "d33a15e7-34d6-4a8a-a3c4-88f53c08a34f",
+  "pdf": "",
+  "brand": "",
+  "size": "",
+  "title": "Activated Clotting",
+  "model": "",
+  "instrument": "",
+  "availability": "",
+  "price": "",
+  "parameters": "",
+  "category": "Blood Collection Tubes",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FClot%20Activator%20Tube%2F3253460-product-1547629995532-500x500.jpg?alt=media&token=f51d0b7e-9760-4930-a9f9-d6e565bee0bd"
+  ],
+  "automation": "",
+  "throughput": "",
+  "isPublished": true,
+  "slug": "activated-clotting",
+  "createdAt": "2026-08-07T06:53:33.820Z",
+  "video": "",
+  "usage": "",
+  "uid": "blood-collection-tubes-clot-activator-tube-181"
+}

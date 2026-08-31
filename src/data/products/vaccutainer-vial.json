@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "size": "",
+  "capacity": "",
+  "model": "",
+  "title": "Vaccutainer Vial",
+  "throughput": "",
+  "brand": "",
+  "categoryProductId": "VBCT-245",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "automation": "",
+  "desc": "Vaccutainer Vial",
+  "availability": "",
+  "parameters": "",
+  "id": "c4f802cb-0306-416d-8e98-18a0a540004d",
+  "category": "Blood Collection Tubes",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "slug": "vaccutainer-vial",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2F4-500x500.jpg?alt=media&token=df29a443-9588-43e6-85e9-06034d5fbc7b"
+  ],
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:54:27.937Z",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-244"
+}

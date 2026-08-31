@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "desc": "",
+  "throughput": "50 tests/hour",
+  "createdAt": "2026-08-07T06:58:09.731Z",
+  "automation": "",
+  "pdf": "",
+  "category": "Other Categories",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "id": "d66c18db-b6fd-4657-9fd6-f32fa4254bf6",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FGetein%20Immunoassay%20Analyzer%2Fpeerless-getein-1100-immunofluorescence-analyzer-500x500.png?alt=media&token=e3da7f57-a55d-47c9-9ee8-d7abaabc55ce"
+  ],
+  "subCategory": "Getein Immunoassay Analyzer",
+  "brand": "",
+  "capacity": "",
+  "title": "Peerless Getein 1100 Immunofluorescence Analyzer",
+  "model": "",
+  "slug": "peerless-getein-1100-immunofluorescence-analyzer",
+  "parameters": "",
+  "categoryProductId": "GIA-14",
+  "price": "₹ 38,000",
+  "instrument": "",
+  "uid": "other-categories-getein-immunoassay-analyzer-13"
+}

@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "BSCTT-19",
+  "capacity": "",
+  "automation": "",
+  "isPublished": true,
+  "brand": "",
+  "desc": "",
+  "throughput": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FBlood%20Sample%20Collection%20Test%20Tube%2Fsodium-citrate-vacuum-blood-collection-tube-500x500.png?alt=media&token=5e29fcc2-dfd3-4d3d-b345-c68e777f344b"
+  ],
+  "title": "Plain Blood Test Tube, Material: PP Plastic, 100 mm",
+  "model": "",
+  "id": "1ca7819a-d4f7-45ab-ba49-4546157c67a4",
+  "price": "",
+  "createdAt": "2026-08-07T06:53:30.721Z",
+  "subCategory": "Blood Sample Collection Test Tube",
+  "pdf": "",
+  "category": "Blood Collection Tubes",
+  "instrument": "",
+  "availability": "",
+  "slug": "plain-blood-test-tube-material-pp-plastic-100-mm",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "uid": "blood-collection-tubes-blood-sample-collection-test-tube-18"
+}

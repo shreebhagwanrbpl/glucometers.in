@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "model": "",
+  "title": "Spaplus Specialist Protein Analyser",
+  "price": "",
+  "desc": "",
+  "size": "",
+  "throughput": "",
+  "id": "ea9e680f-e211-4167-8276-43b4edc7d718",
+  "category": "Protein Analyzer",
+  "brand": "",
+  "createdAt": "2026-08-07T06:59:25.393Z",
+  "automation": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "pdf": "",
+  "parameters": "",
+  "categoryProductId": "CSPA-158",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fspaimage-1--500x500.png?alt=media&token=59e17e8d-47b6-41f2-970c-c3482669dce8"
+  ],
+  "slug": "spaplus-specialist-protein-analyser",
+  "capacity": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-157"
+}

@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20Collection%20Mixer%20Machine%2Fblood-roller-mixer-500x500.jpg?alt=media&token=7e121b1b-e6c6-43c3-aec8-0e59e2df0381"
+  ],
+  "pdf": "",
+  "id": "c33b6bdc-7fb2-4d9b-8985-4a90d77d6dc5",
+  "capacity": "",
+  "instrument": "",
+  "availability": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:53:14.242Z",
+  "slug": "mechanical-blood-roller-mixer",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "brand": "",
+  "desc": "",
+  "throughput": "",
+  "subCategory": "Blood Collection Mixer Machine",
+  "size": "",
+  "title": "Mechanical Blood Roller Mixer",
+  "model": "",
+  "category": "Blood bank equipments",
+  "categoryProductId": "BCMM-21",
+  "price": "₹ 70,400",
+  "uid": "blood-bank-equipments-blood-collection-mixer-machine-20"
+}

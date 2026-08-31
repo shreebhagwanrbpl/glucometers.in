@@ -1,0 +1,28 @@
+{
+  "price": "₹ 15",
+  "availability": "",
+  "capacity": "",
+  "title": "RBC Pipette Red Blood Cell",
+  "model": "",
+  "categoryProductId": "RP-2",
+  "size": "",
+  "desc": "",
+  "parameters": "",
+  "brand": "",
+  "isPublished": true,
+  "instrument": "",
+  "video": "",
+  "usage": "Clinical Lab",
+  "id": "791e9b21-9226-4126-b67b-a8757845807a",
+  "slug": "rbc-pipette-red-blood-cell",
+  "throughput": "",
+  "category": "Pathology Lab Equipments",
+  "createdAt": "2026-08-07T06:59:02.228Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FRBC%20Pipette%2Frbc-pipette-500x500.jpg?alt=media&token=41794516-f192-41fc-8bb9-cd3a8b0e5125"
+  ],
+  "automation": "",
+  "subCategory": "RBC Pipette",
+  "pdf": "",
+  "uid": "pathology-lab-equipments-rbc-pipette-1"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Oscar Dengue NS1 ELISA Test",
+  "model": "",
+  "category": "Rapid Test Kit",
+  "desc": "",
+  "price": "₹ 1,400",
+  "automation": "",
+  "createdAt": "2026-08-07T06:59:39.511Z",
+  "id": "b3d28e3c-dbc3-4e58-861d-7b68e81090b7",
+  "subCategory": "Dengue test kit",
+  "pdf": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FDengue%20test%20kit%2Foscar-dengue-ns1-elisa-test-kit-500x500.jpg?alt=media&token=d4fb2b8c-1697-4c2a-9b45-67ee388a92a3"
+  ],
+  "size": "",
+  "brand": "",
+  "categoryProductId": "DTK-3",
+  "instrument": "",
+  "availability": "",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "isPublished": true,
+  "slug": "oscar-dengue-ns1-elisa-test",
+  "uid": "rapid-test-kit-dengue-test-kit-2"
+}

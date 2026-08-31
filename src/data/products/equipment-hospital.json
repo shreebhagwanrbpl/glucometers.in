@@ -1,0 +1,28 @@
+{
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "capacity": "",
+  "size": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20bank%20equipments%2Fblood-bank-equipment-500x500.png?alt=media&token=9b21dd90-ede6-4111-a4bf-de953773cc99"
+  ],
+  "availability": "",
+  "pdf": "",
+  "isPublished": true,
+  "desc": "",
+  "id": "d0d0ffa6-0fe6-4a31-a908-2126db95f2a4",
+  "createdAt": "2026-08-07T06:53:12.945Z",
+  "category": "Blood bank equipments",
+  "price": "",
+  "slug": "equipment-hospital",
+  "model": "",
+  "title": "Equipment, Hospital",
+  "instrument": "",
+  "subCategory": "Blood bank equipments",
+  "brand": "",
+  "parameters": "",
+  "categoryProductId": "BBE-11",
+  "uid": "blood-bank-equipments-blood-bank-equipments-10"
+}

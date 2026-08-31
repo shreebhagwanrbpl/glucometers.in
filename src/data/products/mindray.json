@@ -1,0 +1,28 @@
+{
+  "subCategory": "Mindray Cell Counter",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "category": "Mindray",
+  "slug": "mindray",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Cell%20Counter%2Fmindray-500x500.png?alt=media&token=fdfae801-245a-4b11-986f-abb26d513a9f"
+  ],
+  "categoryProductId": "MCC-224",
+  "throughput": "",
+  "id": "fc99bbc5-b342-483d-b368-69f9a08f6e8d",
+  "automation": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:57:15.383Z",
+  "capacity": "",
+  "parameters": "",
+  "isPublished": true,
+  "price": "",
+  "availability": "",
+  "instrument": "",
+  "title": "Mindray",
+  "model": "",
+  "brand": "",
+  "desc": "Mindray",
+  "uid": "mindray-mindray-cell-counter-223"
+}

@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "SCC-87",
+  "instrument": "",
+  "brand": "",
+  "createdAt": "2026-08-07T07:00:53.956Z",
+  "parameters": "",
+  "category": "Sysmex",
+  "model": "",
+  "title": "Sysmex Hematology Analyzer",
+  "isPublished": true,
+  "price": "",
+  "slug": "sysmex-hematology-analyzer",
+  "pdf": "",
+  "desc": "",
+  "availability": "",
+  "subCategory": "Sysmex Cell Counter",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2F8-250x250.jpg?alt=media&token=d2e6dad5-d93a-4fb6-83c8-f50c948d3ac1"
+  ],
+  "size": "",
+  "automation": "",
+  "id": "5a1c66db-38fe-4c30-a7a3-c3163a6112af",
+  "throughput": "",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "uid": "sysmex-sysmex-cell-counter-86"
+}

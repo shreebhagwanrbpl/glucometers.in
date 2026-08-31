@@ -1,0 +1,28 @@
+{
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "instrument": "",
+  "slug": "mispa-i2-protein-analyzer-agappe",
+  "createdAt": "2026-08-07T06:59:25.385Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fmispa-i2-protein-analyzer-agappe-500x500.png?alt=media&token=42269921-12c7-4dec-8c89-a30fffbf2048"
+  ],
+  "parameters": "",
+  "availability": "",
+  "automation": "",
+  "model": "",
+  "title": "Mispa I2 Protein Analyzer Agappe",
+  "isPublished": true,
+  "desc": "",
+  "pdf": "",
+  "price": "₹ 85,000",
+  "throughput": "",
+  "id": "ca679f91-18a9-4694-a8f5-10a4a85804ce",
+  "categoryProductId": "CSPA-62",
+  "size": "",
+  "brand": "",
+  "category": "Protein Analyzer",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-61"
+}

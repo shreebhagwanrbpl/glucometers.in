@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "categoryProductId": "RAA-25",
+  "id": "491acf82-175f-4f80-a7cb-c0a384be3987",
+  "automation": "",
+  "capacity": "",
+  "subCategory": "Random Access Analyzer",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "slug": "sa1075-random-access",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FRandom%20Access%20Analyzer%2Fsa1075-random-access-500x500.jpg?alt=media&token=5ed35db4-e1bc-4543-ba99-ee02de41fa41"
+  ],
+  "instrument": "",
+  "brand": "",
+  "parameters": "",
+  "desc": "",
+  "category": "Ivds category",
+  "size": "",
+  "title": "SA1075 Random Access",
+  "model": "",
+  "createdAt": "2026-08-07T06:56:09.384Z",
+  "price": "",
+  "isPublished": true,
+  "uid": "ivds-category-random-access-analyzer-24"
+}

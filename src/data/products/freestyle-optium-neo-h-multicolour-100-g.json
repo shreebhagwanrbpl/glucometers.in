@@ -1,0 +1,28 @@
+{
+  "video": "",
+  "usage": "",
+  "size": "",
+  "categoryProductId": "AFBGTS-24",
+  "pdf": "",
+  "category": "Abbott",
+  "instrument": "",
+  "isPublished": true,
+  "desc": "Maximum Glucose Level Measurement Range: 500 | Minimum Glucose Level Measurement Range: 30 | Sample Required: YES | Sample Volume: 0.3",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Freestyle%20Blood%20Glucose%20Test%20Strips%2Ffreestyle-optium-neo-h-multicolour-100-g-500x500.jpg?alt=media&token=db984b11-7558-43dd-8d6f-f167f4f18cef"
+  ],
+  "parameters": "Maximum Glucose Level Measurement Range: 500 | Minimum Glucose Level Measurement Range: 30 | Sample Required: YES | Sample Volume: 0.3",
+  "createdAt": "2026-08-07T06:52:59.636Z",
+  "price": "",
+  "capacity": "",
+  "id": "5ffb8a3c-f039-45cf-ba15-e9d334cac854",
+  "automation": "",
+  "slug": "freestyle-optium-neo-h-multicolour-100-g",
+  "title": "FreeStyle Optium Neo H (Multicolour, 100 G)",
+  "model": "",
+  "throughput": "",
+  "subCategory": "Abbott Freestyle Blood Glucose Test Strips",
+  "brand": "",
+  "availability": "",
+  "uid": "abbott-abbott-freestyle-blood-glucose-test-strips-23"
+}

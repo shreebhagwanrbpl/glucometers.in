@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "categoryProductId": "DT-8",
+  "createdAt": "2026-08-07T06:59:41.452Z",
+  "availability": "",
+  "instrument": "",
+  "category": "Rapid Test Kit",
+  "brand": "",
+  "model": "",
+  "title": "Getein HbA1c Fast Test",
+  "subCategory": "Diagnostic test",
+  "slug": "getein-hba1c-fast-test",
+  "id": "7b691911-ca6b-4f20-aa94-09033ad829d1",
+  "price": "₹ 3,675",
+  "capacity": "",
+  "desc": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FDiagnostic%20test%2Fgetein-hba1c-fast-test-kit-500x500.jpg?alt=media&token=12061473-a3f4-4e2e-97b7-b32816960238"
+  ],
+  "throughput": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "automation": "",
+  "uid": "rapid-test-kit-diagnostic-test-7"
+}

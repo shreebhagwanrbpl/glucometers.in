@@ -1,0 +1,28 @@
+{
+  "subCategory": "Laboratory ELISA Microplate",
+  "id": "5deadee8-eaba-410a-8c97-95fe564f5aa0",
+  "createdAt": "2026-08-07T06:58:53.342Z",
+  "parameters": "",
+  "categoryProductId": "LEM-12",
+  "instrument": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FLaboratory%20ELISA%20Microplate%2Fbrand-immunology-microplates-500x500.jpg?alt=media&token=dbe89adc-2f84-4c4b-979d-52f57eb85c1d"
+  ],
+  "slug": "polystyrene-brand-immunograde-microplates",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "desc": "",
+  "category": "Pathology Lab Equipments",
+  "isPublished": true,
+  "brand": "BRAND Germany",
+  "model": "",
+  "title": "Polystyrene BRAND ImmunoGrade Microplates",
+  "availability": "",
+  "throughput": "",
+  "price": "",
+  "automation": "",
+  "size": "",
+  "uid": "pathology-lab-equipments-laboratory-elisa-microplate-11"
+}

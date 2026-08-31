@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "capacity": "",
+  "desc": "",
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "size": "",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fproduct-jpeg-500x500.jpg?alt=media&token=71806c1a-d3e3-4df9-bbe7-220aeac8cc45"
+  ],
+  "model": "",
+  "title": "Yellow Closure Vacuum Blood Collection Tube (2 ml)",
+  "id": "277e7eee-a13a-4400-8a99-e76f5d1b2963",
+  "price": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:54:27.928Z",
+  "category": "Blood Collection Tubes",
+  "isPublished": true,
+  "throughput": "",
+  "slug": "yellow-closure-vacuum-blood-collection-tube-2-ml",
+  "brand": "",
+  "categoryProductId": "VBCT-23",
+  "automation": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-22"
+}

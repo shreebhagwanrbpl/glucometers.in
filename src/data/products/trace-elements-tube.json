@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FBlood%20Sample%20Collection%20Test%20Tube%2Ftrace-elements-tube-500x500.jpg?alt=media&token=946fea98-36b9-47d6-b9ca-8c7f9fb52253"
+  ],
+  "instrument": "",
+  "size": "",
+  "parameters": "",
+  "subCategory": "Blood Sample Collection Test Tube",
+  "pdf": "",
+  "category": "Blood Collection Tubes",
+  "video": "",
+  "usage": "",
+  "desc": "VACUETTE trace element tubes are suitable for detecting trace elements and are available with sodium heparin.",
+  "id": "7f2a1a7a-d149-4762-8886-04a54adca2fa",
+  "slug": "trace-elements-tube",
+  "brand": "",
+  "createdAt": "2026-08-07T06:53:30.722Z",
+  "categoryProductId": "BSCTT-29",
+  "price": "",
+  "automation": "",
+  "isPublished": true,
+  "capacity": "",
+  "title": "Trace Elements Tube",
+  "model": "",
+  "throughput": "",
+  "availability": "",
+  "uid": "blood-collection-tubes-blood-sample-collection-test-tube-28"
+}

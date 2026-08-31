@@ -1,0 +1,28 @@
+{
+  "category": "Corona Test",
+  "title": "Multiplex  Master Mix",
+  "model": "",
+  "availability": "",
+  "desc": "",
+  "price": "",
+  "pdf": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:55:04.963Z",
+  "size": "",
+  "isPublished": true,
+  "instrument": "",
+  "brand": "",
+  "throughput": "",
+  "id": "3a9084d3-885e-42de-aade-786aed549acd",
+  "categoryProductId": "RPTK-43",
+  "automation": "",
+  "images": [
+    "https://3.imimg.com/data3/NP/FC/MY-6930632/multiplex-pcr-250x250.jpg"
+  ],
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "slug": "multiplex-master-mix",
+  "subCategory": "Rt pcr test kit",
+  "uid": "corona-test-rt-pcr-test-kit-42"
+}

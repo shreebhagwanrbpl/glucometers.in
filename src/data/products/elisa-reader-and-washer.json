@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "availability": "",
+  "capacity": "",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "slug": "elisa-reader-and-washer",
+  "id": "9472e0c9-7904-41ee-8074-52423c08ca5e",
+  "categoryProductId": "EW-2",
+  "subCategory": "Elisa Washer",
+  "title": "Elisa Reader And Washer",
+  "model": "",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Felisa-reader-and-washer-500x500.jpeg?alt=media&token=73ab7cd2-fd57-4ba7-aa03-00b50ef7c555"
+  ],
+  "category": "Pathology Lab Equipments",
+  "price": "₹ 1,75,000",
+  "createdAt": "2026-08-07T06:58:49.930Z",
+  "throughput": "",
+  "size": "",
+  "isPublished": true,
+  "automation": "Semi Automatic",
+  "brand": "",
+  "uid": "pathology-lab-equipments-elisa-washer-1"
+}

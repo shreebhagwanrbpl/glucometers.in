@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:57:03.632Z",
+  "availability": "",
+  "desc": "",
+  "subCategory": "Pen type thermometer",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "id": "de26a115-19bf-4877-afb7-0053090b5ea3",
+  "capacity": "",
+  "pdf": "",
+  "automation": "",
+  "size": "",
+  "isPublished": true,
+  "model": "",
+  "title": "Digital Pen Type Thermometer",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FPen%20type%20thermometer%2Fdigital-pen-type-thermometer-500x500.png?alt=media&token=451768b3-378c-43b7-b9ba-91eb9e610611"
+  ],
+  "instrument": "",
+  "price": "",
+  "slug": "digital-pen-type-thermometer",
+  "categoryProductId": "PTT-24",
+  "category": "Laboratory thermometer",
+  "brand": "",
+  "uid": "laboratory-thermometer-pen-type-thermometer-23"
+}

@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "model": "",
+  "title": "Houmous Alfez",
+  "desc": "Houmous Alfez",
+  "id": "74f85b68-c7b8-4045-8cdb-fc05ea6fd69f",
+  "price": "",
+  "parameters": "",
+  "categoryProductId": "H-121",
+  "isPublished": true,
+  "category": "Hematology analyzers",
+  "createdAt": "2026-08-07T06:55:32.809Z",
+  "pdf": "",
+  "brand": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHaemometer%2Fimages-home-trending2-250x250.jpg?alt=media&token=88985b88-e486-44a3-8001-662b5d81899a"
+  ],
+  "video": "",
+  "usage": "",
+  "availability": "",
+  "slug": "houmous-alfez",
+  "capacity": "",
+  "automation": "",
+  "subCategory": "Haemometer",
+  "throughput": "",
+  "uid": "hematology-analyzers-haemometer-120"
+}

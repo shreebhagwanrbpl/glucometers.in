@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "brand": "",
+  "size": "",
+  "desc": "",
+  "price": "",
+  "throughput": "",
+  "category": "Pathology Lab Equipments",
+  "title": "CoagM",
+  "model": "",
+  "automation": "",
+  "slug": "coagm",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FCoagulometer%2Fcoagm-500x500.jpg?alt=media&token=2662fff3-8388-4977-9fbd-879951c9aa90"
+  ],
+  "subCategory": "Coagulometer",
+  "instrument": "",
+  "id": "79ff0ab2-cc4a-418e-bd1c-e17bb882e848",
+  "categoryProductId": "C-39",
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:58:45.661Z",
+  "availability": "",
+  "pdf": "",
+  "uid": "pathology-lab-equipments-coagulometer-38"
+}

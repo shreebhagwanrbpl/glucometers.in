@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "brand": "",
+  "automation": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20IVDs%20%26%20Analyzers%2Fsafeimagekit-resized-img-20-500x500.png?alt=media&token=7ec8488d-3808-481f-bb12-db45c978bf9c"
+  ],
+  "pdf": "",
+  "subCategory": "Sysmex IVDs & Analyzers",
+  "throughput": "",
+  "id": "85d8b7d5-991f-494e-aecb-035a5dd43a11",
+  "createdAt": "2026-08-07T07:00:56.240Z",
+  "price": "",
+  "desc": "",
+  "title": "Sysmex IVDs & Analyzers",
+  "model": "",
+  "slug": "sysmex-ivds--analyzers",
+  "availability": "",
+  "category": "Sysmex",
+  "categoryProductId": "SIA-12",
+  "isPublished": true,
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "uid": "sysmex-sysmex-ivds-&-analyzers-11"
+}

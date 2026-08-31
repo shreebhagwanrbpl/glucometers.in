@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "instrument": "",
+  "title": "Dose Control Syringes",
+  "model": "",
+  "parameters": "",
+  "subCategory": "Control Syringe",
+  "images": [
+    "https://4.imimg.com/data4/TX/HN/MY-3200410/dose-control-syringes-500x500.jpg"
+  ],
+  "categoryProductId": "CS-36",
+  "size": "",
+  "createdAt": "2026-08-07T07:00:19.670Z",
+  "category": "Syringe",
+  "desc": "",
+  "brand": "",
+  "availability": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "slug": "dose-control-syringes",
+  "id": "29a5a0d8-2002-427f-a33d-72ebfdf634a4",
+  "isPublished": true,
+  "automation": "",
+  "throughput": "",
+  "capacity": "",
+  "uid": "syringe-control-syringe-35"
+}

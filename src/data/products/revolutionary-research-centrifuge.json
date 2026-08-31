@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "pdf": "",
+  "size": "",
+  "capacity": "",
+  "availability": "",
+  "instrument": "",
+  "isPublished": true,
+  "price": "₹ 20,000",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2F2-250x250.jpg?alt=media&token=fc5484f9-4dd7-4ee2-b0f2-7aacada61cff"
+  ],
+  "categoryProductId": "RC-27",
+  "desc": "",
+  "model": "",
+  "createdAt": "2026-08-07T06:59:04.718Z",
+  "title": "Revolutionary Research Centrifuge",
+  "parameters": "",
+  "automation": "",
+  "slug": "revolutionary-research-centrifuge",
+  "category": "Pathology Lab Equipments",
+  "throughput": "",
+  "subCategory": "Research Centrifuge",
+  "video": "",
+  "usage": "",
+  "id": "c2619a77-e0c3-436a-9b19-d76c71db64fe",
+  "uid": "pathology-lab-equipments-research-centrifuge-26"
+}

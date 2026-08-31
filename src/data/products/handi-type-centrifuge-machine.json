@@ -1,0 +1,28 @@
+{
+  "subCategory": "Medico centrifuges",
+  "price": "",
+  "size": "",
+  "model": "",
+  "title": "Handi Type Centrifuge Machine",
+  "pdf": "",
+  "brand": "",
+  "desc": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMedico%20centrifuges%2Fhandi-type-centrifuge-machine-500x500.jpeg?alt=media&token=cdcdaaf8-61ab-4c3f-9367-7ebc744a1cac"
+  ],
+  "parameters": "",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "slug": "handi-type-centrifuge-machine",
+  "isPublished": true,
+  "throughput": "",
+  "id": "fe850fc1-d5af-4458-b2a8-df6286cbac18",
+  "category": "Laboratory Centrifuge",
+  "categoryProductId": "MC-16",
+  "availability": "",
+  "createdAt": "2026-08-07T06:56:26.471Z",
+  "uid": "laboratory-centrifuge-medico-centrifuges-15"
+}

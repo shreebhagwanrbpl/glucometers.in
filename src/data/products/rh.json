@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "throughput": "",
+  "size": "",
+  "title": "RH",
+  "model": "",
+  "subCategory": "Refrigerated centrifuge",
+  "automation": "",
+  "brand": "",
+  "pdf": "",
+  "id": "c0c1b3bd-8d1a-4a74-b658-a4ff16868571",
+  "desc": "",
+  "capacity": "",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "RC-1",
+  "slug": "rh",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:56:35.663Z",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FRefrigerated%20centrifuge%2Fcopilot-20260518-180517-fotor-20260519115938-500x500.png?alt=media&token=269a83b5-280a-4d05-a00f-8ca1d7923032"
+  ],
+  "instrument": "",
+  "category": "Laboratory Centrifuge",
+  "uid": "laboratory-centrifuge-refrigerated-centrifuge-0"
+}

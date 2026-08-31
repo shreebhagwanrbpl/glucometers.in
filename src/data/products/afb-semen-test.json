@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "subCategory": "Semen Analysis",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Semen%2FSemen%20Analysis%2Fsemen-test-500x500.jpg?alt=media&token=d61f911d-8a8c-40fb-9355-d7d54dbf066f"
+  ],
+  "availability": "",
+  "instrument": "",
+  "category": "Semen",
+  "slug": "afb-semen-test",
+  "usage": "",
+  "video": "",
+  "brand": "",
+  "capacity": "",
+  "size": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T07:00:16.875Z",
+  "pdf": "",
+  "id": "f6095383-e43b-43c1-bfac-58020151a6d0",
+  "throughput": "",
+  "price": "",
+  "categoryProductId": "SA-29",
+  "automation": "",
+  "desc": "",
+  "model": "",
+  "title": "Afb Semen Test",
+  "uid": "semen-semen-analysis-28"
+}

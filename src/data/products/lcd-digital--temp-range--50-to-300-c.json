@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "id": "fdb1c3ed-cb45-4209-bb80-f6ee13d58c33",
+  "subCategory": "Laboratory thermometer",
+  "throughput": "",
+  "title": "LCD  Digital , Temp Range: -50 to 300 C",
+  "model": "",
+  "createdAt": "2026-08-07T06:56:59.629Z",
+  "automation": "",
+  "size": "",
+  "availability": "",
+  "capacity": "",
+  "desc": "",
+  "brand": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "slug": "lcd-digital--temp-range--50-to-300-c",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FLaboratory%20thermometer%2Flaboratory-digital-thermometer-500x500.png?alt=media&token=e4e25e97-0dc4-4d26-8600-133f75b7741c"
+  ],
+  "parameters": "",
+  "categoryProductId": "LT-32",
+  "category": "Laboratory thermometer",
+  "instrument": "",
+  "pdf": "",
+  "uid": "laboratory-thermometer-laboratory-thermometer-31"
+}

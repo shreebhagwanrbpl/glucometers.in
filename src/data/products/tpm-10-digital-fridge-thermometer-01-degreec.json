@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "subCategory": "Fridge thermometer",
+  "categoryProductId": "FT-4",
+  "size": "",
+  "model": "",
+  "title": "Tpm 10 Digital Fridge Thermometer, 0.1 Degreec",
+  "instrument": "",
+  "pdf": "",
+  "brand": "",
+  "availability": "",
+  "desc": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:56:56.052Z",
+  "category": "Laboratory thermometer",
+  "isPublished": true,
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "slug": "tpm-10-digital-fridge-thermometer-01-degreec",
+  "throughput": "",
+  "id": "e498ca12-e653-40b8-9f55-dd21705bf25a",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FFridge%20thermometer%2Fdigital-thermometer-tpm-10-500x500.jpg?alt=media&token=d740dca6-8988-4a77-b225-46d60b942f3a"
+  ],
+  "uid": "laboratory-thermometer-fridge-thermometer-3"
+}

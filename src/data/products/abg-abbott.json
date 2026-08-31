@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Blood%20Analyzer%2Fabbott-i-stat-abg-machine-500x500.jpeg?alt=media&token=5c2a9c10-34db-45bb-beaf-fdd82cf12bc2"
+  ],
+  "desc": "Abg Abbott",
+  "capacity": "",
+  "subCategory": "Abbott Blood Analyzer",
+  "createdAt": "2026-08-07T06:52:57.653Z",
+  "categoryProductId": "ABA-40",
+  "instrument": "",
+  "size": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "id": "17ba0636-bef7-4542-9129-746bb49d4898",
+  "availability": "",
+  "category": "Abbott",
+  "automation": "",
+  "throughput": "",
+  "brand": "",
+  "isPublished": true,
+  "pdf": "",
+  "model": "",
+  "title": "Abg Abbott",
+  "slug": "abg-abbott",
+  "price": "₹ 5,000",
+  "uid": "abbott-abbott-blood-analyzer-37"
+}

@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:59:39.511Z",
+  "category": "Rapid Test Kit",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FDengue%20test%20kit%2Fichroma-dengue-ns1-ag-test-kit-500x500.jpg?alt=media&token=997eb755-9613-4665-a08e-3d439ce72b7a"
+  ],
+  "brand": "",
+  "categoryProductId": "DTK-4",
+  "id": "2f24f412-963a-4163-9404-3935a76b7cf5",
+  "size": "",
+  "price": "₹ 280",
+  "desc": "",
+  "instrument": "",
+  "parameters": "",
+  "model": "",
+  "title": "Boditech Ichroma Dengue NS1 Ag Test",
+  "subCategory": "Dengue test kit",
+  "slug": "boditech-ichroma-dengue-ns1-ag-test",
+  "automation": "",
+  "availability": "",
+  "capacity": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "isPublished": true,
+  "uid": "rapid-test-kit-dengue-test-kit-3"
+}

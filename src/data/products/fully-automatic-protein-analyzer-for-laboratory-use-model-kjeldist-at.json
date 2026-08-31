@@ -1,0 +1,28 @@
+{
+  "price": "₹ 2,00,000",
+  "id": "9bd56204-676b-405f-8945-8e403e47acf5",
+  "title": "Fully Automatic Protein Analyzer, For Laboratory Use, Model: KjelDIST AT",
+  "model": "",
+  "availability": "",
+  "isPublished": true,
+  "size": "",
+  "desc": "",
+  "automation": "",
+  "createdAt": "2026-08-07T06:59:25.382Z",
+  "brand": "",
+  "category": "Protein Analyzer",
+  "throughput": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "slug": "fully-automatic-protein-analyzer-for-laboratory-use-model-kjeldist-at",
+  "parameters": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Ffully-automatic-protein-analyzer-500x500.jpg?alt=media&token=ff18f907-a96f-4944-b238-235f097bc770"
+  ],
+  "capacity": "",
+  "categoryProductId": "CSPA-2",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-1"
+}

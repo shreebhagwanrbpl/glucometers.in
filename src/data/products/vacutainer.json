@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "desc": "Vacutainer",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "instrument": "",
+  "categoryProductId": "VBCT-247",
+  "brand": "",
+  "createdAt": "2026-08-07T06:54:27.937Z",
+  "pdf": "",
+  "title": "Vacutainer",
+  "model": "",
+  "capacity": "",
+  "size": "",
+  "price": "",
+  "availability": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fimg-3777-1737732163680-jpeg-500x500.jpeg?alt=media&token=071448c1-cb3e-4e2b-ac02-59521ba72904"
+  ],
+  "throughput": "",
+  "slug": "vacutainer",
+  "id": "aaedb197-994d-4a14-a917-d3eeaa07268c",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "category": "Blood Collection Tubes",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-246"
+}

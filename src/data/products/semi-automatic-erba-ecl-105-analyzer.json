@@ -1,0 +1,28 @@
+{
+  "id": "2fd283f4-eaee-40cb-8f8a-445731e82604",
+  "createdAt": "2026-08-07T06:55:28.232Z",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "automation": "",
+  "isPublished": true,
+  "categoryProductId": "CA-11",
+  "capacity": "",
+  "throughput": "",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FCoagulation%20analyzers%2Ferba-ecl-105-500x500.png?alt=media&token=1e782335-d665-4362-ac7a-a3b8264bc907"
+  ],
+  "instrument": "",
+  "availability": "",
+  "price": "",
+  "parameters": "",
+  "slug": "semi-automatic-erba-ecl-105-analyzer",
+  "title": "Semi Automatic Erba ECL 105  Analyzer",
+  "model": "",
+  "pdf": "",
+  "subCategory": "Coagulation analyzers",
+  "brand": "",
+  "category": "Hematology analyzers",
+  "uid": "hematology-analyzers-coagulation-analyzers-10"
+}

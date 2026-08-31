@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "BBT-9",
+  "capacity": "",
+  "desc": "",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T06:53:11.591Z",
+  "id": "4a9e8457-8fa8-4546-b246-a738e7779398",
+  "pdf": "",
+  "instrument": "",
+  "size": "",
+  "subCategory": "Blood bag tube",
+  "parameters": "",
+  "model": "",
+  "title": "Blood Bag Tube Sealer Automatic",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20bag%20tube%2Fproduct-jpeg-500x500.jpg?alt=media&token=36d030bb-8b3f-4e6b-bb9e-22ec45279b25"
+  ],
+  "category": "Blood bank equipments",
+  "price": "₹ 49,000",
+  "throughput": "",
+  "slug": "blood-bag-tube-sealer-automatic",
+  "isPublished": true,
+  "brand": "",
+  "uid": "blood-bank-equipments-blood-bag-tube-8"
+}

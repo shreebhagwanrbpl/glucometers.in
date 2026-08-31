@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "brand": "",
+  "availability": "",
+  "size": "",
+  "desc": "",
+  "price": "₹ 95,000",
+  "automation": "",
+  "pdf": "",
+  "categoryProductId": "MLBA-57",
+  "model": "",
+  "title": "Semi Automatic Mindray Biochemistry Analyzer, 12 kg",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:57:25.159Z",
+  "throughput": "",
+  "slug": "semi-automatic-mindray-biochemistry-analyzer-12-kg",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Laboratory%20Biochemistry%20Analyzer%2Fproduct-jpeg-500x500.jpg?alt=media&token=39e143c0-ffc5-44d7-888c-7e9b07d909be"
+  ],
+  "category": "Mindray",
+  "id": "655e0ef4-15d6-44ac-8e0b-b21b96c4a05d",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Mindray Laboratory Biochemistry Analyzer",
+  "uid": "mindray-mindray-laboratory-biochemistry-analyzer-56"
+}

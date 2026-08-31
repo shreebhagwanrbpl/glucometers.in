@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "instrument": "",
+  "availability": "",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FManual%20Blood%20Cell%20Counting%20Device%2Fblood-cell-counter-manual-8-key-500x500.jpeg?alt=media&token=4bb381c4-e91e-4139-83c8-ca50dc2c43ea"
+  ],
+  "desc": "",
+  "createdAt": "2026-08-07T06:55:41.225Z",
+  "brand": "",
+  "slug": "blood-cell-counter-manual-8-key",
+  "id": "f58b4e04-c333-45db-a417-de81479b4d4d",
+  "pdf": "",
+  "categoryProductId": "MBCCD-8",
+  "subCategory": "Manual Blood Cell Counting Device",
+  "price": "",
+  "automation": "",
+  "model": "",
+  "title": "Blood Cell Counter Manual 8 Key",
+  "category": "Hematology analyzers",
+  "throughput": "",
+  "uid": "hematology-analyzers-manual-blood-cell-counting-device-7"
+}

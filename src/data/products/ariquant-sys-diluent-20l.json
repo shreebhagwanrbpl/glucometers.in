@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:54:51.351Z",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FHematology%20reagents%2Fwhatsapp-image-2026-07-08-at-10-54-44-am-500x500.jpeg?alt=media&token=22cdc073-e247-4e8e-a29a-649b51fd4745"
+  ],
+  "size": "",
+  "instrument": "",
+  "pdf": "",
+  "category": "Clinical Reagents",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "isPublished": true,
+  "categoryProductId": "HR-34",
+  "id": "67520ef2-2f09-453e-bc7a-f47318591cb5",
+  "slug": "ariquant-sys-diluent-20l",
+  "brand": "4.2",
+  "throughput": "",
+  "availability": "",
+  "subCategory": "Hematology reagents",
+  "price": "",
+  "automation": "",
+  "capacity": "",
+  "model": "",
+  "title": "AriQuant SYS Diluent 20L",
+  "uid": "clinical-reagents-hematology-reagents-33"
+}

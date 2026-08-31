@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "subCategory": "Elisa reader",
+  "size": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "desc": "",
+  "availability": "",
+  "throughput": "",
+  "instrument": "",
+  "brand": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20reader%2Felisa-strip-reader-500x500.jpg?alt=media&token=4ebabb26-5d58-41e2-ac39-5e4d8207bda2"
+  ],
+  "slug": "-strip-reader",
+  "createdAt": "2026-08-07T06:58:48.422Z",
+  "category": "Pathology Lab Equipments",
+  "parameters": "",
+  "price": "",
+  "categoryProductId": "ER-38",
+  "title": "-strip-reader",
+  "model": "",
+  "id": "089457ea-08a6-48e4-9ada-c15418a256eb",
+  "uid": "pathology-lab-equipments-elisa-reader-37"
+}

@@ -1,0 +1,28 @@
+{
+  "brand": "Divine Diagnostics",
+  "size": "",
+  "instrument": "",
+  "parameters": "",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Erba%20Biochemistry%20Analyzer%2FErba%20Biochemistry%20Analyzer%2Fbnjhg-500x500.png?alt=media&token=6b764063-d559-4fdc-86fe-b2ad9ab09db6"
+  ],
+  "price": "₹ 12,000",
+  "subCategory": "Erba Biochemistry Analyzer",
+  "createdAt": "2026-08-07T06:55:13.330Z",
+  "category": "Erba Biochemistry Analyzer",
+  "desc": "",
+  "model": "",
+  "title": "Erba Xl 640 Analyser",
+  "pdf": "",
+  "slug": "erba-xl-640-analyser",
+  "automation": "",
+  "isPublished": true,
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "categoryProductId": "EBA-173",
+  "id": "ace30a63-c7ba-45ca-98ce-28d1ffec5a6e",
+  "uid": "erba-biochemistry-analyzer-erba-biochemistry-analyzer-172"
+}

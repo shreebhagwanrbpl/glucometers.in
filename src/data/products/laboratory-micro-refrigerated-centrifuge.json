@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "availability": "",
+  "automation": "",
+  "size": "",
+  "id": "56acd369-8e55-4a95-b036-7dd0ea4ff466",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Flyophilizer-500x500.jpeg?alt=media&token=d173eeee-99ce-442e-b4b6-f186f9d81a68"
+  ],
+  "category": "Laboratory Centrifuge",
+  "subCategory": "Microcentrifuge",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:56:27.752Z",
+  "categoryProductId": "M-233",
+  "slug": "laboratory-micro-refrigerated-centrifuge",
+  "brand": "",
+  "price": "",
+  "parameters": "",
+  "isPublished": true,
+  "model": "",
+  "title": "Laboratory Micro Refrigerated Centrifuge",
+  "instrument": "",
+  "capacity": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-232"
+}

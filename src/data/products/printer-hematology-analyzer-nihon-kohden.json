@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "throughput": "",
+  "desc": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "availability": "",
+  "automation": "",
+  "id": "4ffda652-6074-4046-9254-a171d06b0678",
+  "pdf": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:58:24.025Z",
+  "title": "Printer Hematology Analyzer (Nihon Kohden)",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FNihon%20Kohden%20Cell%20Counter%2Fimages-nihon-20kohden-hematology-20analyzer-20mek5108-6108-8118-page1-clip_image001-250x250.jpg?alt=media&token=bcd3c359-8c05-4388-bb32-e5ec297877db"
+  ],
+  "category": "Other Categories",
+  "price": "",
+  "subCategory": "Nihon Kohden Cell Counter",
+  "categoryProductId": "NKCC-47",
+  "slug": "printer-hematology-analyzer-nihon-kohden",
+  "parameters": "",
+  "brand": "",
+  "instrument": "",
+  "uid": "other-categories-nihon-kohden-cell-counter-46"
+}

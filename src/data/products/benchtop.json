@@ -1,0 +1,28 @@
+{
+  "subCategory": "Refrigerated centrifuge",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "slug": "benchtop",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FRefrigerated%20centrifuge%2Frefrigerated-centrifuge-500x500.jpg?alt=media&token=89d391f8-c0ca-40d6-a23c-c1a71a8ccdd4"
+  ],
+  "availability": "",
+  "category": "Laboratory Centrifuge",
+  "createdAt": "2026-08-07T06:56:35.664Z",
+  "title": "Benchtop",
+  "model": "",
+  "isPublished": true,
+  "desc": "",
+  "pdf": "",
+  "price": "",
+  "id": "dc7b81f6-3b83-4080-9329-8b7b9340c991",
+  "size": "",
+  "instrument": "",
+  "categoryProductId": "RC-21",
+  "capacity": "",
+  "brand": "",
+  "parameters": "",
+  "uid": "laboratory-centrifuge-refrigerated-centrifuge-20"
+}

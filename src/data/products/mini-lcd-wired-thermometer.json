@@ -1,0 +1,28 @@
+{
+  "brand": "Contact Supplier",
+  "size": "",
+  "pdf": "",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FLCD%20Thermometer%2Fimages-66-jpeg-500x500.jpeg?alt=media&token=16a92ae8-1e72-49d0-b500-570124ac2f77"
+  ],
+  "parameters": "",
+  "desc": "mini lcd wired thermometer",
+  "availability": "",
+  "model": "",
+  "title": "Mini Lcd Wired Thermometer",
+  "isPublished": true,
+  "capacity": "",
+  "id": "686b8fdd-5ac4-4496-a1bb-8175e4a87663",
+  "instrument": "",
+  "slug": "mini-lcd-wired-thermometer",
+  "throughput": "",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "category": "Laboratory thermometer",
+  "categoryProductId": "LT-89",
+  "createdAt": "2026-08-07T06:57:00.941Z",
+  "subCategory": "LCD Thermometer",
+  "uid": "laboratory-thermometer-lcd-thermometer-88"
+}

@@ -1,0 +1,28 @@
+{
+  "category": "Laboratory Centrifuge",
+  "isPublished": true,
+  "pdf": "",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "id": "4c01d078-a75c-4b39-b5d0-e391b4bcec42",
+  "createdAt": "2026-08-07T06:56:27.742Z",
+  "size": "",
+  "parameters": "",
+  "instrument": "",
+  "subCategory": "Microcentrifuge",
+  "title": "Mini Centrifuge MC-10K",
+  "model": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Flow-speed-centrifuge-lc-400-500x500.jpg?alt=media&token=69744f83-c47c-4a6f-b350-3994fb335f61"
+  ],
+  "capacity": "",
+  "price": "",
+  "automation": "",
+  "availability": "",
+  "brand": "",
+  "categoryProductId": "M-50",
+  "slug": "mini-centrifuge-mc-10k",
+  "uid": "laboratory-centrifuge-microcentrifuge-49"
+}

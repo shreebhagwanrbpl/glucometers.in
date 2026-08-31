@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "instrument": "",
+  "desc": "",
+  "brand": "REMI",
+  "id": "3667f3e8-c6c1-4ed3-8527-14d796947f22",
+  "subCategory": "Research Centrifuge",
+  "size": "",
+  "title": "REMI RESEARCH CENTRIFUGE",
+  "model": "",
+  "capacity": "",
+  "price": "₹ 60,000",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2Fresearch-centrifuge-r-24-500x500.png?alt=media&token=392649a0-6814-44e8-a405-8f71b72f2a5d"
+  ],
+  "isPublished": true,
+  "pdf": "",
+  "availability": "",
+  "category": "Pathology Lab Equipments",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:59:04.718Z",
+  "slug": "remi-research-centrifuge",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "categoryProductId": "RC-10",
+  "uid": "pathology-lab-equipments-research-centrifuge-9"
+}

@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "throughput": "",
+  "category": "Blood Collection Tubes",
+  "subCategory": "PRP Tubes",
+  "id": "5692e0db-26d6-4c04-ab24-b2a5f159597c",
+  "automation": "",
+  "brand": "",
+  "model": "",
+  "title": "GFC (Growth Factor Concentrate) Gel Tube, 10ml",
+  "categoryProductId": "PT-5",
+  "price": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:54:19.542Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FPRP%20Tubes%2Fcc-500x500.webp?alt=media&token=184ce789-346e-4fc0-bff7-edc3da16e0bd"
+  ],
+  "capacity": "",
+  "availability": "",
+  "isPublished": true,
+  "slug": "gfc-growth-factor-concentrate-gel-tube-10ml",
+  "parameters": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "uid": "blood-collection-tubes-prp-tubes-4"
+}

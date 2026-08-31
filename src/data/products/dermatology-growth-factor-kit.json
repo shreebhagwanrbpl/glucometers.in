@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "price": "",
+  "createdAt": "2026-08-07T06:54:05.855Z",
+  "model": "",
+  "title": "Dermatology Growth Factor Kit",
+  "brand": "",
+  "parameters": "",
+  "availability": "",
+  "capacity": "",
+  "instrument": "",
+  "categoryProductId": "GFCTK-18",
+  "subCategory": "Growth Factor Concentrate Therapy Kit",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FGrowth%20Factor%20Concentrate%20Therapy%20Kit%2Fproduct-jpeg-500x500.jpeg?alt=media&token=25c6d50e-6abe-45c2-ad0c-41fcb2624452"
+  ],
+  "throughput": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "slug": "dermatology-growth-factor-kit",
+  "id": "1fa10146-24c0-4f8d-b0a9-e396c1478a2e",
+  "isPublished": true,
+  "category": "Blood Collection Tubes",
+  "uid": "blood-collection-tubes-growth-factor-concentrate-therapy-kit-17"
+}

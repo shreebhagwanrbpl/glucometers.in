@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "brand": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FRandom%20Access%20Analyzer%2Fcoralyzer-fully-automated-random-access-clinical-chemistry-analyzer-500x500.jpg?alt=media&token=1efe5367-7fbf-453b-8a94-87e87c464c72"
+  ],
+  "id": "0f3cb11d-ee02-4c50-a69f-39f6a2a8bb86",
+  "isPublished": true,
+  "title": "Coralyzer Fully Automated Random Access Clinical Chemistry Analyzer",
+  "model": "",
+  "pdf": "",
+  "slug": "coralyzer-fully-automated-random-access-clinical-chemistry-analyzer",
+  "createdAt": "2026-08-07T06:56:09.384Z",
+  "price": "",
+  "capacity": "",
+  "desc": "",
+  "availability": "",
+  "categoryProductId": "RAA-14",
+  "category": "Ivds category",
+  "throughput": "",
+  "subCategory": "Random Access Analyzer",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "uid": "ivds-category-random-access-analyzer-13"
+}

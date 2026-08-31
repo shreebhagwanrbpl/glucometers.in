@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "price": "",
+  "subCategory": "Refrigerated centrifuge",
+  "throughput": "",
+  "pdf": "",
+  "slug": "microcentrifuge",
+  "model": "",
+  "title": "Microcentrifuge",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FRefrigerated%20centrifuge%2Frefrigerated-microcentrifuge-500x500.jpg?alt=media&token=e486a81c-6dee-471c-9352-19db40dd773b"
+  ],
+  "automation": "",
+  "brand": "",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "size": "",
+  "categoryProductId": "RC-33",
+  "category": "Laboratory Centrifuge",
+  "id": "b5c9a490-43a4-47c2-9874-6287886c161f",
+  "createdAt": "2026-08-07T06:56:35.664Z",
+  "parameters": "",
+  "desc": "",
+  "instrument": "",
+  "availability": "",
+  "uid": "laboratory-centrifuge-refrigerated-centrifuge-32"
+}

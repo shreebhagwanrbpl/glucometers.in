@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "EC-11",
+  "slug": "benchtop-electric-centrifuge-machine",
+  "isPublished": true,
+  "parameters": "",
+  "createdAt": "2026-08-07T06:56:21.897Z",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FElectric%20Centrifuge%2Felectric-centrifuge-machine-500x500.png?alt=media&token=4b8ff4e1-4b51-428f-9bf0-f949f8b1b25f"
+  ],
+  "category": "Laboratory Centrifuge",
+  "pdf": "",
+  "availability": "",
+  "subCategory": "Electric Centrifuge",
+  "id": "346c6327-e179-4782-83ec-b6472ce27b53",
+  "brand": "",
+  "size": "",
+  "price": "",
+  "desc": "",
+  "throughput": "",
+  "model": "",
+  "title": "Benchtop Electric Centrifuge Machine",
+  "capacity": "",
+  "automation": "",
+  "uid": "laboratory-centrifuge-electric-centrifuge-10"
+}

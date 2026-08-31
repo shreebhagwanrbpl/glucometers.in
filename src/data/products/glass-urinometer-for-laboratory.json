@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "subCategory": "Laboratory Urinometer",
+  "parameters": "",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "category": "Pathology Lab Equipments",
+  "size": "",
+  "id": "2bfd5003-89af-47d3-8517-3145ec12d2e7",
+  "createdAt": "2026-08-07T06:58:56.648Z",
+  "isPublished": true,
+  "pdf": "",
+  "categoryProductId": "LU-3",
+  "model": "",
+  "title": "Glass Urinometer, For Laboratory",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FLaboratory%20Urinometer%2Fglass-urinometer-500x500.jpg?alt=media&token=5649b0fa-9431-4fb8-a5eb-2bd005af5bc1"
+  ],
+  "price": "₹ 100",
+  "automation": "",
+  "availability": "",
+  "brand": "Atom",
+  "throughput": "",
+  "capacity": "",
+  "slug": "glass-urinometer-for-laboratory",
+  "uid": "pathology-lab-equipments-laboratory-urinometer-2"
+}

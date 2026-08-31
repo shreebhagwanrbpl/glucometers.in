@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FTable%20Top%20Centrifuge%2Fbenchtop-centrifuge-blood-cell-culture-plates-bottles-500x500.jpg?alt=media&token=43910bd8-765f-453d-85db-f6c87f2d49aa"
+  ],
+  "desc": "",
+  "automation": "",
+  "brand": "",
+  "availability": "",
+  "title": "BENCHTOP CENTRIFUGE BLOOD / CELL CULTURE / PLATES / BOTTLES",
+  "model": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:56:42.425Z",
+  "isPublished": true,
+  "price": "",
+  "pdf": "",
+  "category": "Laboratory Centrifuge",
+  "categoryProductId": "TTC-6",
+  "id": "145a7c06-3ff0-4d8d-8525-72c46e4b57c2",
+  "parameters": "",
+  "slug": "benchtop-centrifuge-blood--cell-culture--plates--bottles",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "subCategory": "Table Top Centrifuge",
+  "uid": "laboratory-centrifuge-table-top-centrifuge-5"
+}

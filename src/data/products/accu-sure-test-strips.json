@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "automation": "",
+  "throughput": "",
+  "pdf": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAccuSure%20Blood%20Glucose%20Test%20Strip%2F1-500x500.jpg?alt=media&token=82cb65d9-e56a-40db-a1ae-5ea466c68d8f"
+  ],
+  "slug": "accu-sure-test-strips",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:57:39.090Z",
+  "id": "c135d7c8-32fd-4209-b39a-3ea215484fa6",
+  "categoryProductId": "ABGTS-126",
+  "availability": "",
+  "subCategory": "AccuSure Blood Glucose Test Strip",
+  "desc": "",
+  "brand": "",
+  "category": "Other Categories",
+  "model": "",
+  "title": "Accu-Sure Test Strips",
+  "instrument": "",
+  "size": "",
+  "price": "",
+  "parameters": "",
+  "uid": "other-categories-accusure-blood-glucose-test-strip-125"
+}

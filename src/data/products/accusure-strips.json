@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "size": "",
+  "capacity": "",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAccuSure%20Blood%20Glucose%20Test%20Strip%2Faccusure-lite-50-strips-jpg-500x500.jpg?alt=media&token=fb5ea020-8a10-41c2-851a-d5ccdf281dde"
+  ],
+  "id": "fbefb7f4-e0fa-4ea3-af2f-77624fa997a5",
+  "categoryProductId": "ABGTS-75",
+  "desc": "",
+  "subCategory": "AccuSure Blood Glucose Test Strip",
+  "createdAt": "2026-08-07T06:57:39.085Z",
+  "pdf": "",
+  "price": "₹ 435",
+  "availability": "",
+  "category": "Other Categories",
+  "title": "accusure strips",
+  "model": "",
+  "slug": "accusure-strips",
+  "brand": "",
+  "automation": "",
+  "throughput": "",
+  "uid": "other-categories-accusure-blood-glucose-test-strip-74"
+}

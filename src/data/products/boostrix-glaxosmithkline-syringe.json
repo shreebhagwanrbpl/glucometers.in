@@ -1,0 +1,28 @@
+{
+  "category": "Syringe",
+  "model": "",
+  "title": "Boostrix GlaxoSmithKline Syringe",
+  "availability": "",
+  "desc": "",
+  "price": "",
+  "automation": "",
+  "size": "",
+  "createdAt": "2026-08-07T07:00:37.072Z",
+  "isPublished": true,
+  "brand": "",
+  "throughput": "",
+  "categoryProductId": "PS-43",
+  "instrument": "",
+  "id": "b01edc22-244b-44ec-afce-95d754b02e8d",
+  "capacity": "",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2026/4/602018398/SF/ZF/XI/16400174/boostrix-injection-500x500.jpg"
+  ],
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "pdf": "",
+  "slug": "boostrix-glaxosmithkline-syringe",
+  "subCategory": "Prefilled Syringe",
+  "uid": "syringe-prefilled-syringe-42"
+}

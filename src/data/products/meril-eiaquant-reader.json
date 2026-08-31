@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "brand": "",
+  "instrument": "",
+  "size": "",
+  "category": "Pathology Lab Equipments",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:58:48.421Z",
+  "price": "₹ 1,00,000",
+  "desc": "",
+  "model": "",
+  "title": "Meril Eiaquant  Reader",
+  "id": "9c33baf3-7f70-47c9-bf6b-2a6139114556",
+  "subCategory": "Elisa reader",
+  "capacity": "",
+  "slug": "meril-eiaquant-reader",
+  "categoryProductId": "ER-1",
+  "availability": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20reader%2Fmerilyzer-eia-quant-600-x-600-783d38ae84-500x500.png?alt=media&token=33cdd39e-6384-4bab-af13-4925e709947f"
+  ],
+  "throughput": "",
+  "uid": "pathology-lab-equipments-elisa-reader-0"
+}

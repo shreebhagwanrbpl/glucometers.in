@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "throughput": "",
+  "category": "Protein Analyzer",
+  "isPublished": true,
+  "automation": "",
+  "pdf": "",
+  "categoryProductId": "CSPA-35",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fproduct-jpeg-500x500.jpg?alt=media&token=0b455ce3-5e0a-4012-8e84-b3c8b2b28183"
+  ],
+  "availability": "",
+  "brand": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "createdAt": "2026-08-07T06:59:25.383Z",
+  "model": "",
+  "title": "Specific Protein Analyzer",
+  "slug": "specific-protein-analyzer",
+  "parameters": "",
+  "id": "6a605949-74ba-414d-89b2-52bf1ff07414",
+  "price": "₹ 50,000",
+  "instrument": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-34"
+}

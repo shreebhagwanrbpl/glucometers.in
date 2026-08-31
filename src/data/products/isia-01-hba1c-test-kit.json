@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHemoglobin%20Test%20Kit%2Fisia01-hba1c-kit-500x500.png?alt=media&token=a0fa113e-9043-4d4d-b0f5-d88d23824daa"
+  ],
+  "instrument": "",
+  "isPublished": true,
+  "id": "863e67e6-e81b-49a4-8b9f-c0841b3f2c11",
+  "capacity": "",
+  "parameters": "",
+  "brand": "",
+  "model": "",
+  "title": "iSIA 01 HbA1c Test Kit",
+  "slug": "isia-01-hba1c-test-kit",
+  "price": "₹ 2,625",
+  "availability": "",
+  "categoryProductId": "HTK-31",
+  "category": "Rapid Test Kit",
+  "subCategory": "Hemoglobin Test Kit",
+  "desc": "",
+  "automation": "",
+  "createdAt": "2026-08-07T06:59:49.011Z",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "pdf": "",
+  "size": "",
+  "uid": "rapid-test-kit-hemoglobin-test-kit-30"
+}

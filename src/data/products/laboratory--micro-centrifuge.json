@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Flaboratory-micro-centrifuge-500x500.png?alt=media&token=99830b63-2379-419d-9ce0-7e8c8140dee0"
+  ],
+  "brand": "",
+  "id": "c5b82b4b-568b-43a1-9fc2-1586cfe6a211",
+  "title": "Laboratory / Micro Centrifuge",
+  "model": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:56:27.753Z",
+  "price": "",
+  "capacity": "",
+  "isPublished": true,
+  "size": "",
+  "instrument": "",
+  "availability": "",
+  "throughput": "",
+  "categoryProductId": "M-249",
+  "automation": "",
+  "category": "Laboratory Centrifuge",
+  "slug": "laboratory--micro-centrifuge",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "subCategory": "Microcentrifuge",
+  "uid": "laboratory-centrifuge-microcentrifuge-248"
+}

@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:59:41.452Z",
+  "pdf": "",
+  "desc": "",
+  "throughput": "",
+  "size": "",
+  "category": "Rapid Test Kit",
+  "automation": "",
+  "id": "938bf372-39bd-4e60-9bf6-930014c7fbce",
+  "isPublished": true,
+  "categoryProductId": "DT-23",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FDiagnostic%20test%2Fproduct-jpeg-500x500.jpg?alt=media&token=c094434f-b0dc-4ecd-bc47-a1227236cef2"
+  ],
+  "availability": "",
+  "brand": "",
+  "instrument": "",
+  "title": "Tulip TROP-T ROCH Dengue Diagnostic Test  (25 Tests)",
+  "model": "",
+  "capacity": "",
+  "slug": "tulip-trop-t-roch-dengue-diagnostic-test-25-tests",
+  "price": "₹ 1,620",
+  "subCategory": "Diagnostic test",
+  "uid": "rapid-test-kit-diagnostic-test-22"
+}

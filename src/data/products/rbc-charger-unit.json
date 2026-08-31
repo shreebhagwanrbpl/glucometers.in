@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "desc": "",
+  "instrument": "",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FRBC%20Pipette%2Frbc-500x500.png?alt=media&token=11fe23ab-6615-48cd-8131-15f2272368fb"
+  ],
+  "automation": "",
+  "category": "Pathology Lab Equipments",
+  "availability": "",
+  "brand": "",
+  "categoryProductId": "RP-44",
+  "throughput": "",
+  "pdf": "",
+  "model": "",
+  "title": "Rbc Charger unit",
+  "slug": "rbc-charger-unit",
+  "subCategory": "RBC Pipette",
+  "price": "",
+  "createdAt": "2026-08-07T06:59:02.232Z",
+  "id": "7c1916f4-888b-4010-bedf-3413c09fa553",
+  "uid": "pathology-lab-equipments-rbc-pipette-43"
+}

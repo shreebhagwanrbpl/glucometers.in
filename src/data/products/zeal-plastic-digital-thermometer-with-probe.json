@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "LT-79",
+  "brand": "Contact Supplier",
+  "size": "",
+  "automation": "",
+  "id": "df1656d4-3d96-4135-84aa-2279f9364891",
+  "capacity": "",
+  "throughput": "",
+  "price": "",
+  "desc": "",
+  "title": "Zeal Plastic digital thermometer with probe",
+  "model": "",
+  "isPublished": true,
+  "category": "Laboratory thermometer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FLCD%20Thermometer%2Fproduct-jpeg-500x500.png?alt=media&token=b944af46-19bd-4ff0-8a5f-faf47221eae2"
+  ],
+  "slug": "zeal-plastic-digital-thermometer-with-probe",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "availability": "",
+  "instrument": "",
+  "subCategory": "LCD Thermometer",
+  "createdAt": "2026-08-07T06:57:00.940Z",
+  "parameters": "",
+  "uid": "laboratory-thermometer-lcd-thermometer-78"
+}

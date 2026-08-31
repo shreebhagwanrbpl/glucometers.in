@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "category": "Mindray",
+  "createdAt": "2026-08-07T06:57:25.158Z",
+  "price": "₹ 6,50,000",
+  "desc": "",
+  "parameters": "",
+  "id": "67576ec2-ae9b-457c-9763-af463c8a5112",
+  "title": "Fully Automatic Mindray Bs 240, Assays: Clinical Chemistry",
+  "model": "",
+  "instrument": "",
+  "subCategory": "Mindray Laboratory Biochemistry Analyzer",
+  "slug": "fully-automatic-mindray-bs-240-assays-clinical-chemistry",
+  "capacity": "",
+  "throughput": "",
+  "automation": "",
+  "categoryProductId": "MLBA-24",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Laboratory%20Biochemistry%20Analyzer%2Fmindray-bs-240-500x500.png?alt=media&token=5e9304e2-bdd2-450f-aae7-42f5fdfcb805"
+  ],
+  "isPublished": true,
+  "uid": "mindray-mindray-laboratory-biochemistry-analyzer-23"
+}

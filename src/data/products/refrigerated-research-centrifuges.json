@@ -1,0 +1,28 @@
+{
+  "category": "Pathology Lab Equipments",
+  "brand": "",
+  "desc": "",
+  "categoryProductId": "RC-31",
+  "subCategory": "Research Centrifuge",
+  "size": "",
+  "parameters": "",
+  "model": "",
+  "title": "Refrigerated Research Centrifuges",
+  "instrument": "",
+  "id": "2219f7b1-f03d-4fa9-be77-5f517322813d",
+  "price": "₹ 3,500",
+  "throughput": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:59:04.718Z",
+  "isPublished": true,
+  "automation": "",
+  "availability": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2Frefrigerated-research-centrifuges-500x500.jpg?alt=media&token=75c9cd31-e587-4428-8f66-a4f0962356fc"
+  ],
+  "slug": "refrigerated-research-centrifuges",
+  "usage": "",
+  "video": "",
+  "uid": "pathology-lab-equipments-research-centrifuge-30"
+}

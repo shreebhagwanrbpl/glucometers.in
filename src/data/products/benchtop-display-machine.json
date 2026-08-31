@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "throughput": "",
+  "categoryProductId": "DCM-4",
+  "brand": "",
+  "capacity": "",
+  "model": "",
+  "title": "Benchtop  display  machine",
+  "slug": "benchtop-display-machine",
+  "availability": "",
+  "isPublished": true,
+  "price": "₹ 98,000",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FDigital%20centrifuge%20machine%2Fvariable-speed-lab-centrifuge-500x500.png?alt=media&token=7916583f-2cac-4f72-8742-f34dc485b68e"
+  ],
+  "desc": "",
+  "id": "0192b966-5d0f-490d-96cd-6b600cfb8c26",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:58:47.304Z",
+  "usage": "",
+  "category": "Pathology Lab Equipments",
+  "video": "",
+  "parameters": "",
+  "pdf": "",
+  "subCategory": "Digital centrifuge machine",
+  "size": "",
+  "uid": "pathology-lab-equipments-digital-centrifuge-machine-3"
+}

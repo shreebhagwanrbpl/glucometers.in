@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "throughput": "",
+  "automation": "",
+  "capacity": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "BA-2",
+  "subCategory": "biochemestery Analyzer",
+  "createdAt": "2026-08-07T06:55:48.368Z",
+  "id": "b1dbd9d7-3fae-42b6-b06d-a67e2a531380",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2Fbiochemestery%20Analyzer%2Fhoriba-yumizen-ca60-semi-automatic-biochemistry-analyzer-500x500.png?alt=media&token=7c64acdf-dfcd-45ec-9651-445298a25e68"
+  ],
+  "brand": "",
+  "pdf": "",
+  "model": "",
+  "title": "Erba Horiba Yumizen CA60 Semi Automatic Biochemistry Analyzer, Assays: Clinical Chemistry",
+  "slug": "erba-horiba-yumizen-ca60-semi-automatic-biochemistry-analyzer-assays-clinical-chemistry",
+  "parameters": "",
+  "category": "Ivds category",
+  "price": "",
+  "availability": "",
+  "isPublished": true,
+  "instrument": "",
+  "uid": "ivds-category-biochemestery-analyzer-1"
+}

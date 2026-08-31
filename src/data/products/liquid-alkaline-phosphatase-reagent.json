@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Liquid Alkaline Phosphatase Reagent",
+  "desc": "",
+  "id": "b7ac4656-69a7-4e8a-b452-9876460e5273",
+  "category": "Clinical Reagents",
+  "isPublished": true,
+  "price": "₹ 767",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FAlkaline%20phosphatase%20reagent%2F2-500x500.jpg?alt=media&token=25050a2a-8178-4be9-b6da-36935d7169bf"
+  ],
+  "instrument": "",
+  "parameters": "",
+  "pdf": "",
+  "brand": "4.4",
+  "size": "",
+  "automation": "",
+  "subCategory": "Alkaline phosphatase reagent",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "capacity": "",
+  "categoryProductId": "APR-16",
+  "createdAt": "2026-08-07T06:54:44.011Z",
+  "slug": "liquid-alkaline-phosphatase-reagent",
+  "availability": "",
+  "uid": "clinical-reagents-alkaline-phosphatase-reagent-15"
+}

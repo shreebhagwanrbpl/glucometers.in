@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "pdf": "",
+  "brand": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMedico%20centrifuges%2Fmedico-clinical-centrifuge-machine-500x500.jpg?alt=media&token=59a177f9-3e86-46a3-a99d-89ac78aad1e0"
+  ],
+  "capacity": "",
+  "isPublished": true,
+  "model": "",
+  "title": "Medico Clinical Centrifuge Machine",
+  "slug": "medico-clinical-centrifuge-machine",
+  "price": "",
+  "desc": "",
+  "subCategory": "Medico centrifuges",
+  "size": "",
+  "automation": "",
+  "id": "f83e48dd-d06f-48fe-80ed-bcbcdc424177",
+  "categoryProductId": "MC-6",
+  "availability": "",
+  "createdAt": "2026-08-07T06:56:26.471Z",
+  "throughput": "",
+  "category": "Laboratory Centrifuge",
+  "usage": "",
+  "video": "",
+  "uid": "laboratory-centrifuge-medico-centrifuges-5"
+}

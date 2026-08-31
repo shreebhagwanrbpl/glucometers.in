@@ -1,0 +1,28 @@
+{
+  "subCategory": "Elisa Washer",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:58:49.931Z",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "size": "",
+  "categoryProductId": "EW-42",
+  "automation": "",
+  "title": "MW-12A Mindray Elisha Washer",
+  "model": "",
+  "parameters": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Fmw-12a-mindray-elisha-washer-500x500.png?alt=media&token=43993136-9aa1-4c1f-89cc-ef7cbb13a671"
+  ],
+  "price": "₹ 1,20,000",
+  "category": "Pathology Lab Equipments",
+  "instrument": "",
+  "availability": "",
+  "pdf": "",
+  "id": "353dfa56-ec9f-49aa-9b15-4eeec7fb5bcf",
+  "slug": "mw-12a-mindray-elisha-washer",
+  "brand": "Mindray",
+  "uid": "pathology-lab-equipments-elisa-washer-41"
+}

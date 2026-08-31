@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "brand": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FDigital%20centrifuge%20machine%2Fdigital-centrifuge-machine-500x500.jpeg?alt=media&token=e0939288-3a9b-4a18-8887-65f605f1c08a"
+  ],
+  "pdf": "",
+  "capacity": "",
+  "instrument": "",
+  "price": "₹ 12,500",
+  "desc": "",
+  "subCategory": "Digital centrifuge machine",
+  "parameters": "",
+  "model": "",
+  "title": "Benchtop   Machine",
+  "automation": "",
+  "slug": "benchtop-machine",
+  "throughput": "",
+  "id": "e7afdfad-37b8-49a0-a80b-7e339224dc79",
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T06:58:47.304Z",
+  "category": "Pathology Lab Equipments",
+  "categoryProductId": "DCM-7",
+  "isPublished": true,
+  "uid": "pathology-lab-equipments-digital-centrifuge-machine-6"
+}

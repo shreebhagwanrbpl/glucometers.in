@@ -1,0 +1,28 @@
+{
+  "subCategory": "Cancer Detection Kit",
+  "parameters": "",
+  "instrument": "",
+  "brand": "",
+  "capacity": "",
+  "title": "Cancer Markers",
+  "model": "",
+  "slug": "cancer-markers",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FCancer%20Detection%20Kit%2Fcancer-markers-500x500.jpg?alt=media&token=647f0c40-5f71-4c82-b1e3-e51506cccf16"
+  ],
+  "desc": "",
+  "isPublished": true,
+  "id": "f67d195d-9ba8-4523-a9f2-a793aa9a8575",
+  "categoryProductId": "CDK-22",
+  "throughput": "",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "category": "Rapid Test Kit",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:59:31.535Z",
+  "automation": "",
+  "size": "",
+  "uid": "rapid-test-kit-cancer-detection-kit-21"
+}

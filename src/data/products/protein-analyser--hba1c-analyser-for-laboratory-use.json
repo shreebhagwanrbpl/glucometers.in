@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "createdAt": "2026-08-07T06:59:25.393Z",
+  "capacity": "",
+  "isPublished": true,
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "id": "7145cf5f-b440-4bb3-a543-1b20cc3f71a5",
+  "slug": "protein-analyser--hba1c-analyser-for-laboratory-use",
+  "pdf": "",
+  "category": "Protein Analyzer",
+  "title": "Protein Analyser & HbA1c Analyser, for Laboratory Use",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fproduct-jpeg-500x500.png?alt=media&token=78c61418-f6e3-4c28-80d9-22f9864ac245"
+  ],
+  "desc": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "price": "",
+  "size": "",
+  "throughput": "",
+  "categoryProductId": "CSPA-155",
+  "brand": "",
+  "availability": "",
+  "automation": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-154"
+}

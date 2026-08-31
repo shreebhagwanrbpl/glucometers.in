@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "slug": "alcohol-thermometer",
+  "automation": "",
+  "categoryProductId": "GLT-17",
+  "pdf": "",
+  "availability": "",
+  "isPublished": true,
+  "capacity": "",
+  "price": "",
+  "size": "",
+  "title": "Alcohol Thermometer",
+  "model": "",
+  "id": "ca823fb1-1b89-4412-8cc4-a2596c6f4321",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:56:57.267Z",
+  "brand": "",
+  "category": "Laboratory thermometer",
+  "desc": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FGlass%20laboratory%20thermometer%2Flong-stem-thermometer-500x500.jpg?alt=media&token=2034d26b-9257-41d9-a8b5-bb0c34491695"
+  ],
+  "subCategory": "Glass laboratory thermometer",
+  "uid": "laboratory-thermometer-glass-laboratory-thermometer-16"
+}

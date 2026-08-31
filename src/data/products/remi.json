@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "createdAt": "2026-08-07T06:56:25.245Z",
+  "categoryProductId": "LC-4",
+  "isPublished": true,
+  "brand": "",
+  "capacity": "",
+  "title": "Remi",
+  "model": "",
+  "automation": "",
+  "price": "",
+  "throughput": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FLaboratory%20Centrifuge%2Flaboratory-centrifuges-500x500.jpg?alt=media&token=2c227faa-5840-4c5f-9b07-2de80034b529"
+  ],
+  "instrument": "",
+  "parameters": "",
+  "subCategory": "Laboratory Centrifuge",
+  "id": "5e8ced7c-fd3e-4772-8d5a-a6261c46783f",
+  "slug": "remi",
+  "category": "Laboratory Centrifuge",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "availability": "",
+  "uid": "laboratory-centrifuge-laboratory-centrifuge-3"
+}

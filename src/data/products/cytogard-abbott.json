@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "createdAt": "2026-08-07T06:52:57.653Z",
+  "desc": "Cytogard abbott",
+  "category": "Abbott",
+  "size": "",
+  "availability": "",
+  "parameters": "",
+  "subCategory": "Abbott Blood Analyzer",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Blood%20Analyzer%2Fcytogard-abbott-500x500.jpeg?alt=media&token=81276191-1eb6-44ed-a65d-6592192b6d23"
+  ],
+  "throughput": "",
+  "categoryProductId": "ABA-46",
+  "brand": "",
+  "automation": "",
+  "title": "Cytogard Abbott",
+  "model": "",
+  "capacity": "",
+  "id": "e161f57a-d3d9-45e2-b423-1bc134b4f8fa",
+  "slug": "cytogard-abbott",
+  "price": "",
+  "isPublished": true,
+  "uid": "abbott-abbott-blood-analyzer-43"
+}

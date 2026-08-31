@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "categoryProductId": "CAT-206",
+  "category": "Blood Collection Tubes",
+  "parameters": "",
+  "subCategory": "Clot Activator Tube",
+  "instrument": "",
+  "price": "",
+  "id": "0ed2e903-1592-4be8-a83a-252e407114ba",
+  "desc": "Clot Activator Tube",
+  "title": "Clot Activator Tube, 4ml",
+  "model": "",
+  "isPublished": true,
+  "pdf": "",
+  "availability": "",
+  "createdAt": "2026-08-07T06:53:33.824Z",
+  "capacity": "",
+  "slug": "clot-activator-tube-4ml",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FClot%20Activator%20Tube%2Fnew-product-500x500.jpeg?alt=media&token=3b35be97-49b4-4b5c-a188-1ce489a7a9e6"
+  ],
+  "automation": "",
+  "uid": "blood-collection-tubes-clot-activator-tube-205"
+}

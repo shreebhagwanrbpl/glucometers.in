@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "parameters": "",
+  "pdf": "",
+  "categoryProductId": "SCT-12",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "category": "Blood Collection Tubes",
+  "slug": "pet-plastic-sodium-citrate-tube-labo-star",
+  "model": "",
+  "title": "PET Plastic Sodium Citrate Tube (LABO STAR)",
+  "desc": "",
+  "id": "82ec0d45-2cec-4d51-aea6-3a8d98419a9a",
+  "subCategory": "Sodium Citrate Tube",
+  "price": "",
+  "createdAt": "2026-08-07T06:54:20.664Z",
+  "automation": "",
+  "size": "",
+  "throughput": "",
+  "availability": "",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FSodium%20Citrate%20Tube%2Fsodium-citrate-tube-labo-star-500x500.jpeg?alt=media&token=15ad325b-6405-4840-9f51-047f77d78cc5"
+  ],
+  "capacity": "",
+  "uid": "blood-collection-tubes-sodium-citrate-tube-11"
+}

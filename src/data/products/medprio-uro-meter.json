@@ -1,0 +1,28 @@
+{
+  "title": "Medprio URO Meter",
+  "model": "",
+  "capacity": "",
+  "subCategory": "Laboratory Urinometer",
+  "price": "₹ 55",
+  "createdAt": "2026-08-07T06:58:56.649Z",
+  "slug": "medprio-uro-meter",
+  "throughput": "",
+  "brand": "MEDPRIO",
+  "automation": "",
+  "desc": "",
+  "isPublished": true,
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FLaboratory%20Urinometer%2Fmedprio-uro-meter-500x500.jpg?alt=media&token=2c84993d-3eca-4a59-8dd6-f197073eef14"
+  ],
+  "usage": "",
+  "video": "",
+  "category": "Pathology Lab Equipments",
+  "instrument": "",
+  "id": "c4838d5c-2316-45ff-b01b-2d583954baf6",
+  "categoryProductId": "LU-11",
+  "availability": "",
+  "pdf": "",
+  "size": "ADULT",
+  "uid": "pathology-lab-equipments-laboratory-urinometer-10"
+}

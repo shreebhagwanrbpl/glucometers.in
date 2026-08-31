@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "category": "Laboratory Centrifuge",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "instrument": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:56:25.245Z",
+  "availability": "",
+  "parameters": "",
+  "subCategory": "Laboratory Centrifuge",
+  "id": "bade3d4e-49d6-413f-ba27-b0b2ad429015",
+  "title": "SS",
+  "automation": "",
+  "model": "",
+  "categoryProductId": "LC-7",
+  "throughput": "",
+  "price": "",
+  "capacity": "",
+  "slug": "ss",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FLaboratory%20Centrifuge%2Felectric-centrifuge-machine-500x500.jpg?alt=media&token=c5430815-8e65-4633-9c3e-5f8dfcfb648c"
+  ],
+  "brand": "",
+  "uid": "laboratory-centrifuge-laboratory-centrifuge-6"
+}

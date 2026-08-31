@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "parameters": "",
+  "instrument": "",
+  "category": "Rapid Test Kit",
+  "availability": "",
+  "brand": "",
+  "isPublished": true,
+  "model": "",
+  "title": "Cholesterol Test Kit",
+  "price": "₹ 1,120",
+  "pdf": "",
+  "size": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHDL%20Cholesterol%20Test%20Kit%2Fcholesterol-test-kit-500x500.jpg?alt=media&token=de964022-e049-4959-85dc-5b5e5db3a16b"
+  ],
+  "id": "179d4183-7d02-492c-96d3-0f9712abf058",
+  "categoryProductId": "HCTK-23",
+  "slug": "cholesterol-test-kit",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:59:47.023Z",
+  "subCategory": "HDL Cholesterol Test Kit",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "uid": "rapid-test-kit-hdl-cholesterol-test-kit-22"
+}

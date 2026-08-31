@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "pdf": "",
+  "instrument": "",
+  "price": "",
+  "availability": "",
+  "model": "",
+  "title": "PreciLYTE Electrolyte Analyser",
+  "category": "Ivds category",
+  "parameters": "",
+  "brand": "",
+  "id": "29e86d03-bd2a-4e71-97cc-6dc882e4b475",
+  "isPublished": true,
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FElectrolyte%20analyzer%2Fprecilyte-electrolyte-analyser-500x500.jpg?alt=media&token=1597bfea-1c78-4e9e-bae6-84f65ddf4b39"
+  ],
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "EA-21",
+  "slug": "precilyte-electrolyte-analyser",
+  "automation": "",
+  "createdAt": "2026-08-07T06:55:52.328Z",
+  "throughput": "",
+  "subCategory": "Electrolyte analyzer",
+  "uid": "ivds-category-electrolyte-analyzer-20"
+}

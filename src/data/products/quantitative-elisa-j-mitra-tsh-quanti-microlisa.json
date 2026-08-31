@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "JMDTK-64",
+  "id": "f793f800-39ae-4006-91ef-24d327f9a007",
+  "desc": "",
+  "pdf": "",
+  "availability": "",
+  "automation": "",
+  "size": "",
+  "throughput": "",
+  "isPublished": true,
+  "capacity": "",
+  "video": "",
+  "usage": "Quantitative ELISA",
+  "instrument": "",
+  "parameters": "",
+  "brand": "J Mitra",
+  "createdAt": "2026-08-07T06:58:13.976Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FJ%20Mitra%20Diagnostic%20Test%20Kit%2Ftsh-quanti-microlisa-j-mitra-500x500.jpg?alt=media&token=681a3994-8853-40f5-b99f-059ee55516ec"
+  ],
+  "title": "Quantitative ELISA J Mitra TSH Quanti Microlisa",
+  "model": "",
+  "category": "Other Categories",
+  "slug": "quantitative-elisa-j-mitra-tsh-quanti-microlisa",
+  "subCategory": "J Mitra Diagnostic Test Kit",
+  "price": "₹ 1,650",
+  "uid": "other-categories-j-mitra-diagnostic-test-kit-63"
+}

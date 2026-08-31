@@ -1,0 +1,28 @@
+{
+  "category": "Clinical Reagents",
+  "usage": "",
+  "video": "",
+  "subCategory": "Diagnostic reagents",
+  "categoryProductId": "DR-6",
+  "slug": "liquid-electrolyte-analyzer-reagent",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Felectrolyte-reagent-500x500.PNG?alt=media&token=7881a0ff-ce4b-4a3f-9ee5-e486f7958fcd"
+  ],
+  "throughput": "",
+  "desc": "",
+  "title": "Liquid Electrolyte Analyzer Reagent",
+  "model": "",
+  "availability": "",
+  "instrument": "",
+  "isPublished": true,
+  "price": "₹ 10,500",
+  "id": "2a037e00-f8b4-41df-92b9-41604d8dd804",
+  "parameters": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:54:50.078Z",
+  "pdf": "",
+  "size": "",
+  "brand": "4",
+  "uid": "clinical-reagents-diagnostic-reagents-5"
+}

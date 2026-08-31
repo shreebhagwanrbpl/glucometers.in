@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "CC-7",
+  "size": "",
+  "price": "",
+  "subCategory": "Cell Counter",
+  "model": "",
+  "title": "Lactoscan SCC KIT x4",
+  "createdAt": "2026-08-07T06:55:26.541Z",
+  "brand": "",
+  "throughput": "",
+  "category": "Hematology analyzers",
+  "automation": "",
+  "desc": "",
+  "isPublished": true,
+  "parameters": "",
+  "pdf": "",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "slug": "lactoscan-scc-kit-x4",
+  "id": "24fa82f0-034f-4318-b900-946450f398a8",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FCell%20Counter%2Flactoscan-scc-kit-x4-500x500.jpg?alt=media&token=d69a3eb9-a173-4878-9156-de9d7301e575"
+  ],
+  "uid": "hematology-analyzers-cell-counter-6"
+}

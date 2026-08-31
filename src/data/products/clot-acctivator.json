@@ -1,0 +1,28 @@
+{
+  "category": "Blood Collection Tubes",
+  "createdAt": "2026-08-07T06:53:33.835Z",
+  "parameters": "",
+  "brand": "",
+  "instrument": "",
+  "availability": "",
+  "slug": "clot-acctivator",
+  "categoryProductId": "CAT-251",
+  "subCategory": "Clot Activator Tube",
+  "price": "",
+  "title": "Clot Acctivator",
+  "model": "",
+  "id": "bbc8e160-bcb1-4ebf-8a6c-4e619bd8ab8b",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FClot%20Activator%20Tube%2F30359982-product-1745496163830-500x500.png?alt=media&token=69d2f243-f0ea-40bb-8880-034908ee94d6"
+  ],
+  "isPublished": true,
+  "capacity": "",
+  "pdf": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "desc": "Clot Acctivator",
+  "automation": "",
+  "uid": "blood-collection-tubes-clot-activator-tube-250"
+}

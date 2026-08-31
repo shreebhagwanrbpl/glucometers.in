@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "categoryProductId": "HCTK-1",
+  "desc": "",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "category": "Rapid Test Kit",
+  "size": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHDL%20Cholesterol%20Test%20Kit%2Fcholesterol-reagent-kit-500x500.jpeg?alt=media&token=c81bfebe-5a61-4bd2-88f4-44f2dfa67461"
+  ],
+  "model": "",
+  "title": "Cholesterol Reagent Kit, Pack Size: 2 x 50 mL",
+  "capacity": "",
+  "id": "e92f5680-cd00-4903-b166-8a26c56433d8",
+  "price": "₹ 395",
+  "pdf": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:59:47.022Z",
+  "availability": "",
+  "parameters": "",
+  "brand": "",
+  "slug": "cholesterol-reagent-kit-pack-size-2-x-50-ml",
+  "subCategory": "HDL Cholesterol Test Kit",
+  "uid": "rapid-test-kit-hdl-cholesterol-test-kit-0"
+}

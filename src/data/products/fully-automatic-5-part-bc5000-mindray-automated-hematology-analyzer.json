@@ -1,0 +1,28 @@
+{
+  "price": "₹ 3,60,000",
+  "availability": "",
+  "id": "d2de0200-cda6-4092-9158-80f7d50407d5",
+  "slug": "fully-automatic-5-part-bc5000-mindray-automated-hematology-analyzer",
+  "capacity": "",
+  "title": "Fully Automatic 5-Part BC5000 Mindray Automated Hematology Analyzer",
+  "model": "",
+  "throughput": "",
+  "brand": "",
+  "subCategory": "Mindray Cell Counter",
+  "automation": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:57:15.376Z",
+  "category": "Mindray",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Cell%20Counter%2Fbc5000-mindray-automated-hematology-analyzer-500x500.png?alt=media&token=1124dd1a-f19b-4220-829a-11304eeac740"
+  ],
+  "isPublished": true,
+  "categoryProductId": "MCC-26",
+  "desc": "",
+  "uid": "mindray-mindray-cell-counter-25"
+}

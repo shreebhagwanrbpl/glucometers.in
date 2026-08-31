@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "category": "Abbott",
+  "slug": "point-of-care-abbott-affinion-2",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Blood%20Analyzer%2Fabbott-affinion-2-500x500.jpg?alt=media&token=07518650-8380-47a5-aecd-92860a741939"
+  ],
+  "isPublished": true,
+  "size": "",
+  "capacity": "",
+  "pdf": "",
+  "price": "₹ 1,50,000",
+  "categoryProductId": "ABA-14",
+  "subCategory": "Abbott Blood Analyzer",
+  "title": "Point of Care ABBOTT AFFINION 2",
+  "model": "AFFINION 2",
+  "brand": "ABBOTT",
+  "instrument": "POINT OF CARE HBA1C ANALYZER",
+  "id": "8abb245a-e39c-4e45-b712-760d6a7db71f",
+  "createdAt": "2026-08-07T06:52:57.649Z",
+  "desc": "",
+  "parameters": "",
+  "uid": "abbott-abbott-blood-analyzer-11"
+}

@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "categoryProductId": "SA-9",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Semen%2FSemen%20Analysis%2F1-500x500.jpg?alt=media&token=874e8c55-8129-4437-bcc2-cb04ce174dcc"
+  ],
+  "slug": "semen-analysis",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "isPublished": true,
+  "capacity": "",
+  "pdf": "",
+  "id": "29759bfc-5bb4-4c8e-9bc2-307219e5ccd2",
+  "instrument": "",
+  "desc": "",
+  "parameters": "",
+  "brand": "",
+  "model": "",
+  "title": "Semen Analysis",
+  "createdAt": "2026-08-07T07:00:16.873Z",
+  "category": "Semen",
+  "price": "",
+  "subCategory": "Semen Analysis",
+  "size": "",
+  "uid": "semen-semen-analysis-8"
+}

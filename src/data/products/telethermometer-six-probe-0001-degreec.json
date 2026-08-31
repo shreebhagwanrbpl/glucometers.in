@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:57:09.636Z",
+  "slug": "telethermometer-six-probe-0001-degreec",
+  "pdf": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "category": "Laboratory thermometer",
+  "availability": "",
+  "instrument": "",
+  "isPublished": true,
+  "throughput": "",
+  "brand": "",
+  "size": "",
+  "id": "7ccea8e6-e296-43c2-b2d4-21d9924add28",
+  "categoryProductId": "T-13",
+  "automation": "",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FTele-Thermometer%2Ftelethermometer-six-probe-500x500.jpg?alt=media&token=cd6d0ec6-aad6-448a-bab5-ac9e86a032ca"
+  ],
+  "desc": "Telethermometer Six Probe is a temperature monitoring device equipped with six independent probes, allowing simultaneous measurement at multiple points. Commonly used in laboratories and research for accurate, real-time thermal readings.",
+  "capacity": "",
+  "model": "",
+  "title": "Telethermometer Six Probe, 0.001 Degreec",
+  "subCategory": "Tele-Thermometer",
+  "uid": "laboratory-thermometer-tele-thermometer-12"
+}

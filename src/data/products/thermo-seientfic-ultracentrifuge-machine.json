@@ -1,0 +1,28 @@
+{
+  "title": "Thermo Seientfic Ultracentrifuge Machine",
+  "model": "",
+  "throughput": "",
+  "desc": "",
+  "createdAt": "2026-08-07T06:56:45.470Z",
+  "price": "",
+  "automation": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FUltracentrifuge%2Fultracentrifuges-500x500.jpg?alt=media&token=c53c482f-cc0e-4b62-ba10-2cea98ac606c"
+  ],
+  "size": "",
+  "categoryProductId": "U-14",
+  "brand": "",
+  "subCategory": "Ultracentrifuge",
+  "category": "Laboratory Centrifuge",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "id": "515322be-0e88-4671-8fce-02bb79b02daa",
+  "parameters": "",
+  "slug": "thermo-seientfic-ultracentrifuge-machine",
+  "isPublished": true,
+  "instrument": "",
+  "uid": "laboratory-centrifuge-ultracentrifuge-13"
+}

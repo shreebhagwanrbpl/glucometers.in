@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "categoryProductId": "C-3",
+  "throughput": "",
+  "brand": "CoaguChek",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FCoagulometer%2Fcoaguchek-xs-system-500x500.jpg?alt=media&token=e0239063-a5f7-4dea-8c93-57b8a30d9dbd"
+  ],
+  "subCategory": "Coagulometer",
+  "title": "CoaguChek XS System",
+  "model": "",
+  "pdf": "",
+  "slug": "coaguchek-xs-system",
+  "createdAt": "2026-08-07T06:58:45.657Z",
+  "price": "₹ 23,005",
+  "availability": "",
+  "category": "Pathology Lab Equipments",
+  "desc": "",
+  "id": "d32e749e-69f8-46e9-b301-5f4701ed136e",
+  "instrument": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "size": "",
+  "parameters": "",
+  "uid": "pathology-lab-equipments-coagulometer-2"
+}

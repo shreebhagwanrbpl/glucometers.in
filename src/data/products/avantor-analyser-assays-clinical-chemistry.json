@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "capacity": "",
+  "slug": "avantor-analyser-assays-clinical-chemistry",
+  "instrument": "",
+  "price": "₹ 75,000",
+  "pdf": "",
+  "categoryProductId": "SAA-13",
+  "parameters": "",
+  "model": "",
+  "title": "Avantor  Analyser, Assays: Clinical Chemistry",
+  "isPublished": true,
+  "automation": "",
+  "throughput": "",
+  "size": "",
+  "category": "Biochemistry Analyzer",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Biochemistry%20Analyzer%2FSemi%20auto%20analyser%2F001-500x500.jpg?alt=media&token=3524a663-2084-423a-8c6f-dc06ea714d39"
+  ],
+  "id": "04f6c9ef-3825-49b3-8529-5fbb20737a76",
+  "createdAt": "2026-08-07T06:53:08.587Z",
+  "desc": "",
+  "subCategory": "Semi auto analyser",
+  "uid": "biochemistry-analyzer-semi-auto-analyser-12"
+}

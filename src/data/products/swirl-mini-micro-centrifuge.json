@@ -1,0 +1,28 @@
+{
+  "id": "05b3beb4-8665-4f05-8045-361051d57162",
+  "categoryProductId": "M-231",
+  "automation": "",
+  "subCategory": "Microcentrifuge",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "throughput": "",
+  "availability": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fswirl-mini-micro-centrifuge-500x500.png?alt=media&token=c30714ca-c74f-429e-a121-c7c0261aac44"
+  ],
+  "category": "Laboratory Centrifuge",
+  "title": "Swirl Mini Micro Centrifuge",
+  "model": "",
+  "price": "",
+  "isPublished": true,
+  "instrument": "",
+  "capacity": "",
+  "slug": "swirl-mini-micro-centrifuge",
+  "brand": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:56:27.752Z",
+  "uid": "laboratory-centrifuge-microcentrifuge-230"
+}

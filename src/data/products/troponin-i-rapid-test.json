@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "isPublished": true,
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FTroponin%20Test%20Kit%2Fproduct-jpeg-500x500.jpg?alt=media&token=e4ce4908-5624-4967-ab06-44524cb7aeb8"
+  ],
+  "id": "e60a2648-5cdb-4dc1-bdd2-da0c8ad12db4",
+  "capacity": "",
+  "desc": "",
+  "categoryProductId": "TTK-1",
+  "price": "₹ 1,000",
+  "pdf": "",
+  "createdAt": "2026-08-07T07:00:11.903Z",
+  "title": "Troponin I Rapid Test",
+  "model": "",
+  "slug": "troponin-i-rapid-test",
+  "subCategory": "Troponin Test Kit",
+  "brand": "",
+  "throughput": "",
+  "category": "Rapid Test Kit",
+  "automation": "",
+  "uid": "rapid-test-kit-troponin-test-kit-0"
+}

@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "MLBA-26",
+  "model": "",
+  "title": "Mindray BS200 Chemistry Analyzer",
+  "desc": "",
+  "price": "₹ 5,00,000",
+  "pdf": "",
+  "subCategory": "Mindray Laboratory Biochemistry Analyzer",
+  "category": "Mindray",
+  "automation": "",
+  "size": "",
+  "brand": "",
+  "availability": "",
+  "throughput": "",
+  "id": "c5d32e3f-fe21-4418-8563-3360744cf028",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Laboratory%20Biochemistry%20Analyzer%2Fmindray-bs200-chemistry-analyzer-500x500.jpg?alt=media&token=0bd94fb2-1fca-4758-8cd5-e7d8c3e19f1f"
+  ],
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:57:25.158Z",
+  "capacity": "",
+  "slug": "mindray-bs200-chemistry-analyzer",
+  "uid": "mindray-mindray-laboratory-biochemistry-analyzer-25"
+}

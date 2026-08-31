@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "capacity": "",
+  "desc": "",
+  "parameters": "",
+  "brand": "",
+  "model": "",
+  "title": "Cell Counter Hematology Analyzer",
+  "size": "",
+  "subCategory": "Hematology analyzers",
+  "price": "",
+  "availability": "",
+  "category": "Ivds category",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fcell-scan-60-plus-hematology-analyzer-500x500.jpg?alt=media&token=19c18517-5900-4b50-970a-844bac8ea8e0"
+  ],
+  "automation": "",
+  "pdf": "",
+  "slug": "cell-counter-hematology-analyzer",
+  "createdAt": "2026-08-07T06:55:54.014Z",
+  "categoryProductId": "HA-20",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "id": "7b621696-e4a8-4fb3-aa1a-8f53af157aa8",
+  "isPublished": true,
+  "uid": "ivds-category-hematology-analyzers-19"
+}

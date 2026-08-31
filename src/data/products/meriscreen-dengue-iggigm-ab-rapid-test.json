@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:59:39.512Z",
+  "capacity": "",
+  "model": "",
+  "title": "Meriscreen Dengue IGG/IGM AB Rapid Test",
+  "subCategory": "Dengue test kit",
+  "desc": "",
+  "price": "₹ 75",
+  "size": "",
+  "id": "4f7f254d-2bb4-4ab0-9a19-eedb322fdcef",
+  "automation": "",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FDengue%20test%20kit%2Fmeril-dengue-igg-igm-ab-500x500.png?alt=media&token=81452138-d7f2-4f05-bbf8-a042e29f521b"
+  ],
+  "throughput": "",
+  "pdf": "",
+  "instrument": "",
+  "categoryProductId": "DTK-21",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "category": "Rapid Test Kit",
+  "isPublished": true,
+  "availability": "",
+  "slug": "meriscreen-dengue-iggigm-ab-rapid-test",
+  "uid": "rapid-test-kit-dengue-test-kit-20"
+}

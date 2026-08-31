@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "instrument": "",
+  "categoryProductId": "M-189",
+  "size": "",
+  "model": "",
+  "title": "Refrigerated Microcentrifuge",
+  "createdAt": "2026-08-07T06:56:27.750Z",
+  "parameters": "",
+  "brand": "",
+  "desc": "Refrigerated Microcentrifuge",
+  "subCategory": "Microcentrifuge",
+  "category": "Laboratory Centrifuge",
+  "usage": "",
+  "video": "",
+  "slug": "refrigerated-microcentrifuge",
+  "availability": "",
+  "id": "4fd66148-2810-4508-8088-c808a292050d",
+  "capacity": "",
+  "pdf": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2F9-500x500.png?alt=media&token=30d68ddc-d370-4dab-b590-0c1611773a86"
+  ],
+  "isPublished": true,
+  "throughput": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-188"
+}

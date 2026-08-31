@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "instrument": "",
+  "title": "Sperm Analysis Imaging System",
+  "model": "",
+  "parameters": "",
+  "size": "",
+  "desc": "",
+  "brand": "",
+  "categoryProductId": "SSA-12",
+  "category": "Ivds category",
+  "createdAt": "2026-08-07T06:56:16.930Z",
+  "isPublished": true,
+  "availability": "",
+  "id": "5746a5e0-6835-4884-a3e4-b2a6b4b0770a",
+  "usage": "",
+  "video": "",
+  "slug": "sperm-analysis-imaging-system",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FSemen%20%20Sperm%20Analyzer%2Fminor-surgery-kits-500x500.jpg?alt=media&token=88bb5d22-faab-462d-958c-315ff4d5a655"
+  ],
+  "capacity": "",
+  "automation": "",
+  "subCategory": "Semen  Sperm Analyzer",
+  "throughput": "",
+  "pdf": "",
+  "uid": "ivds-category-semen-sperm-analyzer-11"
+}

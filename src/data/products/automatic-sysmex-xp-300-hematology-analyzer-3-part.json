@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "automation": "",
+  "brand": "",
+  "desc": "",
+  "throughput": "",
+  "capacity": "",
+  "size": "",
+  "model": "",
+  "title": "Automatic Sysmex XP 300 Hematology Analyzer, 3 Part",
+  "createdAt": "2026-08-07T07:00:53.953Z",
+  "price": "",
+  "isPublished": true,
+  "availability": "",
+  "category": "Sysmex",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fsysmex-xp-300-500x500.jpg?alt=media&token=0169236b-0a01-412d-a9b3-190830a814fb"
+  ],
+  "instrument": "",
+  "categoryProductId": "SCC-52",
+  "subCategory": "Sysmex Cell Counter",
+  "id": "971c2e7d-ce1c-4c33-b6c8-1bbc158214a2",
+  "slug": "automatic-sysmex-xp-300-hematology-analyzer-3-part",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "uid": "sysmex-sysmex-cell-counter-51"
+}

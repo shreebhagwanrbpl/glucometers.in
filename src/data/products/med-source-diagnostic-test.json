@@ -1,0 +1,28 @@
+{
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "categoryProductId": "DT-3",
+  "slug": "med-source-diagnostic-test",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:59:41.452Z",
+  "instrument": "",
+  "isPublished": true,
+  "id": "9fa14374-748c-4c17-bb17-e1c65183c965",
+  "price": "₹ 200",
+  "size": "",
+  "category": "Rapid Test Kit",
+  "title": "Med Source Diagnostic Test",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FDiagnostic%20test%2Fmed-source-500x500.jpg?alt=media&token=95386a3d-43ff-43c7-bd2f-96f846bcd4de"
+  ],
+  "pdf": "",
+  "availability": "",
+  "desc": "",
+  "brand": "",
+  "throughput": "",
+  "subCategory": "Diagnostic test",
+  "automation": "",
+  "uid": "rapid-test-kit-diagnostic-test-2"
+}

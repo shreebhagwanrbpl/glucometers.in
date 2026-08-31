@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fmicro-spin-centrifuge-250x250.jpg?alt=media&token=92f4d1c5-55db-477f-bc33-408453e3af25"
+  ],
+  "capacity": "",
+  "id": "a7531e0e-8bbd-4f9f-9d49-9c1b539bcffa",
+  "availability": "",
+  "slug": "micro-spin-centrifuge",
+  "parameters": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "categoryProductId": "M-196",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:56:27.750Z",
+  "category": "Laboratory Centrifuge",
+  "throughput": "",
+  "desc": "Micro Spin Centrifuge",
+  "brand": "",
+  "automation": "",
+  "title": "Micro Spin Centrifuge",
+  "model": "",
+  "size": "",
+  "price": "",
+  "subCategory": "Microcentrifuge",
+  "uid": "laboratory-centrifuge-microcentrifuge-195"
+}

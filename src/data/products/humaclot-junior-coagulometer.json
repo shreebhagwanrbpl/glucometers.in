@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:58:45.662Z",
+  "capacity": "",
+  "instrument": "",
+  "id": "d089e4d8-e259-44a1-a6a3-41f04acb97c6",
+  "pdf": "",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "availability": "",
+  "subCategory": "Coagulometer",
+  "slug": "humaclot-junior-coagulometer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FCoagulometer%2Fhumaclot-junior-250x250.jpg?alt=media&token=152e1202-d7a8-4589-a95b-785c4d22cf2b"
+  ],
+  "title": "Humaclot Junior (Coagulometer)",
+  "model": "",
+  "categoryProductId": "C-46",
+  "desc": "",
+  "price": "",
+  "category": "Pathology Lab Equipments",
+  "size": "",
+  "automation": "",
+  "brand": "",
+  "throughput": "",
+  "isPublished": true,
+  "uid": "pathology-lab-equipments-coagulometer-45"
+}

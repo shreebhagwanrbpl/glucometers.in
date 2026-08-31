@@ -1,0 +1,28 @@
+{
+  "slug": "foss-kjeltec",
+  "instrument": "",
+  "capacity": "",
+  "id": "19a8e90b-70e1-4994-ab8a-eb60ad3235c2",
+  "categoryProductId": "CSPA-146",
+  "usage": "",
+  "video": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "parameters": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Ffoss-kjeltec-500x500.jpg?alt=media&token=fcd99c13-a970-4891-9d42-5364e2d839a5"
+  ],
+  "availability": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:59:25.392Z",
+  "size": "",
+  "throughput": "",
+  "price": "",
+  "isPublished": true,
+  "pdf": "",
+  "desc": "",
+  "category": "Protein Analyzer",
+  "model": "",
+  "title": "Foss Kjeltec",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-145"
+}

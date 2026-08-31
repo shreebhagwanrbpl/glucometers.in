@@ -1,0 +1,28 @@
+{
+  "category": "Other Categories",
+  "price": "₹ 3,50,000",
+  "parameters": "",
+  "pdf": "",
+  "slug": "medonic-m32-hematology-analyzer-3-part",
+  "model": "",
+  "title": "Medonic M32 Hematology Analyzer, 3 Part",
+  "id": "56257bb9-a71e-41e0-9c00-ab775d3e37f5",
+  "instrument": "",
+  "brand": "Medonic",
+  "subCategory": "Medonic Cell Counter",
+  "categoryProductId": "MCC-64",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "availability": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FMedonic%20Cell%20Counter%2Fmedonic-m32-hematology-analyzer-500x500.jpg?alt=media&token=12cf4f2c-9dc9-4025-bb36-c3f5a6cad125"
+  ],
+  "isPublished": true,
+  "throughput": "",
+  "desc": "",
+  "automation": "Semi Automatic",
+  "createdAt": "2026-08-07T06:58:18.525Z",
+  "uid": "other-categories-medonic-cell-counter-63"
+}

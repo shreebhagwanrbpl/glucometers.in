@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "pdf": "",
+  "instrument": "",
+  "capacity": "",
+  "categoryProductId": "CA-32",
+  "parameters": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:53:04.510Z",
+  "availability": "",
+  "id": "da2039e1-be6f-4caa-9ff1-e45f1227aa49",
+  "desc": "",
+  "brand": "",
+  "category": "Biochemistry Analyzer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Biochemistry%20Analyzer%2FChemistry%20analyzers%2Fq-line-astira-auto-chemistry-analyzer-500x500.png?alt=media&token=46afe76a-25b4-444b-97cc-87acaf28747c"
+  ],
+  "subCategory": "Chemistry analyzers",
+  "slug": "automatic-q-line-astira-auto-chemistry-analyzer",
+  "automation": "",
+  "price": "₹ 6,00,000",
+  "throughput": "",
+  "title": "Automatic Q Line Astira Auto Chemistry Analyzer",
+  "model": "",
+  "uid": "biochemistry-analyzer-chemistry-analyzers-31"
+}

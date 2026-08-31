@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FPrecision%20Thermometer%2Fglass-laboratory-thermometer-500x500.jpg?alt=media&token=f9c85ea6-92ca-4fcb-9f64-b52b67da7219"
+  ],
+  "desc": "",
+  "instrument": "",
+  "category": "Laboratory thermometer",
+  "createdAt": "2026-08-07T06:57:06.380Z",
+  "categoryProductId": "PT-9",
+  "availability": "",
+  "id": "26e216cd-f3b3-414a-aed5-f133950ba9a1",
+  "parameters": "",
+  "subCategory": "Precision Thermometer",
+  "brand": "",
+  "title": "Glass Laboratory Thermometer",
+  "model": "",
+  "price": "",
+  "pdf": "",
+  "size": "",
+  "capacity": "",
+  "isPublished": true,
+  "slug": "glass-laboratory-thermometer",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "uid": "laboratory-thermometer-precision-thermometer-8"
+}

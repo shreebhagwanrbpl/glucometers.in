@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "desc": "",
+  "category": "Sysmex",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Sysmex Cell Counter",
+  "availability": "",
+  "categoryProductId": "SCC-124",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fnew-product-500x500.jpeg?alt=media&token=546cc1d5-2da5-46bf-8707-edf957d0669e"
+  ],
+  "pdf": "",
+  "size": "",
+  "id": "188d6244-31ac-4615-a5db-f65f963415f5",
+  "model": "",
+  "title": "Sysmex XQ-320 Haematology",
+  "price": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T07:00:53.959Z",
+  "instrument": "",
+  "slug": "sysmex-xq-320-haematology",
+  "isPublished": true,
+  "parameters": "",
+  "brand": "",
+  "uid": "sysmex-sysmex-cell-counter-123"
+}

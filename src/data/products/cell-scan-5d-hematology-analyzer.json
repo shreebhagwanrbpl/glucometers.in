@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FCell%20Counter%2Fcell-scan-5d-500x500.jpg?alt=media&token=ae19f312-d280-428b-a2ff-42d1603d9de3"
+  ],
+  "availability": "",
+  "parameters": "",
+  "price": "",
+  "category": "Hematology analyzers",
+  "desc": "",
+  "instrument": "",
+  "subCategory": "Cell Counter",
+  "model": "",
+  "title": "Cell Scan 5D Hematology Analyzer",
+  "throughput": "",
+  "slug": "cell-scan-5d-hematology-analyzer",
+  "automation": "",
+  "id": "d5b1798d-952b-468f-9ad5-776220883a35",
+  "pdf": "",
+  "categoryProductId": "CC-8",
+  "createdAt": "2026-08-07T06:55:26.541Z",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "uid": "hematology-analyzers-cell-counter-7"
+}

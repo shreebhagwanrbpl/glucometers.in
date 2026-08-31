@@ -1,0 +1,28 @@
+{
+  "id": "7e302e65-feda-41d2-a6de-6fd23ddd6810",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "parameters": "",
+  "size": "",
+  "capacity": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FBlood%20Collection%20Tubes%2Fproduct-jpeg-500x500.jpg?alt=media&token=81a535ee-20cb-4308-b275-7372417f0566"
+  ],
+  "instrument": "",
+  "categoryProductId": "BCT-19",
+  "availability": "",
+  "title": "Micro Blood Collection Tube",
+  "model": "",
+  "throughput": "",
+  "price": "",
+  "createdAt": "2026-08-07T06:53:28.778Z",
+  "automation": "",
+  "brand": "",
+  "slug": "micro-blood-collection-tube",
+  "subCategory": "Blood Collection Tubes",
+  "category": "Blood Collection Tubes",
+  "uid": "blood-collection-tubes-blood-collection-tubes-18"
+}

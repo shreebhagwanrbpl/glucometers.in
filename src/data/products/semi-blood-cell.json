@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FCell%20Counter%2Fsemi-blood-cell-counter-500x500.png?alt=media&token=3d9e3a0a-a8bf-4458-a1e3-85866729a7b4"
+  ],
+  "desc": "",
+  "brand": "",
+  "isPublished": true,
+  "parameters": "",
+  "size": "",
+  "model": "",
+  "title": "Semi Blood Cell",
+  "category": "Hematology analyzers",
+  "instrument": "",
+  "price": "",
+  "categoryProductId": "CC-24",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:55:26.543Z",
+  "pdf": "",
+  "automation": "",
+  "subCategory": "Cell Counter",
+  "id": "9ab451fa-c678-48ff-a0b8-b9c3e5a3151f",
+  "capacity": "",
+  "slug": "semi-blood-cell",
+  "video": "",
+  "usage": "",
+  "availability": "",
+  "uid": "hematology-analyzers-cell-counter-23"
+}

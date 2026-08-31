@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "parameters": "",
+  "subCategory": "Immunoassay analyzer",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "category": "Ivds category",
+  "slug": "chemiluminescence-maglumi-800-immunoassay-analyzer",
+  "model": "",
+  "title": "Chemiluminescence Maglumi 800 Immunoassay Analyzer",
+  "desc": "",
+  "availability": "",
+  "id": "a5e58dde-17d0-418b-9c2b-983be286ed7b",
+  "price": "",
+  "isPublished": true,
+  "categoryProductId": "IA-26",
+  "createdAt": "2026-08-07T06:56:01.750Z",
+  "automation": "",
+  "size": "",
+  "throughput": "",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FImmunoassay%20analyzer%2Fmaglumi-800-immunoassay-analyzer-500x500.jpeg?alt=media&token=d47b6dda-f971-42f8-8f9a-608f0e5f4b34"
+  ],
+  "capacity": "",
+  "uid": "ivds-category-immunoassay-analyzer-25"
+}

@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "subCategory": "Microcentrifuge",
+  "categoryProductId": "M-165",
+  "id": "61ae3c2d-8536-4371-b531-5ad58129547b",
+  "title": "Blue Ray TurboFuge Microcentrifuge",
+  "model": "",
+  "size": "",
+  "desc": "",
+  "automation": "",
+  "brand": "",
+  "category": "Laboratory Centrifuge",
+  "pdf": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "slug": "blue-ray-turbofuge-microcentrifuge",
+  "instrument": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fblue-ray-turbofuge-microcentrifuge-500x500.jpg?alt=media&token=842c93b6-6d97-4f92-ba0a-a77dd46e3216"
+  ],
+  "parameters": "",
+  "capacity": "",
+  "availability": "",
+  "createdAt": "2026-08-07T06:56:27.748Z",
+  "uid": "laboratory-centrifuge-microcentrifuge-164"
+}

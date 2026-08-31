@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "capacity": "",
+  "subCategory": "Pcr workstation",
+  "automation": "",
+  "createdAt": "2026-08-07T06:59:16.914Z",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "throughput": "",
+  "size": "",
+  "instrument": "",
+  "id": "fa409f10-493c-4831-b8ed-d316de5415d7",
+  "parameters": "",
+  "isPublished": true,
+  "category": "PCR Machine",
+  "brand": "",
+  "model": "",
+  "title": "ELAB  Cabinet / Hood, HEPA Filter",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2023/11/361711429/YA/LO/VL/201693901/pcr-cabinet-hood-500x500.png"
+  ],
+  "slug": "elab-cabinet--hood-hepa-filter",
+  "availability": "",
+  "price": "₹ 45,000",
+  "categoryProductId": "PW-1",
+  "uid": "pcr-machine-pcr-workstation-0"
+}

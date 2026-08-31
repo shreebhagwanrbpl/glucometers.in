@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "throughput": "60 PT tests/hour",
+  "availability": "",
+  "price": "",
+  "createdAt": "2026-08-07T06:58:45.662Z",
+  "slug": "siemens-bft-ii-coagulometer",
+  "automation": "",
+  "capacity": "",
+  "model": "",
+  "title": "Siemens Bft II Coagulometer",
+  "brand": "Siemens",
+  "subCategory": "Coagulometer",
+  "categoryProductId": "C-47",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "category": "Pathology Lab Equipments",
+  "isPublished": true,
+  "parameters": "",
+  "desc": "",
+  "id": "2806076e-a2f6-4368-b103-ab0e5ca522c1",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FCoagulometer%2Fsiemens-bft-ii-analyzer-500x500.jpg?alt=media&token=1dff31e7-23db-4209-b726-2162759c1b53"
+  ],
+  "uid": "pathology-lab-equipments-coagulometer-46"
+}

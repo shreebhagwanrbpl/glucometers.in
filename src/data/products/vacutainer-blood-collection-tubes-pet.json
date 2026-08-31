@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "category": "Blood Collection Tubes",
+  "createdAt": "2026-08-07T06:54:27.935Z",
+  "brand": "",
+  "parameters": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fproduct-jpeg-500x500.jpg?alt=media&token=71806c1a-d3e3-4df9-bbe7-220aeac8cc45"
+  ],
+  "title": "Vacutainer Blood Collection Tubes, PET",
+  "model": "",
+  "pdf": "",
+  "slug": "vacutainer-blood-collection-tubes-pet",
+  "price": "",
+  "availability": "",
+  "categoryProductId": "VBCT-198",
+  "desc": "EDTA, Red Top, SST, Sodium Fluoride, Sodium citrate",
+  "capacity": "",
+  "id": "629d9e07-b2b6-428e-ae66-f9f01037134e",
+  "isPublished": true,
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "throughput": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-197"
+}

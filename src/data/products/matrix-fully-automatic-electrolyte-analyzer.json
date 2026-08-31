@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "parameters": "",
+  "instrument": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:55:52.328Z",
+  "pdf": "",
+  "model": "",
+  "title": "Matrix Fully Automatic Electrolyte Analyzer",
+  "size": "",
+  "price": "",
+  "category": "Ivds category",
+  "isPublished": true,
+  "categoryProductId": "EA-23",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FElectrolyte%20analyzer%2Fmatrix-fully-automatic-electrolyte-analyzer-500x500.png?alt=media&token=b6074eef-1874-4c2c-950a-9e5b91c4dda8"
+  ],
+  "capacity": "",
+  "slug": "matrix-fully-automatic-electrolyte-analyzer",
+  "throughput": "",
+  "id": "5ed7072e-d2fb-42da-813e-9579f89abf3a",
+  "video": "",
+  "usage": "",
+  "subCategory": "Electrolyte analyzer",
+  "automation": "",
+  "uid": "ivds-category-electrolyte-analyzer-22"
+}

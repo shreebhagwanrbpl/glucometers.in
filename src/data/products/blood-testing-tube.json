@@ -1,0 +1,28 @@
+{
+  "desc": "Blood Testing Tube",
+  "pdf": "",
+  "capacity": "",
+  "isPublished": true,
+  "size": "",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "category": "Blood Collection Tubes",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:53:30.722Z",
+  "subCategory": "Blood Sample Collection Test Tube",
+  "brand": "",
+  "id": "0fdf9137-31ba-4ca4-804d-b6c077ee63d9",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FBlood%20Sample%20Collection%20Test%20Tube%2Fwhatsapp-image-2023-03-21-at-01-38-47-500x500.jpeg?alt=media&token=8a76dd36-1575-4a87-bed2-37a100997685"
+  ],
+  "model": "",
+  "title": "Blood Testing Tube",
+  "slug": "blood-testing-tube",
+  "price": "",
+  "availability": "",
+  "categoryProductId": "BSCTT-33",
+  "uid": "blood-collection-tubes-blood-sample-collection-test-tube-32"
+}

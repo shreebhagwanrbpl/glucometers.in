@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "SCT-150",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FSodium%20Citrate%20Tube%2Fpt-tube-1640344295263-500x500.jpg?alt=media&token=9c64f002-0580-4bd5-9ec2-2f14ffca7311"
+  ],
+  "createdAt": "2026-08-07T06:54:20.682Z",
+  "availability": "",
+  "isPublished": true,
+  "desc": "PT Tube",
+  "size": "",
+  "instrument": "",
+  "category": "Blood Collection Tubes",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "automation": "",
+  "brand": "",
+  "throughput": "",
+  "subCategory": "Sodium Citrate Tube",
+  "capacity": "",
+  "model": "",
+  "title": "PT Tube",
+  "slug": "pt-tube",
+  "id": "2672e413-9c31-4e12-95b8-3f5fd59cc511",
+  "price": "",
+  "uid": "blood-collection-tubes-sodium-citrate-tube-149"
+}

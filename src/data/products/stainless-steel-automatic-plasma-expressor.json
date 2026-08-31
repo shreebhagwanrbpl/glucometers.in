@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:53:21.596Z",
+  "desc": "",
+  "size": "",
+  "category": "Blood bank equipments",
+  "availability": "",
+  "automation": "",
+  "subCategory": "Plasma Expressor Machine",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FPlasma%20Expressor%20Machine%2Fautomatic-plasma-expressor-500x500.jpg?alt=media&token=dd40d191-7248-4c88-bf35-c5e0ce857ed6"
+  ],
+  "instrument": "",
+  "brand": "",
+  "parameters": "",
+  "title": "Stainless Steel Automatic Plasma Expressor",
+  "model": "",
+  "capacity": "",
+  "categoryProductId": "PEM-23",
+  "slug": "stainless-steel-automatic-plasma-expressor",
+  "isPublished": true,
+  "price": "",
+  "id": "b135aa7f-ede2-4cfc-b13f-c4ed8fa5ac2e",
+  "uid": "blood-bank-equipments-plasma-expressor-machine-22"
+}

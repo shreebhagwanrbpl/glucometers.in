@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "pdf": "",
+  "brand": "",
+  "capacity": "",
+  "categoryProductId": "M-76",
+  "availability": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Frefrigerated-microcentrifuge-500x500.jpg?alt=media&token=625895ed-3805-4684-9970-e10a7a6b52c3"
+  ],
+  "price": "",
+  "subCategory": "Microcentrifuge",
+  "parameters": "",
+  "desc": "",
+  "title": "Remi Refrigerated Microcentrifuge",
+  "model": "",
+  "automation": "",
+  "throughput": "",
+  "category": "Laboratory Centrifuge",
+  "slug": "remi-refrigerated-microcentrifuge",
+  "createdAt": "2026-08-07T06:56:27.744Z",
+  "usage": "",
+  "video": "",
+  "isPublished": true,
+  "id": "82b73d7d-80b4-4762-a57c-1c60f11e8303",
+  "uid": "laboratory-centrifuge-microcentrifuge-75"
+}

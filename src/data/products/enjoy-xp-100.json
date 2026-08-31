@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "availability": "",
+  "category": "Sysmex",
+  "size": "",
+  "model": "",
+  "title": "Enjoy XP 100",
+  "id": "ea7622d4-15dc-4efa-abdc-dbc007e31eb5",
+  "brand": "",
+  "automation": "",
+  "desc": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Ferba-sysmex-cell-counter-xp100-500x500.jpg?alt=media&token=eaf20539-9867-4e98-9904-91cf7801066a"
+  ],
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "slug": "enjoy-xp-100",
+  "parameters": "",
+  "categoryProductId": "SCC-133",
+  "capacity": "",
+  "subCategory": "Sysmex Cell Counter",
+  "pdf": "",
+  "createdAt": "2026-08-07T07:00:53.960Z",
+  "uid": "sysmex-sysmex-cell-counter-132"
+}

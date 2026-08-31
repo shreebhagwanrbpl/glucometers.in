@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "isPublished": true,
+  "model": "",
+  "title": "Dalal Haemometer Sahli, Hospital",
+  "images": [
+    "https://5.imimg.com/data5/LH/UT/MY-3571304/haemometer-sahli-500x500.jpg"
+  ],
+  "size": "",
+  "desc": "",
+  "category": "Hematology analyzers",
+  "brand": "",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:55:32.801Z",
+  "availability": "",
+  "parameters": "",
+  "pdf": "",
+  "subCategory": "Haemometer",
+  "usage": "",
+  "video": "",
+  "slug": "dalal-haemometer-sahli-hospital",
+  "id": "b43370b6-f656-4ab2-a603-8e4a5f304bf4",
+  "automation": "",
+  "throughput": "",
+  "categoryProductId": "H-92",
+  "capacity": "",
+  "uid": "hematology-analyzers-haemometer-91"
+}

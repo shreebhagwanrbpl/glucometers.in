@@ -1,0 +1,28 @@
+{
+  "id": "2ae31879-2e4c-43d9-91ea-e855e744a2d7",
+  "price": "",
+  "size": "",
+  "subCategory": "Sysmex Cell Counter",
+  "title": "Fully Automatic Haematology Analyzer Sysmex Automated Hematology Analyzer",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fsysmex-automated-hematology-analyzer-500x500.jpg?alt=media&token=ec2311eb-d909-4d73-8957-55192da5487e"
+  ],
+  "availability": "",
+  "instrument": "",
+  "brand": "",
+  "capacity": "",
+  "parameters": "",
+  "desc": "",
+  "categoryProductId": "SCC-79",
+  "createdAt": "2026-08-07T07:00:53.955Z",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "slug": "fully-automatic-haematology-analyzer-sysmex-automated-hematology-analyzer",
+  "isPublished": true,
+  "pdf": "",
+  "category": "Sysmex",
+  "uid": "sysmex-sysmex-cell-counter-78"
+}

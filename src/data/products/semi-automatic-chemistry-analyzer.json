@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Biochemistry%20Analyzer%2FClinical%20analyzer%2Ffully-automatic-biochemistry-analyzer-500x500.jpg?alt=media&token=be8d61ab-871c-4fcf-a0ad-ca7ad8f75b66"
+  ],
+  "automation": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:53:05.739Z",
+  "categoryProductId": "CA-3",
+  "throughput": "",
+  "brand": "",
+  "title": "Semi Automatic  Chemistry Analyzer",
+  "model": "",
+  "slug": "semi-automatic-chemistry-analyzer",
+  "availability": "",
+  "price": "₹ 1,90,000",
+  "subCategory": "Clinical analyzer",
+  "category": "Biochemistry Analyzer",
+  "desc": "",
+  "id": "3af52902-c486-4807-bc0b-1f9aa9216a10",
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "pdf": "",
+  "isPublished": true,
+  "size": "",
+  "uid": "biochemistry-analyzer-clinical-analyzer-2"
+}

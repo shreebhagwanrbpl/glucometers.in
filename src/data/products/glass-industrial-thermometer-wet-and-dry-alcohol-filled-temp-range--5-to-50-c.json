@@ -1,0 +1,28 @@
+{
+  "category": "Laboratory thermometer",
+  "availability": "",
+  "isPublished": true,
+  "desc": "",
+  "size": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:57:11.180Z",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FWet%20%26%20dry%20thermometer%2Fwet-dry-alcohol-filled-1-500x500.jpg?alt=media&token=5e2eab06-6c4e-4ec9-bcb4-3dd4280eb88a"
+  ],
+  "capacity": "",
+  "automation": "",
+  "brand": "",
+  "subCategory": "Wet & dry thermometer",
+  "model": "",
+  "title": "Glass Industrial Thermometer Wet And Dry (Alcohol filled), Temp Range: -5 to 50 C",
+  "slug": "glass-industrial-thermometer-wet-and-dry-alcohol-filled-temp-range--5-to-50-c",
+  "price": "",
+  "categoryProductId": "WDT-5",
+  "id": "65f18e56-828b-4118-b64e-752c1339fb0e",
+  "uid": "laboratory-thermometer-wet-&-dry-thermometer-4"
+}

@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:59:58.307Z",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "throughput": "",
+  "automation": "",
+  "id": "fab12995-34c4-4d09-9773-45770b929563",
+  "capacity": "",
+  "slug": "test--number-of-reactionspreps-100-kits",
+  "categoryProductId": "HTK-46",
+  "parameters": "",
+  "title": "Test , Number of Reactions(Preps)/: 100 Kits",
+  "model": "",
+  "subCategory": "Hiv test kit",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHiv%20test%20kit%2Fproduct-jpeg-500x500.jpg?alt=media&token=fc7acc9f-8266-4daa-9238-f1ded17f0a6a"
+  ],
+  "instrument": "",
+  "desc": "",
+  "price": "₹ 16",
+  "size": "",
+  "category": "Rapid Test Kit",
+  "brand": "",
+  "uid": "rapid-test-kit-hiv-test-kit-45"
+}

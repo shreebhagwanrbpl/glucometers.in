@@ -1,0 +1,28 @@
+{
+  "category": "Other Categories",
+  "categoryProductId": "ASTS-166",
+  "isPublished": true,
+  "desc": "",
+  "brand": "",
+  "id": "d18292f2-7db9-437f-874e-98dbde0333fd",
+  "model": "",
+  "title": "Accu-Chek Active Strips 10's",
+  "size": "",
+  "automation": "",
+  "price": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAccu-Chek%20Sugar%20Test%20Strips%2F10-500x500.PNG?alt=media&token=324597e8-2be3-436c-af63-4b96c59516e8"
+  ],
+  "subCategory": "Accu-Chek Sugar Test Strips",
+  "instrument": "",
+  "availability": "",
+  "capacity": "",
+  "pdf": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:57:34.433Z",
+  "slug": "accu-chek-active-strips-10s",
+  "video": "",
+  "usage": "",
+  "uid": "other-categories-accu-chek-sugar-test-strips-165"
+}

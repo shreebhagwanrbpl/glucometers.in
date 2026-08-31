@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "size": "",
+  "throughput": "",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "id": "70fdfc9b-9885-4161-a00e-c32d5983ad27",
+  "desc": "",
+  "brand": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Cell%20Counter%2Fmindray-bc-20s-auto-hematology-analyzer-500x500.jpg?alt=media&token=5cdb8e8d-7251-43d0-9519-f344682aac6d"
+  ],
+  "slug": "mindray-bc-20s-auto-hematology-analyzer",
+  "createdAt": "2026-08-07T06:57:15.376Z",
+  "category": "Mindray",
+  "instrument": "",
+  "subCategory": "Mindray Cell Counter",
+  "price": "₹ 2,10,000",
+  "parameters": "",
+  "categoryProductId": "MCC-24",
+  "availability": "",
+  "model": "",
+  "title": "Mindray BC-20S Auto Hematology Analyzer",
+  "uid": "mindray-mindray-cell-counter-23"
+}

@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "HR-3",
+  "brand": "4.6",
+  "subCategory": "Hematology reagents",
+  "id": "09d5ccc4-3ccf-4b2b-9e1e-e00b2a2fb71e",
+  "size": "",
+  "desc": "",
+  "price": "₹ 2,000",
+  "automation": "",
+  "category": "Clinical Reagents",
+  "throughput": "",
+  "title": "White Meril Diluent Hematology Reagent, 20 Litre",
+  "model": "",
+  "slug": "white-meril-diluent-hematology-reagent-20-litre",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FHematology%20reagents%2Fmeril-diluent-hematology-reagent-20-litre-500x500.jpg?alt=media&token=0e3abd71-2d15-48c7-a3f1-4b8e432c5d15"
+  ],
+  "parameters": "",
+  "availability": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:54:51.349Z",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "pdf": "",
+  "uid": "clinical-reagents-hematology-reagents-2"
+}

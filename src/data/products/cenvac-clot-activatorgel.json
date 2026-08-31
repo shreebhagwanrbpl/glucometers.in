@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "pdf": "",
+  "automation": "",
+  "throughput": "",
+  "category": "Blood Collection Tubes",
+  "price": "",
+  "isPublished": true,
+  "id": "8a8f702e-8c93-43a4-8688-a4857c405085",
+  "desc": "Cenvac Clot Activator+gel",
+  "title": "Cenvac Clot Activator+gel",
+  "model": "",
+  "availability": "",
+  "slug": "cenvac-clot-activatorgel",
+  "instrument": "",
+  "categoryProductId": "CAT-298",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FClot%20Activator%20Tube%2Fcenvac-clot-activator-gel-500x500.jpeg?alt=media&token=900b745d-c7b2-4fb6-83df-383889bb0221"
+  ],
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "capacity": "",
+  "subCategory": "Clot Activator Tube",
+  "createdAt": "2026-08-07T06:53:33.843Z",
+  "uid": "blood-collection-tubes-clot-activator-tube-297"
+}

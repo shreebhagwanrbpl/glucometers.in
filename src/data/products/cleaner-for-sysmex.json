@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "size": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "createdAt": "2026-08-07T07:00:53.960Z",
+  "id": "c0a6cb71-94d1-4874-ba8c-5c674ec5e907",
+  "availability": "",
+  "isPublished": true,
+  "capacity": "",
+  "categoryProductId": "SCC-131",
+  "desc": "",
+  "price": "",
+  "title": "Cleaner for Sysmex",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fcleaner-for-sysmex-500x500.jpeg?alt=media&token=c5e155f9-a580-4431-b1c1-0099e2a67b0b"
+  ],
+  "slug": "cleaner-for-sysmex",
+  "parameters": "",
+  "brand": "",
+  "category": "Sysmex",
+  "instrument": "",
+  "subCategory": "Sysmex Cell Counter",
+  "uid": "sysmex-sysmex-cell-counter-130"
+}

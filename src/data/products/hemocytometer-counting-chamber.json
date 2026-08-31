@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "price": "",
+  "categoryProductId": "HA-306",
+  "slug": "hemocytometer-counting-chamber",
+  "title": "Hemocytometer Counting Chamber",
+  "model": "",
+  "parameters": "",
+  "availability": "",
+  "brand": "",
+  "isPublished": true,
+  "category": "Ivds category",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:55:54.026Z",
+  "pdf": "",
+  "automation": "",
+  "desc": "",
+  "capacity": "",
+  "id": "b45b7037-60c5-41ef-aa3c-ce1ca7e222a6",
+  "subCategory": "Hematology analyzers",
+  "throughput": "",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2026/6/617050940/WI/VA/QF/121104189/hemao-500x500.jpg"
+  ],
+  "uid": "ivds-category-hematology-analyzers-305"
+}

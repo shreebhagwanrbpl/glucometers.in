@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "isPublished": true,
+  "parameters": "",
+  "id": "e2fabad9-8f6c-4ff6-8062-5b3c94cacb6a",
+  "pdf": "",
+  "slug": "group-test",
+  "instrument": "",
+  "category": "Rapid Test Kit",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FBlood%20group%20test%20kit%2Fblood-group-test-kit-500x500.jpg?alt=media&token=c00d6bd3-f37f-451c-9091-a23086bbff38"
+  ],
+  "throughput": "",
+  "createdAt": "2026-08-07T06:59:30.988Z",
+  "desc": "",
+  "automation": "",
+  "brand": "",
+  "categoryProductId": "BGTK-3",
+  "capacity": "",
+  "title": "Group Test",
+  "model": "",
+  "subCategory": "Blood group test kit",
+  "price": "₹ 310",
+  "size": "",
+  "uid": "rapid-test-kit-blood-group-test-kit-2"
+}

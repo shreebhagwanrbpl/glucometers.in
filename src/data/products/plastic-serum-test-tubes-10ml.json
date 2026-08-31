@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "pdf": "",
+  "brand": "",
+  "isPublished": true,
+  "instrument": "",
+  "id": "e9151fb9-624c-40fa-b2a4-27170f676cdc",
+  "category": "Blood Collection Tubes",
+  "categoryProductId": "BSCTT-4",
+  "model": "",
+  "title": "Plastic Serum Test Tubes (10ml)",
+  "price": "",
+  "slug": "plastic-serum-test-tubes-10ml",
+  "createdAt": "2026-08-07T06:53:30.719Z",
+  "availability": "",
+  "desc": "",
+  "subCategory": "Blood Sample Collection Test Tube",
+  "throughput": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FBlood%20Sample%20Collection%20Test%20Tube%2Fserum-test-tubes-500x500.jpg?alt=media&token=96196333-3da7-4d5a-a9fb-e3825f70706c"
+  ],
+  "automation": "",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "uid": "blood-collection-tubes-blood-sample-collection-test-tube-3"
+}

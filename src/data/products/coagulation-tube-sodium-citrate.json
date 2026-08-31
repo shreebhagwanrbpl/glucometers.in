@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "size": "",
+  "model": "",
+  "title": "Coagulation Tube (sodium Citrate)",
+  "categoryProductId": "SCT-178",
+  "throughput": "",
+  "availability": "",
+  "id": "5dcc8dc9-5f55-4385-b1ae-9930dcf95bab",
+  "brand": "",
+  "desc": "Coagulation Tube (sodium Citrate)",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FSodium%20Citrate%20Tube%2Fcoagulation-tube-sodium-citrate-500x500.png?alt=media&token=82d3499a-45e2-47e9-b78d-4cbc41918ec9"
+  ],
+  "subCategory": "Sodium Citrate Tube",
+  "capacity": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T06:54:20.683Z",
+  "slug": "coagulation-tube-sodium-citrate",
+  "instrument": "",
+  "category": "Blood Collection Tubes",
+  "pdf": "",
+  "isPublished": true,
+  "uid": "blood-collection-tubes-sodium-citrate-tube-177"
+}

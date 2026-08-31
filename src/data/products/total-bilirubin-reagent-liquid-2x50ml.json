@@ -1,0 +1,28 @@
+{
+  "brand": "4.4",
+  "subCategory": "Diagnostic reagents",
+  "parameters": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:54:50.082Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Ftotal-bilirubin-reagent-500x500.jpg?alt=media&token=39abccb0-83a1-483b-9ce1-6362f3f6d15d"
+  ],
+  "instrument": "",
+  "price": "₹ 275",
+  "desc": "",
+  "category": "Clinical Reagents",
+  "model": "",
+  "title": "Total Bilirubin Reagent Liquid (2x50mL)",
+  "isPublished": true,
+  "availability": "",
+  "slug": "total-bilirubin-reagent-liquid-2x50ml",
+  "categoryProductId": "DR-38",
+  "id": "b1bb467b-f00f-4003-9d96-65f45795f7d0",
+  "pdf": "",
+  "capacity": "",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "uid": "clinical-reagents-diagnostic-reagents-37"
+}

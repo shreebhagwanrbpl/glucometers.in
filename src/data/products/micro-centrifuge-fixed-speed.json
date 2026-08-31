@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "pdf": "",
+  "model": "",
+  "title": "Micro Centrifuge Fixed Speed",
+  "createdAt": "2026-08-07T06:56:27.741Z",
+  "parameters": "",
+  "desc": "",
+  "price": "",
+  "id": "b7bb35de-0f61-4cec-97e1-067cc7e40795",
+  "size": "",
+  "isPublished": true,
+  "brand": "",
+  "capacity": "",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "subCategory": "Microcentrifuge",
+  "categoryProductId": "M-18",
+  "automation": "",
+  "category": "Laboratory Centrifuge",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fmicro-centrifuge-variable--500x500.jpg?alt=media&token=e6e4b88e-4141-4e39-9361-7e6c45d88370"
+  ],
+  "throughput": "",
+  "slug": "micro-centrifuge-fixed-speed",
+  "uid": "laboratory-centrifuge-microcentrifuge-17"
+}

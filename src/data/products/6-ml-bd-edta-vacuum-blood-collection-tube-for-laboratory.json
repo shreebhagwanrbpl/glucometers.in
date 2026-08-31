@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:54:27.935Z",
+  "categoryProductId": "VBCT-199",
+  "parameters": "",
+  "availability": "",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2F6-ml-bd-edta-vacuum-blood-collection-tube-500x500.jpg?alt=media&token=95b11e37-1a51-4630-bc15-4af47e1ae551"
+  ],
+  "id": "385a4d7b-fef7-494c-abe5-852e3e2a7a08",
+  "instrument": "",
+  "isPublished": true,
+  "desc": "",
+  "category": "Blood Collection Tubes",
+  "model": "",
+  "title": "6 Ml BD EDTA Vacuum Blood Collection Tube, For Laboratory",
+  "throughput": "",
+  "pdf": "",
+  "automation": "",
+  "slug": "6-ml-bd-edta-vacuum-blood-collection-tube-for-laboratory",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-198"
+}

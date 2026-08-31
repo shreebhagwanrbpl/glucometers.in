@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "categoryProductId": "TTC-62",
+  "desc": "",
+  "subCategory": "Table Top Centrifuge",
+  "createdAt": "2026-08-07T06:59:06.754Z",
+  "pdf": "",
+  "instrument": "",
+  "category": "Pathology Lab Equipments",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "id": "e0c3ec2e-35cb-4973-a3e1-f85421ed752f",
+  "brand": "",
+  "isPublished": true,
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2Fthermo-fisher-sorvall-st-8-small-benchtop-centrifuge-machine-500x500.jpg?alt=media&token=12acc6a4-ff57-4e98-af01-aebd18f73e95"
+  ],
+  "throughput": "",
+  "model": "",
+  "title": "Thermo Fisher Sorvall ST 8 Small Benchtop Centrifuge Machine",
+  "slug": "thermo-fisher-sorvall-st-8-small-benchtop-centrifuge-machine",
+  "automation": "",
+  "price": "",
+  "capacity": "",
+  "uid": "pathology-lab-equipments-table-top-centrifuge-61"
+}

@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "parameters": "",
+  "instrument": "",
+  "availability": "",
+  "subCategory": "Table Top Centrifuge",
+  "category": "Pathology Lab Equipments",
+  "price": "₹ 5,200",
+  "id": "46b1d34e-c0a6-4470-8830-f1e5b47945f5",
+  "desc": "",
+  "title": "Labline Benchtop Centrifuge",
+  "model": "",
+  "createdAt": "2026-08-07T06:59:06.757Z",
+  "pdf": "",
+  "slug": "labline-benchtop-centrifuge",
+  "throughput": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2F4-1-500x500.JPG?alt=media&token=5ff8d9c1-3257-4886-a974-af103286f6cc"
+  ],
+  "automation": "",
+  "categoryProductId": "TTC-99",
+  "capacity": "",
+  "uid": "pathology-lab-equipments-table-top-centrifuge-98"
+}

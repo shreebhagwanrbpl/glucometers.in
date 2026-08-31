@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "desc": "Blood Gas And Chemistry Analyzer",
+  "id": "4c2e39cc-db17-4e94-a944-e2eaea81ae3f",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "automation": "",
+  "category": "Ivds category",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FClinical%20Blood%20Chemistry%20Analyzer%2F08-1--500x500.png?alt=media&token=ac247c76-4d4a-4c89-a1b1-470b428beaa2"
+  ],
+  "size": "",
+  "pdf": "",
+  "model": "",
+  "title": "Blood Gas And Chemistry Analyzer",
+  "price": "",
+  "subCategory": "Clinical Blood Chemistry Analyzer",
+  "categoryProductId": "CBCA-14",
+  "slug": "blood-gas-and-chemistry-analyzer",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:55:51.943Z",
+  "capacity": "",
+  "instrument": "",
+  "brand": "",
+  "uid": "ivds-category-clinical-blood-chemistry-analyzer-13"
+}

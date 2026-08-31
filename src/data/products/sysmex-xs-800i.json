@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "category": "Sysmex",
+  "createdAt": "2026-08-07T07:00:53.954Z",
+  "automation": "",
+  "desc": "",
+  "size": "",
+  "isPublished": true,
+  "id": "a0d95a5e-1cd7-4392-b1ba-244186b15a0c",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fprod-20220506-1445109154416005673712737-jpg-500x500.jpg?alt=media&token=7a84ad9d-668d-4941-bfe5-feeea80a2a19"
+  ],
+  "capacity": "",
+  "brand": "",
+  "categoryProductId": "SCC-69",
+  "parameters": "",
+  "subCategory": "Sysmex Cell Counter",
+  "model": "",
+  "title": "Sysmex Xs 800i",
+  "instrument": "",
+  "availability": "",
+  "slug": "sysmex-xs-800i",
+  "price": "",
+  "uid": "sysmex-sysmex-cell-counter-68"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Reader (MR-96A)",
+  "model": "",
+  "availability": "",
+  "categoryProductId": "ER-33",
+  "price": "₹ 1,50,000",
+  "parameters": "",
+  "slug": "reader-mr-96a",
+  "category": "Pathology Lab Equipments",
+  "isPublished": true,
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20reader%2Felisa-reader-mr-96a-500x500.jpg?alt=media&token=343733f2-21ff-4b73-b668-f3964c6f1346"
+  ],
+  "brand": "",
+  "throughput": "",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:58:48.422Z",
+  "size": "",
+  "id": "c90d3cc4-6046-4d16-932a-677197ba128e",
+  "capacity": "",
+  "subCategory": "Elisa reader",
+  "uid": "pathology-lab-equipments-elisa-reader-32"
+}

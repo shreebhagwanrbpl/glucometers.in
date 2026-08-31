@@ -1,0 +1,28 @@
+{
+  "id": "2f9a14dd-8383-427e-9c8d-df9f8461d607",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "throughput": "",
+  "availability": "",
+  "createdAt": "2026-08-07T06:59:25.390Z",
+  "slug": "specific-protein-analyser",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fspecific-protein-analyser-500x500.png?alt=media&token=2a0592f4-a4cb-440b-bc86-12e89c666c02"
+  ],
+  "categoryProductId": "CSPA-124",
+  "category": "Protein Analyzer",
+  "brand": "",
+  "isPublished": true,
+  "size": "",
+  "pdf": "",
+  "parameters": "",
+  "capacity": "",
+  "price": "",
+  "instrument": "",
+  "desc": "",
+  "title": "Specific Protein Analyser",
+  "model": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-123"
+}

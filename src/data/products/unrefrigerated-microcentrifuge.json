@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "parameters": "",
+  "title": "Unrefrigerated Microcentrifuge",
+  "model": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Funrefrigerated-microcentrifuge-500x500.png?alt=media&token=dca61659-9a07-43e2-9234-902b107b8cb9"
+  ],
+  "size": "",
+  "category": "Laboratory Centrifuge",
+  "desc": "Unrefrigerated Microcentrifuge",
+  "brand": "",
+  "subCategory": "Microcentrifuge",
+  "id": "7b3d7bc7-90a0-4b30-a07c-d17040233378",
+  "video": "",
+  "usage": "",
+  "slug": "unrefrigerated-microcentrifuge",
+  "categoryProductId": "M-194",
+  "createdAt": "2026-08-07T06:56:27.750Z",
+  "throughput": "",
+  "availability": "",
+  "automation": "",
+  "capacity": "",
+  "isPublished": true,
+  "pdf": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-193"
+}

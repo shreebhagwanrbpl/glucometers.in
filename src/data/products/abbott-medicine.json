@@ -1,0 +1,28 @@
+{
+  "title": "Abbott Medicine",
+  "model": "",
+  "desc": "Abbott Medicine",
+  "automation": "",
+  "id": "e1b96de1-7706-4e78-923b-e101326d02bb",
+  "price": "",
+  "throughput": "",
+  "category": "Abbott",
+  "createdAt": "2026-08-07T06:52:57.655Z",
+  "size": "",
+  "brand": "",
+  "subCategory": "Abbott Blood Analyzer",
+  "availability": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Blood%20Analyzer%2F-500x500.jpeg?alt=media&token=8b4461d6-4fe5-46af-a660-ea330fc3e292"
+  ],
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "categoryProductId": "ABA-64",
+  "slug": "abbott-medicine",
+  "isPublished": true,
+  "parameters": "",
+  "pdf": "",
+  "uid": "abbott-abbott-blood-analyzer-61"
+}

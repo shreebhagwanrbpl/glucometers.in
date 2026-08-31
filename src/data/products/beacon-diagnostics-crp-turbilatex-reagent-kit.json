@@ -1,0 +1,28 @@
+{
+  "category": "Clinical Reagents",
+  "brand": "",
+  "size": "",
+  "subCategory": "Diagnostic reagents",
+  "instrument": "",
+  "parameters": "",
+  "price": "₹ 4,875",
+  "desc": "",
+  "title": "Beacon Diagnostics Crp Turbilatex Reagent Kit",
+  "model": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Fbeacon-diagnostics-crp-turbilatex-reagent-kit-500x500.jpeg?alt=media&token=7eabfcd8-d9cd-4361-adf8-b8578ef9a78c"
+  ],
+  "categoryProductId": "DR-4",
+  "slug": "beacon-diagnostics-crp-turbilatex-reagent-kit",
+  "capacity": "",
+  "id": "0b678882-cf5a-4645-bfdd-26032212719f",
+  "availability": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:54:50.078Z",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "throughput": "",
+  "uid": "clinical-reagents-diagnostic-reagents-3"
+}

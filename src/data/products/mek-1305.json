@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Mek 1305",
+  "createdAt": "2026-08-07T06:58:24.025Z",
+  "price": "₹ 3,50,000",
+  "parameters": "",
+  "slug": "mek-1305",
+  "capacity": "",
+  "isPublished": true,
+  "instrument": "",
+  "availability": "",
+  "brand": "",
+  "id": "ab7dcdaf-6ca7-467e-a8d8-d929f7ba2be1",
+  "throughput": "",
+  "desc": "",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "categoryProductId": "NKCC-43",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FNihon%20Kohden%20Cell%20Counter%2Fscreenshot-2024-01-02-160540-500x500.png?alt=media&token=d4cd6a85-2d20-4157-bec3-a8b081266a31"
+  ],
+  "category": "Other Categories",
+  "subCategory": "Nihon Kohden Cell Counter",
+  "uid": "other-categories-nihon-kohden-cell-counter-42"
+}

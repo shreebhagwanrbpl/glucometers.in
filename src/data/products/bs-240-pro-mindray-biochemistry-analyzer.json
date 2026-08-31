@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "brand": "",
+  "capacity": "",
+  "categoryProductId": "MLBA-40",
+  "isPublished": true,
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Laboratory%20Biochemistry%20Analyzer%2Fbs-240-pro-mindray-biochemistry-analyzer-500x500.jpg?alt=media&token=6f076fce-d25a-4d3c-b908-8f4985dec8b1"
+  ],
+  "price": "₹ 4,50,000",
+  "id": "bce7b86a-d2ce-4336-b86d-105b882ad363",
+  "throughput": "",
+  "desc": "The Mindray BS-240 Pro is a compact, fully automatic benchtop clinical chemistry analyzer for small to medium-sized labs, designed for efficiency and user-friendliness.",
+  "title": "Bs 240 Pro Mindray Biochemistry Analyzer",
+  "model": "",
+  "instrument": "",
+  "pdf": "",
+  "parameters": "",
+  "subCategory": "Mindray Laboratory Biochemistry Analyzer",
+  "slug": "bs-240-pro-mindray-biochemistry-analyzer",
+  "category": "Mindray",
+  "createdAt": "2026-08-07T06:57:25.158Z",
+  "usage": "",
+  "video": "",
+  "availability": "",
+  "uid": "mindray-mindray-laboratory-biochemistry-analyzer-39"
+}

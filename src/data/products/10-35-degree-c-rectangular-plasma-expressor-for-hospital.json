@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FPlasma%20Expressor%20Machine%2Fplasma-expressor-500x500.png?alt=media&token=ca4c5f7f-2b9b-4f9a-8b87-6c8197529b9f"
+  ],
+  "desc": "",
+  "capacity": "",
+  "subCategory": "Plasma Expressor Machine",
+  "createdAt": "2026-08-07T06:53:21.595Z",
+  "instrument": "",
+  "categoryProductId": "PEM-8",
+  "parameters": "",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "id": "ffb0d700-9e00-42e1-85e1-a4839d749e3e",
+  "category": "Blood bank equipments",
+  "automation": "",
+  "availability": "",
+  "throughput": "",
+  "brand": "",
+  "isPublished": true,
+  "pdf": "",
+  "model": "",
+  "title": "10-35 Degree C. Rectangular Plasma Expressor, For Hospital",
+  "slug": "10-35-degree-c-rectangular-plasma-expressor-for-hospital",
+  "price": "",
+  "uid": "blood-bank-equipments-plasma-expressor-machine-7"
+}

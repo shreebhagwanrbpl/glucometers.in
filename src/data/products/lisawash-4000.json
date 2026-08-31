@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "parameters": "",
+  "brand": "",
+  "categoryProductId": "EW-145",
+  "model": "",
+  "title": "Lisawash 4000",
+  "id": "0cd17ad3-5764-4523-8138-44142d6a6b45",
+  "isPublished": true,
+  "capacity": "",
+  "pdf": "",
+  "slug": "lisawash-4000",
+  "price": "",
+  "availability": "",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Flisawash-4000-500x500.png?alt=media&token=9911cbd8-c42d-4096-9445-f293e6d78b46"
+  ],
+  "automation": "",
+  "subCategory": "Elisa Washer",
+  "createdAt": "2026-08-07T06:58:49.938Z",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "category": "Pathology Lab Equipments",
+  "uid": "pathology-lab-equipments-elisa-washer-144"
+}

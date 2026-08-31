@@ -1,0 +1,28 @@
+{
+  "id": "3e3db271-6dba-4cae-a52b-34dbf8d58a76",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "availability": "",
+  "parameters": "",
+  "category": "Rapid Test Kit",
+  "subCategory": "Dengue test kit",
+  "desc": "",
+  "price": "₹ 40",
+  "slug": "oscar-dengue-antigen-ns1-test",
+  "title": "Oscar Dengue Antigen NS1 Test",
+  "model": "",
+  "pdf": "",
+  "automation": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:59:39.512Z",
+  "throughput": "",
+  "categoryProductId": "DTK-24",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FDengue%20test%20kit%2Fdengue-antigen-ns1-test-kit-500x500.png?alt=media&token=cb8f4fca-481e-4578-a9a9-69f62f459cfa"
+  ],
+  "capacity": "",
+  "uid": "rapid-test-kit-dengue-test-kit-23"
+}

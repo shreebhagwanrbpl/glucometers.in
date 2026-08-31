@@ -1,0 +1,28 @@
+{
+  "category": "Pathology Lab Equipments",
+  "parameters": "",
+  "desc": "",
+  "instrument": "",
+  "brand": "",
+  "id": "6eb65485-0bf4-4826-bc95-868c1dbb5b5a",
+  "subCategory": "Microorganism Solution",
+  "size": "",
+  "title": "Bio Culture EM Solution, Packaging Size: 25 Kg, Packaging Type: Can",
+  "model": "",
+  "categoryProductId": "MS-40",
+  "price": "",
+  "createdAt": "2026-08-07T06:58:58.054Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FMicroorganism%20Solution%2Fbio-culture-em-solution-500x500.jpg?alt=media&token=b3f075a4-6f6e-4ab9-bccf-d66ae1f9315a"
+  ],
+  "pdf": "",
+  "capacity": "",
+  "isPublished": true,
+  "throughput": "",
+  "automation": "",
+  "slug": "bio-culture-em-solution-packaging-size-25-kg-packaging-type-can",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "uid": "pathology-lab-equipments-microorganism-solution-39"
+}

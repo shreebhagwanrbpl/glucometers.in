@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Automatic Nitrogen Protein Analyser",
+  "createdAt": "2026-08-07T06:59:25.386Z",
+  "parameters": "",
+  "price": "₹ 2,00,000",
+  "availability": "",
+  "instrument": "",
+  "category": "Protein Analyzer",
+  "pdf": "",
+  "slug": "automatic-nitrogen-protein-analyser",
+  "isPublished": true,
+  "brand": "",
+  "desc": "",
+  "categoryProductId": "CSPA-81",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "throughput": "",
+  "id": "d1e090fd-2281-42b4-8b71-15b1326e9b82",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fautomatic-nitrogen-protein-analyser-500x500.jpg?alt=media&token=f0c20434-c980-4239-befc-34eb647bec06"
+  ],
+  "automation": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-80"
+}

@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Medonic M51",
+  "price": "",
+  "automation": "",
+  "subCategory": "Medonic Cell Counter",
+  "slug": "medonic-m51",
+  "category": "Other Categories",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FMedonic%20Cell%20Counter%2Fmedonic-m51-500x500.png?alt=media&token=a6d04340-110d-475d-971a-cddd3fde25da"
+  ],
+  "throughput": "",
+  "brand": "",
+  "id": "cd0e96b8-e5a9-4c1c-b428-3a299e997b32",
+  "instrument": "",
+  "desc": "",
+  "availability": "",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "MCC-62",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:58:18.525Z",
+  "isPublished": true,
+  "size": "",
+  "capacity": "",
+  "uid": "other-categories-medonic-cell-counter-61"
+}

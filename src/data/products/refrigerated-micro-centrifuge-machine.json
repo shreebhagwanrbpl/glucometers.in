@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "availability": "",
+  "createdAt": "2026-08-07T06:56:27.752Z",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "size": "",
+  "capacity": "",
+  "pdf": "",
+  "desc": "Refrigerated Micro Centrifuge Machine",
+  "id": "8239eefe-0383-4966-8930-32729d0ea010",
+  "categoryProductId": "M-226",
+  "isPublished": true,
+  "price": "",
+  "slug": "refrigerated-micro-centrifuge-machine",
+  "title": "Refrigerated Micro Centrifuge Machine",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Frefrigerated-micro-centrifuge-machine-500x500.png?alt=media&token=58889ad8-28a8-45cc-8af5-3169e4ac488a"
+  ],
+  "instrument": "",
+  "brand": "",
+  "parameters": "",
+  "category": "Laboratory Centrifuge",
+  "subCategory": "Microcentrifuge",
+  "uid": "laboratory-centrifuge-microcentrifuge-225"
+}

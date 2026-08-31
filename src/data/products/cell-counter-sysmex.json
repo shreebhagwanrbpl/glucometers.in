@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fcell-counter-sysmex-500x500.jpg?alt=media&token=7c6d0f15-0bc1-40ce-9e14-604f5bb91417"
+  ],
+  "desc": "",
+  "createdAt": "2026-08-07T07:00:53.958Z",
+  "id": "a4a730db-6c6e-4e58-a648-ca7dd878f6d6",
+  "brand": "",
+  "pdf": "",
+  "capacity": "",
+  "instrument": "",
+  "model": "",
+  "title": "Cell Counter Sysmex",
+  "size": "",
+  "isPublished": true,
+  "categoryProductId": "SCC-118",
+  "price": "",
+  "parameters": "",
+  "availability": "",
+  "automation": "",
+  "throughput": "",
+  "subCategory": "Sysmex Cell Counter",
+  "category": "Sysmex",
+  "slug": "cell-counter-sysmex",
+  "usage": "",
+  "video": "",
+  "uid": "sysmex-sysmex-cell-counter-117"
+}

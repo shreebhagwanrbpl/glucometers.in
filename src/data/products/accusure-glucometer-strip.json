@@ -1,0 +1,28 @@
+{
+  "category": "Other Categories",
+  "price": "",
+  "size": "",
+  "model": "",
+  "title": "AccuSure Glucometer Strip",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:57:39.091Z",
+  "brand": "",
+  "instrument": "",
+  "availability": "",
+  "parameters": "",
+  "desc": "",
+  "automation": "",
+  "id": "f62a5a5a-48fb-4295-80b0-fc992db33f41",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "subCategory": "AccuSure Blood Glucose Test Strip",
+  "capacity": "",
+  "slug": "accusure-glucometer-strip",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAccuSure%20Blood%20Glucose%20Test%20Strip%2Faccusure-glucometer-strip-500x500.jpg?alt=media&token=a68d106d-308b-4640-a7ef-a93514491e75"
+  ],
+  "categoryProductId": "ABGTS-132",
+  "uid": "other-categories-accusure-blood-glucose-test-strip-131"
+}

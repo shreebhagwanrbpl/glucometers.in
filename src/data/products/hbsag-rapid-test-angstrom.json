@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "id": "921d38ff-58aa-4ae4-9f76-1e0b225aa229",
+  "capacity": "",
+  "throughput": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:59:52.353Z",
+  "categoryProductId": "HBTK-6",
+  "model": "",
+  "title": "HBsAg Rapid Test Angstrom",
+  "slug": "hbsag-rapid-test-angstrom",
+  "subCategory": "Hepatitis B Test Kit",
+  "price": "₹ 8",
+  "category": "Rapid Test Kit",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHepatitis%20B%20Test%20Kit%2Fhbsag-rapid-test-angstrom-500x500.jpeg?alt=media&token=9b6d6dc0-c248-42de-8199-a0e3c2266ede"
+  ],
+  "desc": "",
+  "pdf": "",
+  "instrument": "",
+  "size": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "isPublished": true,
+  "uid": "rapid-test-kit-hepatitis-b-test-kit-5"
+}

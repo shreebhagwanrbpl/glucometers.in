@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "desc": "",
+  "automation": "",
+  "brand": "",
+  "isPublished": true,
+  "throughput": "",
+  "title": "Glass Red Immersion Thermometer, -40 to 200 C, Accuracy: ±0.01 C",
+  "model": "",
+  "size": "",
+  "price": "",
+  "createdAt": "2026-08-07T06:57:06.380Z",
+  "availability": "",
+  "subCategory": "Precision Thermometer",
+  "category": "Laboratory thermometer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FPrecision%20Thermometer%2Fred-immersion-thermometer-500x500.png?alt=media&token=9ae29d64-243e-4177-8905-a670725e54fb"
+  ],
+  "pdf": "",
+  "slug": "glass-red-immersion-thermometer--40-to-200-c-accuracy-001-c",
+  "instrument": "",
+  "categoryProductId": "PT-26",
+  "usage": "",
+  "video": "",
+  "id": "817bec37-3c83-4943-ad1d-c903f5ec2436",
+  "parameters": "",
+  "uid": "laboratory-thermometer-precision-thermometer-25"
+}

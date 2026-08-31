@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "title": "Serology Kit, 24 Tests",
+  "model": "",
+  "desc": "",
+  "instrument": "",
+  "price": "",
+  "createdAt": "2026-08-07T07:00:08.819Z",
+  "subCategory": "Serology Diagnostic Kit",
+  "availability": "",
+  "size": "",
+  "brand": "",
+  "category": "Rapid Test Kit",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "id": "2d1e3064-1b91-4860-a3e9-69e23234720e",
+  "pdf": "",
+  "isPublished": true,
+  "slug": "serology-kit-24-tests",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FSerology%20Diagnostic%20Kit%2Fserology-kits-250x250.jpg?alt=media&token=751ee38e-68ec-426c-aab3-b718ecc5b810"
+  ],
+  "automation": "",
+  "categoryProductId": "SDK-19",
+  "uid": "rapid-test-kit-serology-diagnostic-kit-18"
+}

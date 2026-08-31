@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "category": "Blood Collection Tubes",
+  "isPublished": true,
+  "categoryProductId": "FT-35",
+  "instrument": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T06:53:53.578Z",
+  "slug": "fluoride-blood-collection-tube",
+  "id": "d25c7f9e-7917-497b-a311-718be40a4ecf",
+  "pdf": "",
+  "subCategory": "Fluoride Tubes",
+  "title": "Fluoride Blood Collection Tube",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FFluoride%20Tubes%2F2ml-mdtf2-vacuum-blood-collection-tube-500x500.jpg?alt=media&token=5fa8a9f3-5f4e-43a0-bd5d-78ae49e0e1af"
+  ],
+  "capacity": "",
+  "desc": "",
+  "price": "",
+  "size": "",
+  "automation": "",
+  "brand": "",
+  "throughput": "",
+  "uid": "blood-collection-tubes-fluoride-tubes-34"
+}

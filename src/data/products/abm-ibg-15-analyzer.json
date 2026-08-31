@@ -1,0 +1,28 @@
+{
+  "subCategory": "Blood Gas Analyzer",
+  "price": "",
+  "instrument": "",
+  "availability": "",
+  "category": "Ivds category",
+  "parameters": "",
+  "size": "",
+  "title": "ABM IBG-15   Analyzer",
+  "model": "",
+  "createdAt": "2026-08-07T06:55:50.046Z",
+  "brand": "",
+  "pdf": "",
+  "desc": "",
+  "categoryProductId": "BGA-17",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FBlood%20Gas%20Analyzer%2Fabm-ibg-15-blood-gas-analyzer-500x500.webp?alt=media&token=d4da888d-e8ad-4eb3-9cf2-956264597c94"
+  ],
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "slug": "abm-ibg-15-analyzer",
+  "capacity": "",
+  "automation": "",
+  "id": "6f5538e1-453e-4955-ad26-aec24d95f822",
+  "throughput": "",
+  "uid": "ivds-category-blood-gas-analyzer-16"
+}

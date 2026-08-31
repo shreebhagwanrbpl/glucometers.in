@@ -1,0 +1,28 @@
+{
+  "id": "8d123e75-7297-48bf-853d-fd5dda7d4f86",
+  "desc": "",
+  "isPublished": true,
+  "capacity": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "createdAt": "2026-08-07T06:59:36.070Z",
+  "size": "",
+  "categoryProductId": "CTK-9",
+  "pdf": "",
+  "title": "Coviself Mylab covid 19 Test kit",
+  "model": "",
+  "subCategory": "Corona Test Kit",
+  "availability": "",
+  "price": "₹ 65",
+  "category": "Rapid Test Kit",
+  "slug": "coviself-mylab-covid-19-test-kit",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FCorona%20Test%20Kit%2Fproduct-jpeg-500x500.jpg?alt=media&token=5c05372f-c3e7-459f-9112-1e91dfb15c2f"
+  ],
+  "instrument": "",
+  "brand": "",
+  "uid": "rapid-test-kit-corona-test-kit-8"
+}

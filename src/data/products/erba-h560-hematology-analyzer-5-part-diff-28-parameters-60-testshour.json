@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "categoryProductId": "HA-457",
+  "isPublished": true,
+  "desc": "",
+  "parameters": "",
+  "capacity": "",
+  "id": "eb0d374f-551a-4d89-809c-4bda4e12bfdf",
+  "createdAt": "2026-08-07T06:55:54.033Z",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "subCategory": "Hematology analyzers",
+  "category": "Ivds category",
+  "pdf": "",
+  "brand": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Ferba-em360-500x500.png?alt=media&token=37a805fd-9cad-4b9d-8d8e-179f2fa13ad7"
+  ],
+  "title": "Erba H560 Hematology Analyzer (5 Part Diff, 28 Parameters, 60 Tests/Hour)",
+  "model": "",
+  "throughput": "",
+  "slug": "erba-h560-hematology-analyzer-5-part-diff-28-parameters-60-testshour",
+  "price": "",
+  "availability": "",
+  "uid": "ivds-category-hematology-analyzers-456"
+}

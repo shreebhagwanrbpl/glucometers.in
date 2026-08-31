@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "capacity": "",
+  "desc": "",
+  "automation": "",
+  "brand": "",
+  "pdf": "",
+  "title": "Thermometer with German Movement",
+  "model": "",
+  "isPublished": true,
+  "size": "",
+  "categoryProductId": "DT-20",
+  "price": "",
+  "category": "Laboratory thermometer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FDial%20thermometer%2Fdial-thermometer-250x250.jpg?alt=media&token=ae37668e-1d61-485f-ae28-3955841313b4"
+  ],
+  "availability": "",
+  "parameters": "",
+  "slug": "thermometer-with-german-movement",
+  "createdAt": "2026-08-07T06:56:52.556Z",
+  "id": "30b6d422-1cf0-4c6d-abad-c5fff2cd2ab3",
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Dial thermometer",
+  "uid": "laboratory-thermometer-dial-thermometer-19"
+}

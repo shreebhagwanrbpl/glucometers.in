@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "parameters": "",
+  "price": "₹ 1,80,000",
+  "categoryProductId": "MCC-101",
+  "pdf": "",
+  "slug": "3-part-mindray-bc20s-hematology-analyzer",
+  "instrument": "",
+  "title": "3 Part Mindray BC20S Hematology Analyzer",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Cell%20Counter%2Fmindray-bc20s-auto-hematology-analyzer-500x500.jpg?alt=media&token=de593d95-c68a-445b-b432-d2cc4ba93141"
+  ],
+  "isPublished": true,
+  "brand": "",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "category": "Mindray",
+  "id": "a2efc1fe-45f9-4e15-bab9-f9e27b888ab5",
+  "availability": "",
+  "throughput": "",
+  "subCategory": "Mindray Cell Counter",
+  "createdAt": "2026-08-07T06:57:15.378Z",
+  "desc": "",
+  "automation": "",
+  "uid": "mindray-mindray-cell-counter-100"
+}

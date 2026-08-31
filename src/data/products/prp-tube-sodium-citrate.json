@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "throughput": "",
+  "availability": "",
+  "categoryProductId": "SCT-117",
+  "video": "",
+  "usage": "",
+  "subCategory": "Sodium Citrate Tube",
+  "automation": "",
+  "slug": "prp-tube-sodium-citrate",
+  "title": "PRP Tube Sodium Citrate,",
+  "model": "",
+  "desc": "PLATELET RICH PLASMA",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FSodium%20Citrate%20Tube%2Fprp-tube-sodium-citrate--500x500.png?alt=media&token=969de6bd-e248-4c12-b073-e9fb35c9c900"
+  ],
+  "price": "",
+  "isPublished": true,
+  "category": "Blood Collection Tubes",
+  "createdAt": "2026-08-07T06:54:20.681Z",
+  "pdf": "",
+  "parameters": "",
+  "size": "",
+  "id": "e0f32d05-7a24-418a-b06a-1f614ac24e39",
+  "brand": "",
+  "instrument": "",
+  "uid": "blood-collection-tubes-sodium-citrate-tube-116"
+}

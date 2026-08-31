@@ -1,0 +1,28 @@
+{
+  "video": "",
+  "usage": "",
+  "id": "887eab87-c226-4fcf-8ab9-41468a3dadf6",
+  "category": "Abbott",
+  "subCategory": "Abbott Blood Analyzer",
+  "size": "",
+  "desc": "",
+  "instrument": "",
+  "categoryProductId": "ABA-48",
+  "createdAt": "2026-08-07T06:52:57.654Z",
+  "parameters": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Blood%20Analyzer%2Fabbott-i-stat-blood-gas-analvser-500x500.png?alt=media&token=10709cf0-2a4f-4c34-b9a9-535968d676f9"
+  ],
+  "price": "₹ 3,00,000",
+  "slug": "semi-automatic-abbott-i-stat-blood-gas-analyzer",
+  "automation": "Semi Automatic",
+  "title": "Semi Automatic Abbott I Stat Blood Gas Analyzer",
+  "model": "",
+  "throughput": "",
+  "isPublished": true,
+  "capacity": "",
+  "brand": "Abbott",
+  "availability": "",
+  "uid": "abbott-abbott-blood-analyzer-45"
+}

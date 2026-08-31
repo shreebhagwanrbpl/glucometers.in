@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "categoryProductId": "FT-7",
+  "parameters": "",
+  "id": "ac6a063e-5411-4bbf-b740-e5c544079cc3",
+  "instrument": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "category": "Laboratory thermometer",
+  "createdAt": "2026-08-07T06:56:56.052Z",
+  "slug": "fridge-digital-thermometer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FFridge%20thermometer%2Fproduct-jpeg-500x500.jpg?alt=media&token=aac9d416-c3b1-416a-9661-6bccfd74fb31"
+  ],
+  "availability": "",
+  "title": "Fridge Digital Thermometer",
+  "model": "",
+  "subCategory": "Fridge thermometer",
+  "capacity": "",
+  "desc": "",
+  "price": "",
+  "throughput": "",
+  "size": "",
+  "brand": "",
+  "automation": "",
+  "uid": "laboratory-thermometer-fridge-thermometer-6"
+}

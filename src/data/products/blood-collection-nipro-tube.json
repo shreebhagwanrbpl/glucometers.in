@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "category": "Blood Collection Tubes",
+  "isPublished": true,
+  "categoryProductId": "VBCT-226",
+  "instrument": "",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:54:27.936Z",
+  "id": "f8de65e1-fb74-4fc7-ba8c-9f134a53bbe7",
+  "slug": "blood-collection-nipro-tube",
+  "pdf": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "title": "Blood Collection Nipro Tube",
+  "model": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fblood-collection-nipro-tube-250x250.png?alt=media&token=2fd40d78-e370-4672-969d-5b0149d4936e"
+  ],
+  "desc": "Nipro Tube",
+  "price": "",
+  "size": "",
+  "automation": "",
+  "brand": "",
+  "throughput": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-225"
+}

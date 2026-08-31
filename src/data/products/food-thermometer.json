@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "categoryProductId": "FT-24",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "automation": "",
+  "createdAt": "2026-08-07T06:56:54.580Z",
+  "size": "",
+  "category": "Laboratory thermometer",
+  "isPublished": true,
+  "throughput": "",
+  "instrument": "",
+  "model": "",
+  "title": "Food Thermometer",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FFood%20thermometer%2Ffood-thermometer-500x500.png?alt=media&token=e2518d6f-855b-4240-8e03-f62bfe183f06"
+  ],
+  "price": "₹ 120",
+  "id": "c2beeef3-3be0-459d-911f-8cd860871524",
+  "subCategory": "Food thermometer",
+  "brand": "",
+  "capacity": "",
+  "slug": "food-thermometer",
+  "uid": "laboratory-thermometer-food-thermometer-23"
+}

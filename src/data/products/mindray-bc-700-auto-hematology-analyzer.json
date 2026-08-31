@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "capacity": "",
+  "subCategory": "Mindray Cell Counter",
+  "id": "8284d6bb-a1e1-4ed7-b80d-3149935da804",
+  "categoryProductId": "MCC-129",
+  "brand": "",
+  "model": "",
+  "title": "Mindray BC 700 Auto Hematology Analyzer",
+  "automation": "",
+  "price": "",
+  "throughput": "",
+  "pdf": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Cell%20Counter%2Fmindray-bc-700-auto-hematology-analyzer-500x500.png?alt=media&token=96a43983-da7b-4f2f-bf1f-350ca670c0b1"
+  ],
+  "instrument": "",
+  "isPublished": true,
+  "category": "Mindray",
+  "parameters": "",
+  "availability": "",
+  "slug": "mindray-bc-700-auto-hematology-analyzer",
+  "createdAt": "2026-08-07T06:57:15.380Z",
+  "usage": "",
+  "video": "",
+  "uid": "mindray-mindray-cell-counter-128"
+}

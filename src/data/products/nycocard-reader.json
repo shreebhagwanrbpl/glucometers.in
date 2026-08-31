@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "automation": "",
+  "pdf": "",
+  "slug": "nycocard-reader",
+  "category": "Blood bank equipments",
+  "id": "90719ee7-bffa-451f-9b95-50a49441f2bb",
+  "title": "Nycocard Reader",
+  "model": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FNycocard%20Reader%2Fnycocard-reader-500x500.jpg?alt=media&token=176adc05-a839-4814-bd4c-9c2dbec42978"
+  ],
+  "brand": "",
+  "availability": "",
+  "subCategory": "Nycocard Reader",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "instrument": "",
+  "desc": "Nycocard Reader",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:53:20.125Z",
+  "parameters": "",
+  "categoryProductId": "NR-12",
+  "uid": "blood-bank-equipments-nycocard-reader-11"
+}

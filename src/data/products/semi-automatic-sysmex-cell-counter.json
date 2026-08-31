@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "categoryProductId": "SCC-132",
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T07:00:53.960Z",
+  "instrument": "",
+  "size": "",
+  "capacity": "",
+  "desc": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fautomatic-sysmex-xp-300-cell-counter-analyzer-500x500.jpg?alt=media&token=4d6229eb-5001-42b4-b723-7262d0674be0"
+  ],
+  "price": "",
+  "id": "7920c520-67eb-4538-a995-609f338c0e44",
+  "slug": "semi-automatic-sysmex-cell-counter",
+  "category": "Sysmex",
+  "model": "",
+  "title": "Semi Automatic Sysmex Cell Counter",
+  "availability": "",
+  "throughput": "",
+  "subCategory": "Sysmex Cell Counter",
+  "brand": "",
+  "automation": "",
+  "pdf": "",
+  "uid": "sysmex-sysmex-cell-counter-131"
+}

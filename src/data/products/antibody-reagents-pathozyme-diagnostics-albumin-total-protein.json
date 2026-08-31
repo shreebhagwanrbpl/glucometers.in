@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "id": "c7660bfd-e6a9-48aa-92a1-61280f40f7fd",
+  "size": "",
+  "pdf": "",
+  "instrument": "",
+  "capacity": "",
+  "categoryProductId": "DR-7",
+  "desc": "",
+  "subCategory": "Diagnostic reagents",
+  "price": "",
+  "category": "Clinical Reagents",
+  "createdAt": "2026-08-07T06:54:50.078Z",
+  "slug": "antibody-reagents-pathozyme-diagnostics-albumin-total-protein",
+  "model": "",
+  "title": "Antibody reagents Pathozyme Diagnostics Albumin Total Protein",
+  "availability": "",
+  "brand": "4.1",
+  "throughput": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Falbumin-total-protein-bcg-bluret-500x500.jpeg?alt=media&token=280d17f5-a8a7-4f20-bd5e-1361d564525a"
+  ],
+  "uid": "clinical-reagents-diagnostic-reagents-6"
+}

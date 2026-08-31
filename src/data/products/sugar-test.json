@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "brand": "",
+  "size": "",
+  "capacity": "",
+  "instrument": "",
+  "price": "",
+  "subCategory": "Sugar test stripsss",
+  "desc": "",
+  "title": "Sugar Test",
+  "model": "",
+  "category": "Test Strips",
+  "categoryProductId": "STS-26",
+  "availability": "",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2025/9/545911358/MD/AQ/AJ/141647456/sugar-test-strips-500x500.jpg"
+  ],
+  "slug": "sugar-test",
+  "id": "c7bca441-af6b-467d-b070-28dd311b82ac",
+  "pdf": "",
+  "throughput": "",
+  "createdAt": "2026-08-07T07:01:04.070Z",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "uid": "test-strips-sugar-test-stripsss-25"
+}

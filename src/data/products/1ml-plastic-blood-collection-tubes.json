@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "parameters": "",
+  "brand": "",
+  "desc": "",
+  "instrument": "",
+  "size": "",
+  "isPublished": true,
+  "model": "",
+  "title": "1ml Plastic Blood Collection Tubes",
+  "id": "5163dbcc-104b-427c-a05c-3904472f38b0",
+  "createdAt": "2026-08-07T06:54:27.930Z",
+  "capacity": "",
+  "price": "",
+  "availability": "",
+  "categoryProductId": "VBCT-85",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fblood-collection-tubes-500x500.jpg?alt=media&token=6146caca-1b5d-4b54-8056-22e0b0f7371c"
+  ],
+  "category": "Blood Collection Tubes",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "throughput": "",
+  "slug": "1ml-plastic-blood-collection-tubes",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-84"
+}

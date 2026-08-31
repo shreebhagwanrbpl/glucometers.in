@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "availability": "",
+  "brand": "",
+  "category": "Blood Collection Tubes",
+  "id": "6cef4cce-328b-409f-971a-24bf5138ec55",
+  "isPublished": true,
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FBlood%20Sample%20Collection%20Test%20Tube%2F143139132-product-1718272850291-500x500.jpg?alt=media&token=7818a712-2e4f-4f6a-ae4b-0375ca95d297"
+  ],
+  "model": "",
+  "title": "Blood Sample Tube",
+  "instrument": "",
+  "price": "",
+  "slug": "blood-sample-tube",
+  "throughput": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:53:30.724Z",
+  "automation": "",
+  "desc": "Blood Sample Tube",
+  "size": "",
+  "categoryProductId": "BSCTT-53",
+  "subCategory": "Blood Sample Collection Test Tube",
+  "video": "",
+  "usage": "",
+  "uid": "blood-collection-tubes-blood-sample-collection-test-tube-52"
+}

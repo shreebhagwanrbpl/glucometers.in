@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "brand": "",
+  "categoryProductId": "RAA-9",
+  "parameters": "",
+  "size": "",
+  "price": "",
+  "isPublished": true,
+  "capacity": "",
+  "desc": "",
+  "model": "",
+  "pdf": "",
+  "title": "A15c Random Access Analyzer",
+  "createdAt": "2026-08-07T06:56:09.384Z",
+  "slug": "a15c-random-access-analyzer",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FRandom%20Access%20Analyzer%2Fwebp-net-resizeimage-2021-10-09t183613-298-500x500.png?alt=media&token=e4c31423-96c6-45f8-8cfe-99e99a00d564"
+  ],
+  "id": "82266a23-10ec-4efb-b723-e7b9957196f4",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "subCategory": "Random Access Analyzer",
+  "category": "Ivds category",
+  "throughput": "",
+  "uid": "ivds-category-random-access-analyzer-8"
+}

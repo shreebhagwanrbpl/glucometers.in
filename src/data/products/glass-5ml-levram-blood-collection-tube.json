@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "pdf": "",
+  "instrument": "",
+  "availability": "",
+  "parameters": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:54:27.934Z",
+  "categoryProductId": "VBCT-191",
+  "price": "",
+  "desc": "",
+  "capacity": "",
+  "title": "Glass 5ml Levram Blood Collection Tube",
+  "model": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "slug": "glass-5ml-levram-blood-collection-tube",
+  "category": "Blood Collection Tubes",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2F5ml-levram-blood-collection-tube-500x500.jpg?alt=media&token=f40a5b1c-b7db-4953-bf5a-ee8754c31728"
+  ],
+  "throughput": "",
+  "id": "d6e19c21-23d0-4b27-81ef-aa978ca8cb22",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-190"
+}

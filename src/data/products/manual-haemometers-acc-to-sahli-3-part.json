@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHaemometer%2Fhaemometers-acc-to-sahli-250x250.gif?alt=media&token=72347a99-1e5b-4cad-bcca-1f0fc02bae4b"
+  ],
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "slug": "manual-haemometers-acc-to-sahli-3-part",
+  "automation": "",
+  "subCategory": "Haemometer",
+  "throughput": "",
+  "id": "cd20dcff-5751-4ede-b75e-94c6bed8669b",
+  "createdAt": "2026-08-07T06:55:32.795Z",
+  "model": "",
+  "title": "Manual Haemometers acc. to Sahli, 3 Part",
+  "category": "Hematology analyzers",
+  "desc": "",
+  "instrument": "",
+  "price": "",
+  "parameters": "",
+  "availability": "",
+  "pdf": "",
+  "size": "",
+  "categoryProductId": "H-54",
+  "brand": "",
+  "isPublished": true,
+  "uid": "hematology-analyzers-haemometer-53"
+}

@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:55:06.458Z",
+  "title": "High Fidelity DNA Polymerase",
+  "model": "",
+  "desc": "",
+  "capacity": "",
+  "price": "",
+  "parameters": "",
+  "size": "",
+  "instrument": "",
+  "brand": "",
+  "subCategory": "Taq Polymerase",
+  "throughput": "",
+  "category": "Corona Test",
+  "availability": "",
+  "id": "0a24523c-cfe5-429c-824d-3d0624ca0ecf",
+  "automation": "",
+  "images": [
+    "https://5.imimg.com/data5/HU/HI/MY-36810562/allin-hifi-dna-polymerase-1000-u-500x500.jpg"
+  ],
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "categoryProductId": "TP-27",
+  "slug": "high-fidelity-dna-polymerase",
+  "isPublished": true,
+  "uid": "corona-test-taq-polymerase-26"
+}

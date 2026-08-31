@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "capacity": "",
+  "instrument": "",
+  "size": "",
+  "parameters": "",
+  "categoryProductId": "LC-18",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FLaboratory%20Centrifuge%2Fcentrifuge-24-t-png-400x400-subsampling-2-1-500x500.png?alt=media&token=7d61caaa-6313-4dae-a8b9-bf9400f01466"
+  ],
+  "brand": "",
+  "slug": "peerless-electra-bl-swingout-24t-lab",
+  "category": "Laboratory Centrifuge",
+  "automation": "",
+  "price": "",
+  "createdAt": "2026-08-07T06:56:25.245Z",
+  "throughput": "",
+  "subCategory": "Laboratory Centrifuge",
+  "title": "Peerless Electra BL Swingout 24T Lab",
+  "model": "",
+  "id": "5c1da6cf-20f1-4b13-95ea-98090900341c",
+  "uid": "laboratory-centrifuge-laboratory-centrifuge-17"
+}

@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "subCategory": "Blood Sample Collection Test Tube",
+  "id": "d5fd7b70-73eb-4dbe-a95e-dbc2bb01b8fb",
+  "capacity": "",
+  "automation": "",
+  "createdAt": "2026-08-07T06:53:30.720Z",
+  "size": "",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "category": "Blood Collection Tubes",
+  "pdf": "",
+  "availability": "",
+  "parameters": "",
+  "categoryProductId": "BSCTT-11",
+  "brand": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FBlood%20Sample%20Collection%20Test%20Tube%2Fproduct-jpeg-500x500.jpg?alt=media&token=90ce418b-e9a4-4557-94b0-db937d5bd99c"
+  ],
+  "title": "10 ml Hemo Glass Test Tubes",
+  "model": "",
+  "slug": "10-ml-hemo-glass-test-tubes",
+  "price": "",
+  "uid": "blood-collection-tubes-blood-sample-collection-test-tube-10"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Pratham RF Test Kit (50 Tests) - Blood Sample - Latex Agglutination",
+  "model": "",
+  "desc": "",
+  "price": "₹ 350",
+  "instrument": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T07:00:08.819Z",
+  "availability": "",
+  "size": "",
+  "parameters": "",
+  "brand": "",
+  "isPublished": true,
+  "category": "Rapid Test Kit",
+  "automation": "",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "id": "bdb6f335-a0b9-47fa-8726-5528c2c4eff2",
+  "slug": "pratham-rf-test-kit-50-tests---blood-sample---latex-agglutination",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FSerology%20Diagnostic%20Kit%2Fpratham-rf-test-500x500.jpeg?alt=media&token=b0efb670-3528-4350-aea1-e8754c35dea6"
+  ],
+  "categoryProductId": "SDK-4",
+  "subCategory": "Serology Diagnostic Kit",
+  "uid": "rapid-test-kit-serology-diagnostic-kit-3"
+}

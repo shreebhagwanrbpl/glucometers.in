@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "parameters": "",
+  "isPublished": true,
+  "capacity": "",
+  "instrument": "",
+  "categoryProductId": "HR-28",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "category": "Clinical Reagents",
+  "brand": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:54:51.351Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FHematology%20reagents%2Fproduct-500x500.jpeg?alt=media&token=3105eb63-604e-41c2-823a-0bb923238464"
+  ],
+  "slug": "lyse-3-part-for-ap-hematology-reagent",
+  "subCategory": "Hematology reagents",
+  "availability": "",
+  "price": "₹ 900",
+  "throughput": "",
+  "id": "51787f64-3e6f-4038-b55d-d5c23c25a25b",
+  "title": "Lyse 3 Part For (AP) Hematology Reagent",
+  "model": "",
+  "automation": "",
+  "uid": "clinical-reagents-hematology-reagents-27"
+}

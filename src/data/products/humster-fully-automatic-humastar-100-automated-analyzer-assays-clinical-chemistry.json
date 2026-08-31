@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "FABA-10",
+  "instrument": "",
+  "isPublished": true,
+  "brand": "",
+  "size": "",
+  "parameters": "",
+  "pdf": "",
+  "price": "₹ 6,70,000",
+  "capacity": "",
+  "desc": "",
+  "availability": "",
+  "title": "humster Fully Automatic Humastar 100 Automated Analyzer, Assays: Clinical Chemistry",
+  "model": "",
+  "id": "64cd8905-2c14-4009-b079-5778a4dc445d",
+  "slug": "humster-fully-automatic-humastar-100-automated-analyzer-assays-clinical-chemistry",
+  "subCategory": "Fully automated biochemistry analyzer",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Biochemistry%20Analyzer%2FFully%20automated%20biochemistry%20analyzer%2Ffully-automatic-humastar-100-automated-analyzer-500x500.jpg?alt=media&token=ab71e605-3912-4579-8a72-4e2affb7c7e9"
+  ],
+  "createdAt": "2026-08-07T06:53:07.239Z",
+  "throughput": "",
+  "category": "Biochemistry Analyzer",
+  "uid": "biochemistry-analyzer-fully-automated-biochemistry-analyzer-9"
+}

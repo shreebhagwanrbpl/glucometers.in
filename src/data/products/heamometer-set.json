@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "H-129",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHaemometer%2Fproduct-jpeg-500x500.png?alt=media&token=84f8449e-6d13-46c2-8205-47e27884604f"
+  ],
+  "brand": "",
+  "subCategory": "Haemometer",
+  "size": "",
+  "id": "4a9cfc7b-1fa7-4414-8dae-4868eb57ccae",
+  "price": "",
+  "desc": "Heamometer Set",
+  "instrument": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:55:32.810Z",
+  "model": "",
+  "pdf": "",
+  "title": "Heamometer Set",
+  "parameters": "",
+  "slug": "heamometer-set",
+  "automation": "",
+  "throughput": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "category": "Hematology analyzers",
+  "availability": "",
+  "uid": "hematology-analyzers-haemometer-128"
+}

@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "desc": "",
+  "createdAt": "2026-08-07T06:53:21.597Z",
+  "categoryProductId": "PEM-24",
+  "throughput": "",
+  "isPublished": true,
+  "capacity": "",
+  "pdf": "",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "id": "1ea35b32-81d1-4499-8bc7-5c503178900d",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FPlasma%20Expressor%20Machine%2Fplasma-expresser-500x500.jpeg?alt=media&token=ecb948cd-8414-4c31-b62d-8282e40a4beb"
+  ],
+  "availability": "",
+  "subCategory": "Plasma Expressor Machine",
+  "brand": "",
+  "instrument": "",
+  "title": "Marken Plasma Expresser Blood Bank Equipment",
+  "model": "",
+  "slug": "marken-plasma-expresser-blood-bank-equipment",
+  "category": "Blood bank equipments",
+  "price": "",
+  "parameters": "",
+  "uid": "blood-bank-equipments-plasma-expressor-machine-23"
+}

@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "categoryProductId": "TTC-127",
+  "subCategory": "Table Top Centrifuge",
+  "parameters": "",
+  "category": "Pathology Lab Equipments",
+  "instrument": "",
+  "price": "",
+  "id": "26f2840e-f7b9-4ac1-8a82-b53626ab88ba",
+  "desc": "",
+  "model": "",
+  "title": "Sigma 6-16k",
+  "isPublished": true,
+  "pdf": "",
+  "createdAt": "2026-08-07T06:59:06.760Z",
+  "availability": "",
+  "capacity": "",
+  "slug": "sigma-6-16k",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2Ftypo3temp-pics-435c08f131-250x250.gif?alt=media&token=1d371d0e-b96f-4e77-8bc6-866e9ac79c69"
+  ],
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "uid": "pathology-lab-equipments-table-top-centrifuge-126"
+}

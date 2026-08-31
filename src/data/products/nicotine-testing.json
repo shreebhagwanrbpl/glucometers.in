@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "throughput": "",
+  "id": "61ec37c4-9e71-41d1-aa91-09d38db03670",
+  "automation": "",
+  "brand": "",
+  "capacity": "",
+  "model": "",
+  "title": "Nicotine Testing",
+  "price": "",
+  "pdf": "",
+  "subCategory": "Nicotine Test Kit",
+  "size": "",
+  "createdAt": "2026-08-07T07:00:04.026Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FNicotine%20Test%20Kit%2Fnoimage(125X125).svg?alt=media&token=911243bf-a700-4065-af82-5fc2b36432d9"
+  ],
+  "availability": "",
+  "slug": "nicotine-testing",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "category": "Rapid Test Kit",
+  "isPublished": true,
+  "instrument": "",
+  "categoryProductId": "NTK-19",
+  "uid": "rapid-test-kit-nicotine-test-kit-18"
+}

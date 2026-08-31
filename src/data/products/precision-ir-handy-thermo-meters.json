@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "size": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "categoryProductId": "PT-52",
+  "subCategory": "Precision Thermometer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FPrecision%20Thermometer%2Fprecision-ir-handy-thermo-meters-250x250.jpg?alt=media&token=6540855d-da4a-4fff-a15d-f441083abd4a"
+  ],
+  "automation": "",
+  "capacity": "",
+  "id": "22c89c61-fe17-4db3-a2bf-3a74dcd2f439",
+  "desc": "The DX-Series is an entirely different type of instrument than conventional temperature measuring devices. Designed specifically for the highest possible accuracy, it is the only infrared instrument which can be certified with NIST-traceable accuracy on real surfaces of unkown emissivity, while reamining completely free of the contact errors and he",
+  "createdAt": "2026-08-07T06:57:06.381Z",
+  "price": "",
+  "isPublished": true,
+  "slug": "precision-ir-handy-thermo-meters",
+  "model": "",
+  "title": "Precision IR Handy Thermo Meters",
+  "brand": "",
+  "parameters": "",
+  "category": "Laboratory thermometer",
+  "instrument": "",
+  "uid": "laboratory-thermometer-precision-thermometer-51"
+}

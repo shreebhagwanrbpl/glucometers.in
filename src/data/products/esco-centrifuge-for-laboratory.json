@@ -1,0 +1,28 @@
+{
+  "price": "₹ 5,00,000",
+  "slug": "esco-centrifuge-for-laboratory",
+  "category": "Pathology Lab Equipments",
+  "model": "",
+  "title": "Esco Centrifuge, For Laboratory",
+  "isPublished": true,
+  "instrument": "",
+  "brand": "Esco",
+  "availability": "",
+  "parameters": "",
+  "id": "a4ff2eb7-7052-4d85-9f8e-99809bce2f39",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2Fesco-centrifuge-500x500.png?alt=media&token=34bb2d15-6bc6-4dd7-8fb0-a6d592abc9b8"
+  ],
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "throughput": "",
+  "subCategory": "Table Top Centrifuge",
+  "capacity": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:59:06.755Z",
+  "desc": "",
+  "categoryProductId": "TTC-67",
+  "uid": "pathology-lab-equipments-table-top-centrifuge-66"
+}

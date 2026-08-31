@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "automation": "",
+  "pdf": "",
+  "isPublished": true,
+  "throughput": "",
+  "slug": "maxpoct-specific-protein-analyzer",
+  "id": "dffa6e5d-478c-427a-9580-5ccbb602bcf6",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fspecific-protein-analyzer-500x500.png?alt=media&token=a0028256-d335-4db7-96b8-921fe73e84ef"
+  ],
+  "price": "₹ 65,000",
+  "model": "",
+  "title": "MaxPOCT Specific Protein Analyzer",
+  "createdAt": "2026-08-07T06:59:25.382Z",
+  "size": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "availability": "",
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "categoryProductId": "CSPA-6",
+  "parameters": "",
+  "category": "Protein Analyzer",
+  "desc": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-5"
+}

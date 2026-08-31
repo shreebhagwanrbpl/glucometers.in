@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Freestyle%20Blood%20Glucose%20Test%20Strips%2Fproduct-jpeg-500x500.png?alt=media&token=23d69e34-9f58-41b6-96d3-bd55bab5a74a"
+  ],
+  "parameters": "Country of Origin: Made in India",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:52:59.635Z",
+  "subCategory": "Abbott Freestyle Blood Glucose Test Strips",
+  "categoryProductId": "AFBGTS-19",
+  "slug": "freestyle-optium-neo-h",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "brand": "",
+  "category": "Abbott",
+  "desc": "Optium Neo H 100",
+  "isPublished": true,
+  "throughput": "",
+  "size": "",
+  "title": "Freestyle Optium Neo H",
+  "model": "",
+  "id": "46456227-c07b-4abf-bde1-c984e626ab1c",
+  "automation": "",
+  "price": "₹ 750",
+  "uid": "abbott-abbott-freestyle-blood-glucose-test-strips-18"
+}

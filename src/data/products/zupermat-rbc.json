@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "brand": "",
+  "category": "Pathology Lab Equipments",
+  "throughput": "",
+  "price": "",
+  "id": "ab331a75-5196-4f9e-a830-7430b81170b2",
+  "isPublished": true,
+  "desc": "",
+  "automation": "",
+  "model": "",
+  "title": "Zupermat RBC",
+  "pdf": "",
+  "parameters": "",
+  "categoryProductId": "RP-33",
+  "createdAt": "2026-08-07T06:59:02.231Z",
+  "slug": "zupermat-rbc",
+  "capacity": "",
+  "instrument": "",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FRBC%20Pipette%2Fscreenshot-2024-04-16-185752-500x500.png?alt=media&token=644920ed-069e-40fb-9d32-47c0f0b1bc3a"
+  ],
+  "subCategory": "RBC Pipette",
+  "uid": "pathology-lab-equipments-rbc-pipette-32"
+}

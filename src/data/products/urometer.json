@@ -1,0 +1,28 @@
+{
+  "id": "f12fbec1-25a2-4e4b-ad5d-a07425767544",
+  "automation": "",
+  "createdAt": "2026-08-07T06:58:56.649Z",
+  "isPublished": true,
+  "category": "Pathology Lab Equipments",
+  "throughput": "",
+  "availability": "",
+  "brand": "",
+  "model": "",
+  "title": "Urometer",
+  "slug": "urometer",
+  "price": "₹ 700",
+  "pdf": "",
+  "subCategory": "Laboratory Urinometer",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FLaboratory%20Urinometer%2Furometer-urine-collection-bag-1-500x500.jpeg?alt=media&token=3190707c-0538-4658-a4eb-cf58ae937686"
+  ],
+  "capacity": "",
+  "desc": "",
+  "categoryProductId": "LU-12",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "size": "",
+  "uid": "pathology-lab-equipments-laboratory-urinometer-11"
+}

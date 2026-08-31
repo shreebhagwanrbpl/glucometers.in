@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "title": "Micro Centrifuge ( Microprocessors Based)",
+  "model": "",
+  "desc": "",
+  "price": "",
+  "size": "",
+  "parameters": "",
+  "id": "73fabcb5-7195-45ce-a578-bf9024b1547f",
+  "isPublished": true,
+  "instrument": "",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fproduct-jpeg-500x500.jpg?alt=media&token=f6ac4697-5222-472d-8d98-4393b301e791"
+  ],
+  "throughput": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:56:27.745Z",
+  "automation": "",
+  "categoryProductId": "M-112",
+  "video": "",
+  "usage": "",
+  "category": "Laboratory Centrifuge",
+  "subCategory": "Microcentrifuge",
+  "availability": "",
+  "slug": "micro-centrifuge--microprocessors-based",
+  "uid": "laboratory-centrifuge-microcentrifuge-111"
+}

@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2Flaboratory-research-centrifuges-500x500.jpg?alt=media&token=8cf49e73-8796-4080-8a09-1c39531b2a8b"
+  ],
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:59:04.719Z",
+  "subCategory": "Research Centrifuge",
+  "instrument": "",
+  "categoryProductId": "RC-46",
+  "id": "560438cf-47cb-4abd-855a-984a6d3d13e9",
+  "parameters": "",
+  "slug": "laboratory--research-centrifuges",
+  "pdf": "",
+  "automation": "",
+  "title": "Laboratory / Research Centrifuges",
+  "model": "",
+  "category": "Pathology Lab Equipments",
+  "desc": "",
+  "throughput": "",
+  "price": "",
+  "size": "",
+  "isPublished": true,
+  "brand": "",
+  "uid": "pathology-lab-equipments-research-centrifuge-45"
+}

@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "capacity": "",
+  "throughput": "",
+  "id": "72f4f7b4-4f85-4940-90bb-9158eda0738d",
+  "isPublished": true,
+  "size": "",
+  "video": "",
+  "usage": "",
+  "availability": "",
+  "desc": "",
+  "categoryProductId": "SA-8",
+  "slug": "semen-lab",
+  "brand": "",
+  "subCategory": "Semen Analysis",
+  "category": "Semen",
+  "price": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Semen%2FSemen%20Analysis%2F2-500x500.png?alt=media&token=78a47e3e-5310-4743-9d29-2fb070b01200"
+  ],
+  "createdAt": "2026-08-07T07:00:16.873Z",
+  "model": "",
+  "title": "Semen Lab",
+  "pdf": "",
+  "parameters": "",
+  "uid": "semen-semen-analysis-7"
+}

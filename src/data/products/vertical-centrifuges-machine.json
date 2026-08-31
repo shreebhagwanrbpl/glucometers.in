@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "parameters": "",
+  "categoryProductId": "CM-8",
+  "isPublished": true,
+  "availability": "",
+  "createdAt": "2026-08-07T06:56:19.921Z",
+  "slug": "vertical-centrifuges-machine",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "id": "bb4d32e7-470a-4ef2-9c3d-47cc3a1b2d5b",
+  "desc": "",
+  "brand": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FCentrifuge%20machine%2Fvertical-laboratory-centrifuge-machine-500x500.png?alt=media&token=8c73564e-6433-4139-8fb9-6777d63bdccd"
+  ],
+  "title": "Vertical Centrifuges Machine",
+  "model": "",
+  "category": "Laboratory Centrifuge",
+  "subCategory": "Centrifuge machine",
+  "automation": "",
+  "size": "",
+  "price": "",
+  "throughput": "",
+  "uid": "laboratory-centrifuge-centrifuge-machine-7"
+}

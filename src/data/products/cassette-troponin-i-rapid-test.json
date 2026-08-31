@@ -1,0 +1,28 @@
+{
+  "id": "e963ca8b-a9a4-4ef0-b8ed-3c7716206c54",
+  "createdAt": "2026-08-07T07:00:11.904Z",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "availability": "",
+  "capacity": "",
+  "instrument": "",
+  "slug": "cassette-troponin-i-rapid-test",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FTroponin%20Test%20Kit%2Ftroponin-i-rapid-test-500x500.jpg?alt=media&token=1f539f65-6fc8-4077-8449-08790d9709eb"
+  ],
+  "parameters": "",
+  "automation": "",
+  "title": "Cassette Troponin I Rapid Test",
+  "model": "",
+  "categoryProductId": "TTK-32",
+  "subCategory": "Troponin Test Kit",
+  "desc": "",
+  "throughput": "",
+  "price": "₹ 4,500",
+  "size": "",
+  "brand": "",
+  "category": "Rapid Test Kit",
+  "uid": "rapid-test-kit-troponin-test-kit-31"
+}

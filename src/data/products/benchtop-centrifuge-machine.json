@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "brand": "",
+  "throughput": "",
+  "categoryProductId": "TTC-7",
+  "isPublished": true,
+  "id": "690f8b5e-8fa9-466b-8cdc-69f7368dceab",
+  "title": "Benchtop Centrifuge Machine",
+  "model": "",
+  "capacity": "",
+  "slug": "benchtop-centrifuge-machine",
+  "pdf": "",
+  "price": "₹ 29,000",
+  "desc": "",
+  "subCategory": "Table Top Centrifuge",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2Fbenchtop-centrifuge-500x500.jpg?alt=media&token=2142605a-7529-49cc-bfe0-9eb6538faed6"
+  ],
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "category": "Pathology Lab Equipments",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:59:06.749Z",
+  "uid": "pathology-lab-equipments-table-top-centrifuge-6"
+}

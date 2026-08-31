@@ -1,0 +1,28 @@
+{
+  "price": "₹ 1,15,000",
+  "categoryProductId": "IA-31",
+  "instrument": "",
+  "size": "",
+  "model": "",
+  "title": "Mini VIDAS Automated Immunoassay Analyzer",
+  "createdAt": "2026-08-07T06:55:45.287Z",
+  "parameters": "",
+  "brand": "AA Medie Quip LLP",
+  "desc": "",
+  "subCategory": "Immunoassay analyzer",
+  "category": "Immunoassay analyzer",
+  "usage": "",
+  "video": "",
+  "slug": "mini-vidas-automated-immunoassay-analyzer",
+  "availability": "",
+  "id": "934e0127-0372-4b56-a49d-032e9123dc20",
+  "automation": "",
+  "capacity": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Immunoassay%20analyzer%2FImmunoassay%20analyzer%2Fmini-vidas-automated-immunoassay-analyzer-500x500.webp?alt=media&token=2a56c191-ac16-43cc-b9ca-6cee6536de1f"
+  ],
+  "throughput": "",
+  "isPublished": true,
+  "uid": "immunoassay-analyzer-immunoassay-analyzer-30"
+}

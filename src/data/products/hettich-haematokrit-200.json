@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "subCategory": "Hematocrit Centrifuges",
+  "title": "Hettich HAEMATOKRIT 200",
+  "model": "",
+  "categoryProductId": "HC-19",
+  "createdAt": "2026-08-07T06:56:23.918Z",
+  "price": "",
+  "throughput": "",
+  "capacity": "",
+  "brand": "",
+  "id": "f6fcc408-f0c4-4fd5-b962-b0acd009be66",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FHematocrit%20Centrifuges%2Fhettich-haematokrit-200-500x500.png?alt=media&token=44872c65-ae72-4e25-94f1-e7e05beefbc3"
+  ],
+  "slug": "hettich-haematokrit-200",
+  "automation": "",
+  "isPublished": true,
+  "parameters": "",
+  "instrument": "",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "availability": "",
+  "category": "Laboratory Centrifuge",
+  "uid": "laboratory-centrifuge-hematocrit-centrifuges-18"
+}

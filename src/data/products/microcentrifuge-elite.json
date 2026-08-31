@@ -1,0 +1,28 @@
+{
+  "subCategory": "Microcentrifuge",
+  "desc": "",
+  "availability": "",
+  "brand": "",
+  "id": "ec75d81d-7ff1-4042-851b-9c5f6fb1a89c",
+  "categoryProductId": "M-3",
+  "model": "",
+  "title": "Microcentrifuge Elite",
+  "size": "",
+  "throughput": "",
+  "capacity": "",
+  "automation": "",
+  "price": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fmicro-centrifuge-elite-500x500.jpg?alt=media&token=0e7a2fa0-7caa-496d-9add-6d6890a09f31"
+  ],
+  "parameters": "",
+  "pdf": "",
+  "instrument": "",
+  "category": "Laboratory Centrifuge",
+  "createdAt": "2026-08-07T06:56:27.741Z",
+  "slug": "microcentrifuge-elite",
+  "usage": "",
+  "video": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-2"
+}

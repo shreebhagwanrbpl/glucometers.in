@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "availability": "",
+  "automation": "",
+  "category": "Blood Collection Tubes",
+  "title": "Clot",
+  "model": "",
+  "size": "",
+  "throughput": "",
+  "subCategory": "Clot Activator Tube",
+  "id": "950bef5e-73f2-41c8-8ae2-28c963b5c161",
+  "brand": "",
+  "desc": "Clot",
+  "createdAt": "2026-08-07T06:53:33.843Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FClot%20Activator%20Tube%2F1-500x500.jpg?alt=media&token=69998aa9-173b-4acb-ae43-72aa3c4017b6"
+  ],
+  "video": "",
+  "usage": "",
+  "slug": "clot",
+  "categoryProductId": "CAT-300",
+  "capacity": "",
+  "instrument": "",
+  "isPublished": true,
+  "pdf": "",
+  "parameters": "",
+  "uid": "blood-collection-tubes-clot-activator-tube-299"
+}

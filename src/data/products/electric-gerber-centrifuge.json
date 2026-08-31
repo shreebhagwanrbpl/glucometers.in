@@ -1,0 +1,28 @@
+{
+  "id": "5418921b-5d99-4d9d-9c0a-ccbada0dfebd",
+  "category": "Laboratory Centrifuge",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:56:21.898Z",
+  "brand": "",
+  "model": "",
+  "title": "Electric Gerber Centrifuge",
+  "slug": "electric-gerber-centrifuge",
+  "throughput": "",
+  "price": "",
+  "availability": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FElectric%20Centrifuge%2Fproduct-jpeg-500x500.jpeg?alt=media&token=a1cc3360-0c65-40ac-bcec-7c39f8da9567"
+  ],
+  "capacity": "",
+  "desc": "An electric Gerber centrifuge is a specialized laboratory instrument designed for the quantitative analysis of milk, primarily for determining its fat content using the Gerber method. It operates by spinning samples at a specific, often variable, speed to separate the fat from the milk, and features an electric motor for operation, along with a tim",
+  "parameters": "",
+  "subCategory": "Electric Centrifuge",
+  "instrument": "",
+  "categoryProductId": "EC-23",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "size": "",
+  "uid": "laboratory-centrifuge-electric-centrifuge-22"
+}

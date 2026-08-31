@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FClot%20Activator%20Tube%2Fserum-tubes-500x500.jpg?alt=media&token=6c6b3204-1ffe-4968-8552-01f83f1d915e"
+  ],
+  "desc": "Serum Tubes",
+  "categoryProductId": "CAT-343",
+  "brand": "",
+  "id": "9139b55c-bfbc-4324-9ed7-1690639c6945",
+  "subCategory": "Clot Activator Tube",
+  "title": "Serum Tubes",
+  "model": "",
+  "instrument": "",
+  "price": "",
+  "capacity": "",
+  "parameters": "",
+  "size": "",
+  "automation": "",
+  "isPublished": true,
+  "throughput": "",
+  "slug": "serum-tubes",
+  "category": "Blood Collection Tubes",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T06:53:33.849Z",
+  "availability": "",
+  "uid": "blood-collection-tubes-clot-activator-tube-342"
+}

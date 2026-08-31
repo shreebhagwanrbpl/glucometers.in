@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "throughput": "",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Manual Blood Cell Counting Device",
+  "automation": "",
+  "categoryProductId": "MBCCD-13",
+  "size": "",
+  "createdAt": "2026-08-07T06:55:41.226Z",
+  "model": "",
+  "title": "Manual Blood Cell Counter 5 Key",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FManual%20Blood%20Cell%20Counting%20Device%2Fblood-cell-counter-5-key-500x500.png?alt=media&token=45c85934-fe0f-4ff0-8cef-18653bb51ad3"
+  ],
+  "isPublished": true,
+  "category": "Hematology analyzers",
+  "price": "",
+  "pdf": "",
+  "id": "cd914315-8e66-46b1-8ecf-4ee692ae1e53",
+  "slug": "manual-blood-cell-counter-5-key",
+  "parameters": "",
+  "brand": "",
+  "instrument": "",
+  "availability": "",
+  "uid": "hematology-analyzers-manual-blood-cell-counting-device-12"
+}

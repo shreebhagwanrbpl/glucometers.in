@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:56:27.748Z",
+  "video": "",
+  "usage": "",
+  "slug": "laboratory-microcentrifuges",
+  "capacity": "",
+  "throughput": "",
+  "isPublished": true,
+  "automation": "",
+  "parameters": "",
+  "availability": "",
+  "price": "",
+  "size": "",
+  "category": "Laboratory Centrifuge",
+  "id": "3844798c-04eb-437f-b121-f2e2dc301feb",
+  "instrument": "",
+  "pdf": "",
+  "title": "Laboratory Microcentrifuges",
+  "model": "",
+  "brand": "",
+  "desc": "",
+  "categoryProductId": "M-160",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Flaboratory-microcentrifuges-500x500.png?alt=media&token=bd283a1e-467f-4875-a30e-02a094966361"
+  ],
+  "subCategory": "Microcentrifuge",
+  "uid": "laboratory-centrifuge-microcentrifuge-159"
+}

@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "createdAt": "2026-08-07T06:58:53.342Z",
+  "parameters": "",
+  "size": "",
+  "id": "dcb227af-86ed-4722-b219-4feb5fcba80f",
+  "subCategory": "Laboratory ELISA Microplate",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FLaboratory%20ELISA%20Microplate%2F96-well-elisa-plates-500x500.jpg?alt=media&token=039ca3a9-6900-41eb-928b-4c49a6728d94"
+  ],
+  "category": "Pathology Lab Equipments",
+  "categoryProductId": "LEM-4",
+  "pdf": "",
+  "availability": "",
+  "slug": "polypropylene-96-well-elisa-plate",
+  "brand": "",
+  "price": "₹ 500",
+  "automation": "",
+  "isPublished": true,
+  "title": "Polypropylene 96 Well Elisa Plate",
+  "model": "",
+  "throughput": "",
+  "capacity": "",
+  "uid": "pathology-lab-equipments-laboratory-elisa-microplate-3"
+}

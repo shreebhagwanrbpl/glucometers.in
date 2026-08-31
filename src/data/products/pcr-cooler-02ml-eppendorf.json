@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "PTR-1",
+  "automation": "",
+  "throughput": "",
+  "brand": "",
+  "isPublished": true,
+  "capacity": "",
+  "title": "PCR-Cooler 0.2ml Eppendorf",
+  "model": "",
+  "slug": "pcr-cooler-02ml-eppendorf",
+  "price": "₹ 9,590",
+  "createdAt": "2026-08-07T06:59:14.423Z",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2025/5/513055056/JP/DB/OJ/150813429/pcr-cooler-500x500.jpeg"
+  ],
+  "desc": "",
+  "id": "dd369da2-61c4-40ad-b780-800bc3a6bcfc",
+  "subCategory": "Pcr tube rack",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "category": "PCR Machine",
+  "pdf": "",
+  "availability": "",
+  "parameters": "",
+  "size": "",
+  "uid": "pcr-machine-pcr-tube-rack-0"
+}

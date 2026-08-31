@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "categoryProductId": "LC-2",
+  "parameters": "",
+  "isPublished": true,
+  "availability": "",
+  "createdAt": "2026-08-07T06:56:25.245Z",
+  "slug": "12-tubes",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "id": "798332ac-69ac-4483-8f5b-7cc7af6943aa",
+  "desc": "",
+  "brand": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FLaboratory%20Centrifuge%2Flaboratory-centrifuge-12-tubes-500x500.png?alt=media&token=f3ec2259-af98-4ec0-b876-5b5543cb6117"
+  ],
+  "title": "12 Tubes",
+  "model": "",
+  "category": "Laboratory Centrifuge",
+  "subCategory": "Laboratory Centrifuge",
+  "automation": "",
+  "size": "",
+  "throughput": "",
+  "price": "",
+  "uid": "laboratory-centrifuge-laboratory-centrifuge-1"
+}

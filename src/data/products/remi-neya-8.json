@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "LC-5",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FLaboratory%20Centrifuge%2Fneya-8-500x500.png?alt=media&token=19ad5284-423d-4b8b-9731-52841bf2b746"
+  ],
+  "usage": "",
+  "video": "",
+  "desc": "",
+  "parameters": "",
+  "capacity": "",
+  "size": "",
+  "id": "7a70bf08-689a-4ed8-ba4e-6c76259bc294",
+  "createdAt": "2026-08-07T06:56:25.245Z",
+  "instrument": "",
+  "subCategory": "Laboratory Centrifuge",
+  "throughput": "",
+  "pdf": "",
+  "model": "",
+  "title": "Remi Neya 8",
+  "availability": "",
+  "automation": "",
+  "price": "",
+  "brand": "",
+  "isPublished": true,
+  "category": "Laboratory Centrifuge",
+  "slug": "remi-neya-8",
+  "uid": "laboratory-centrifuge-laboratory-centrifuge-4"
+}

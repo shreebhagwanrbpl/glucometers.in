@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "model": "",
+  "title": "Haemometer Saheli",
+  "createdAt": "2026-08-07T06:55:32.809Z",
+  "price": "",
+  "capacity": "",
+  "parameters": "",
+  "availability": "",
+  "isPublished": true,
+  "categoryProductId": "H-122",
+  "brand": "",
+  "slug": "haemometer-saheli",
+  "id": "72e9411c-05c1-4f33-b7f4-ee184a4f6109",
+  "pdf": "",
+  "category": "Hematology analyzers",
+  "desc": "Haemocytometer saheli",
+  "video": "",
+  "usage": "",
+  "subCategory": "Haemometer",
+  "size": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHaemometer%2Fhaemocytometer-saheli-850-500x500.jpeg?alt=media&token=80368fff-d49b-4760-805e-4a4235d607cf"
+  ],
+  "throughput": "",
+  "uid": "hematology-analyzers-haemometer-121"
+}

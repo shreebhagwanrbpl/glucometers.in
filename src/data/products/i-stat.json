@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "createdAt": "2026-08-07T06:52:57.652Z",
+  "instrument": "",
+  "isPublished": true,
+  "slug": "i-stat",
+  "title": "i-STAT",
+  "model": "",
+  "desc": "i-STAT",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Blood%20Analyzer%2Fabbort-i-stat-handheld-blood-analyzer-570x570-png-500x500.png?alt=media&token=98bd6400-a804-407b-9816-03c545d2b82a"
+  ],
+  "price": "",
+  "category": "Abbott",
+  "availability": "",
+  "pdf": "",
+  "subCategory": "Abbott Blood Analyzer",
+  "throughput": "",
+  "size": "",
+  "brand": "",
+  "categoryProductId": "ABA-35",
+  "id": "7206817f-f458-492a-b94c-29d1e0dc092e",
+  "automation": "",
+  "uid": "abbott-abbott-blood-analyzer-32"
+}

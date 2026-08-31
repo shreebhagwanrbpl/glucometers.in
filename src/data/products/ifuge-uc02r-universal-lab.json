@@ -1,0 +1,28 @@
+{
+  "id": "70f703e7-482d-46f5-93ac-75627433bf80",
+  "desc": "",
+  "categoryProductId": "RC-30",
+  "category": "Laboratory Centrifuge",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FRefrigerated%20centrifuge%2Fneuation-refrigerated-centrifuge-ifuge-l400r-500x500.png?alt=media&token=d4eeb4b1-2a69-47f3-9b7a-368b61bb1ce9"
+  ],
+  "automation": "",
+  "size": "",
+  "pdf": "",
+  "title": "IFuge UC02R Universal Lab",
+  "model": "",
+  "parameters": "",
+  "instrument": "",
+  "price": "",
+  "capacity": "",
+  "availability": "",
+  "slug": "ifuge-uc02r-universal-lab",
+  "createdAt": "2026-08-07T06:56:35.664Z",
+  "subCategory": "Refrigerated centrifuge",
+  "brand": "",
+  "uid": "laboratory-centrifuge-refrigerated-centrifuge-29"
+}

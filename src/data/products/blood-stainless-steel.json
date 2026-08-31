@@ -1,0 +1,28 @@
+{
+  "id": "f2fdde16-0aff-4e9e-b6b0-46098614bb62",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FSafety%20lancet%2Fblood-lancet-desco-500x500.jpg?alt=media&token=1dc29085-5f9a-4b99-b498-3c4fdcfac227"
+  ],
+  "brand": "",
+  "pdf": "",
+  "capacity": "",
+  "title": "Blood  Stainless Steel",
+  "model": "",
+  "instrument": "",
+  "subCategory": "Safety lancet",
+  "slug": "blood-stainless-steel",
+  "price": "",
+  "createdAt": "2026-08-07T06:53:23.321Z",
+  "parameters": "",
+  "categoryProductId": "SL-9",
+  "automation": "",
+  "desc": "",
+  "throughput": "",
+  "size": "",
+  "availability": "",
+  "category": "Blood bank equipments",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "uid": "blood-bank-equipments-safety-lancet-8"
+}

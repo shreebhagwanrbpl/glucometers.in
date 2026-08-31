@@ -1,0 +1,28 @@
+{
+  "price": "₹ 700",
+  "createdAt": "2026-08-07T06:54:50.079Z",
+  "slug": "nesslers-reagent-sq",
+  "pdf": "",
+  "capacity": "",
+  "id": "7bb35968-6947-4022-b849-11aa2e612b34",
+  "title": "Nessler's Reagent SQ",
+  "model": "",
+  "brand": "4.4",
+  "throughput": "",
+  "isPublished": true,
+  "automation": "",
+  "category": "Clinical Reagents",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "categoryProductId": "DR-11",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Fimg-7272-500x500.jpeg?alt=media&token=f74e27c7-05b7-4832-9cb4-d29fd3813032"
+  ],
+  "instrument": "",
+  "availability": "",
+  "desc": "",
+  "subCategory": "Diagnostic reagents",
+  "uid": "clinical-reagents-diagnostic-reagents-10"
+}

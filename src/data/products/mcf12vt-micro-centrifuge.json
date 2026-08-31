@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "id": "f014b9d5-da13-4e77-8949-89babbe44550",
+  "throughput": "",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "size": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fmicro-centrifuge-mcf12vt-500x500.png?alt=media&token=b7788f26-ac86-4c51-8d5c-af3e4d74260e"
+  ],
+  "categoryProductId": "M-134",
+  "category": "Laboratory Centrifuge",
+  "model": "",
+  "title": "MCF12VT Micro Centrifuge",
+  "pdf": "",
+  "price": "",
+  "parameters": "",
+  "capacity": "",
+  "brand": "",
+  "slug": "mcf12vt-micro-centrifuge",
+  "instrument": "",
+  "subCategory": "Microcentrifuge",
+  "createdAt": "2026-08-07T06:56:27.747Z",
+  "uid": "laboratory-centrifuge-microcentrifuge-133"
+}

@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FElectrolyte%20analyzer%2Felectrolyte-analyzer-prolyte-500x500.jpg?alt=media&token=525a23f7-ea4a-4ba6-992e-389645a9df25"
+  ],
+  "availability": "",
+  "isPublished": true,
+  "desc": "",
+  "size": "",
+  "instrument": "",
+  "id": "b159ba02-6e8f-4b15-b2e4-98e3a2f76418",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "automation": "",
+  "brand": "",
+  "category": "Ivds category",
+  "subCategory": "Electrolyte analyzer",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:55:52.327Z",
+  "model": "",
+  "title": "Manual Prolyte Electrolyte Analyzer",
+  "categoryProductId": "EA-17",
+  "slug": "manual-prolyte-electrolyte-analyzer",
+  "price": "",
+  "uid": "ivds-category-electrolyte-analyzer-16"
+}

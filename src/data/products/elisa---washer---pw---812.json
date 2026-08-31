@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "subCategory": "Elisa Washer",
+  "size": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "desc": "",
+  "availability": "",
+  "throughput": "",
+  "instrument": "",
+  "isPublished": true,
+  "slug": "elisa---washer---pw---812",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Felisa-washer-pw-812-1-500x500.jpg?alt=media&token=1c4c0022-79fc-459c-83c8-161fe90a4b4e"
+  ],
+  "brand": "",
+  "createdAt": "2026-08-07T06:58:49.931Z",
+  "category": "Pathology Lab Equipments",
+  "parameters": "",
+  "price": "₹ 2,80,000",
+  "categoryProductId": "EW-31",
+  "model": "",
+  "title": "ELISA - WASHER - PW - 812",
+  "id": "0079eae9-c152-4cd2-b80a-4adbfc7766ad",
+  "uid": "pathology-lab-equipments-elisa-washer-30"
+}

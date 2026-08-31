@@ -1,11 +1,11 @@
 export default function TrustedBrands() {
   const brands = [
-    "HealthCare+",
-    "BioMed Labs",
-    "MediCore",
-    "Life Diagnostics",
-    "Care Plus",
-  ];
+  "Accu-Chek",
+  "OneTouch",
+  "Contour",
+  "Dr. Trust",
+  "Omron"
+];
 
   return (
     <section className="relative overflow-hidden py-16 bg-gradient-to-b from-[#F8FCFD] via-[#F3FCFD] to-[#ECFEFF] border-y border-cyan-100">
@@ -25,7 +25,7 @@ export default function TrustedBrands() {
           </div>
 
           <p className="mt-5 text-lg font-medium text-cyan-900/70">
-            Trusted by Healthcare & Biomedical Organizations
+            Preferred by Leading Diabetes Care Providers
           </p>
 
         </div>

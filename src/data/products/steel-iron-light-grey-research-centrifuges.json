@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "throughput": "",
+  "subCategory": "Research Centrifuge",
+  "slug": "steel-iron-light-grey-research-centrifuges",
+  "createdAt": "2026-08-07T06:59:04.719Z",
+  "id": "0df6e6bb-06bc-47a9-8b47-777aca9bebd6",
+  "automation": "",
+  "model": "",
+  "title": "Steel Iron Light Grey Research Centrifuges",
+  "brand": "",
+  "availability": "",
+  "capacity": "",
+  "categoryProductId": "RC-65",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "size": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2Fresearchcentrifuges-500x500.jpg?alt=media&token=0d7e286e-38c7-490f-9e4e-44e6ba33dfae"
+  ],
+  "category": "Pathology Lab Equipments",
+  "parameters": "",
+  "desc": "",
+  "instrument": "",
+  "uid": "pathology-lab-equipments-research-centrifuge-64"
+}

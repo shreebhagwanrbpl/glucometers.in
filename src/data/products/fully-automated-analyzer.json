@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "category": "Hematology analyzers",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "categoryProductId": "EA-24",
+  "slug": "fully-automated-analyzer",
+  "createdAt": "2026-08-07T06:55:31.360Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FEsr%20analyzer%2Ffully-automated-esr-analyzer-500x500.png?alt=media&token=869b78df-98ae-4ecb-85a8-f17fdefcb10c"
+  ],
+  "pdf": "",
+  "desc": "",
+  "title": "Fully Automated  Analyzer",
+  "model": "",
+  "availability": "",
+  "price": "",
+  "id": "20969601-e985-4f5d-bf91-919ce6a77b56",
+  "subCategory": "Esr analyzer",
+  "capacity": "",
+  "automation": "",
+  "throughput": "",
+  "size": "",
+  "brand": "",
+  "uid": "hematology-analyzers-esr-analyzer-23"
+}

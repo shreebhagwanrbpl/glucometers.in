@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "instrument": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:56:27.752Z",
+  "availability": "",
+  "parameters": "",
+  "pdf": "",
+  "price": "",
+  "desc": "",
+  "category": "Laboratory Centrifuge",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fburosil-clinical-centrifuge-500x500.jpg?alt=media&token=067fdfac-59f0-4724-968f-7169ae0e652e"
+  ],
+  "isPublished": true,
+  "model": "",
+  "title": "Borosil Micro Centrifuge",
+  "id": "ce10419b-edf6-4a77-bc0f-15d90e1d18e5",
+  "slug": "borosil-micro-centrifuge",
+  "categoryProductId": "M-235",
+  "subCategory": "Microcentrifuge",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "throughput": "",
+  "capacity": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-234"
+}

@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "iFUGE M24PR Refrigerated High Speed Micro Centrifuge",
+  "desc": "",
+  "parameters": "",
+  "id": "676ec209-3f8c-4641-8779-76e25af672c9",
+  "subCategory": "Microcentrifuge",
+  "instrument": "",
+  "price": "",
+  "category": "Laboratory Centrifuge",
+  "size": "",
+  "pdf": "",
+  "brand": "",
+  "isPublished": true,
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "M-138",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fifuge-m24pr-refrigerated-high-speed-micro-centrifuge-500x500.png?alt=media&token=91b42086-7f87-4cd5-9a6b-38d39f841627"
+  ],
+  "availability": "",
+  "throughput": "",
+  "slug": "ifuge-m24pr-refrigerated-high-speed-micro-centrifuge",
+  "createdAt": "2026-08-07T06:56:27.747Z",
+  "automation": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-137"
+}

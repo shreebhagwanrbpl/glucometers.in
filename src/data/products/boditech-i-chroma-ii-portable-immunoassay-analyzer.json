@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "isPublished": true,
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FBoditech%20Immunoassay%20Analyzer%2F2-500x500.jpg?alt=media&token=58dc8873-3d55-466b-b567-1f8951737909"
+  ],
+  "id": "7135b367-bee6-49b6-b47d-3256748c4e9b",
+  "capacity": "",
+  "desc": "",
+  "categoryProductId": "BIA-11",
+  "pdf": "",
+  "price": "₹ 1,00,000",
+  "createdAt": "2026-08-07T06:58:44.364Z",
+  "subCategory": "Boditech Immunoassay Analyzer",
+  "slug": "boditech-i-chroma-ii-portable-immunoassay-analyzer",
+  "model": "",
+  "title": "Boditech I Chroma Ii Portable Immunoassay Analyzer",
+  "brand": "",
+  "throughput": "Up to 50 tests/hour",
+  "category": "Pathology Lab Equipments",
+  "automation": "",
+  "uid": "pathology-lab-equipments-boditech-immunoassay-analyzer-10"
+}

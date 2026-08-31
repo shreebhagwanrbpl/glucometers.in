@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "price": "",
+  "availability": "",
+  "slug": "stainless-steel-lancet",
+  "model": "",
+  "title": "Stainless Steel Lancet",
+  "brand": "",
+  "instrument": "",
+  "isPublished": true,
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FStainless%20Steel%20Blood%20Lancet%2Fstainless-steel-lancet-500x500.jpg?alt=media&token=7382912d-275a-461c-a968-cd5edb2551e3"
+  ],
+  "size": "",
+  "pdf": "",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "SSBL-7",
+  "throughput": "",
+  "category": "Blood bank equipments",
+  "createdAt": "2026-08-07T06:53:24.603Z",
+  "id": "1082efcc-3d59-4943-9e48-a78664ca34fe",
+  "desc": "",
+  "subCategory": "Stainless Steel Blood Lancet",
+  "uid": "blood-bank-equipments-stainless-steel-blood-lancet-6"
+}

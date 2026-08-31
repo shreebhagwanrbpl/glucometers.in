@@ -1,0 +1,28 @@
+{
+  "title": "S.Typhi/Paratyphi Ag Rapid Test",
+  "model": "",
+  "price": "₹ 68",
+  "category": "Rapid Test Kit",
+  "id": "ca42df67-dfc0-417c-abc5-25907bc20343",
+  "slug": "styphiparatyphi-ag-rapid-test",
+  "instrument": "",
+  "availability": "",
+  "createdAt": "2026-08-07T07:00:13.898Z",
+  "parameters": "",
+  "subCategory": "Typhoid Diagnostic Kit",
+  "brand": "",
+  "desc": "",
+  "capacity": "",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FTyphoid%20Diagnostic%20Kit%2Fs-typhi-paratyphi-ag-rapid-test-500x500.png?alt=media&token=cfdb0abb-e248-452e-8f0c-7e6005b0ea91"
+  ],
+  "throughput": "",
+  "pdf": "",
+  "categoryProductId": "TDK-36",
+  "size": "",
+  "isPublished": true,
+  "uid": "rapid-test-kit-typhoid-diagnostic-kit-35"
+}

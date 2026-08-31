@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FHematocrit%20Centrifuges%2Fhematocrit-centrifuge-machine-500x500.png?alt=media&token=1d3a78a4-c580-4536-a0cf-bd339dfc4fce"
+  ],
+  "desc": "",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:56:23.918Z",
+  "automation": "",
+  "brand": "",
+  "model": "",
+  "title": "Hematocrit Centrifuge Machine",
+  "category": "Laboratory Centrifuge",
+  "isPublished": true,
+  "price": "",
+  "pdf": "",
+  "size": "",
+  "categoryProductId": "HC-18",
+  "id": "f7c37eab-9e2f-4a7a-adf3-100360165a3d",
+  "slug": "hematocrit-centrifuge-machine",
+  "parameters": "",
+  "subCategory": "Hematocrit Centrifuges",
+  "availability": "",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "uid": "laboratory-centrifuge-hematocrit-centrifuges-17"
+}

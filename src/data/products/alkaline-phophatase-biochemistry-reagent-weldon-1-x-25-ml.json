@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "desc": "",
+  "automation": "",
+  "throughput": "",
+  "isPublished": true,
+  "pdf": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FAlkaline%20phosphatase%20reagent%2F25-ml-alkaline-phophatase-biochemistry-reagents-500x500.jpeg?alt=media&token=a28bcba5-04df-4827-af22-730228d4b7cd"
+  ],
+  "subCategory": "Alkaline phosphatase reagent",
+  "category": "Clinical Reagents",
+  "brand": "4",
+  "title": "Alkaline Phophatase Biochemistry Reagent, Weldon, 1 x 25 ml",
+  "model": "",
+  "slug": "alkaline-phophatase-biochemistry-reagent-weldon-1-x-25-ml",
+  "instrument": "",
+  "categoryProductId": "APR-18",
+  "id": "24f43a57-d278-4dab-92c3-07bf782f507e",
+  "price": "₹ 315",
+  "createdAt": "2026-08-07T06:54:44.011Z",
+  "availability": "",
+  "parameters": "",
+  "uid": "clinical-reagents-alkaline-phosphatase-reagent-17"
+}

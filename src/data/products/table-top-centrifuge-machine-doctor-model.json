@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:59:06.758Z",
+  "size": "",
+  "parameters": "",
+  "price": "",
+  "capacity": "",
+  "isPublished": true,
+  "desc": "",
+  "id": "08e2a07c-9c5b-40a5-bdb1-b4fc5cc01148",
+  "title": "Table Top Centrifuge Machine Doctor Model",
+  "model": "",
+  "slug": "table-top-centrifuge-machine-doctor-model",
+  "availability": "",
+  "automation": "",
+  "subCategory": "Table Top Centrifuge",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2Fserum-centrifuge-machine-bench-top-model-t-3bl-500x500.png?alt=media&token=e94e66e9-c27e-4b1e-ac5c-48389963ee9c"
+  ],
+  "categoryProductId": "TTC-107",
+  "throughput": "",
+  "category": "Pathology Lab Equipments",
+  "uid": "pathology-lab-equipments-table-top-centrifuge-106"
+}

@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "capacity": "",
+  "parameters": "",
+  "size": "",
+  "id": "9e6a3f54-8376-4f0b-ba77-c5872d66962b",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "desc": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:55:54.014Z",
+  "pdf": "",
+  "slug": "blood-cell-counter",
+  "brand": "",
+  "category": "Ivds category",
+  "price": "",
+  "subCategory": "Hematology analyzers",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fcell-scan-60-plus-hematology-analyzer-500x500.jpg?alt=media&token=19c18517-5900-4b50-970a-844bac8ea8e0"
+  ],
+  "title": "Blood Cell Counter",
+  "model": "",
+  "throughput": "",
+  "categoryProductId": "HA-1",
+  "uid": "ivds-category-hematology-analyzers-0"
+}

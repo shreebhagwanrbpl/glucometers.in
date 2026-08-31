@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "category": "Laboratory thermometer",
+  "subCategory": "Dial thermometer",
+  "pdf": "",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "availability": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:56:52.556Z",
+  "desc": "",
+  "isPublished": true,
+  "categoryProductId": "DT-16",
+  "price": "₹ 1,000",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FDial%20thermometer%2Fdial-thermometer-remote-control-500x500.jpg?alt=media&token=f1d46249-5607-40c4-9bc9-d4426b01decc"
+  ],
+  "title": "Thermometer Remote Control",
+  "model": "",
+  "slug": "thermometer-remote-control",
+  "brand": "",
+  "automation": "",
+  "id": "e2e4951e-1e5d-42d7-9eca-50e92844556f",
+  "throughput": "",
+  "uid": "laboratory-thermometer-dial-thermometer-15"
+}

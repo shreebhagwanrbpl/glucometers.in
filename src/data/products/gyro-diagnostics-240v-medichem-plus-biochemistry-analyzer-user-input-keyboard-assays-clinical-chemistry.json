@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "pdf": "",
+  "throughput": "",
+  "category": "Ivds category",
+  "subCategory": "biochemestery Analyzer",
+  "createdAt": "2026-08-07T06:55:48.369Z",
+  "categoryProductId": "BA-13",
+  "automation": "",
+  "slug": "gyro-diagnostics-240v-medichem-plus-biochemistry-analyzer-user-input-keyboard-assays-clinical-chemistry",
+  "id": "231e7601-e3c4-4b62-a5c8-a2aac4066978",
+  "price": "",
+  "model": "",
+  "title": "Gyro Diagnostics 240V Medichem Plus Biochemistry Analyzer, User Input: Keyboard, Assays: Clinical Chemistry",
+  "size": "",
+  "availability": "",
+  "capacity": "",
+  "isPublished": true,
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2Fbiochemestery%20Analyzer%2Fmedichem-plus-500x500.jpg?alt=media&token=3cdc1278-c568-40b6-b9bf-c35ad39f6b00"
+  ],
+  "instrument": "",
+  "desc": "",
+  "uid": "ivds-category-biochemestery-analyzer-12"
+}

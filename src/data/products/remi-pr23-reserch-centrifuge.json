@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "automation": "",
+  "throughput": "",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "id": "fa419584-2d2b-430f-bafd-ea45e5dc4c43",
+  "desc": "",
+  "brand": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2Fremi-pr23-reserch-centrifuge-500x500.png?alt=media&token=a96e5663-7749-46cd-b06f-de6e13ef24e5"
+  ],
+  "slug": "remi-pr23-reserch-centrifuge",
+  "createdAt": "2026-08-07T06:59:04.719Z",
+  "category": "Pathology Lab Equipments",
+  "instrument": "",
+  "subCategory": "Research Centrifuge",
+  "price": "",
+  "parameters": "",
+  "categoryProductId": "RC-36",
+  "availability": "",
+  "model": "",
+  "title": "Remi Pr23 RESERCH CENTRIFUGE",
+  "uid": "pathology-lab-equipments-research-centrifuge-35"
+}

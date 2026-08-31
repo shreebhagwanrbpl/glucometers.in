@@ -7,22 +7,22 @@ export default function Testimonials() {
   const reviews = [
     {
       name: "Dr. Rajesh Kumar",
-      role: "Healthcare Specialist",
+      role: "Clinic Director",
       review:
-        "Central Biomedicals has consistently delivered reliable diagnostic equipment with outstanding support.",
+        "Sourcing reliable glucometers from Raj Biosis has made blood sugar tracking simple and accurate for our clinic.",
     },
     {
       name: "Amit Sharma",
-      role: "Lab Director",
+      role: "Pharmacy Manager",
       review:
-        "Professional service, premium products, and excellent biomedical consultation experience.",
+        "Their digital blood glucose monitors are incredibly easy to calibrate. Excellent customer support!",
     },
     {
       name: "Neha Verma",
-      role: "Research Head",
+      role: "Wellness Coordinator",
       review:
-        "Their healthcare solutions improved our laboratory efficiency significantly.",
-    },
+        "We purchased bulk diabetes testing kits for our wellness drive. The accuracy and packaging were top notch.",
+    }
   ];
 
   return (
@@ -38,7 +38,7 @@ export default function Testimonials() {
         <SectionTitle
           badge="Testimonials"
           title="What Our Clients Say"
-          description="Trusted by healthcare professionals, laboratories, and biomedical institutions."
+          description="Chosen by diagnostic teams, laboratories, healthcare organizations, and institutional users."
           center
         />
 

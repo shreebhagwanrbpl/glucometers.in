@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2Fremi-research-centrifuge-500x500.jpg?alt=media&token=34c18a84-6705-45c4-b736-94e89259fe0f"
+  ],
+  "subCategory": "Research Centrifuge",
+  "parameters": "",
+  "desc": "",
+  "brand": "",
+  "pdf": "",
+  "instrument": "",
+  "capacity": "400 - 1200 ml",
+  "categoryProductId": "RC-50",
+  "model": "",
+  "title": "Remi Research Centrifuge, 400 - 1200 Ml",
+  "size": "",
+  "price": "₹ 45,000",
+  "availability": "",
+  "isPublished": true,
+  "id": "92f6b295-149e-4549-b5c3-befd3f0d7985",
+  "throughput": "",
+  "slug": "remi-research-centrifuge-400---1200-ml",
+  "category": "Pathology Lab Equipments",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:59:04.719Z",
+  "automation": "",
+  "uid": "pathology-lab-equipments-research-centrifuge-49"
+}

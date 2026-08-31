@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "brand": "Boditech",
+  "category": "Pathology Lab Equipments",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FBoditech%20Immunoassay%20Analyzer%2Funnamed-500x500.png?alt=media&token=b7dfe909-5111-426e-bd93-ac60a3c5ac53"
+  ],
+  "parameters": "",
+  "id": "f18169d5-f265-4547-a538-47418e1b2bdb",
+  "title": "Boditech I Chroma 2 Immune Analyzer",
+  "model": "",
+  "instrument": "",
+  "slug": "boditech-i-chroma-2-immune-analyzer",
+  "price": "₹ 1,00,000",
+  "throughput": "",
+  "capacity": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:58:44.366Z",
+  "automation": "",
+  "desc": "",
+  "size": "",
+  "categoryProductId": "BIA-48",
+  "subCategory": "Boditech Immunoassay Analyzer",
+  "video": "",
+  "usage": "",
+  "uid": "pathology-lab-equipments-boditech-immunoassay-analyzer-47"
+}

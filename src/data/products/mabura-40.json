@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "price": "",
+  "id": "2cfaef49-89eb-4aaf-a563-a42367ef03f1",
+  "slug": "mabura-40",
+  "createdAt": "2026-08-07T07:00:37.069Z",
+  "model": "",
+  "title": "Mabura 40",
+  "categoryProductId": "PS-15",
+  "automation": "",
+  "category": "Syringe",
+  "brand": "",
+  "throughput": "",
+  "subCategory": "Prefilled Syringe",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "parameters": "",
+  "pdf": "",
+  "images": [
+    "https://5.imimg.com/data5/ANDROID/Default/2025/8/536958815/ID/QX/HM/142911752/product-jpeg-500x500.jpg"
+  ],
+  "desc": "",
+  "capacity": "",
+  "isPublished": true,
+  "uid": "syringe-prefilled-syringe-14"
+}

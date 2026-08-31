@@ -1,0 +1,28 @@
+{
+  "slug": "hospital-precision-thermometer",
+  "price": "",
+  "model": "",
+  "title": "Hospital Precision Thermometer",
+  "category": "Laboratory thermometer",
+  "categoryProductId": "PT-13",
+  "throughput": "",
+  "brand": "",
+  "pdf": "",
+  "subCategory": "Precision Thermometer",
+  "automation": "",
+  "createdAt": "2026-08-07T06:57:06.380Z",
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "parameters": "",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FPrecision%20Thermometer%2Fstandard-thermometer-500x500.jpg?alt=media&token=45211831-e9ee-4503-98f0-ff256943539c"
+  ],
+  "id": "c0fd9bfd-9bc6-4011-8e7d-4bb8f6a812bd",
+  "size": "",
+  "instrument": "",
+  "desc": "",
+  "isPublished": true,
+  "uid": "laboratory-thermometer-precision-thermometer-12"
+}

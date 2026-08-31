@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "desc": "",
+  "createdAt": "2026-08-07T06:59:37.776Z",
+  "instrument": "",
+  "isPublished": true,
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "categoryProductId": "CBDK-14",
+  "availability": "",
+  "size": "",
+  "id": "1ec97632-f245-412b-b1fb-7587fea465a8",
+  "brand": "",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FCreatinine%20Biochemistry%20Diagnostic%20Kit%2Fcreatinine-double-reagent-500x500.jpeg?alt=media&token=c458be2f-ff69-48d0-a547-632eb7501af1"
+  ],
+  "throughput": "",
+  "title": "Creatinine Double Reagent",
+  "slug": "creatinine-double-reagent",
+  "subCategory": "Creatinine Biochemistry Diagnostic Kit",
+  "automation": "",
+  "price": "₹ 1,250",
+  "category": "Rapid Test Kit",
+  "uid": "rapid-test-kit-creatinine-biochemistry-diagnostic-kit-13"
+}

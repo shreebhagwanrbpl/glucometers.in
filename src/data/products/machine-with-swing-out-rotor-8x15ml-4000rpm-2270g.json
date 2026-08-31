@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "createdAt": "2026-08-07T06:58:47.305Z",
+  "isPublished": true,
+  "category": "Pathology Lab Equipments",
+  "id": "f3133bdc-de72-4c39-9856-2db9be4adab7",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FDigital%20centrifuge%20machine%2Fprp-centrifuge-for-pharma-500x500.png?alt=media&token=1963d8c1-9a43-4a67-93a8-327e9008f4c0"
+  ],
+  "automation": "",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "availability": "",
+  "size": "",
+  "subCategory": "Digital centrifuge machine",
+  "instrument": "",
+  "parameters": "",
+  "categoryProductId": "DCM-9",
+  "capacity": "",
+  "brand": "",
+  "model": "",
+  "title": "Machine With Swing Out Rotor (8x15mL, 4000rpm, 2270g)",
+  "slug": "machine-with-swing-out-rotor-8x15ml-4000rpm-2270g",
+  "price": "₹ 30,800",
+  "uid": "pathology-lab-equipments-digital-centrifuge-machine-8"
+}

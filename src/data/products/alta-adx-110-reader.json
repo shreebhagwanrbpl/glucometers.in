@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "capacity": "",
+  "brand": "",
+  "slug": "alta-adx-110-reader",
+  "automation": "",
+  "availability": "",
+  "price": "₹ 1,20,000",
+  "pdf": "",
+  "isPublished": true,
+  "title": "Alta ADX-110  Reader",
+  "model": "",
+  "size": "",
+  "category": "Pathology Lab Equipments",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20reader%2Falta-adx-110-elisa-reader-500x500.jpg?alt=media&token=ad3046c8-2ea0-4895-99cd-c8d0f6187b7c"
+  ],
+  "parameters": "",
+  "id": "e224cc61-9c5d-42c7-bb25-6cb3816cb524",
+  "desc": "",
+  "createdAt": "2026-08-07T06:58:48.421Z",
+  "categoryProductId": "ER-2",
+  "subCategory": "Elisa reader",
+  "instrument": "",
+  "uid": "pathology-lab-equipments-elisa-reader-1"
+}

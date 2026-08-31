@@ -1,0 +1,28 @@
+{
+  "category": "Ivds category",
+  "size": "",
+  "availability": "",
+  "pdf": "",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "isPublished": true,
+  "desc": "",
+  "price": "",
+  "capacity": "",
+  "slug": "erba-h360-hematology-analyzer",
+  "title": "Erba H360 Hematology Analyzer",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Ferba-em360-500x500.png?alt=media&token=37a805fd-9cad-4b9d-8d8e-179f2fa13ad7"
+  ],
+  "createdAt": "2026-08-07T06:55:54.014Z",
+  "brand": "",
+  "categoryProductId": "HA-12",
+  "throughput": "",
+  "id": "20987127-aae8-4667-b8ab-f0d9343cb3cb",
+  "automation": "",
+  "subCategory": "Hematology analyzers",
+  "uid": "ivds-category-hematology-analyzers-11"
+}

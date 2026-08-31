@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "price": "",
+  "isPublished": true,
+  "id": "bede6d69-7155-4a2b-93df-8f961acab18c",
+  "size": "",
+  "parameters": "",
+  "availability": "",
+  "title": "Bio-Rad Model 16K Microcentrifuge",
+  "model": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fbio-rad-model-16k-microcentrifuge-500x500.jpg?alt=media&token=cbdcec8f-1ba8-4776-9f94-6b32b5bcaef2"
+  ],
+  "brand": "",
+  "capacity": "",
+  "categoryProductId": "M-91",
+  "desc": "",
+  "subCategory": "Microcentrifuge",
+  "createdAt": "2026-08-07T06:56:27.744Z",
+  "usage": "",
+  "video": "",
+  "slug": "bio-rad-model-16k-microcentrifuge",
+  "automation": "",
+  "throughput": "",
+  "category": "Laboratory Centrifuge",
+  "uid": "laboratory-centrifuge-microcentrifuge-90"
+}

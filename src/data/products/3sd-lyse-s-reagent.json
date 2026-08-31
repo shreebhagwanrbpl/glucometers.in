@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "category": "Clinical Reagents",
+  "title": "3SD Lyse S Reagent",
+  "model": "",
+  "createdAt": "2026-08-07T06:54:51.353Z",
+  "id": "fc85d73f-2830-4fcb-879a-644da5d4c349",
+  "automation": "",
+  "pdf": "",
+  "price": "₹ 800",
+  "isPublished": true,
+  "availability": "",
+  "slug": "3sd-lyse-s-reagent",
+  "brand": "5",
+  "categoryProductId": "HR-45",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FHematology%20reagents%2Fimage-500x500.jpeg?alt=media&token=25193971-1dac-432f-aa1d-85e9375b90a9"
+  ],
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "size": "",
+  "subCategory": "Hematology reagents",
+  "instrument": "",
+  "uid": "clinical-reagents-hematology-reagents-44"
+}

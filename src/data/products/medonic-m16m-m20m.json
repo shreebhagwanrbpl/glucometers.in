@@ -1,0 +1,28 @@
+{
+  "title": "Medonic M16M M20M",
+  "model": "",
+  "createdAt": "2026-08-07T06:58:18.524Z",
+  "price": "",
+  "parameters": "",
+  "slug": "medonic-m16m-m20m",
+  "capacity": "",
+  "instrument": "",
+  "isPublished": true,
+  "availability": "",
+  "brand": "",
+  "id": "1e5b1f86-90c0-4ae5-845e-3ee11d1fd198",
+  "throughput": "",
+  "desc": "",
+  "automation": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "categoryProductId": "MCC-49",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FMedonic%20Cell%20Counter%2Fmedonic-m16m-m20m-500x500.png?alt=media&token=65f141bd-6bad-4699-be6d-84c169e6a727"
+  ],
+  "subCategory": "Medonic Cell Counter",
+  "category": "Other Categories",
+  "uid": "other-categories-medonic-cell-counter-48"
+}

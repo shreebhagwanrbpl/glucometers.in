@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "size": "",
+  "category": "Rapid Test Kit",
+  "createdAt": "2026-08-07T06:59:36.071Z",
+  "instrument": "",
+  "categoryProductId": "CTK-35",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "subCategory": "Corona Test Kit",
+  "availability": "",
+  "id": "7f744524-02ec-454f-8be3-d2cfff437b0f",
+  "capacity": "",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FCorona%20Test%20Kit%2Fcorona-testing-kits-500x500.jpg?alt=media&token=34498d70-4b4a-43fd-8f7e-73f0e9591782"
+  ],
+  "slug": "covid-test-kit",
+  "price": "₹ 200",
+  "isPublished": true,
+  "pdf": "",
+  "throughput": "",
+  "title": "Covid Test Kit",
+  "model": "",
+  "automation": "",
+  "uid": "rapid-test-kit-corona-test-kit-34"
+}

@@ -1,0 +1,28 @@
+{
+  "subCategory": "Medonic Cell Counter",
+  "createdAt": "2026-08-07T06:58:18.525Z",
+  "model": "",
+  "title": "Medonic M-16",
+  "categoryProductId": "MCC-69",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FMedonic%20Cell%20Counter%2Fmedonic-m-16-500x500.jpg?alt=media&token=c5a51676-6f84-4288-8725-74234b3f4bcb"
+  ],
+  "capacity": "",
+  "id": "68f40eaa-b1e6-42d5-881a-62449738e005",
+  "slug": "medonic-m-16",
+  "instrument": "",
+  "pdf": "",
+  "availability": "",
+  "brand": "",
+  "parameters": "",
+  "desc": "",
+  "category": "Other Categories",
+  "automation": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "size": "",
+  "uid": "other-categories-medonic-cell-counter-68"
+}

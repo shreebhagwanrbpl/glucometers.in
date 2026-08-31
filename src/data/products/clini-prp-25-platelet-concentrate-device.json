@@ -1,0 +1,28 @@
+{
+  "category": "Blood Collection Tubes",
+  "parameters": "",
+  "title": "Clini PRP 25 platelet concentrate device",
+  "model": "",
+  "instrument": "",
+  "price": "",
+  "isPublished": true,
+  "availability": "",
+  "brand": "",
+  "slug": "clini-prp-25-platelet-concentrate-device",
+  "id": "1949f9ec-a188-45cb-976c-a0f369e17a62",
+  "createdAt": "2026-08-07T06:54:11.636Z",
+  "categoryProductId": "PK-3",
+  "pdf": "",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "size": "",
+  "subCategory": "PRP Kit",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FPRP%20Kit%2Fclini-prp-25-platelet-concentrate-device-500x500.jpeg?alt=media&token=66ff6b41-3ab2-4e20-9782-c64a5fd251ee"
+  ],
+  "automation": "",
+  "uid": "blood-collection-tubes-prp-kit-2"
+}

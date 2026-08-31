@@ -1,0 +1,28 @@
+{
+  "usage": "Emergency Departments (ED) Intensive Care Units (ICU) Critical Care Units (CCU) Operation Theatres (OT) Cardiac Care Units (CCU)",
+  "video": "",
+  "instrument": "Abbott i-STAT 1 Handheld Blood Analyser",
+  "slug": "abbott-portable-blood-analyzer",
+  "category": "Abbott",
+  "availability": "In Stock",
+  "parameters": "Up to 30+ parameters (The i-STAT 1 is a cartridge-based analyzer, so the available parameters depend on the specific test cartridge being used (e.g., CG4+, CHEM8+, EC8+, G3+, PT/INR, ACT, BNP, cTnI).",
+  "pdf": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:52:57.648Z",
+  "id": "f1742fef-5ff4-4c05-a040-a62dd67cbc3c",
+  "price": "350000",
+  "capacity": "1 sample at a time",
+  "categoryProductId": "ABA-3",
+  "size": "23.5 × 7.6 × 7.2 cm (235 × 76 × 72 mm) Weight Approximately 650 g",
+  "title": "Abbott Portable Blood Analyzer",
+  "model": "Abbott i-STAT 1 ",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Blood%20Analyzer%2F-500x500.jpeg?alt=media&token=8b4461d6-4fe5-46af-a660-ea330fc3e292"
+  ],
+  "subCategory": "Abbott Blood Analyzer",
+  "brand": "Abbott",
+  "desc": "Abbott i-STAT 1 Handheld Blood Analyser",
+  "automation": "Fully ",
+  "throughput": "Approximately 2 minutes",
+  "uid": "abbott-abbott-blood-analyzer-1"
+}

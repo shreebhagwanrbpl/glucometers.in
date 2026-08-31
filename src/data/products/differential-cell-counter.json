@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "MBCCD-78",
+  "instrument": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:55:41.228Z",
+  "parameters": "",
+  "category": "Hematology analyzers",
+  "model": "",
+  "title": "DIFFERENTIAL CELL COUNTER",
+  "isPublished": true,
+  "slug": "differential-cell-counter",
+  "price": "",
+  "pdf": "",
+  "desc": "",
+  "availability": "",
+  "subCategory": "Manual Blood Cell Counting Device",
+  "size": "",
+  "images": [
+    "https://utils.imimg.com/imsrchui/imgs/noimage(125X125).svg"
+  ],
+  "automation": "",
+  "id": "3b1c3f20-73a3-48d7-8c90-03bd4da1e9dd",
+  "throughput": "",
+  "capacity": "",
+  "usage": "",
+  "video": "",
+  "uid": "hematology-analyzers-manual-blood-cell-counting-device-77"
+}

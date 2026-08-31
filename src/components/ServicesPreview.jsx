@@ -15,28 +15,28 @@ export default function ServicesPreview() {
   const services = [
     {
       icon: <Microscope size={30} />,
-      title: "Diagnostic Equipment",
+      title: "Glucometer Supply",
       description:
-        "Advanced diagnostic systems designed for accurate and efficient healthcare testing.",
+        "Providing automatic blood glucose monitors and digital meters for clinics and homes.",
     },
     {
       icon: <FlaskConical size={30} />,
-      title: "Laboratory Solutions",
+      title: "Diabetes Tracking Kits",
       description:
-        "Reliable laboratory instruments and biomedical support for modern medical environments.",
+        "Sourcing complete diabetes kits including lancing devices, journals, and storage bags.",
     },
     {
       icon: <ShieldCheck size={30} />,
-      title: "Maintenance Support",
+      title: "Calibration Sourcing",
       description:
-        "Professional technical support and maintenance for biomedical systems.",
+        "Prompt accuracy calibration guidance and vendor warranty checks for digital glucose meters.",
     },
     {
       icon: <Stethoscope size={30} />,
-      title: "Healthcare Consultation",
+      title: "Clinical Training",
       description:
-        "Expert guidance and consultation for healthcare and biomedical operations.",
-    },
+        "Setup tutorials and patient operation guidance to ensure proper home glucose tracking.",
+    }
   ];
 
   return (
@@ -51,9 +51,9 @@ export default function ServicesPreview() {
 
         {/* Title */}
         <SectionTitle
-          badge="Our Services"
-          title="Premium Diagnostic & Biomedical Services"
-          description="Providing advanced healthcare technologies, laboratory systems, and trusted biomedical solutions for modern diagnostics."
+          badge="Glucose Support Services"
+          title="Customized GLUCOMETERS Technical Services"
+          description="Sourcing customized diagnostics equipment solutions and technical support designed around professional glucometers requirements."
           center
         />
 

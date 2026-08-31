@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:57:00.939Z",
+  "desc": "",
+  "category": "Laboratory thermometer",
+  "size": "",
+  "instrument": "",
+  "subCategory": "LCD Thermometer",
+  "parameters": "",
+  "id": "073651a1-496a-4e3d-968d-338d101cf0b4",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FLCD%20Thermometer%2Fdual-sensor-thermometer-500x500.jpg?alt=media&token=ba39cdf6-9181-4d56-8103-c37e31561eeb"
+  ],
+  "availability": "",
+  "automation": "",
+  "brand": "Contact Supplier",
+  "categoryProductId": "LT-15",
+  "throughput": "",
+  "model": "",
+  "title": "Dual Sensor Thermometer",
+  "capacity": "",
+  "slug": "dual-sensor-thermometer",
+  "price": "",
+  "isPublished": true,
+  "uid": "laboratory-thermometer-lcd-thermometer-14"
+}

@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:59:02.229Z",
+  "model": "",
+  "title": "Rbc Pipette",
+  "desc": "",
+  "price": "₹ 20",
+  "capacity": "0.05 mL",
+  "throughput": "",
+  "isPublished": true,
+  "id": "e2adabf7-97ba-48bc-bbad-ec412552b4a9",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FRBC%20Pipette%2Fproduct-jpeg-500x500.jpg?alt=media&token=f8952923-07b6-46c5-9eb8-8bb17a387ac2"
+  ],
+  "size": "",
+  "brand": "",
+  "parameters": "",
+  "category": "Pathology Lab Equipments",
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "pdf": "",
+  "slug": "rbc-pipette",
+  "subCategory": "RBC Pipette",
+  "availability": "",
+  "categoryProductId": "RP-10",
+  "uid": "pathology-lab-equipments-rbc-pipette-9"
+}

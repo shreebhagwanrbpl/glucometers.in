@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Semi Automatic Digital Haemoglobin Meter",
+  "instrument": "",
+  "categoryProductId": "HA-172",
+  "price": "",
+  "category": "Ivds category",
+  "parameters": "",
+  "slug": "semi-automatic-digital-haemoglobin-meter",
+  "subCategory": "Hematology analyzers",
+  "createdAt": "2026-08-07T06:55:54.020Z",
+  "brand": "",
+  "desc": "",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fequipmedy-sa-020-semi-automatic-biochemistry-analyzer-500x500.jpg?alt=media&token=da680797-6f85-4938-a2c2-a369453793d5"
+  ],
+  "id": "fdeaef44-5ef7-4c31-b8c7-818b5c787708",
+  "isPublished": true,
+  "automation": "",
+  "pdf": "",
+  "availability": "",
+  "size": "",
+  "throughput": "",
+  "uid": "ivds-category-hematology-analyzers-171"
+}

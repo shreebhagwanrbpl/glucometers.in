@@ -1,0 +1,28 @@
+{
+  "id": "d7a30c80-8e06-4ecb-89c9-d0f79ae905d4",
+  "price": "₹ 2,90,000",
+  "size": "",
+  "category": "Mindray",
+  "pdf": "",
+  "model": "",
+  "title": "Automatic Cell Counter",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Cell%20Counter%2Fcell-counter-500x500.jpg?alt=media&token=dfad8fca-54f2-4177-9498-4f8ca766c949"
+  ],
+  "subCategory": "Mindray Cell Counter",
+  "brand": "",
+  "throughput": "",
+  "categoryProductId": "MCC-297",
+  "automation": "",
+  "desc": "",
+  "createdAt": "2026-08-07T06:57:15.386Z",
+  "capacity": "",
+  "parameters": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "instrument": "",
+  "slug": "automatic-cell-counter",
+  "availability": "",
+  "uid": "mindray-mindray-cell-counter-296"
+}

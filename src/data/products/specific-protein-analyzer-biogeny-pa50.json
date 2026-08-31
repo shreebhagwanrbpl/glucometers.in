@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "capacity": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "size": "",
+  "availability": "",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "automation": "",
+  "category": "Protein Analyzer",
+  "categoryProductId": "CSPA-95",
+  "pdf": "",
+  "brand": "",
+  "throughput": "",
+  "id": "715088bf-a684-421c-8505-55e35047bb04",
+  "createdAt": "2026-08-07T06:59:25.387Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fv-chem-semi-auto-biochemistry-analyzer-500x500.jpg?alt=media&token=ca5f6e88-c2cb-4250-8184-3f0e18ec2d95"
+  ],
+  "model": "",
+  "title": "Specific Protein Analyzer Biogeny PA50",
+  "isPublished": true,
+  "slug": "specific-protein-analyzer-biogeny-pa50",
+  "price": "₹ 1,00,000",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-94"
+}

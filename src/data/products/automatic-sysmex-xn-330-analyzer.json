@@ -1,0 +1,28 @@
+{
+  "subCategory": "Sysmex Cell Counter",
+  "size": "",
+  "availability": "",
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "parameters": "",
+  "pdf": "",
+  "instrument": "",
+  "slug": "automatic-sysmex-xn-330-analyzer",
+  "brand": "",
+  "throughput": "",
+  "isPublished": true,
+  "id": "41e9a336-a849-46b7-974b-bf7a0e1e641e",
+  "automation": "",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fsysmex-xn-330-analyzer-500x500.jpg?alt=media&token=631b6fb1-6eb2-4b30-a204-c3ce90c56a8d"
+  ],
+  "model": "",
+  "title": "Automatic Sysmex XN 330 Analyzer",
+  "categoryProductId": "SCC-78",
+  "category": "Sysmex",
+  "createdAt": "2026-08-07T07:00:53.955Z",
+  "uid": "sysmex-sysmex-cell-counter-77"
+}

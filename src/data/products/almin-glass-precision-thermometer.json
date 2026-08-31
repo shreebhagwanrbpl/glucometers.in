@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "desc": "",
+  "id": "1aee4683-e59c-4d48-a0e1-84e8303a4b49",
+  "subCategory": "Precision Thermometer",
+  "pdf": "",
+  "parameters": "",
+  "capacity": "",
+  "size": "",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "category": "Laboratory thermometer",
+  "createdAt": "2026-08-07T06:57:06.380Z",
+  "brand": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FPrecision%20Thermometer%2Fglass-precision-thermometer-500x500.jpeg?alt=media&token=f179349c-5647-41cd-97da-9181e40d4a19"
+  ],
+  "categoryProductId": "PT-11",
+  "model": "",
+  "title": "Almin Glass Precision Thermometer",
+  "automation": "",
+  "slug": "almin-glass-precision-thermometer",
+  "throughput": "",
+  "price": "",
+  "uid": "laboratory-thermometer-precision-thermometer-10"
+}

@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:55:54.026Z",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "capacity": "",
+  "instrument": "",
+  "slug": "accusure-hb-hemoglobin-test-system",
+  "parameters": "",
+  "id": "0af7bd86-299f-4863-8f42-44c8d0b22b06",
+  "automation": "",
+  "model": "",
+  "title": "Accusure Hb Hemoglobin Test System",
+  "categoryProductId": "HA-317",
+  "desc": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fproduct-jpeg-500x500.jpg?alt=media&token=c20f0f2b-8312-4d93-be50-f40e5a0eb4b6"
+  ],
+  "subCategory": "Hematology analyzers",
+  "price": "",
+  "pdf": "",
+  "size": "",
+  "category": "Ivds category",
+  "brand": "",
+  "uid": "ivds-category-hematology-analyzers-316"
+}

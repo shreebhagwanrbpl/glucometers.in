@@ -1,0 +1,28 @@
+{
+  "id": "13bd9eed-ddb3-441f-9bd5-77b7a62fefcb",
+  "desc": "",
+  "pdf": "",
+  "brand": "",
+  "category": "Pathology Lab Equipments",
+  "parameters": "",
+  "size": "",
+  "model": "",
+  "title": "One Channel Coagulometer",
+  "instrument": "",
+  "subCategory": "Coagulometer",
+  "price": "",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:58:45.660Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FCoagulometer%2Fone-channel-coagulometer-500x500.png?alt=media&token=871adef1-0280-47ff-866b-29cfb2b25d5a"
+  ],
+  "automation": "",
+  "availability": "",
+  "slug": "one-channel-coagulometer",
+  "capacity": "",
+  "categoryProductId": "C-35",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "uid": "pathology-lab-equipments-coagulometer-34"
+}

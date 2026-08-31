@@ -1,0 +1,28 @@
+{
+  "category": "Sysmex",
+  "subCategory": "Sysmex Cell Counter",
+  "brand": "",
+  "parameters": "",
+  "model": "",
+  "title": "Cell Counter Sysmex XP 100",
+  "createdAt": "2026-08-07T07:00:53.959Z",
+  "instrument": "",
+  "slug": "cell-counter-sysmex-xp-100",
+  "price": "",
+  "isPublished": true,
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2F20201016-132631-jpg-500x500.jpg?alt=media&token=856f9d45-af37-401c-9230-5bd0ad64fb7f"
+  ],
+  "id": "ed12cac2-5a94-43b4-9e0e-c4c2eb518f9e",
+  "capacity": "",
+  "automation": "",
+  "desc": "",
+  "categoryProductId": "SCC-130",
+  "pdf": "",
+  "availability": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "uid": "sysmex-sysmex-cell-counter-129"
+}

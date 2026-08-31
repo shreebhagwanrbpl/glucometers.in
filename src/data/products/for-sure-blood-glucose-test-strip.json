@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "For Sure Blood Glucose test strip",
+  "capacity": "",
+  "desc": "",
+  "subCategory": "Test Strips",
+  "price": "₹ 900",
+  "availability": "",
+  "instrument": "",
+  "size": "",
+  "parameters": "",
+  "brand": "",
+  "createdAt": "2026-08-07T07:00:10.250Z",
+  "automation": "",
+  "category": "Rapid Test Kit",
+  "categoryProductId": "TS-20",
+  "id": "a6818b9e-f0d3-4ccc-b82a-d32988d69c2a",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FTest%20Strips%2Fproduct-jpeg-500x500.jpg?alt=media&token=037c1f60-74ca-42e7-93f3-719480f4af6b"
+  ],
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "slug": "for-sure-blood-glucose-test-strip",
+  "uid": "rapid-test-kit-test-strips-19"
+}

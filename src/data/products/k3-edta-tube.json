@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "throughput": "",
+  "capacity": "",
+  "slug": "k3-edta-tube",
+  "automation": "",
+  "price": "",
+  "availability": "",
+  "pdf": "",
+  "isPublished": true,
+  "model": "",
+  "title": "K3 Edta Tube",
+  "size": "",
+  "category": "Blood Collection Tubes",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "id": "e85fcb29-d34e-4e88-96fd-e901569812ed",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FEDTA%20Tube%2F2-500x500.jpeg?alt=media&token=7e4dd208-6c9b-4514-a8ee-5bff885de95c"
+  ],
+  "desc": "",
+  "createdAt": "2026-08-07T06:53:40.637Z",
+  "categoryProductId": "ET-11",
+  "subCategory": "EDTA Tube",
+  "instrument": "",
+  "uid": "blood-collection-tubes-edta-tube-10"
+}

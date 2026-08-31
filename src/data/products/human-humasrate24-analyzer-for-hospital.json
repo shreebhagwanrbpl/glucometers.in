@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "categoryProductId": "EA-17",
+  "id": "3b3ece92-30dc-44f6-b66c-306dc883eac5",
+  "title": "Human HumaSRate24  Analyzer, for Hospital",
+  "model": "",
+  "subCategory": "Esr analyzer",
+  "createdAt": "2026-08-07T06:55:31.360Z",
+  "size": "",
+  "desc": "",
+  "capacity": "",
+  "brand": "",
+  "parameters": "",
+  "availability": "",
+  "pdf": "",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "slug": "human-humasrate24-analyzer-for-hospital",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FEsr%20analyzer%2Fproduct-jpeg-500x500.png?alt=media&token=fc8b21fa-5670-4efe-bead-419a7252ff40"
+  ],
+  "automation": "",
+  "isPublished": true,
+  "category": "Hematology analyzers",
+  "uid": "hematology-analyzers-esr-analyzer-16"
+}

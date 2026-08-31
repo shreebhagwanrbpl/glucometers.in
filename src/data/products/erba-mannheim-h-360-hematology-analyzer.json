@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "brand": "",
+  "size": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Ferba-em360-500x500.png?alt=media&token=37a805fd-9cad-4b9d-8d8e-179f2fa13ad7"
+  ],
+  "parameters": "",
+  "availability": "",
+  "price": "",
+  "isPublished": true,
+  "category": "Ivds category",
+  "desc": "",
+  "title": "Erba Mannheim H 360 Hematology Analyzer",
+  "model": "",
+  "slug": "erba-mannheim-h-360-hematology-analyzer",
+  "id": "af993a67-77dd-4300-81aa-dcc255465bce",
+  "pdf": "",
+  "categoryProductId": "HA-151",
+  "subCategory": "Hematology analyzers",
+  "automation": "",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:55:54.019Z",
+  "throughput": "",
+  "uid": "ivds-category-hematology-analyzers-150"
+}

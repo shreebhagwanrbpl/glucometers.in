@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:58:09.015Z",
+  "title": "Elitech Selectra Pro M, Assays: Clinical Chemistry",
+  "model": "",
+  "desc": "",
+  "price": "₹ 3,00,000",
+  "automation": "",
+  "isPublished": true,
+  "id": "0faea0c8-e6ea-4ec4-a63b-d7f462b7c6e4",
+  "capacity": "",
+  "throughput": "",
+  "size": "",
+  "brand": "",
+  "instrument": "",
+  "availability": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "subCategory": "Elitech Biochemistry Analyzer",
+  "pdf": "",
+  "slug": "elitech-selectra-pro-m-assays-clinical-chemistry",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FElitech%20Biochemistry%20Analyzer%2Fproduct-jpeg-500x500.jpeg?alt=media&token=1c41a77f-f8ee-43f1-9048-5e94b230ca48"
+  ],
+  "categoryProductId": "EBA-4",
+  "category": "Other Categories",
+  "uid": "other-categories-elitech-biochemistry-analyzer-3"
+}

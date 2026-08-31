@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "size": "",
+  "pdf": "",
+  "capacity": "",
+  "instrument": "",
+  "availability": "",
+  "price": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FLaboratory%20Non%20Vacuum%20Blood%20Collection%20Tube%2Fsodium-citrate-250x250.jpg?alt=media&token=fe5372b3-c7cd-4c48-aa0f-751137cd0e6a"
+  ],
+  "categoryProductId": "LNVBCT-230",
+  "desc": "We manufacture Non Vaccum blood Collection Test Tubes by the name of AXIVAC. We work on OEM basis as well. The varieties we offer are EDTA K2, KDTA K3, BCA, Glucose and Sodium Citrate.",
+  "title": "Blood Collection Test Tube",
+  "model": "",
+  "createdAt": "2026-08-07T06:54:06.311Z",
+  "parameters": "",
+  "automation": "",
+  "slug": "blood-collection-test-tube",
+  "category": "Blood Collection Tubes",
+  "throughput": "",
+  "subCategory": "Laboratory Non Vacuum Blood Collection Tube",
+  "usage": "",
+  "video": "",
+  "id": "590cfdee-64c1-46c3-a3fc-096ea7e5777c",
+  "uid": "blood-collection-tubes-laboratory-non-vacuum-blood-collection-tube-229"
+}

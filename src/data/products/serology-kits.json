@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "desc": "",
+  "category": "Rapid Test Kit",
+  "pdf": "",
+  "parameters": "",
+  "size": "",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "id": "a2c0c4d7-32f0-4800-ae31-119698fe23b2",
+  "instrument": "",
+  "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FSerology%20Diagnostic%20Kit%2Fserology-kits-250x250.jpg?alt=media&token=751ee38e-68ec-426c-aab3-b718ecc5b810"
+  ],
+  "throughput": "",
+  "brand": "",
+  "createdAt": "2026-08-07T07:00:08.819Z",
+  "categoryProductId": "SDK-18",
+  "automation": "",
+  "title": "Serology Kits",
+  "model": "",
+  "slug": "serology-kits",
+  "price": "",
+  "subCategory": "Serology Diagnostic Kit",
+  "uid": "rapid-test-kit-serology-diagnostic-kit-17"
+}

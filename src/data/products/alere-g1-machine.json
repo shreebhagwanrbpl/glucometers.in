@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:57:46.979Z",
+  "model": "",
+  "title": "Alere G1 Machine",
+  "capacity": "",
+  "subCategory": "Alere Test Strips",
+  "price": "",
+  "desc": "",
+  "size": "",
+  "automation": "",
+  "id": "77c2b26f-8a0b-4585-a7e2-daa78bd6b1b1",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAlere%20Test%20Strips%2Falereg1machine-500x500.png?alt=media&token=83713ffb-c232-4faa-8911-7b2c5631d06e"
+  ],
+  "throughput": "",
+  "pdf": "",
+  "instrument": "",
+  "categoryProductId": "ATS-47",
+  "parameters": "",
+  "isPublished": true,
+  "category": "Other Categories",
+  "video": "",
+  "usage": "",
+  "availability": "",
+  "slug": "alere-g1-machine",
+  "uid": "other-categories-alere-test-strips-46"
+}

@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "desc": "",
+  "brand": "",
+  "model": "",
+  "title": "Automatic Merilyzer GluQuant A1c HPLC",
+  "isPublished": true,
+  "automation": "",
+  "price": "",
+  "size": "",
+  "createdAt": "2026-08-07T06:55:54.028Z",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fbeaconic-b400-fully-automatic-clinical-chemistry-analyzer-500x500.jpg?alt=media&token=78312252-d14f-41f6-a1fb-32012f9de8e8"
+  ],
+  "instrument": "",
+  "category": "Ivds category",
+  "categoryProductId": "HA-358",
+  "id": "ebc68ddb-9091-4860-9633-145915b37fc0",
+  "parameters": "",
+  "slug": "automatic-merilyzer-gluquant-a1c-hplc",
+  "subCategory": "Hematology analyzers",
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "uid": "ivds-category-hematology-analyzers-357"
+}

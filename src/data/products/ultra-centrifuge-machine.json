@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "desc": "",
+  "size": "",
+  "isPublished": true,
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FUltracentrifuge%2Fultracentrifuge-machine-500x500.webp?alt=media&token=8d84fe43-5d33-457b-b0ea-e54c5ade0df7"
+  ],
+  "availability": "",
+  "model": "",
+  "title": "Ultra centrifuge Machine",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:56:45.429Z",
+  "category": "Laboratory Centrifuge",
+  "id": "e66bb406-b300-418c-94db-3f2afd56bb3a",
+  "price": "",
+  "pdf": "",
+  "throughput": "",
+  "automation": "",
+  "capacity": "",
+  "subCategory": "Ultracentrifuge",
+  "slug": "ultra-centrifuge-machine",
+  "usage": "",
+  "video": "",
+  "categoryProductId": "U-6",
+  "uid": "laboratory-centrifuge-ultracentrifuge-5"
+}

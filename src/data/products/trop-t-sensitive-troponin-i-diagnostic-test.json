@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "throughput": "",
+  "subCategory": "Diagnostic test",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "slug": "trop-t-sensitive-troponin-i-diagnostic-test",
+  "id": "f6d952d1-4c92-44ae-88ef-0317d289b0ec",
+  "model": "",
+  "title": "Trop T Sensitive Troponin I Diagnostic Test",
+  "createdAt": "2026-08-07T06:59:41.452Z",
+  "desc": "",
+  "categoryProductId": "DT-27",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FDiagnostic%20test%2Fproduct-jpeg-500x500.jpg?alt=media&token=c094434f-b0dc-4ecd-bc47-a1227236cef2"
+  ],
+  "price": "₹ 1,600",
+  "category": "Rapid Test Kit",
+  "availability": "",
+  "isPublished": true,
+  "pdf": "",
+  "parameters": "",
+  "size": "",
+  "brand": "",
+  "instrument": "",
+  "uid": "rapid-test-kit-diagnostic-test-26"
+}

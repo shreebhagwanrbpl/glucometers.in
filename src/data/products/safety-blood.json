@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "slug": "safety-blood",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "automation": "",
+  "category": "Blood bank equipments",
+  "pdf": "",
+  "parameters": "",
+  "id": "66c3f145-d617-4d80-9eb5-8531776c3a0a",
+  "subCategory": "Safety lancet",
+  "createdAt": "2026-08-07T06:53:23.321Z",
+  "brand": "",
+  "instrument": "",
+  "size": "",
+  "categoryProductId": "SL-11",
+  "price": "",
+  "availability": "",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FSafety%20lancet%2Fsafety-blood-lancet-500x500.jpeg?alt=media&token=e7757b82-98ec-485b-81c8-ac47748ef624"
+  ],
+  "capacity": "",
+  "model": "",
+  "title": "Safety Blood",
+  "uid": "blood-bank-equipments-safety-lancet-10"
+}

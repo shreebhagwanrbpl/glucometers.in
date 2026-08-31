@@ -1,0 +1,28 @@
+{
+  "pdf": "",
+  "categoryProductId": "CTSTS-22",
+  "availability": "",
+  "desc": "",
+  "size": "",
+  "automation": "",
+  "capacity": "",
+  "createdAt": "2026-08-07T06:57:55.199Z",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "isPublished": true,
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FContour%20Ts%20Sugar%20Test%20Strips%2Fcontour-strips-50s-500x500.jpg?alt=media&token=3537d791-4c34-45dd-8f7b-37652bdcaebb"
+  ],
+  "parameters": "",
+  "brand": "",
+  "category": "Other Categories",
+  "title": "Contour Strips 50s",
+  "model": "",
+  "subCategory": "Contour Ts Sugar Test Strips",
+  "id": "9518e715-a9b6-4301-9356-dc5d0413ff1d",
+  "slug": "contour-strips-50s",
+  "price": "₹ 100",
+  "uid": "other-categories-contour-ts-sugar-test-strips-21"
+}

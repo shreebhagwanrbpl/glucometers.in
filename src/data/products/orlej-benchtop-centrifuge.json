@@ -1,0 +1,28 @@
+{
+  "title": "ORLEJ Benchtop Centrifuge",
+  "model": "",
+  "isPublished": true,
+  "desc": "",
+  "price": "₹ 10,000",
+  "id": "fef6b702-abd7-44dd-b346-910bf8d82176",
+  "automation": "",
+  "size": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:59:06.750Z",
+  "throughput": "",
+  "category": "Pathology Lab Equipments",
+  "subCategory": "Table Top Centrifuge",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "availability": "",
+  "parameters": "",
+  "pdf": "",
+  "capacity": "",
+  "slug": "orlej-benchtop-centrifuge",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2Funtitled-500x500.png?alt=media&token=ad4140d3-562c-485c-83e5-91a2854d0dc3"
+  ],
+  "categoryProductId": "TTC-20",
+  "uid": "pathology-lab-equipments-table-top-centrifuge-19"
+}

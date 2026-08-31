@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "AGAPPE Mispa Clog Coagulometer",
+  "id": "612d7ee5-f53e-4b99-b2a7-dd90da2600b5",
+  "desc": "",
+  "price": "₹ 85,000",
+  "subCategory": "Coagulometer",
+  "category": "Pathology Lab Equipments",
+  "instrument": "",
+  "size": "",
+  "availability": "",
+  "parameters": "",
+  "brand": "Agappe",
+  "automation": "",
+  "throughput": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FCoagulometer%2Fagappe-mispa-clog-coagulometer-500x500.png?alt=media&token=d1a7a9b8-0dd8-434a-b2f4-0980d1acbfde"
+  ],
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "categoryProductId": "C-13",
+  "createdAt": "2026-08-07T06:58:45.658Z",
+  "slug": "agappe-mispa-clog-coagulometer",
+  "capacity": "",
+  "uid": "pathology-lab-equipments-coagulometer-12"
+}

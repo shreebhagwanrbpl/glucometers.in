@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "brand": "",
+  "size": "",
+  "categoryProductId": "M-54",
+  "pdf": "",
+  "id": "b67bc45a-a98a-446d-94d1-c307e9de6dbf",
+  "createdAt": "2026-08-07T06:56:27.743Z",
+  "automation": "",
+  "isPublished": true,
+  "price": "",
+  "throughput": "",
+  "capacity": "",
+  "desc": "",
+  "model": "",
+  "title": "Manual Beckman Coulter Microfuge 20R Benchtop Microcentrifuge",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fbeckman-coulter-microfuge-20r-benchtop-microcentrifuge-500x500.jpg?alt=media&token=712ac5b9-8c45-4de1-ad81-34f0b44c93b7"
+  ],
+  "slug": "manual-beckman-coulter-microfuge-20r-benchtop-microcentrifuge",
+  "parameters": "",
+  "category": "Laboratory Centrifuge",
+  "subCategory": "Microcentrifuge",
+  "usage": "",
+  "video": "",
+  "uid": "laboratory-centrifuge-microcentrifuge-53"
+}

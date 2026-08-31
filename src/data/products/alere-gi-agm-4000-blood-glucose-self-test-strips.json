@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "desc": "",
+  "instrument": "",
+  "parameters": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:57:46.978Z",
+  "size": "",
+  "usage": "",
+  "video": "",
+  "id": "bcaa51f6-009e-492e-9ad3-08c25ea4bbcf",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAlere%20Test%20Strips%2Falere-gi-agm-4000-blood-glucose-self-test-500x500.jpg?alt=media&token=8b3ba64d-fbfd-4d7e-a8b0-819fbb1bcf11"
+  ],
+  "categoryProductId": "ATS-18",
+  "category": "Other Categories",
+  "brand": "Alere GI",
+  "pdf": "",
+  "model": "",
+  "title": "Alere GI AGM 4000 Blood Glucose Self Test Strips",
+  "availability": "",
+  "subCategory": "Alere Test Strips",
+  "slug": "alere-gi-agm-4000-blood-glucose-self-test-strips",
+  "automation": "",
+  "price": "₹ 610",
+  "throughput": "",
+  "uid": "other-categories-alere-test-strips-17"
+}

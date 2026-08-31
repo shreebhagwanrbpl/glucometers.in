@@ -1,0 +1,28 @@
+{
+  "price": "₹ 800",
+  "slug": "accu-chek-active-test-strips-50-strips-per-box",
+  "instrument": "",
+  "isPublished": true,
+  "category": "Other Categories",
+  "title": "Accu-Chek Active Test Strips (50 Strips Per Box)",
+  "model": "Active",
+  "parameters": "",
+  "brand": "",
+  "categoryProductId": "ASTS-45",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FAccu-Chek%20Sugar%20Test%20Strips%2Faccu-chek-active-test-strips-500x500.jpg?alt=media&token=864208ae-ecdb-481c-a9f5-e23053152c2d"
+  ],
+  "subCategory": "Accu-Chek Sugar Test Strips",
+  "usage": "Hospital",
+  "video": "",
+  "availability": "",
+  "size": "",
+  "capacity": "",
+  "pdf": "",
+  "desc": "",
+  "automation": "",
+  "id": "95d46bea-cefe-4e5c-8ec1-75a4374dc26d",
+  "createdAt": "2026-08-07T06:57:34.428Z",
+  "throughput": "",
+  "uid": "other-categories-accu-chek-sugar-test-strips-44"
+}

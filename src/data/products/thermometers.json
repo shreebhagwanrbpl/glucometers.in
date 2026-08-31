@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FLaboratory%20thermometer%2Fthermometers-laboratory-and-precision-500x500.jpg?alt=media&token=b3171c9b-7134-4ddf-9e96-79ab5e38cd78"
+  ],
+  "instrument": "",
+  "size": "",
+  "parameters": "",
+  "category": "Laboratory thermometer",
+  "subCategory": "Laboratory thermometer",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "id": "3c8b5cbd-383d-44e8-aef2-d2551a4fac4d",
+  "slug": "thermometers",
+  "brand": "",
+  "createdAt": "2026-08-07T06:56:59.628Z",
+  "categoryProductId": "LT-18",
+  "price": "",
+  "automation": "",
+  "isPublished": true,
+  "capacity": "",
+  "model": "",
+  "title": "Thermometers",
+  "throughput": "",
+  "availability": "",
+  "uid": "laboratory-thermometer-laboratory-thermometer-17"
+}

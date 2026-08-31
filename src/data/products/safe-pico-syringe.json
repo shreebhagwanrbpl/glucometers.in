@@ -1,0 +1,28 @@
+{
+  "category": "Syringe",
+  "isPublished": true,
+  "pdf": "",
+  "availability": "",
+  "slug": "safe-pico-syringe",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "instrument": "",
+  "brand": "",
+  "size": "",
+  "subCategory": "Gas Syringe",
+  "throughput": "",
+  "images": [
+    "https://utils.imimg.com/imsrchui/imgs/noimage(125X125).svg"
+  ],
+  "capacity": "",
+  "automation": "",
+  "categoryProductId": "GS-45",
+  "createdAt": "2026-08-07T07:00:22.567Z",
+  "price": "",
+  "id": "92a8b133-c120-48c2-bc01-358fdd1ec0df",
+  "title": "Safe PICO Syringe",
+  "model": "",
+  "desc": "",
+  "uid": "syringe-gas-syringe-44"
+}

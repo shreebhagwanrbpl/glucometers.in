@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "CDK-21",
+  "title": "Cancer Test Kit",
+  "model": "",
+  "instrument": "",
+  "desc": "",
+  "category": "Rapid Test Kit",
+  "subCategory": "Cancer Detection Kit",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FCancer%20Detection%20Kit%2F16880177574803254530907311353189-500x500.jpg?alt=media&token=3d90e235-0fcd-4e71-a72e-b61ffe16c0c5"
+  ],
+  "price": "",
+  "pdf": "",
+  "size": "",
+  "brand": "",
+  "id": "3859863e-5247-45b2-9449-f3b3a173fb41",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "automation": "",
+  "createdAt": "2026-08-07T06:59:31.535Z",
+  "slug": "cancer-test-kit",
+  "throughput": "",
+  "availability": "",
+  "uid": "rapid-test-kit-cancer-detection-kit-20"
+}

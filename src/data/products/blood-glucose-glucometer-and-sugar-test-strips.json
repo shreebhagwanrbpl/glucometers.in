@@ -1,0 +1,28 @@
+{
+  "price": "₹ 500",
+  "isPublished": true,
+  "parameters": "",
+  "id": "66a3e943-0c0d-4c56-8214-082cc62aad4b",
+  "title": "Blood Glucose Glucometer and Sugar Test Strips",
+  "model": "",
+  "category": "Rapid Test Kit",
+  "instrument": "",
+  "size": "",
+  "desc": "",
+  "categoryProductId": "TS-18",
+  "brand": "",
+  "pdf": "",
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "capacity": "",
+  "slug": "blood-glucose-glucometer-and-sugar-test-strips",
+  "subCategory": "Test Strips",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FTest%20Strips%2Fglucometer-and-sugar-test-strips-500x500.jpeg?alt=media&token=7c004787-9a4e-4751-bff6-0a8b3d096a88"
+  ],
+  "throughput": "",
+  "createdAt": "2026-08-07T07:00:10.250Z",
+  "automation": "",
+  "uid": "rapid-test-kit-test-strips-17"
+}

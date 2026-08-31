@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "capacity": "",
+  "instrument": "",
+  "subCategory": "PRP Tubes",
+  "video": "",
+  "usage": "",
+  "slug": "vprp-acd--gel--hyaluronic-tube",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:54:19.547Z",
+  "categoryProductId": "PT-19",
+  "category": "Blood Collection Tubes",
+  "title": "VPRP (ACD + Gel + Hyaluronic tube)",
+  "model": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FPRP%20Tubes%2Fvprp-acd-gel-hyaluronic-tube-500x500.jpeg?alt=media&token=c827c0a0-9a18-4eb4-8f6b-c1ff79cb579d"
+  ],
+  "desc": "",
+  "price": "",
+  "size": "",
+  "throughput": "",
+  "automation": "",
+  "brand": "",
+  "availability": "",
+  "id": "536322d3-efe1-439a-963c-18bab472602f",
+  "uid": "blood-collection-tubes-prp-tubes-18"
+}

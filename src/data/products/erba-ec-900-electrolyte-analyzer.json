@@ -1,0 +1,28 @@
+{
+  "price": "₹ 60,000",
+  "parameters": "",
+  "availability": "",
+  "categoryProductId": "EEA-35",
+  "createdAt": "2026-08-07T06:55:17.960Z",
+  "title": "ERBA EC 900, Electrolyte Analyzer",
+  "model": "",
+  "instrument": "",
+  "size": "",
+  "desc": "",
+  "capacity": "",
+  "brand": "Tikson Medical Private Limited",
+  "isPublished": true,
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "slug": "erba-ec-900-electrolyte-analyzer",
+  "id": "85b0741a-b291-48e2-8448-ea1019596eaf",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Erba%20Biochemistry%20Analyzer%2FErba%20Electrolyte%20Analyzer%2Ferba-ec-900-500x500.jpg?alt=media&token=d7d5114c-eff7-44dc-9bc3-94001082709a"
+  ],
+  "throughput": "",
+  "category": "Erba Biochemistry Analyzer",
+  "automation": "",
+  "subCategory": "Erba Electrolyte Analyzer",
+  "uid": "erba-biochemistry-analyzer-erba-electrolyte-analyzer-34"
+}

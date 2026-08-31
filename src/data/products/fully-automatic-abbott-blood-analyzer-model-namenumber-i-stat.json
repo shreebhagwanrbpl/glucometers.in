@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:52:57.654Z",
+  "isPublished": true,
+  "throughput": "",
+  "category": "Abbott",
+  "categoryProductId": "ABA-49",
+  "automation": "",
+  "brand": "ABBOTT",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Abbott%2FAbbott%20Blood%20Analyzer%2Fabbort-i-stat-handheld-blood-analyzer-570x570-png-500x500.png?alt=media&token=98bd6400-a804-407b-9816-03c545d2b82a"
+  ],
+  "title": "Fully Automatic Abbott Blood Analyzer, Model Name/Number: I-stat",
+  "model": "I-STAT",
+  "availability": "",
+  "slug": "fully-automatic-abbott-blood-analyzer-model-namenumber-i-stat",
+  "id": "6bf2de9b-01d6-467a-9f6c-d3112d796fcf",
+  "price": "₹ 2,80,000",
+  "subCategory": "Abbott Blood Analyzer",
+  "desc": "",
+  "capacity": "",
+  "pdf": "",
+  "parameters": "",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "instrument": "Blood Gas Analyzer",
+  "uid": "abbott-abbott-blood-analyzer-46"
+}

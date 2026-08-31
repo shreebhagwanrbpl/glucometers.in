@@ -1,0 +1,28 @@
+{
+  "throughput": "",
+  "model": "",
+  "title": "Dimetra Dengue Test",
+  "automation": "",
+  "price": "₹ 18,000",
+  "brand": "",
+  "isPublished": true,
+  "slug": "dimetra-dengue-test",
+  "id": "7bf51064-d57a-41f2-a8da-64867b3a3de2",
+  "capacity": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:59:39.513Z",
+  "availability": "",
+  "desc": "",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "parameters": "",
+  "categoryProductId": "DTK-43",
+  "category": "Rapid Test Kit",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FDengue%20test%20kit%2Fdengue-test-kit-500x500.jpg?alt=media&token=0631d2b2-82c2-4410-8365-187400c0b389"
+  ],
+  "subCategory": "Dengue test kit",
+  "instrument": "",
+  "uid": "rapid-test-kit-dengue-test-kit-42"
+}

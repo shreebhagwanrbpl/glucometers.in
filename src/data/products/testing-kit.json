@@ -1,0 +1,28 @@
+{
+  "brand": "",
+  "automation": "",
+  "size": "",
+  "subCategory": "Elisa kits",
+  "capacity": "",
+  "throughput": "",
+  "pdf": "",
+  "price": "₹ 3,800",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FElisa%20kits%2Felisa-testing-kit-500x500.jpg?alt=media&token=8ff45f6b-083d-45ab-82fd-09fe2809b040"
+  ],
+  "title": "Testing Kit",
+  "model": "",
+  "createdAt": "2026-08-07T06:59:43.400Z",
+  "slug": "testing-kit",
+  "category": "Rapid Test Kit",
+  "isPublished": true,
+  "availability": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "EK-4",
+  "instrument": "",
+  "parameters": "",
+  "id": "62b57199-d636-42e4-a13a-052208402ce4",
+  "uid": "rapid-test-kit-elisa-kits-3"
+}

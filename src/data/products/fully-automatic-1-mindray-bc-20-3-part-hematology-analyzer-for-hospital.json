@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "brand": "",
+  "parameters": "",
+  "availability": "",
+  "instrument": "",
+  "isPublished": true,
+  "price": "",
+  "id": "a05ea3ae-6772-4c6e-8078-8cbefe17225c",
+  "categoryProductId": "MCC-240",
+  "createdAt": "2026-08-07T06:57:15.384Z",
+  "desc": "",
+  "capacity": "",
+  "model": "",
+  "title": "Fully Automatic 1 Mindray BC-20 3 Part Hematology Analyzer, For Hospital",
+  "pdf": "",
+  "slug": "fully-automatic-1-mindray-bc-20-3-part-hematology-analyzer-for-hospital",
+  "category": "Mindray",
+  "subCategory": "Mindray Cell Counter",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Mindray%2FMindray%20Cell%20Counter%2Fmindray-bc-20-3-part-hematology-analyzer-500x500.jpg?alt=media&token=d74cf0ef-b8f0-4487-bdb1-330a8f1ee2b2"
+  ],
+  "automation": "",
+  "uid": "mindray-mindray-cell-counter-239"
+}

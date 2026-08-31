@@ -1,17 +1,32 @@
 import ProductDetails from "./ProductDetails";
+import { fetchProductBySlug } from "@/lib/data-fetcher-server";
+
+const makeSlug = (text = "") =>
+    text
+        .toLowerCase()
+        .trim()
+        .replace(/[^a-z0-9\s-]/g, "")
+        .replace(/\s+/g, "-");
+
+export const revalidate = 3600;
 
 export async function generateMetadata({ params }) {
     const { slug } = await params;
 
-    const productName = slug
+    const product = await fetchProductBySlug(slug);
+
+    const productName = product?.title || slug
         ?.replace(/-/g, " ")
         ?.replace(/\b\w/g, (c) => c.toUpperCase());
 
-    const title = `${productName} Supplier in India | Price, Dealer & Distributor | Central Biomedicals`;
+    const title = `${productName} Supplier in India | Price & Details | Raj Biosis`;
 
-    const description = `Buy ${productName} at best price in India. Trusted supplier, dealer and distributor of ${productName} for hospitals, laboratories, diagnostic centers, research institutes and healthcare facilities. Contact Central Biomedicals for latest quotation and product details.`;
+    const description = product
+        ? (product.desc || product.description || `Buy ${productName} at best price in India. Trusted supplier, dealer and distributor of ${productName} for hospitals, laboratories and diagnostic centers.`)
+        : `Buy ${productName} at best price in India. Trusted supplier, dealer and distributor of ${productName} for hospitals, laboratories and diagnostic centers.`;
 
-    const url = `https://centralbiomedicals.com/items/${slug}`;
+    const url = `https://glucometers.in/items/${slug}`;
+    const imageUrl = product?.images?.[0] || product?.image;
 
     return {
         title,
@@ -19,27 +34,14 @@ export async function generateMetadata({ params }) {
 
         keywords: [
             productName,
+            ...(product?.brand ? [`${productName} ${product.brand}`, product.brand] : []),
+            ...(product?.model ? [`${productName} ${product.model}`, product.model] : []),
+            ...(product?.category ? [product.category] : []),
             `${productName} Supplier`,
             `${productName} Dealer`,
-            `${productName} Distributor`,
-            `${productName} Manufacturer`,
-            `${productName} Exporter`,
             `${productName} Price`,
-            `${productName} Price in India`,
-            `${productName} Supplier in India`,
-            `${productName} Dealer in India`,
-            `${productName} Distributor in India`,
-            `Buy ${productName}`,
-            `${productName} for Laboratory`,
-            `${productName} for Hospital`,
-            `${productName} for Diagnostic Center`,
             "Biomedical Equipment",
-            "Medical Equipment",
-            "Laboratory Equipment",
-            "Diagnostic Equipment",
-            "Hospital Equipment",
-            "Healthcare Equipment",
-            "Central Biomedicals",
+            "Raj Biosis",
         ],
 
         alternates: {
@@ -50,15 +52,17 @@ export async function generateMetadata({ params }) {
             title,
             description,
             url,
-            siteName: "Central Biomedicals",
+            siteName: "Raj Biosis",
             type: "website",
             locale: "en_IN",
+            images: imageUrl ? [{ url: imageUrl, alt: productName }] : undefined,
         },
 
         twitter: {
             card: "summary_large_image",
             title,
             description,
+            images: imageUrl ? [imageUrl] : undefined,
         },
 
         robots: {
@@ -73,12 +77,100 @@ export async function generateMetadata({ params }) {
             },
         },
 
-        metadataBase: new URL("https://centralbiomedials.com"),
+        metadataBase: new URL("https://glucometers.in"),
     };
 }
 
 export default async function Page({ params }) {
     const { slug } = await params;
 
-    return <ProductDetails slug={slug} />;
+    const product = await fetchProductBySlug(slug);
+
+    const productName = product?.title || slug
+        ?.replace(/-/g, " ")
+        ?.replace(/\b\w/g, (c) => c.toUpperCase());
+
+    const canonicalUrl = `https://glucometers.in/items/${slug}`;
+    const imageUrl = product?.images?.[0] || product?.image || "https://glucometers.in/logo.png";
+
+    const breadcrumbSchema = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://glucometers.in"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Products",
+                "item": "https://glucometers.in/items"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": productName,
+                "item": canonicalUrl
+            }
+        ]
+    };
+
+    const productSchema = {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": productName,
+        "description": product?.desc || product?.description || `High quality biomedical laboratory equipment: ${productName}`,
+        "image": imageUrl,
+        "url": canonicalUrl,
+        ...(product?.brand ? { "brand": { "@type": "Brand", "name": product.brand } } : {}),
+        ...(product?.model ? { "model": product.model } : {}),
+        ...(product?.category ? { "category": product.category } : {}),
+    };
+
+    const faqSchema = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": `What is ${productName} used for?`,
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": `${productName} is utilized in hospitals, clinical pathology labs and diagnostic centres for healthcare diagnostic applications.`
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Do you provide installation support?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, we provide dynamic technical support, installation guidance, and quality calibration services for clinical instruments."
+                }
+            }
+        ]
+    };
+
+    return (
+        <>
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+            />
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(productSchema) }}
+            />
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+            />
+            <ProductDetails
+                slug={slug}
+                initialProduct={product || null}
+            />
+        </>
+    );
 }

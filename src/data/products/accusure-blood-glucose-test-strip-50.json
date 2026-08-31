@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "createdAt": "2026-08-07T07:01:05.716Z",
+  "subCategory": "Test strips",
+  "id": "934a043b-565d-414c-a6a5-e384a5352dd9",
+  "title": "AccuSure Blood Glucose Test Strip, 50",
+  "model": "",
+  "categoryProductId": "TS-12",
+  "size": "",
+  "availability": "",
+  "throughput": "",
+  "desc": "",
+  "capacity": "",
+  "brand": "",
+  "automation": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "isPublished": true,
+  "slug": "accusure-blood-glucose-test-strip-50",
+  "parameters": "",
+  "instrument": "",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2025/4/506392422/NW/PC/ZY/232173594/accusure-blood-glucose-test-strip-500x500.jpg"
+  ],
+  "category": "Test Strips",
+  "uid": "test-strips-test-strips-11"
+}

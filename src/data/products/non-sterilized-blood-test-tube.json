@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "id": "331ee1c0-bf9d-40c0-a6bb-aecd2b5cb63e",
+  "model": "",
+  "title": "Non Sterilized Blood Test Tube",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FBlood%20Sample%20Collection%20Test%20Tube%2Fblood-test-tube-500x500.jpg?alt=media&token=e74fcd5e-13bd-461b-8c49-7f5cca063c1d"
+  ],
+  "desc": "",
+  "price": "",
+  "automation": "",
+  "isPublished": true,
+  "size": "",
+  "brand": "",
+  "throughput": "",
+  "instrument": "",
+  "categoryProductId": "BSCTT-27",
+  "category": "Blood Collection Tubes",
+  "createdAt": "2026-08-07T06:53:30.722Z",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "subCategory": "Blood Sample Collection Test Tube",
+  "availability": "",
+  "slug": "non-sterilized-blood-test-tube",
+  "uid": "blood-collection-tubes-blood-sample-collection-test-tube-26"
+}

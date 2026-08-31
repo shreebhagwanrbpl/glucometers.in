@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "isPublished": true,
+  "category": "Pathology Lab Equipments",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "desc": "",
+  "availability": "",
+  "instrument": "",
+  "brand": "",
+  "throughput": "",
+  "slug": "rbcs",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:59:02.232Z",
+  "id": "d1b4b203-a8f3-4284-b046-5d3c6cc3f8fb",
+  "automation": "",
+  "subCategory": "RBC Pipette",
+  "price": "",
+  "categoryProductId": "RP-42",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FRBC%20Pipette%2Frbc-500x500.png?alt=media&token=11fe23ab-6615-48cd-8131-15f2272368fb"
+  ],
+  "title": "RBC's",
+  "model": "",
+  "capacity": "",
+  "uid": "pathology-lab-equipments-rbc-pipette-41"
+}

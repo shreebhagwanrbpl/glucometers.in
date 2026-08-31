@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "category": "Blood Collection Tubes",
+  "categoryProductId": "LNVBCT-205",
+  "title": "Hemo Tube",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FLaboratory%20Non%20Vacuum%20Blood%20Collection%20Tube%2Fhemo-tube-1661164301015-500x500.jpg?alt=media&token=8ca728e1-3535-4b1b-bdb6-59abb92068ab"
+  ],
+  "isPublished": true,
+  "size": "",
+  "createdAt": "2026-08-07T06:54:06.310Z",
+  "instrument": "",
+  "desc": "Hemo Tube",
+  "brand": "",
+  "availability": "",
+  "parameters": "",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "slug": "hemo-tube",
+  "id": "fc68dec7-5ab7-4d1c-9f43-a7f610d17d6d",
+  "throughput": "",
+  "subCategory": "Laboratory Non Vacuum Blood Collection Tube",
+  "capacity": "",
+  "uid": "blood-collection-tubes-laboratory-non-vacuum-blood-collection-tube-204"
+}

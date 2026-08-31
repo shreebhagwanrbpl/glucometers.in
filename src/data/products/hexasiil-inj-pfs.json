@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "PS-39",
+  "subCategory": "Prefilled Syringe",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "pdf": "",
+  "parameters": "",
+  "desc": "",
+  "instrument": "",
+  "capacity": "",
+  "isPublished": true,
+  "price": "",
+  "throughput": "",
+  "id": "690e6544-ab61-4fa9-91a0-23cb42693fd9",
+  "createdAt": "2026-08-07T07:00:37.071Z",
+  "slug": "hexasiil-inj-pfs",
+  "title": "HEXASIIL INJ PFS",
+  "model": "",
+  "automation": "",
+  "availability": "",
+  "brand": "",
+  "category": "Syringe",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2025/12/566895482/EW/PI/RU/40747047/hexasiil-inj-pfs-500x500.jpg"
+  ],
+  "uid": "syringe-prefilled-syringe-38"
+}

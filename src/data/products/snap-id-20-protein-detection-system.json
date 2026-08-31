@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "brand": "",
+  "size": "",
+  "capacity": "",
+  "throughput": "",
+  "price": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fwebp-net-resizeimage-2022-06-25t111737-840-500x500.jpg?alt=media&token=19c5c87d-c039-4c3b-bab8-9bc79b175aa6"
+  ],
+  "desc": "",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "title": "SNAP i.d. 2.0 Protein Detection System",
+  "model": "",
+  "createdAt": "2026-08-07T06:59:25.391Z",
+  "id": "1dc2c21f-8924-44da-8f8a-ee2a262a0d1e",
+  "availability": "",
+  "slug": "snap-id-20-protein-detection-system",
+  "category": "Protein Analyzer",
+  "categoryProductId": "CSPA-134",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "instrument": "",
+  "parameters": "",
+  "isPublished": true,
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-133"
+}

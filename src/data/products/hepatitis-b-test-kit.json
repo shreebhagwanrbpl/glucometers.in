@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "HBTK-11",
+  "price": "₹ 20",
+  "id": "d00f2206-0810-48ba-ac99-c447fd3f7709",
+  "slug": "hepatitis-b-test-kit",
+  "capacity": "",
+  "title": "Hepatitis B Test Kit",
+  "model": "",
+  "brand": "",
+  "isPublished": true,
+  "automation": "",
+  "throughput": "",
+  "category": "Rapid Test Kit",
+  "instrument": "",
+  "usage": "",
+  "video": "",
+  "size": "",
+  "pdf": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FHepatitis%20B%20Test%20Kit%2Fhepatitis-b-test-kit-500x500.jpg?alt=media&token=9318f6c2-8923-4bb1-863a-68fe0276759e"
+  ],
+  "subCategory": "Hepatitis B Test Kit",
+  "createdAt": "2026-08-07T06:59:52.353Z",
+  "availability": "",
+  "desc": "",
+  "uid": "rapid-test-kit-hepatitis-b-test-kit-10"
+}

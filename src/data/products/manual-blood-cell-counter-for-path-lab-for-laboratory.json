@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "desc": "",
+  "throughput": "",
+  "capacity": "",
+  "brand": "",
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Ivds%20category%2FHematology%20analyzers%2Fmeril-merilyzer-autoquant-200-fully-biochemistry-analyzer-for-hospital-500x500.png?alt=media&token=7ab0ecc6-693e-45ff-8289-99c400863413"
+  ],
+  "model": "",
+  "title": "Manual Blood Cell Counter, For Path Lab, For Laboratory",
+  "size": "",
+  "price": "",
+  "id": "487d5ff7-f084-4fe2-8bde-a1b8e4fc0e9d",
+  "isPublished": true,
+  "categoryProductId": "HA-134",
+  "category": "Ivds category",
+  "createdAt": "2026-08-07T06:55:54.018Z",
+  "pdf": "",
+  "slug": "manual-blood-cell-counter-for-path-lab-for-laboratory",
+  "parameters": "",
+  "subCategory": "Hematology analyzers",
+  "video": "",
+  "usage": "",
+  "instrument": "",
+  "uid": "ivds-category-hematology-analyzers-133"
+}

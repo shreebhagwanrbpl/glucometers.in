@@ -1,0 +1,28 @@
+{
+  "video": "",
+  "usage": "",
+  "subCategory": "Laboratory Urinometer",
+  "parameters": "",
+  "category": "Pathology Lab Equipments",
+  "size": "",
+  "instrument": "",
+  "desc": "",
+  "isPublished": true,
+  "capacity": "",
+  "price": "₹ 40",
+  "slug": "urinometer-glass-laboratory",
+  "model": "",
+  "title": "Urinometer Glass Laboratory",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FLaboratory%20Urinometer%2F10cm-glass-laboratory-urinometer-500x500.jpeg?alt=media&token=755fcd00-3bf0-4dcc-82da-fccef892afcd"
+  ],
+  "availability": "",
+  "id": "394d9d64-219c-45e1-8409-5baf3653966d",
+  "throughput": "",
+  "brand": "",
+  "pdf": "",
+  "categoryProductId": "LU-5",
+  "createdAt": "2026-08-07T06:58:56.649Z",
+  "automation": "",
+  "uid": "pathology-lab-equipments-laboratory-urinometer-4"
+}

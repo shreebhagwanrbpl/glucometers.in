@@ -1,0 +1,28 @@
+{
+  "isPublished": true,
+  "brand": "",
+  "size": "",
+  "capacity": "",
+  "throughput": "",
+  "createdAt": "2026-08-07T06:58:03.221Z",
+  "price": "₹ 2,70,000",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Other%20Categories%2FDiatron%20Hematology%20Analyzers%2Fautomated-hematology-analyzer-500x500.jpg?alt=media&token=42058507-46a0-4241-8969-d1b5e5f52e83"
+  ],
+  "desc": "",
+  "automation": "Semi Automatic",
+  "model": "",
+  "title": "Diatron Automated Hematology Analyzer",
+  "availability": "",
+  "parameters": "",
+  "slug": "diatron-automated-hematology-analyzer",
+  "category": "Other Categories",
+  "subCategory": "Diatron Hematology Analyzers",
+  "instrument": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "id": "e0505d42-9830-4433-8563-8d69e91024bc",
+  "categoryProductId": "DHA-33",
+  "uid": "other-categories-diatron-hematology-analyzers-32"
+}

@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "throughput": "",
+  "categoryProductId": "CA-35",
+  "automation": "",
+  "id": "8fe075d7-2e64-4ebc-9af9-905e4f771fe3",
+  "createdAt": "2026-08-07T06:53:04.510Z",
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "size": "",
+  "category": "Biochemistry Analyzer",
+  "availability": "",
+  "brand": "",
+  "subCategory": "Chemistry analyzers",
+  "model": "",
+  "title": "Chemistry Analyzers",
+  "slug": "chemistry-analyzers",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Biochemistry%20Analyzer%2FChemistry%20analyzers%2Fchemistry-analyzers-500x500.png?alt=media&token=47040e63-f5ab-498d-b2c8-74e94bb88bec"
+  ],
+  "parameters": "",
+  "capacity": "",
+  "instrument": "",
+  "price": "₹ 2,50,000",
+  "uid": "biochemistry-analyzer-chemistry-analyzers-34"
+}

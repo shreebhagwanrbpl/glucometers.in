@@ -1,0 +1,28 @@
+{
+  "automation": "",
+  "desc": "",
+  "pdf": "",
+  "throughput": "",
+  "size": "",
+  "subCategory": "Elisa kits",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "categoryProductId": "EK-30",
+  "id": "0d916ac7-3006-4aea-970f-cb16828e4573",
+  "brand": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FElisa%20kits%2Fhbsag-elisa-test-kit-500x500.JPG?alt=media&token=791f72d2-ca5a-4afe-80d4-7a646497a61f"
+  ],
+  "title": "HBsAG  Test Kit",
+  "model": "",
+  "availability": "",
+  "category": "Rapid Test Kit",
+  "instrument": "",
+  "slug": "hbsag-test-kit",
+  "createdAt": "2026-08-07T06:59:43.402Z",
+  "price": "",
+  "parameters": "",
+  "isPublished": true,
+  "uid": "rapid-test-kit-elisa-kits-29"
+}

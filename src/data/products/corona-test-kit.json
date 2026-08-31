@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Corona Test Kit",
+  "price": "₹ 25",
+  "instrument": "",
+  "category": "Rapid Test Kit",
+  "slug": "corona-test-kit",
+  "parameters": "",
+  "isPublished": true,
+  "brand": "",
+  "automation": "",
+  "pdf": "",
+  "throughput": "",
+  "desc": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FCorona%20Test%20Kit%2Fcorona-test-kit-500x500.jpg?alt=media&token=dc8f83e8-bd68-4a93-8564-fb4eb4691b5c"
+  ],
+  "video": "",
+  "usage": "",
+  "id": "ccbd51fe-1c6f-4dbb-b404-3640b9e57a46",
+  "createdAt": "2026-08-07T06:59:36.071Z",
+  "size": "",
+  "availability": "",
+  "categoryProductId": "CTK-24",
+  "capacity": "",
+  "subCategory": "Corona Test Kit",
+  "uid": "rapid-test-kit-corona-test-kit-23"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Automatic Remi Micro Centrifug",
+  "model": "",
+  "desc": "",
+  "price": "",
+  "capacity": "",
+  "parameters": "",
+  "isPublished": true,
+  "availability": "",
+  "instrument": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:56:27.745Z",
+  "pdf": "",
+  "size": "",
+  "id": "9a07bb5f-f81d-43ac-ada9-ea4bad02fd01",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fremi-micro-centrifug-500x500.jpg?alt=media&token=c6e4130d-9414-48dd-9cb7-e6c2bbf94b3d"
+  ],
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "categoryProductId": "M-113",
+  "slug": "automatic-remi-micro-centrifug",
+  "category": "Laboratory Centrifuge",
+  "subCategory": "Microcentrifuge",
+  "uid": "laboratory-centrifuge-microcentrifuge-112"
+}

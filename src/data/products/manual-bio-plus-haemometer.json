@@ -1,0 +1,28 @@
+{
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Hematology%20analyzers%2FHaemometer%2Fhaemometer-indian-500x500.jpg?alt=media&token=53befeb3-c901-4bec-9e7b-525ebd8b8601"
+  ],
+  "instrument": "",
+  "subCategory": "Haemometer",
+  "capacity": "",
+  "parameters": "",
+  "categoryProductId": "H-94",
+  "slug": "manual-bio-plus-haemometer",
+  "id": "1bd6d43c-6e76-4e0c-968f-4a5cba4af64e",
+  "video": "",
+  "usage": "",
+  "category": "Hematology analyzers",
+  "isPublished": true,
+  "availability": "",
+  "desc": "",
+  "brand": "",
+  "createdAt": "2026-08-07T06:55:32.802Z",
+  "automation": "",
+  "model": "",
+  "title": "Manual Bio Plus Haemometer",
+  "pdf": "",
+  "throughput": "",
+  "price": "",
+  "size": "",
+  "uid": "hematology-analyzers-haemometer-93"
+}

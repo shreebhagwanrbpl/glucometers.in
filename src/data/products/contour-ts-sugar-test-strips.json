@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "TS-34",
+  "subCategory": "Test Strips",
+  "instrument": "",
+  "size": "",
+  "category": "Rapid Test Kit",
+  "pdf": "",
+  "usage": "",
+  "video": "",
+  "parameters": "",
+  "id": "b4196265-caae-4905-a1b1-d12bad3d271d",
+  "desc": "",
+  "isPublished": true,
+  "price": "₹ 870",
+  "capacity": "",
+  "availability": "",
+  "model": "",
+  "title": "Contour Ts Sugar Test Strips",
+  "slug": "contour-ts-sugar-test-strips",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FTest%20Strips%2Fcontour-ts-sugar-test-strips-500x500.jpg?alt=media&token=3dbdb644-b5c8-4d2a-9a54-d7a8f47be5c5"
+  ],
+  "automation": "",
+  "brand": "",
+  "createdAt": "2026-08-07T07:00:10.250Z",
+  "throughput": "",
+  "uid": "rapid-test-kit-test-strips-33"
+}

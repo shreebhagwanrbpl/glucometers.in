@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "SCC-82",
+  "capacity": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T07:00:53.955Z",
+  "slug": "fully-automatic-hematology-analyzers-sysmex",
+  "throughput": "",
+  "subCategory": "Sysmex Cell Counter",
+  "automation": "",
+  "model": "",
+  "title": "Fully Automatic Hematology Analyzers Sysmex",
+  "desc": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fhematology-analyzers-sysmex-500x500.jpg?alt=media&token=2fdff6ce-675a-4b56-9f81-383cd08b4b94"
+  ],
+  "price": "",
+  "category": "Sysmex",
+  "instrument": "",
+  "pdf": "",
+  "size": "",
+  "isPublished": true,
+  "availability": "",
+  "brand": "",
+  "id": "7afc7e8d-f108-4a0e-b279-07be2923c902",
+  "uid": "sysmex-sysmex-cell-counter-81"
+}

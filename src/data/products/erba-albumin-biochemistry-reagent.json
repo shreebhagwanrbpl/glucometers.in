@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "instrument": "",
+  "id": "164ab374-e611-4edb-9030-f2e5617d5ddd",
+  "size": "",
+  "isPublished": true,
+  "desc": "",
+  "video": "",
+  "usage": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Ferba-albumin-biochemistry-reagent-500x500.png?alt=media&token=8c357ff7-e784-45ed-9123-d2adc30ff2f4"
+  ],
+  "category": "Clinical Reagents",
+  "categoryProductId": "DR-48",
+  "slug": "erba-albumin-biochemistry-reagent",
+  "brand": "",
+  "createdAt": "2026-08-07T06:54:50.082Z",
+  "price": "",
+  "throughput": "",
+  "subCategory": "Diagnostic reagents",
+  "model": "",
+  "title": "Erba Albumin Biochemistry Reagent",
+  "automation": "",
+  "pdf": "",
+  "capacity": "",
+  "availability": "",
+  "uid": "clinical-reagents-diagnostic-reagents-47"
+}

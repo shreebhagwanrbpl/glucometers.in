@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "SCC-97",
+  "availability": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "subCategory": "Sysmex Cell Counter",
+  "capacity": "",
+  "automation": "",
+  "createdAt": "2026-08-07T07:00:53.957Z",
+  "throughput": "",
+  "slug": "select-poch-100i",
+  "instrument": "",
+  "brand": "",
+  "id": "b13fd530-b70e-4aa1-abb4-498b570a8c72",
+  "parameters": "",
+  "price": "",
+  "isPublished": true,
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Sysmex%2FSysmex%20Cell%20Counter%2Fselect-poch-100i-500x500.jpg?alt=media&token=dd96a345-19fc-4b08-8906-d132c1334e0e"
+  ],
+  "model": "",
+  "title": "Select PocH-100i",
+  "pdf": "",
+  "category": "Sysmex",
+  "uid": "sysmex-sysmex-cell-counter-96"
+}

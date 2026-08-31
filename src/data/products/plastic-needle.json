@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Plastic   Needle",
+  "desc": "",
+  "capacity": "",
+  "id": "eaa1fd79-07d2-41f7-9a12-d3becae7be91",
+  "parameters": "",
+  "price": "₹ 82",
+  "createdAt": "2026-08-07T06:53:17.404Z",
+  "instrument": "",
+  "subCategory": "Blood lancet",
+  "size": "",
+  "brand": "",
+  "availability": "",
+  "categoryProductId": "BL-31",
+  "usage": "",
+  "video": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FBlood%20lancet%2Fblood-lancet-needle-500x500.jpg?alt=media&token=6bdc7a30-e026-41fc-8677-a3e98abd1cd8"
+  ],
+  "category": "Blood bank equipments",
+  "slug": "plastic-needle",
+  "throughput": "",
+  "isPublished": true,
+  "pdf": "",
+  "automation": "",
+  "uid": "blood-bank-equipments-blood-lancet-30"
+}

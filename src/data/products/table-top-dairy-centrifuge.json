@@ -1,0 +1,28 @@
+{
+  "price": "",
+  "instrument": "",
+  "slug": "table-top-dairy-centrifuge",
+  "parameters": "",
+  "title": "Table Top Dairy Centrifuge",
+  "model": "",
+  "subCategory": "Table Top Centrifuge",
+  "pdf": "",
+  "brand": "Biobase",
+  "category": "Pathology Lab Equipments",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2Fda-500x500.png?alt=media&token=14fd45e0-1c86-4599-94c6-ae9e088e16aa"
+  ],
+  "usage": "",
+  "video": "",
+  "size": "",
+  "categoryProductId": "TTC-111",
+  "isPublished": true,
+  "automation": "",
+  "createdAt": "2026-08-07T06:59:06.758Z",
+  "desc": "",
+  "throughput": "",
+  "availability": "",
+  "id": "afdf4b2b-ef8d-4e89-97d5-b97af7306394",
+  "capacity": "",
+  "uid": "pathology-lab-equipments-table-top-centrifuge-110"
+}

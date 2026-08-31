@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:58:49.932Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Flisa-wash-500x500.png?alt=media&token=aa1f250c-8ee1-4cc8-9f23-e8fd3de5ceb5"
+  ],
+  "instrument": "",
+  "subCategory": "Elisa Washer",
+  "parameters": "",
+  "desc": "",
+  "id": "2a9239eb-fccc-4ba9-a0f5-54a06c328f93",
+  "pdf": "",
+  "brand": "",
+  "model": "",
+  "title": "Erba Lisa Wash Ll",
+  "size": "",
+  "category": "Pathology Lab Equipments",
+  "price": "",
+  "isPublished": true,
+  "capacity": "",
+  "automation": "",
+  "availability": "",
+  "categoryProductId": "EW-63",
+  "slug": "erba-lisa-wash-ll",
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "uid": "pathology-lab-equipments-elisa-washer-62"
+}

@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "categoryProductId": "SL-10",
+  "category": "Blood bank equipments",
+  "availability": "",
+  "createdAt": "2026-08-07T06:53:23.321Z",
+  "pdf": "",
+  "instrument": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "isPublished": true,
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FSafety%20lancet%2Fimgi-212-61pnmz9xjil-sl1000-500x500.jpg?alt=media&token=5b189e15-51a4-4302-8a84-2436250d110a"
+  ],
+  "capacity": "",
+  "automation": "",
+  "throughput": "",
+  "brand": "",
+  "model": "",
+  "title": "Blood Lancets For Glucometer",
+  "slug": "blood-lancets-for-glucometer",
+  "id": "25478a62-76c6-4c72-b0cf-cd85c0f4632d",
+  "price": "",
+  "subCategory": "Safety lancet",
+  "uid": "blood-bank-equipments-safety-lancet-9"
+}

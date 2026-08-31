@@ -1,0 +1,28 @@
+{
+  "availability": "",
+  "brand": "",
+  "id": "e255a9e5-d186-4a37-804b-6e07a3ae0009",
+  "size": "",
+  "desc": "",
+  "capacity": "",
+  "instrument": "",
+  "price": "",
+  "model": "",
+  "title": "NUKES Mini Centrifuge",
+  "subCategory": "Microcentrifuge",
+  "parameters": "",
+  "slug": "nukes-mini-centrifuge",
+  "automation": "",
+  "categoryProductId": "M-256",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Fmini-centrifuge-250x250.jpg?alt=media&token=0b3772cc-efed-4e65-8e01-d91fc0c6b285"
+  ],
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:56:27.753Z",
+  "category": "Laboratory Centrifuge",
+  "pdf": "",
+  "isPublished": true,
+  "uid": "laboratory-centrifuge-microcentrifuge-255"
+}

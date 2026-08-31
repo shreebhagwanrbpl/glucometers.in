@@ -1,0 +1,28 @@
+{
+  "id": "a30a9c6d-a919-4013-a85d-1d5515c931de",
+  "desc": "",
+  "pdf": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FResearch%20Centrifuge%2Fresearch-centrifuge-500x500.jpg?alt=media&token=15fbb07d-d9ca-4c5d-80a3-535a7c93888d"
+  ],
+  "capacity": "9 , 16, 24, 36",
+  "size": "",
+  "parameters": "",
+  "subCategory": "Research Centrifuge",
+  "video": "",
+  "usage": "",
+  "automation": "",
+  "createdAt": "2026-08-07T06:59:04.718Z",
+  "categoryProductId": "RC-18",
+  "throughput": "",
+  "brand": "",
+  "availability": "",
+  "model": "",
+  "title": "Lab Research Centrifuge",
+  "slug": "lab-research-centrifuge",
+  "isPublished": true,
+  "price": "",
+  "category": "Pathology Lab Equipments",
+  "uid": "pathology-lab-equipments-research-centrifuge-17"
+}

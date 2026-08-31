@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "category": "Rapid Test Kit",
+  "title": "Troponin -I Test Kit, 10 Tests",
+  "model": "",
+  "availability": "",
+  "instrument": "",
+  "desc": "",
+  "categoryProductId": "TTK-9",
+  "price": "₹ 45",
+  "createdAt": "2026-08-07T07:00:11.903Z",
+  "size": "",
+  "id": "97f8dac4-293e-4cb3-8e61-429777df68fa",
+  "subCategory": "Troponin Test Kit",
+  "brand": "",
+  "pdf": "",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "throughput": "",
+  "isPublished": true,
+  "automation": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Rapid%20Test%20Kit%2FTroponin%20Test%20Kit%2F1-500x500.jpg?alt=media&token=e7f7039f-502c-4f69-95b1-35f8ca2bd3e5"
+  ],
+  "slug": "troponin--i-test-kit-10-tests",
+  "uid": "rapid-test-kit-troponin-test-kit-8"
+}

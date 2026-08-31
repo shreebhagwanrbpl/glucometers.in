@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "automation": "",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "createdAt": "2026-08-07T06:54:27.931Z",
+  "capacity": "",
+  "desc": "",
+  "isPublished": true,
+  "brand": "",
+  "pdf": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fmb-sst-tube-500x500.png?alt=media&token=58e2a8d2-dfe4-4c83-a327-658176a59acf"
+  ],
+  "slug": "mb-sst-tube-plastic",
+  "categoryProductId": "VBCT-109",
+  "category": "Blood Collection Tubes",
+  "availability": "",
+  "price": "",
+  "instrument": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "id": "608d5be8-f149-4d92-9ff3-401a598fa3fc",
+  "parameters": "",
+  "model": "",
+  "title": "MB SST Tube, Plastic",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-108"
+}

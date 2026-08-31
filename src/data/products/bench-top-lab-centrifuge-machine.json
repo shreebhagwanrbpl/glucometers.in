@@ -1,0 +1,28 @@
+{
+  "instrument": "",
+  "subCategory": "Table Top Centrifuge",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FTable%20Top%20Centrifuge%2Fbench-top-lab-centrifuge-500x500.jpg?alt=media&token=0904f137-a6b1-4e3b-806c-212ec15c9210"
+  ],
+  "availability": "",
+  "video": "",
+  "usage": "Laboratory",
+  "createdAt": "2026-08-07T06:59:06.759Z",
+  "category": "Pathology Lab Equipments",
+  "slug": "bench-top-lab-centrifuge-machine",
+  "pdf": "",
+  "isPublished": true,
+  "model": "Sigma 09BC",
+  "title": "Bench Top Lab Centrifuge Machine",
+  "categoryProductId": "TTC-123",
+  "desc": "",
+  "price": "₹ 26,500",
+  "size": "",
+  "capacity": "",
+  "automation": "",
+  "brand": "",
+  "throughput": "",
+  "id": "397148b3-31e1-4188-a57e-df97b05c489c",
+  "uid": "pathology-lab-equipments-table-top-centrifuge-122"
+}

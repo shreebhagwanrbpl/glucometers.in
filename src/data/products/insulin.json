@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "category": "Syringe",
+  "pdf": "",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "throughput": "",
+  "categoryProductId": "IS-8",
+  "availability": "",
+  "subCategory": "Insulin syringe",
+  "desc": "",
+  "price": "",
+  "capacity": "",
+  "slug": "insulin",
+  "title": "Insulin",
+  "model": "",
+  "images": [
+    "https://5.imimg.com/data5/SELLER/Default/2026/6/613440053/VP/IZ/CU/256285016/syringe-1-500x500.jpg"
+  ],
+  "brand": "",
+  "id": "784f9fff-3896-4647-8c2b-9397ebdc4286",
+  "instrument": "",
+  "createdAt": "2026-08-07T07:00:27.276Z",
+  "parameters": "",
+  "isPublished": true,
+  "uid": "syringe-insulin-syringe-7"
+}

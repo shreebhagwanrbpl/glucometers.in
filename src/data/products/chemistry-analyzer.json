@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "CA-8",
+  "brand": "",
+  "availability": "",
+  "size": "",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Biochemistry%20Analyzer%2FClinical%20analyzer%2F225365772-product-1720002185777-500x500.jpg?alt=media&token=c12bd52a-f206-4c60-a9a6-8ac0f22598ae"
+  ],
+  "pdf": "",
+  "instrument": "",
+  "capacity": "",
+  "price": "₹ 1,30,000",
+  "desc": "",
+  "isPublished": true,
+  "createdAt": "2026-08-07T06:53:05.739Z",
+  "model": "",
+  "title": "Chemistry Analyzer",
+  "slug": "chemistry-analyzer",
+  "id": "2ab56039-5e26-4c6f-898b-60315f24ddcb",
+  "usage": "",
+  "video": "",
+  "throughput": "",
+  "category": "Biochemistry Analyzer",
+  "subCategory": "Clinical analyzer",
+  "automation": "",
+  "uid": "biochemistry-analyzer-clinical-analyzer-7"
+}

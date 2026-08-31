@@ -1,0 +1,28 @@
+{
+  "size": "",
+  "price": "₹ 300",
+  "subCategory": "IP Thermometer",
+  "categoryProductId": "IT-8",
+  "title": "IP Thermometer 64c",
+  "model": "",
+  "id": "8f7c7d02-4093-44c5-9e6a-f9036d8e1e35",
+  "brand": "Contact Supplier",
+  "parameters": "",
+  "capacity": "",
+  "instrument": "",
+  "desc": "",
+  "throughput": "",
+  "video": "",
+  "usage": "",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:56:58.512Z",
+  "isPublished": true,
+  "automation": "",
+  "slug": "ip-thermometer-64c",
+  "category": "Laboratory thermometer",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20thermometer%2FIP%20Thermometer%2Fip-thermometer-64c-500x500.JPG?alt=media&token=b81a350a-09fd-4af3-bdd4-084383e31171"
+  ],
+  "uid": "laboratory-thermometer-ip-thermometer-7"
+}

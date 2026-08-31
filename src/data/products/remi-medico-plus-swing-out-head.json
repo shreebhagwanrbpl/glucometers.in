@@ -1,0 +1,28 @@
+{
+  "subCategory": "Medico centrifuges",
+  "throughput": "",
+  "automation": "",
+  "video": "",
+  "usage": "",
+  "desc": "",
+  "size": "",
+  "id": "de2aa55b-3122-4971-a573-1d167b0f2db7",
+  "categoryProductId": "MC-10",
+  "capacity": "",
+  "pdf": "",
+  "isPublished": true,
+  "title": "Remi Medico Plus, Swing out head",
+  "model": "",
+  "createdAt": "2026-08-07T06:56:26.471Z",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMedico%20centrifuges%2Fremi-medico-plus-500x500.jpeg?alt=media&token=382bd8c0-6f3b-4e93-bf02-2a009dec462e"
+  ],
+  "price": "",
+  "parameters": "",
+  "category": "Laboratory Centrifuge",
+  "availability": "",
+  "brand": "",
+  "instrument": "",
+  "slug": "remi-medico-plus-swing-out-head",
+  "uid": "laboratory-centrifuge-medico-centrifuges-9"
+}

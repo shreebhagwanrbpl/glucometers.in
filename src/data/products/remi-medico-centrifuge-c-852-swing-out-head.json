@@ -1,0 +1,28 @@
+{
+  "categoryProductId": "MC-11",
+  "availability": "",
+  "category": "Laboratory Centrifuge",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMedico%20centrifuges%2Fmedico-centrifuge-500x500.jpg?alt=media&token=883d2ad4-ffa9-4d16-9450-feea4ccc0010"
+  ],
+  "brand": "",
+  "subCategory": "Medico centrifuges",
+  "instrument": "",
+  "size": "",
+  "desc": "",
+  "price": "",
+  "pdf": "",
+  "model": "",
+  "title": "Remi Medico Centrifuge C 852, Swing out head",
+  "createdAt": "2026-08-07T06:56:26.471Z",
+  "slug": "remi-medico-centrifuge-c-852-swing-out-head",
+  "capacity": "",
+  "id": "75bb71da-9c3d-43e8-b462-50c9ed833963",
+  "isPublished": true,
+  "throughput": "",
+  "usage": "",
+  "video": "",
+  "automation": "",
+  "uid": "laboratory-centrifuge-medico-centrifuges-10"
+}

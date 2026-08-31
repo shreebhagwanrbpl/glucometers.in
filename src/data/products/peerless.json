@@ -1,0 +1,28 @@
+{
+  "capacity": "",
+  "price": "",
+  "createdAt": "2026-08-07T06:53:33.848Z",
+  "pdf": "",
+  "availability": "",
+  "slug": "peerless",
+  "id": "32596338-1938-4839-843e-b16e2e707904",
+  "title": "Peerless",
+  "model": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FClot%20Activator%20Tube%2F82560494-product-1758014080998-500x500.png?alt=media&token=b4d2904a-8421-4fe6-b297-7194f35064dd"
+  ],
+  "brand": "",
+  "throughput": "",
+  "subCategory": "Clot Activator Tube",
+  "automation": "",
+  "size": "",
+  "video": "",
+  "usage": "",
+  "parameters": "",
+  "category": "Blood Collection Tubes",
+  "instrument": "",
+  "categoryProductId": "CAT-338",
+  "desc": "Peerless",
+  "isPublished": true,
+  "uid": "blood-collection-tubes-clot-activator-tube-337"
+}

@@ -1,0 +1,28 @@
+{
+  "model": "",
+  "title": "Meril Elisa Washer",
+  "capacity": "",
+  "desc": "",
+  "subCategory": "Elisa Washer",
+  "price": "₹ 95,000",
+  "availability": "",
+  "instrument": "",
+  "size": "96 well plates",
+  "parameters": "",
+  "brand": "",
+  "automation": "",
+  "createdAt": "2026-08-07T06:58:49.930Z",
+  "category": "Pathology Lab Equipments",
+  "id": "08e9d4c8-2192-48b9-9fb6-1215f7ee75de",
+  "categoryProductId": "EW-10",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Pathology%20Lab%20Equipments%2FElisa%20Washer%2Fmeril-elisa-washer-500x500.png?alt=media&token=9072acef-290d-431d-ab80-e86ab58611a6"
+  ],
+  "isPublished": true,
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "slug": "meril-elisa-washer",
+  "uid": "pathology-lab-equipments-elisa-washer-9"
+}

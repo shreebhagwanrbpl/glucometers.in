@@ -1,0 +1,28 @@
+{
+  "category": "Corona Test",
+  "categoryProductId": "RPTK-3",
+  "isPublished": true,
+  "desc": "",
+  "brand": "",
+  "id": "fba5d962-946f-4325-8901-5b421e88cb68",
+  "title": "Real Time  Kit",
+  "model": "",
+  "size": "",
+  "automation": "",
+  "price": "₹ 24,500",
+  "throughput": "",
+  "images": [
+    "https://5.imimg.com/data5/BG/KW/MY-3820225/real-time-pcr-kit-500x500.jpg"
+  ],
+  "instrument": "",
+  "subCategory": "Rt pcr test kit",
+  "availability": "",
+  "capacity": "",
+  "pdf": "",
+  "parameters": "",
+  "createdAt": "2026-08-07T06:55:04.960Z",
+  "slug": "real-time-kit",
+  "video": "",
+  "usage": "",
+  "uid": "corona-test-rt-pcr-test-kit-2"
+}

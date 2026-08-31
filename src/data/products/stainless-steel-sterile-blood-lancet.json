@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "brand": "",
+  "instrument": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20bank%20equipments%2FStainless%20Steel%20Blood%20Lancet%2Fstainless-steel-sterile-blood-lancet-500x500.jpg?alt=media&token=9e59af2b-726e-4001-9ff8-13e16568a3d2"
+  ],
+  "isPublished": true,
+  "id": "98cb5a87-7f4b-4e4a-ad57-ecf57811b0ef",
+  "title": "Stainless Steel Sterile Blood Lancet",
+  "model": "",
+  "slug": "stainless-steel-sterile-blood-lancet",
+  "pdf": "",
+  "createdAt": "2026-08-07T06:53:24.605Z",
+  "price": "",
+  "capacity": "",
+  "availability": "",
+  "desc": "",
+  "categoryProductId": "SSBL-17",
+  "throughput": "",
+  "subCategory": "Stainless Steel Blood Lancet",
+  "category": "Blood bank equipments",
+  "video": "",
+  "usage": "",
+  "size": "",
+  "automation": "",
+  "uid": "blood-bank-equipments-stainless-steel-blood-lancet-16"
+}

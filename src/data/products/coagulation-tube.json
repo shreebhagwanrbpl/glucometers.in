@@ -1,0 +1,28 @@
+{
+  "parameters": "",
+  "id": "ba65bf8e-8bbc-4108-9810-d3e8ac7ece5f",
+  "slug": "coagulation-tube",
+  "createdAt": "2026-08-07T06:54:27.936Z",
+  "brand": "",
+  "instrument": "",
+  "price": "",
+  "isPublished": true,
+  "title": "Coagulation Tube",
+  "model": "",
+  "category": "Blood Collection Tubes",
+  "categoryProductId": "VBCT-220",
+  "availability": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Blood%20Collection%20Tubes%2FVacuum%20Blood%20Collection%20Tube%2Fcoagulation-tube-250x250.jpg?alt=media&token=ad58beef-0661-4ea5-b019-32264e5d871e"
+  ],
+  "size": "",
+  "video": "",
+  "usage": "",
+  "capacity": "",
+  "desc": "Coagulation and CTAD tubes are used for examination of coagulation parameters. Coagulation tubes contain a buffered sodium citrate solution. It is available with a citrate concentration of 0.109 mol/l (3.2%) or 0.129 mol/l (3.8%). The mixing ratio is: 1 part citrate solution to 9 parts blood. In addition to buffered sodium citrate, CTAD tubes conta",
+  "throughput": "",
+  "subCategory": "Vacuum Blood Collection Tube",
+  "automation": "",
+  "pdf": "",
+  "uid": "blood-collection-tubes-vacuum-blood-collection-tube-219"
+}

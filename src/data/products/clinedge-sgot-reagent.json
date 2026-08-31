@@ -1,0 +1,28 @@
+{
+  "price": "₹ 1,630",
+  "isPublished": true,
+  "slug": "clinedge-sgot-reagent",
+  "parameters": "",
+  "model": "",
+  "title": "ClinEdge SGOT Reagent",
+  "instrument": "",
+  "availability": "",
+  "pdf": "",
+  "brand": "3.8",
+  "categoryProductId": "DR-27",
+  "id": "0f8ff94e-1eee-4d38-b5ac-f43d18f4c16e",
+  "createdAt": "2026-08-07T06:54:50.081Z",
+  "category": "Clinical Reagents",
+  "video": "",
+  "usage": "",
+  "subCategory": "Diagnostic reagents",
+  "size": "",
+  "desc": "",
+  "capacity": "",
+  "throughput": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Clinical%20Reagents%2FDiagnostic%20reagents%2Fsgot-reagent-500x500.jpeg?alt=media&token=d98e366d-9c95-4698-806e-e2779ba0a968"
+  ],
+  "automation": "",
+  "uid": "clinical-reagents-diagnostic-reagents-26"
+}

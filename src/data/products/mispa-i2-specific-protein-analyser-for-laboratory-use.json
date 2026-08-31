@@ -1,0 +1,28 @@
+{
+  "createdAt": "2026-08-07T06:59:25.383Z",
+  "pdf": "",
+  "brand": "",
+  "categoryProductId": "CSPA-31",
+  "parameters": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Protein%20Analyzer%2FClinical%20Specific%20Protein%20Analyzer%2Fmispa-i2-specific-protein-analyser-500x500.jpg?alt=media&token=baf1ff68-8a44-41ce-9153-afdae9945ab9"
+  ],
+  "model": "",
+  "title": "Mispa i2 Specific Protein Analyser, For Laboratory Use",
+  "instrument": "",
+  "category": "Protein Analyzer",
+  "price": "₹ 85,000",
+  "slug": "mispa-i2-specific-protein-analyser-for-laboratory-use",
+  "subCategory": "Clinical Specific Protein Analyzer",
+  "throughput": "",
+  "automation": "",
+  "availability": "",
+  "desc": "",
+  "size": "",
+  "id": "c80357f1-b0cb-4932-a717-65058085ca09",
+  "capacity": "",
+  "isPublished": true,
+  "video": "",
+  "usage": "",
+  "uid": "protein-analyzer-clinical-specific-protein-analyzer-30"
+}

@@ -1,0 +1,28 @@
+{
+  "desc": "",
+  "automation": "",
+  "capacity": "",
+  "throughput": "",
+  "id": "de25ba3f-8c9e-4c4a-8908-af94991f69bb",
+  "isPublished": true,
+  "availability": "",
+  "usage": "",
+  "video": "",
+  "pdf": "",
+  "size": "",
+  "subCategory": "Microcentrifuge",
+  "category": "Laboratory Centrifuge",
+  "brand": "",
+  "slug": "semi-automatic-laboratory-micro-centrifuge",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FMicrocentrifuge%2Flaboratory-micro-centrifuge-500x500.jpg?alt=media&token=7e67f316-87e0-447c-96c5-893c66cb5bae"
+  ],
+  "model": "",
+  "title": "Semi Automatic Laboratory Micro Centrifuge",
+  "instrument": "",
+  "createdAt": "2026-08-07T06:56:27.741Z",
+  "price": "",
+  "parameters": "",
+  "categoryProductId": "M-19",
+  "uid": "laboratory-centrifuge-microcentrifuge-18"
+}
