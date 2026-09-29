@@ -17,7 +17,7 @@ import SectionTitle from "@/components/SectionTitle";
 import DDS from "@/components/img/Dds.png";
 
 export const metadata = {
-  title: "About Our Medical Equipment Division | Biomedical & Laboratory Diagnostic Supplier",
+  title: "About Our Biomedical Catalogue | Biomedical & Laboratory Diagnostic Supplier",
   description: "Learn about Raj Biosis, a trusted name in medical diagnostic and laboratory technologies, providing CBC machines, biochemistry analyzers, and test kits in India.",
   alternates: {
     canonical: "https://glucometers.in/about",
@@ -28,68 +28,68 @@ export default function AboutPage() {
   const values = [
     {
       icon: <Award className="h-7 w-7 text-cyan-600" />,
-      title: "Precision & Accuracy",
-      description: "Diagnostics determine clinical outcomes. We ensure our equipment is calibrated to the highest global standards of diagnostic precision."
+      title: "Specification First",
+      description: "Biomedical purchasing often starts with specifications. We help buyers review the details that matter for intended use, workflow, capacity, compatibility, and operating environment."
     },
     {
       icon: <ShieldCheck className="h-7 w-7 text-cyan-600" />,
-      title: "Reliability & Uptime",
-      description: "Hospitals and clinical pathology labs run non-stop. We design and deliver maintenance programs that guarantee minimum device downtime."
+      title: "Practical Availability",
+      description: "We focus on products and support options that fit real working environments, from routine laboratory benches to busy clinical and institutional settings."
     },
     {
       icon: <TrendingUp className="h-7 w-7 text-cyan-600" />,
-      title: "Scientific Innovation",
-      description: "We bridge the gap between global innovations and local pathology needs, supplying advanced, cost-effective analyzers across India."
+      title: "Category Breadth",
+      description: "The catalogue is intentionally wider than a single specialty, bringing together diagnostic systems, laboratory equipment, consumables, monitoring products, reagents, and accessories."
     },
     {
       icon: <Users className="h-7 w-7 text-cyan-600" />,
-      title: "Client-Centric Support",
-      description: "From site planning and installation to intensive operator training and technical support, we stand with our healthcare partners."
+      title: "Requirement-Based Assistance",
+      description: "We help purchasers turn a product need into a clearer enquiry by considering application, quantity, brand preference, model details, and related accessories."
     }
   ];
 
   const milestones = [
     {
       year: "2014",
-      title: "The Inception",
-      description: "Raj Biosis was established with a focus on distribution of high-grade laboratory reagents and diagnostic consumables."
+      title: "Early Distribution",
+      description: "The business began by serving laboratory and healthcare buyers with diagnostic consumables, reagents, and essential biomedical supplies."
     },
     {
       year: "2017",
-      title: "Analyzer Solutions Expansion",
-      description: "Transitioned to full-scale clinical solutions, importing and distributing advanced Hematology and Biochemistry Analyzers."
+      title: "Equipment Portfolio",
+      description: "The portfolio expanded into clinical instruments and laboratory equipment, adding analyzer categories alongside routine supplies."
     },
     {
       year: "2020",
-      title: "500+ Installations",
-      description: "Milestone achievement of successfully establishing over 500 analyzer installations across clinical pathology labs and hospitals."
+      title: "Broader Catalogue",
+      description: "The catalogue developed beyond instruments to include accessories, test kits, monitoring products, collection supplies, and other recurring laboratory requirements."
     },
     {
       year: "2023",
-      title: "Global Brands Partnership",
-      description: "Strengthened our channel portfolio with authorized access to leading diagnostic brands like Erba, Roche, Abbott, and Mindray."
+      title: "Multi-Category Sourcing",
+      description: "The sourcing mix grew to cover multiple biomedical categories and a wider set of manufacturers, giving buyers more ways to approach a requirement."
     },
     {
       year: "Present",
-      title: "National Diagnostic Supplier",
-      description: "Equipping over 1,200+ healthcare facilities across India, operating with specialized calibration and maintenance teams."
+      title: "Current Direction",
+      description: "Today the platform is positioned as a multi-category biomedical marketplace for healthcare, laboratory, diagnostic, and institutional procurement."
     }
   ];
 
   const complianceFeatures = [
-    "NABL Standard Guideline Conformity for all calibrations",
-    "ISO & CE certified biomedical laboratory instruments",
-    "Procurement of 100% genuine reagents and accessories",
-    "Expert team of company-trained biomedical support engineers",
-    "Prompt on-site troubleshooting and comprehensive maintenance schedules"
+    "Specification and documentation support for equipment enquiries",
+    "Product information organized around brand, model, capacity, and application",
+    "Multiple biomedical categories rather than a single device segment",
+    "Assistance for institutional, clinical, laboratory, and distributor requirements",
+    "Enquiry support for recurring supplies and equipment purchases"
   ];
 
   return (
     <div className="site0-static">
       {/* Banner */}
       <PageBanner
-        title="About Our Medical Equipment Division"
-        subtitle="Empowering clinical pathology and healthcare diagnostics through premium biomedical equipment, precise calibration, and expert maintenance support."
+        title="About Our Biomedical Catalogue"
+        subtitle="Helping healthcare, laboratory, diagnostic, and institutional buyers navigate a broad range of biomedical products, equipment, consumables, and diagnostic supplies."
       />
 
       {/* Who We Are & Story Section */}
@@ -120,10 +120,10 @@ export default function AboutPage() {
                 10+
               </h3>
               <p className="mt-1 text-sm font-semibold text-cyan-950">
-                Years of Excellence
+                Years in Biomedical Supply
               </p>
               <p className="text-xs text-cyan-900/60">
-                In Diagnostics & Biomedicals
+                Across Multiple Product Categories
               </p>
             </div>
 
@@ -134,8 +134,8 @@ export default function AboutPage() {
                   <Activity className="h-5 w-5 text-cyan-600" />
                 </div>
                 <div>
-                  <p className="text-sm font-semibold text-cyan-950">99.8% Uptime</p>
-                  <p className="text-xs text-cyan-900/60">Assured Lab Operations</p>
+                  <p className="text-sm font-semibold text-cyan-950">Broad Product Coverage</p>
+                  <p className="text-xs text-cyan-900/60">Equipment, Diagnostics & Supplies</p>
                 </div>
               </div>
             </div>
@@ -145,16 +145,16 @@ export default function AboutPage() {
           <div>
             <SectionTitle
               badge="Our Identity"
-              title="Pioneering Medical Diagnostics and Lab Technologies"
-              description="For over a decade, Raj Biosis has been a pillar of trust for laboratory setups, hospitals, and clinical diagnostic labs. We source and supply advanced biomedical instruments designed for precision diagnostic testing."
+              title="A Broader Approach to Biomedical Procurement"
+              description="Raj Biosis serves a varied biomedical purchasing landscape. The catalogue brings together instruments, diagnostic products, laboratory consumables, monitoring devices, reagents, accessories, and other supplies used across healthcare and laboratory workflows."
             />
 
             <p className="mt-8 leading-8 text-cyan-900/70">
-              In modern healthcare, diagnostic accuracy determines patient recovery paths. Understanding this high stakes responsibility, we cooperate only with the industry's most reliable manufacturers, providing our clients with equipment that delivers accurate results, test after test.
+              Biomedical procurement is rarely about one product in isolation. A laboratory may need an analyzer together with reagents and consumables, while a clinic may require monitoring equipment, diagnostic kits, and compatible accessories. Our catalogue is structured to accommodate these different purchasing patterns.
             </p>
 
             <p className="mt-5 leading-8 text-cyan-900/70">
-              Whether you are establishing a new laboratory facility or looking to modernize your clinical testing instruments, our biomedical consultants provide personalized options tailored to your patient load and testing requirements.
+              Whether you are replacing an instrument, adding a new testing capability, restocking consumables, or sourcing for multiple departments, the goal is to make product discovery and enquiry more straightforward.
             </p>
 
             {/* Minor features */}
@@ -187,7 +187,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-2 gap-8 md:grid-cols-4 text-center">
             <div>
               <p className="text-4xl lg:text-5xl font-extrabold text-cyan-400">10+</p>
-              <p className="mt-2 text-sm lg:text-base text-cyan-100/70 uppercase tracking-wider font-semibold">Years of Excellence</p>
+              <p className="mt-2 text-sm lg:text-base text-cyan-100/70 uppercase tracking-wider font-semibold">Years in Biomedical Supply</p>
             </div>
             <div>
               <p className="text-4xl lg:text-5xl font-extrabold text-cyan-400">1,200+</p>
@@ -211,9 +211,9 @@ export default function AboutPage() {
         
         <div className="container-custom">
           <SectionTitle
-            badge="Our Pillars"
-            title="The Values That Guide Our Biomedical Operations"
-            description="Our approach to supplying medical diagnostic systems is built on principles of precision, client trust, and scientific innovation."
+            badge="What Shapes the Catalogue"
+            title="Principles Behind Our Product Approach"
+            description="Our product approach emphasizes useful specifications, category breadth, practical purchasing information, and support for different healthcare workflows."
             center
           />
 
@@ -242,9 +242,9 @@ export default function AboutPage() {
       <section className="relative overflow-hidden py-24 bg-gradient-to-b from-white via-[#F8FCFD] to-[#ECFEFF]">
         <div className="container-custom">
           <SectionTitle
-            badge="Our Progress"
-            title="Milestones of Our Diagnostic Journey"
-            description="How Raj Biosis evolved from a local reagent supplier into a leading medical laboratory solutions company."
+            badge="How the Range Evolved"
+            title="From Focused Supplies to a Wider Biomedical Range"
+            description="The catalogue has expanded from recurring laboratory supplies into a wider selection of equipment, diagnostics, monitoring products, consumables, and accessories."
             center
           />
 
@@ -280,17 +280,17 @@ export default function AboutPage() {
         <div className="container-custom grid items-center gap-12 lg:grid-cols-2">
           <div>
             <SectionTitle
-              badge="Quality & Compliance"
-              title="Adherence to Rigorous Medical Testing Standards"
-              description="Diagnostic devices dictate medical prescriptions and diagnoses. We ensure that our equipment and maintenance protocols comply with NABL guidelines and clinical standards."
+              badge="Product Information & Quality"
+              title="Clear Product Information for Better Purchasing Decisions"
+              description="Different biomedical products have different operating requirements. We emphasize clear product information so buyers can assess intended application, specifications, compatibility, and procurement fit."
             />
             <p className="mt-6 leading-7 text-cyan-900/60">
-              Quality assurance isn't just a compliance milestone for us—it is our primary operating philosophy. Our calibration engineers use reference standards traceble to national bodies to verify the mechanical, electrical, and optical accuracy of diagnostic systems.
+              For equipment enquiries, buyers should review the available model, capacity, throughput, automation, dimensions, and application information alongside manufacturer documentation and the requirements of the intended facility.
             </p>
           </div>
 
           <div className="rounded-[36px] border border-cyan-100 bg-[#F8FCFD] p-8 md:p-12 shadow-sm">
-            <h3 className="text-xl font-bold text-cyan-950 mb-6">Our Assurance Standards</h3>
+            <h3 className="text-xl font-bold text-cyan-950 mb-6">What Buyers Can Review</h3>
             <ul className="space-y-4">
               {complianceFeatures.map((feat, index) => (
                 <li key={index} className="flex items-start gap-4">

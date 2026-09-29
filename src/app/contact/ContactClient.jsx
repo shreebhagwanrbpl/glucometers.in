@@ -2,13 +2,6 @@
 
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
-import {
-  doc,
-  getDoc,
-  addDoc,
-  collection,
-} from "firebase/firestore";
-import { db } from "@/lib/firebase";
 import toast from "react-hot-toast";
 
 import {
@@ -105,18 +98,7 @@ export default function ContactClient() {
     try {
       setSubmitting(true);
 
-      await addDoc(
-        collection(
-          db,
-          "websitesQueries",
-          "glucometersin",
-          "contactQueries"
-        ),
-        {
-          ...form,
-          createdAt: new Date(),
-        }
-      );
+      await fetch("/api/contact-query", { method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({...form, createdAt:new Date().toISOString()}) }).then(async r=>{ if(!r.ok) throw new Error((await r.json()).error||"Submission failed"); });
 
       toast.success(
         "Message submitted successfully"
@@ -142,65 +124,24 @@ export default function ContactClient() {
   ===================================================== */
 
   useEffect(() => {
-    const loadDistrict = async () => {
-      if (!currentDistrict) {
-        setDistrictData(null);
-        return;
-      }
+    if (!currentDistrict) {
+      setDistrictData(null);
+      return;
+    }
 
-      try {
-        const snap = await getDoc(
-          doc(
-            db,
-            "websites",
-            "glucometersin",
-            "districts",
-            currentDistrict
-          )
-        );
-
-        if (snap.exists()) {
-          setDistrictData(snap.data());
-        }
-      } catch (err) {
-        console.log(err);
-      }
-    };
-
-    loadDistrict();
+    fetch(`/api/site-data?page=district&district=${encodeURIComponent(currentDistrict)}`, { cache: "no-store" })
+      .then((r) => r.json())
+      .then((data) => {
+        if (data) setDistrictData(data);
+      })
+      .catch((err) => console.log(err));
   }, [currentDistrict]);
 
   /* =====================================================
      LOAD CONTACT
   ===================================================== */
 
-  useEffect(() => {
-    const loadContact = async () => {
-      try {
-        const snap = await getDoc(
-          doc(
-            db,
-            "websites",
-            "glucometersin",
-            "pages",
-            "contact"
-          )
-        );
-
-        if (snap.exists()) {
-          setContactInfo(
-            snap.data().contactInfo || []
-          );
-        }
-      } catch (err) {
-        console.log(err);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    loadContact();
-  }, []);
+  useEffect(() => { fetch("/api/site-data?page=contact", {cache:"no-store"}).then(r=>r.json()).then(d=>setContactInfo(d?.contactInfo || [])).catch(console.error).finally(()=>setLoading(false)); }, []);
 
   /* =====================================================
      CONTACT VALUES
@@ -300,7 +241,7 @@ export default function ContactClient() {
 
               <span className="h-2 w-2 rounded-full bg-emerald-500" />
 
-              Premium Biomedical Solutions
+              Biomedical Enquiry Desk
 
             </span>
 
@@ -318,9 +259,7 @@ export default function ContactClient() {
 
             <p className="mx-auto mt-7 max-w-2xl text-lg leading-8 text-cyan-900/70 md:text-xl">
 
-              Connect with our glucose monitoring team {districtData?.district ? `in ${districtData.district}` : ""} for diagnostic equipment,
-              laboratory solutions, biomedical instruments and
-              healthcare support.
+              Connect with our team {districtData?.district ? `in ${districtData.district}` : ""} about equipment, diagnostic products, laboratory consumables, monitoring devices, reagents, and other biomedical requirements.
 
             </p>
 
@@ -329,7 +268,7 @@ export default function ContactClient() {
           {/* Hero highlights */}
           <div className="mx-auto mt-14 grid max-w-5xl gap-4 sm:grid-cols-3">
 
-            {/* Product Enquiry */}
+            {/* Catalogue Enquiry */}
             <div className="group rounded-[28px] border border-cyan-100 bg-white/90 p-6 text-center shadow-[0_18px_45px_rgba(8,145,178,0.10)] backdrop-blur transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_25px_55px_rgba(8,145,178,0.16)]">
 
               <div className="mx-auto flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-cyan-500 to-sky-500 text-white shadow-lg shadow-cyan-300/30 transition-transform duration-300 group-hover:scale-110">
@@ -339,16 +278,16 @@ export default function ContactClient() {
               </div>
 
               <h3 className="mt-5 text-lg font-bold text-cyan-950">
-                Product Enquiry
+                Catalogue Enquiry
               </h3>
 
               <p className="mt-2 text-sm leading-6 text-cyan-900/60">
-                Ask about products, availability and specifications.
+                Ask about a product, model, quantity, or specification.
               </p>
 
             </div>
 
-            {/* Equipment Consultation */}
+            {/* Requirement Review */}
             <div className="group rounded-[28px] border border-indigo-100 bg-white/90 p-6 text-center shadow-[0_18px_45px_rgba(99,102,241,0.10)] backdrop-blur transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_25px_55px_rgba(99,102,241,0.16)]">
 
               <div className="mx-auto flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-indigo-500 to-fuchsia-500 text-white shadow-lg shadow-indigo-300/30 transition-transform duration-300 group-hover:scale-110">
@@ -358,16 +297,16 @@ export default function ContactClient() {
               </div>
 
               <h3 className="mt-5 text-lg font-bold text-cyan-950">
-                Equipment Consultation
+                Requirement Review
               </h3>
 
               <p className="mt-2 text-sm leading-6 text-cyan-900/60">
-                Discuss your diagnostic and laboratory requirements.
+                Discuss the application, workflow, and equipment you are considering.
               </p>
 
             </div>
 
-            {/* Professional Support */}
+            {/* Buyer Assistance */}
             <div className="group rounded-[28px] border border-emerald-100 bg-white/90 p-6 text-center shadow-[0_18px_45px_rgba(16,185,129,0.10)] backdrop-blur transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_25px_55px_rgba(16,185,129,0.16)]">
 
               <div className="mx-auto flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-emerald-500 to-cyan-500 text-white shadow-lg shadow-emerald-300/30 transition-transform duration-300 group-hover:scale-110">
@@ -377,11 +316,11 @@ export default function ContactClient() {
               </div>
 
               <h3 className="mt-5 text-lg font-bold text-cyan-950">
-                Professional Support
+                Buyer Assistance
               </h3>
 
               <p className="mt-2 text-sm leading-6 text-cyan-900/60">
-                Connect with our team for your healthcare needs.
+                Get practical assistance while preparing a biomedical purchase enquiry.
               </p>
 
             </div>
@@ -403,15 +342,15 @@ export default function ContactClient() {
           <div>
 
             <span className="inline-flex items-center rounded-full border border-cyan-200 bg-cyan-50 px-5 py-2 text-sm font-semibold text-cyan-700">
-              Talk To Our Team
+              Tell Us What You Need
             </span>
 
             <h2 className="mt-5 text-4xl font-extrabold leading-tight text-cyan-950 md:text-5xl">
 
-              Let's Start a
+              Let’s Turn a Requirement Into a
 
               <span className="block bg-gradient-to-r from-cyan-600 via-sky-500 to-indigo-500 bg-clip-text text-transparent">
-                Conversation
+                Product Enquiry
               </span>
 
             </h2>
@@ -420,9 +359,7 @@ export default function ContactClient() {
 
             <p className="mt-6 max-w-xl text-lg leading-8 text-cyan-900/70">
 
-              Reach out to us for healthcare consultation,
-              biomedical products, diagnostic equipment and
-              laboratory support.
+              Send your requirement for biomedical equipment, diagnostic products, laboratory supplies, monitoring devices, or recurring consumables and include any model or quantity details you already have.
 
             </p>
 
@@ -667,12 +604,11 @@ export default function ContactClient() {
             </span>
 
             <h2 className="mt-5 text-3xl font-extrabold text-cyan-950 md:text-4xl">
-              Solutions Built Around Your Needs
+              Explore the Wider Biomedical Range
             </h2>
 
             <p className="mt-4 leading-7 text-cyan-900/65">
-              Explore professional diagnostic, laboratory and
-              biomedical solutions for modern healthcare requirements.
+              Browse a multi-category range covering diagnostic systems, laboratory equipment, biomedical instruments, consumables, and related healthcare products.
             </p>
 
           </div>
@@ -689,12 +625,11 @@ export default function ContactClient() {
               </div>
 
               <h3 className="mt-6 text-xl font-bold text-cyan-950">
-                Diagnostic Equipment
+                Diagnostic Systems
               </h3>
 
               <p className="mt-3 leading-7 text-cyan-900/65">
-                Diagnostic equipment for hospitals,
-                laboratories and healthcare environments.
+                Equipment used across hospitals, laboratories, clinics, and diagnostic environments.
               </p>
 
             </div>
@@ -709,12 +644,11 @@ export default function ContactClient() {
               </div>
 
               <h3 className="mt-6 text-xl font-bold text-cyan-950">
-                Laboratory Solutions
+                Laboratory Essentials
               </h3>
 
               <p className="mt-3 leading-7 text-cyan-900/65">
-                Solutions designed to support modern
-                laboratory workflows and requirements.
+                Consumables and supporting products for everyday laboratory workflows.
               </p>
 
             </div>
@@ -729,12 +663,11 @@ export default function ContactClient() {
               </div>
 
               <h3 className="mt-6 text-xl font-bold text-cyan-950">
-                Biomedical Instruments
+                Biomedical Equipment
               </h3>
 
               <p className="mt-3 leading-7 text-cyan-900/65">
-                Professional biomedical instruments for
-                healthcare and diagnostic applications.
+                Equipment for clinical, diagnostic, monitoring, and laboratory applications.
               </p>
 
             </div>
@@ -749,12 +682,11 @@ export default function ContactClient() {
               </div>
 
               <h3 className="mt-6 text-xl font-bold text-cyan-950">
-                Support & Consultation
+                Selection Assistance
               </h3>
 
               <p className="mt-3 leading-7 text-cyan-900/65">
-                Assistance while exploring equipment and
-                solutions for your requirements.
+                Help with narrowing down products and preparing clearer purchase enquiries.
               </p>
 
             </div>

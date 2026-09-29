@@ -1,28 +1,28 @@
 {
-  "availability": "",
   "isPublished": true,
-  "instrument": "",
-  "video": "",
   "usage": "",
-  "parameters": "",
-  "slug": "centrifuge-machine-electrical",
-  "category": "Laboratory Centrifuge",
-  "images": [
-    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FElectric%20Centrifuge%2Fcentrifuge-machine-electrical-500x500.jpg?alt=media&token=8887e0a3-716c-4380-80df-2a997cf5666c"
-  ],
-  "categoryProductId": "EC-33",
-  "pdf": "",
+  "video": "",
   "createdAt": "2026-08-07T06:56:21.898Z",
   "model": "",
   "title": "Centrifuge Machine Electrical",
-  "desc": "Widely used in Pathological labs, Blood Banks, Educational Institutes for routine centrifuging tests. The centrifuge has a heavy gauge spun Aluminium guard bowl & cover, which completely encloses the head, Electrically operated, with the speed regulator switch having On/Off & five speed positions. Finished with attractive enamel paint. Packed in ca",
   "subCategory": "Electric Centrifuge",
-  "price": "",
-  "id": "0c5c99da-44ff-4252-9530-a93ead735e5a",
-  "automation": "",
   "throughput": "",
+  "id": "0c5c99da-44ff-4252-9530-a93ead735e5a",
+  "slug": "centrifuge-machine-electrical",
+  "pdf": "",
+  "parameters": "",
+  "availability": "",
   "size": "",
+  "price": "",
+  "category": "Laboratory Centrifuge",
   "brand": "",
+  "desc": "Widely used in Pathological labs, Blood Banks, Educational Institutes for routine centrifuging tests. The centrifuge has a heavy gauge spun Aluminium guard bowl & cover, which completely encloses the head, Electrically operated, with the speed regulator switch having On/Off & five speed positions. Finished with attractive enamel paint. Packed in ca",
+  "categoryProductId": "EC-33",
   "capacity": "",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/rajbiosis-central.firebasestorage.app/o/Laboratory%20Centrifuge%2FElectric%20Centrifuge%2Fcentrifuge-machine-electrical-500x500.jpg?alt=media&token=8887e0a3-716c-4380-80df-2a997cf5666c"
+  ],
+  "automation": "",
+  "instrument": "",
   "uid": "laboratory-centrifuge-electric-centrifuge-32"
 }

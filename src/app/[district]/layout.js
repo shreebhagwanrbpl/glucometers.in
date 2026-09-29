@@ -9,16 +9,16 @@ export async function generateMetadata({ params }) {
   const url = `https://glucometers.in/${district}`;
 
   return {
-    title: `Blood Glucose Monitor & Glucometer Supplier in ${districtName} | Raj Biosis`,
+    title: `Biomedical Equipment & Diagnostic Products in ${districtName} | Raj Biosis`,
 
-    description: `Raj Biosis helps customers in ${districtName} source blood glucose monitors, digital glucometer devices, and diabetes testing consumables.`,
+    description: `Raj Biosis helps buyers in ${districtName} explore biomedical equipment, diagnostic products, laboratory supplies, monitoring devices, and recurring consumables.`,
 
     keywords: [
-      `Glucometers ${districtName}`,
-      `Blood Glucose Monitors ${districtName}`,
-      `Digital Glucometer Supplier ${districtName}`,
-      `Diabetes Care Kits ${districtName}`,
-      `Glucose Meter Sourcing ${districtName}`,
+      `Biomedical Products ${districtName}`,
+      `Diagnostic Equipment ${districtName}`,
+      `Laboratory Supplies ${districtName}`,
+      `Medical Consumables ${districtName}`,
+      `Monitoring Devices ${districtName}`,
     ],
 
     robots: {
@@ -31,8 +31,8 @@ export async function generateMetadata({ params }) {
     },
 
     openGraph: {
-      title: `Blood Glucose Monitor & Glucometer Supplier in ${districtName} | Raj Biosis`,
-      description: `Raj Biosis helps customers in ${districtName} source blood glucose monitors, digital glucometer devices, and diabetes testing consumables.`,
+      title: `Biomedical Equipment & Diagnostic Products in ${districtName} | Raj Biosis`,
+      description: `Raj Biosis helps buyers in ${districtName} explore biomedical equipment, diagnostic products, laboratory supplies, monitoring devices, and recurring consumables.`,
       url,
       type: "website",
     },

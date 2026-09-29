@@ -172,16 +172,17 @@ export default function ProductsClient({ initialProducts = [], district = null, 
     return () => clearTimeout(timer);
   }, [searchInput]);
 
-  // Load the full catalog in the background on client mount
+  // Load the full dynamic catalog on client mount
   useEffect(() => {
-    fetch("/catalog-static.json")
+    fetch("/api/catalog", { cache: "no-store" })
       .then((res) => res.json())
       .then((data) => {
-        if (Array.isArray(data) && data.length > 0) {
-          setProducts(data);
+        const prods = data?.products || data?.catalog || [];
+        if (Array.isArray(prods) && prods.length > 0) {
+          setProducts(prods);
         }
       })
-      .catch((err) => console.error("Error loading full catalog client-side:", err));
+      .catch((err) => console.error("Error loading dynamic catalog client-side:", err));
   }, []);
 
   // Combined single-pass product filtering, grouping, category count, and sorting for maximum performance
@@ -425,7 +426,7 @@ export default function ProductsClient({ initialProducts = [], district = null, 
         <div className="container-custom">
           <SectionTitle
             badge="Featured Products"
-            title="Premium Biomedical Equipment"
+            title="Browse the Biomedical Product Catalogue"
             description="Review diagnostic and biomedical technologies chosen to suit laboratory workflows, healthcare institutions, and routine testing requirements."
             center
           />
@@ -600,8 +601,8 @@ export default function ProductsClient({ initialProducts = [], district = null, 
         <div className="container-custom">
           <SectionTitle
             badge="Why Our Products"
-            title="Trusted Quality & Innovation"
-            description="Our biomedical product range emphasizes dependable operation, practical performance, and long-term usability in healthcare settings."
+            title="Product Selection Notes"
+            description="Use the category, specification, brand, and application information to compare options for your particular healthcare or laboratory workflow."
             center
           />
 
@@ -609,19 +610,19 @@ export default function ProductsClient({ initialProducts = [], district = null, 
             {[
               {
                 icon: <ShieldCheck size={30} />,
-                title: "Certified Quality",
+                title: "Specification Details",
               },
               {
                 icon: <Truck size={30} />,
-                title: "Fast Delivery",
+                title: "Procurement Options",
               },
               {
                 icon: <BadgeCheck size={30} />,
-                title: "Trusted Support",
+                title: "Enquiry Assistance",
               },
               {
                 icon: <PackageCheck size={30} />,
-                title: "Premium Equipment",
+                title: "Wide Product Coverage",
               },
             ].map((item, index) => (
               <div

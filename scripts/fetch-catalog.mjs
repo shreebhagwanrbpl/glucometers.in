@@ -129,15 +129,30 @@ async function run() {
       fs.mkdirSync(productsDir, { recursive: true });
     }
 
-    // 1. Write individual full product files
-    console.log("Writing individual product JSON files...");
-    allProducts.forEach((product) => {
-      const productSlug = product.slug;
-      if (productSlug) {
-        const filePath = path.join(productsDir, `${productSlug}.json`);
-        fs.writeFileSync(filePath, JSON.stringify(product, null, 2), "utf-8");
+    if (allProducts.length === 0 && fs.existsSync(productsDir)) {
+      console.log("No products returned from Firestore; loading existing product files from disk...");
+      const files = fs.readdirSync(productsDir).filter((f) => f.endsWith(".json"));
+      for (const file of files) {
+        try {
+          const content = fs.readFileSync(path.join(productsDir, file), "utf-8");
+          const prod = JSON.parse(content);
+          if (prod && (prod.title || prod.slug)) {
+            allProducts.push(prod);
+          }
+        } catch (e) {}
       }
-    });
+      console.log(`Loaded ${allProducts.length} products from ${productsDir}`);
+    } else {
+      // 1. Write individual full product files
+      console.log("Writing individual product JSON files...");
+      allProducts.forEach((product) => {
+        const productSlug = product.slug;
+        if (productSlug) {
+          const filePath = path.join(productsDir, `${productSlug}.json`);
+          fs.writeFileSync(filePath, JSON.stringify(product, null, 2), "utf-8");
+        }
+      });
+    }
 
     // 2. Trim product info to create a lightweight summary catalog file
     const trimmedProducts = allProducts.map((p) => ({

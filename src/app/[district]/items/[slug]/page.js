@@ -124,10 +124,10 @@ export default async function Page({ params }) {
             },
             {
                 "@type": "Question",
-                "name": `Do you provide installation support in ${districtName}?`,
+                "name": `Can you help with this product requirement in ${districtName}?`,
                 "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": `Yes, we provide dynamic technical support, installation guidance, and calibration services for clinical instruments directly in the ${districtName} region.`
+                    "text": `Yes, buyers can enquire about the product, applicable technical requirements, compatibility, quantity, and related support for the ${districtName} region.`
                 }
             }
         ]

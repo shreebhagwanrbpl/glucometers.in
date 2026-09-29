@@ -8,24 +8,27 @@ import Testimonials from "@/components/Testimonials";
 import CTASection from "@/components/CTASection";
 import SeoContent from "@/components/SeoContent";
 
-import { fetchFullCatalog } from "@/lib/data-fetcher-server";
+import { fetchFullCatalog, fetchHomeData } from "@/lib/data-fetcher-server";
 
 export const revalidate = 3600;
 
 export const metadata = {
-  title: "Blood Glucose Monitor & Glucometer Dealer in India | Raj Biosis",
-  description: "Raj Biosis is a premier supplier of blood glucose monitors, digital glucometers, lancing devices, and blood sugar testing kits across India.",
+  title: "Biomedical Equipment & Diagnostic Products Supplier in India | Raj Biosis",
+  description: "Raj Biosis offers a multi-category biomedical catalogue covering diagnostic equipment, laboratory instruments, reagents, consumables, monitoring products, test kits, and related healthcare supplies across India.",
   alternates: {
     canonical: "https://glucometers.in",
   },
 };
 
 export default async function Home({ city = "" }) {
-  const allProducts = await fetchFullCatalog();
+  const [allProducts, homeData] = await Promise.all([
+    fetchFullCatalog(),
+    fetchHomeData().catch(() => null),
+  ]);
 
   return (
     <div className="site0-static">
-      <HeroSection city={city} />
+      <HeroSection city={city} initialData={homeData} />
 
       <TrustedBrands city={city} />
 
@@ -37,7 +40,7 @@ export default async function Home({ city = "" }) {
 
       <FeaturedProducts
         city={city}
-        initialProducts={allProducts.slice(0, 3)}
+        initialProducts={allProducts.slice(0, 6)}
       />
 
       <SeoContent city={city} />

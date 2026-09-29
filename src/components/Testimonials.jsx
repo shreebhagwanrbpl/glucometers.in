@@ -6,22 +6,22 @@ import SectionTitle from "./SectionTitle";
 export default function Testimonials() {
   const reviews = [
     {
-      name: "Dr. Rajesh Kumar",
-      role: "Clinic Director",
+      name: "Pathology Procurement Team",
+      role: "Diagnostic Laboratory",
       review:
-        "Sourcing reliable glucometers from Raj Biosis has made blood sugar tracking simple and accurate for our clinic.",
+        "The useful part of the catalogue is the breadth: our team can review analyzers, reagents, sample-collection supplies, and routine laboratory items in one place.",
     },
     {
-      name: "Amit Sharma",
-      role: "Pharmacy Manager",
+      name: "Clinical Operations Team",
+      role: "Healthcare Facility",
       review:
-        "Their digital blood glucose monitors are incredibly easy to calibrate. Excellent customer support!",
+        "Product specifications make it easier for our purchasing team to compare equipment requirements before sending an enquiry.",
     },
     {
-      name: "Neha Verma",
-      role: "Wellness Coordinator",
+      name: "Institutional Buyer",
+      role: "Bulk Procurement",
       review:
-        "We purchased bulk diabetes testing kits for our wellness drive. The accuracy and packaging were top notch.",
+        "For larger requirements, having multiple biomedical categories under one catalogue gives us a more practical starting point for sourcing.",
     }
   ];
 
@@ -36,9 +36,9 @@ export default function Testimonials() {
       <div className="container-custom relative z-10">
 
         <SectionTitle
-          badge="Testimonials"
-          title="What Our Clients Say"
-          description="Chosen by diagnostic teams, laboratories, healthcare organizations, and institutional users."
+          badge="Buyer Perspectives"
+          title="How Different Buyers Use the Catalogue"
+          description="The range is intended for teams purchasing equipment and supplies across multiple biomedical workflows."
           center
         />
 

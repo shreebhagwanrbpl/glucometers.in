@@ -14,23 +14,23 @@ export default function WhyChooseUs() {
   const features = [
     {
       icon: <Microscope size={30} />,
-      title: "Advanced Technology",
-      description: "High-precision digital glucose sensors designed for consistent blood sugar readings and daily clinical safety.",
+      title: "Wide Product Mix",
+      description: "Instruments, reagents, disposables, monitors, collection items, and accessories sit within the same catalogue."
     },
     {
       icon: <ShieldCheck size={30} />,
-      title: "Trusted Quality",
-      description: "Quality-tested glucose meters manufactured for reliable diagnostic accuracy and long-term diabetes care.",
+      title: "Detail-Rich Listings",
+      description: "Use model, capacity, throughput, dimensions, automation, and application fields to narrow your choices."
     },
     {
       icon: <HeartPulse size={30} />,
-      title: "Healthcare Focused",
-      description: "Supporting home users and clinics in adopting reliable blood sugar tracking devices with direct warranty support.",
+      title: "Multiple Buyer Types",
+      description: "Suitable for clinics, hospitals, pharmacies, collection centres, labs, distributors, and institutional teams."
     },
     {
       icon: <BadgeCheck size={30} />,
-      title: "Expert Support",
-      description: "Prompt customer support and calibration guidance for all blood glucose monitoring kits and diabetes tools.",
+      title: "Enquiry Friendly",
+      description: "Send the item name, model, quantity, or requirement and start a focused purchasing conversation."
     },
   ];
 
@@ -46,9 +46,9 @@ export default function WhyChooseUs() {
 
         {/* Section Title */}
         <SectionTitle
-          badge="Why Buyers Choose Our Glucose Solutions"
-          title="Accurate Glucose Monitoring Systems"
-          description="We offer easy-to-use digital blood sugar monitors, original diabetes care kits, and responsive customer guidance."
+          badge="Why Buyers Use Our Catalogue"
+          title="One Biomedical Store for Many Requirements"
+          description="Explore equipment and supplies spanning diagnostics, laboratory operations, patient monitoring, sample handling, and point-of-care testing."
           center
         />
 

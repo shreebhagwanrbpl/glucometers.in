@@ -1,9 +1,6 @@
-import { db } from "@/lib/firebase";
-import {
-    collection,
-    getDocs,
-} from "firebase/firestore";
-import { fetchFullCatalog } from "@/lib/data-fetcher-server";
+import { fetchFullCatalog, fetchDistrictsList } from "@/lib/data-fetcher-server";
+
+export const revalidate = 3600;
 
 export default async function sitemap() {
     const baseUrl = "https://glucometers.in";
@@ -32,19 +29,10 @@ export default async function sitemap() {
 
     try {
         // DISTRICTS
-        const districtSnap = await getDocs(
-            collection(
-                db,
-                "websites",
-                "glucometersin",
-                "districts"
-            )
-        );
-
-        const districts = districtSnap.docs.map((doc) => doc.data());
+        const districts = await fetchDistrictsList().catch(() => []);
 
         districts.forEach((district) => {
-            const slug = district.slug;
+            const slug = typeof district === "string" ? district : district?.slug;
             if (!slug) return;
 
             addUrl(`${baseUrl}/${slug}`, "daily", 0.8);
@@ -55,7 +43,7 @@ export default async function sitemap() {
         });
 
         // PRODUCTS (Using cached server fetch for performance and completeness)
-        const products = await fetchFullCatalog();
+        const products = await fetchFullCatalog().catch(() => []);
 
         products.forEach((product) => {
             if (!product.slug) return;

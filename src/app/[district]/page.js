@@ -7,8 +7,8 @@ export async function generateMetadata({ params }) {
     .replace(/\b\w/g, (char) => char.toUpperCase());
 
   return {
-    title: `Blood Glucose Monitor & Glucometer Dealer in ${districtName} | Raj Biosis`,
-    description: `Looking for reliable glucose monitoring systems in ${districtName}? Raj Biosis is a leading supplier of blood glucose monitors, digital glucometers, and diabetes care kits.`,
+    title: `Biomedical Equipment & Diagnostic Products in ${districtName} | Raj Biosis`,
+    description: `Find biomedical equipment, diagnostic products, laboratory supplies, monitoring devices, reagents, and consumables for healthcare requirements in ${districtName}.`,
     alternates: {
       canonical: `https://glucometers.in/${district}`,
     },

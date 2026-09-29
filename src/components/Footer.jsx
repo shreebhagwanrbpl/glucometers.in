@@ -1,8 +1,6 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { doc, getDoc, getDocs, collection } from "firebase/firestore";
-import { db } from "@/lib/firebase";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
@@ -47,74 +45,13 @@ export default function Footer() {
      LOAD CONTACT INFORMATION
   ===================================================== */
 
-  useEffect(() => {
-    const loadContact = async () => {
-      try {
-        const snap = await getDoc(
-          doc(
-            db,
-            "websites",
-            "glucometersin",
-            "pages",
-            "contact"
-          )
-        );
-
-        if (snap.exists()) {
-          setContactInfo(
-            snap.data().contactInfo || []
-          );
-        }
-
-        setLoading(false);
-      } catch (err) {
-        console.error(
-          "Error loading contact information:",
-          err
-        );
-
-        setLoading(false);
-      }
-    };
-
-    loadContact();
-  }, []);
+  useEffect(() => { fetch("/api/site-data?page=contact", { cache: "no-store" }).then(r => r.json()).then(d => setContactInfo(d?.contactInfo || [])).catch(console.error).finally(() => setLoading(false)); }, []);
 
   /* =====================================================
      LOAD DISTRICT DATA
   ===================================================== */
 
-  useEffect(() => {
-    const loadDistrict = async () => {
-      if (!district) {
-        setDistrictData(null);
-        return;
-      }
-
-      try {
-        const snap = await getDoc(
-          doc(
-            db,
-            "websites",
-            "glucometersin",
-            "districts",
-            district
-          )
-        );
-
-        if (snap.exists()) {
-          setDistrictData(snap.data());
-        }
-      } catch (err) {
-        console.error(
-          "Error loading district:",
-          err
-        );
-      }
-    };
-
-    loadDistrict();
-  }, [district]);
+  useEffect(() => { if (!district) return; fetch(`/api/site-data?page=district&district=${encodeURIComponent(district)}`, { cache: "no-store" }).then(r => r.json()).then(setDistrictData).catch(console.error); }, [district]);
 
   /* =====================================================
      LOAD PRODUCT CATEGORIES
@@ -123,69 +60,31 @@ export default function Footer() {
   useEffect(() => {
     const loadProductCategories = async () => {
       try {
-        const categorySnap = await getDocs(
-          collection(
-            db,
-            "websites",
-            "glucometersin",
-            "pages",
-            "categoryproducts",
-            "categories"
-          )
-        );
+        const res = await fetch("/api/catalog", { cache: "no-store" });
+        const data = await res.json();
+        const products = data?.products || data?.catalog || [];
 
-        const categories = [];
+        const seen = new Set();
+        const uniqueCategories = [];
 
-        categorySnap.forEach((categoryDoc) => {
-          const data = categoryDoc.data();
-
-          const categoryName =
-            data.category ||
-            data.name ||
-            data.title ||
-            categoryDoc.id;
-
+        products.forEach((p) => {
+          const categoryName = p.category ? String(p.category).trim() : "";
           if (!categoryName) return;
 
-          const cleanName = String(
-            categoryName
-          ).trim();
-
-          if (!cleanName) return;
-
-          categories.push({
-            id: categoryDoc.id,
-            name: cleanName,
-          });
-        });
-
-        /* Remove duplicate category names */
-
-        const uniqueCategories = [];
-        const seen = new Set();
-
-        categories.forEach((category) => {
-          const key = category.name
-            .toLowerCase()
-            .trim();
-
+          const key = categoryName.toLowerCase();
           if (!seen.has(key)) {
             seen.add(key);
-            uniqueCategories.push(category);
+            uniqueCategories.push({
+              id: key,
+              name: categoryName,
+            });
           }
         });
 
         /* Show only first 5 categories */
-
-        setProductCategories(
-          uniqueCategories.slice(0, 5)
-        );
+        setProductCategories(uniqueCategories.slice(0, 5));
       } catch (err) {
-        console.error(
-          "Error loading product categories:",
-          err
-        );
-
+        console.error("Error loading product categories:", err);
         setProductCategories([]);
       }
     };
@@ -345,9 +244,9 @@ export default function Footer() {
             </h2>
 
             <p className="mt-5 leading-8 text-cyan-900/70">
-              Delivering trusted diagnostic and biomedical
-              solutions with innovation, quality, and
-              precision healthcare support.
+              A multi-category source for biomedical equipment,
+              diagnostic products, laboratory consumables,
+              monitoring devices, and healthcare essentials.
             </p>
 
             {/* =================================================
@@ -488,13 +387,13 @@ export default function Footer() {
 
             <div className="space-y-3 text-cyan-900/70">
 
-              <p>Glucometer Supply</p>
+              <p>Diagnostic Equipment</p>
 
-              <p>Diabetes Tracking Kits</p>
+              <p>Laboratory Supplies</p>
 
-              <p>Digital Sugar Meters</p>
+              <p>Monitoring Devices</p>
 
-              <p>Calibration Sourcing</p>
+              <p>Reagents & Test Kits</p>
 
             </div>
 
@@ -601,7 +500,7 @@ export default function Footer() {
           </p>
 
           <p className="mt-3 md:mt-0">
-            Designed with precision for modern diabetes care and glucose monitoring.
+            Built for practical discovery across healthcare and laboratory product categories.
           </p>
 
         </div>

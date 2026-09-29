@@ -15,27 +15,27 @@ export default function ServicesPreview() {
   const services = [
     {
       icon: <Microscope size={30} />,
-      title: "Glucometer Supply",
+      title: "Instrument Sourcing",
       description:
-        "Providing automatic blood glucose monitors and digital meters for clinics and homes.",
+        "Locate analyzers, readers, monitors, and other instruments by use case and key specifications.",
     },
     {
       icon: <FlaskConical size={30} />,
-      title: "Diabetes Tracking Kits",
+      title: "Bench & Collection Supplies",
       description:
-        "Sourcing complete diabetes kits including lancing devices, journals, and storage bags.",
+        "Cover tubes, pipette accessories, collection items, disposables, and everyday bench supplies.",
     },
     {
       icon: <ShieldCheck size={30} />,
-      title: "Calibration Sourcing",
+      title: "Selection Desk",
       description:
-        "Prompt accuracy calibration guidance and vendor warranty checks for digital glucose meters.",
+        "Clarify model, capacity, throughput, add-ons, operating needs, and differences between listings.",
     },
     {
       icon: <Stethoscope size={30} />,
-      title: "Clinical Training",
+      title: "Bulk & Institutional Orders",
       description:
-        "Setup tutorials and patient operation guidance to ensure proper home glucose tracking.",
+        "Prepare single-unit or larger-quantity requests for hospitals, clinics, pharmacies, distributors, and departments.",
     }
   ];
 
@@ -51,9 +51,9 @@ export default function ServicesPreview() {
 
         {/* Title */}
         <SectionTitle
-          badge="Glucose Support Services"
-          title="Customized GLUCOMETERS Technical Services"
-          description="Sourcing customized diagnostics equipment solutions and technical support designed around professional glucometers requirements."
+          badge="Catalogue Assistance"
+          title="More Than a Single Product Segment"
+          description="Use the catalogue for instruments, test products, disposables, monitoring devices, reagents, accessories, and other healthcare purchasing needs."
           center
         />
 

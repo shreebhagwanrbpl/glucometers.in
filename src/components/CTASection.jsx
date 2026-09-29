@@ -78,12 +78,12 @@ export default function CTASection({ city }) {
             <div>
 
               <span className="mb-5 inline-flex items-center rounded-full border border-white/30 bg-white/15 px-5 py-2 text-sm font-semibold backdrop-blur-md">
-                Get In Touch
+                Plan Your Requirement
               </span>
 
-              <h2 className="text-4xl font-extrabold leading-tight lg:text-6xl">Looking for Reliable Glucose Monitors?</h2>
+              <h2 className="text-4xl font-extrabold leading-tight lg:text-6xl">Need Biomedical Products for a Specific Application?</h2>
 
-              <p className="mt-6 max-w-xl text-lg leading-8 text-white/90">Explore our range of digital glucometers and blood glucose monitoring systems designed for quick, accurate, and simple diabetes care tracking.</p>
+              <p className="mt-6 max-w-xl text-lg leading-8 text-white/90">Tell us what you need — equipment, diagnostic products, laboratory consumables, monitoring devices, reagents, or a bulk requirement — and we can help you identify the relevant catalogue options.</p>
 
             </div>
 
@@ -101,8 +101,7 @@ export default function CTASection({ city }) {
                 </h3>
 
                 <p className="mt-3 leading-7 text-cyan-900/70">
-                  Get in touch with our glucose monitoring specialists for consultation,
-                  equipment, installation and healthcare support.
+                  Share your application, preferred brand, model, quantity, or specification. Our team can help you move from a broad requirement to a practical product enquiry.
                 </p>
 
                 <div className="mt-8 flex flex-col gap-4 sm:flex-row">

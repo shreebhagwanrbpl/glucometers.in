@@ -17,14 +17,23 @@ import PageBanner from "@/components/PageBanner";
 import SectionTitle from "@/components/SectionTitle";
 import ServiceCard from "@/components/ServiceCard";
 import CTASection from "@/components/CTASection";
-import { useEffect, useState } from "react";
-import { doc, getDoc } from "firebase/firestore";
-import { db } from "@/lib/firebase";
+import { useState, useEffect } from "react";
 
 export default function ServicesClient() {
-  const [services, setServices] = useState([]);
-  const [loading, setLoading] = useState(true);
   const [openFaq, setOpenFaq] = useState(null);
+  const [services, setServices] = useState([]);
+  const [loading, setLoading] = useState(false);
+
+  useEffect(() => {
+    fetch("/api/site-data?page=services", { cache: "no-store" })
+      .then((r) => r.json())
+      .then((d) => {
+        if (Array.isArray(d?.services) && d.services.length > 0) {
+          setServices(d.services);
+        }
+      })
+      .catch((e) => console.log("Services fetch error:", e));
+  }, []);
 
   const icons = [
     <Microscope size={30} />,
@@ -48,69 +57,13 @@ export default function ServicesClient() {
   };
 
   const fallbackServices = [
-    {
-      id: "diag-supply",
-      title: "Diagnostic Equipment Supply",
-      description: "Distribution of high-end CBC machines, hematology systems, biochemistry analyzers, and immunology readers from certified global manufacturers with full warranty support.",
-      iconName: "Microscope"
-    },
-    {
-      id: "lab-setup",
-      title: "Laboratory Setup & Installation",
-      description: "End-to-end planning, electrical/plumbing specifications, instrument layout, installation, and commissioning of new pathology labs and diagnostic clinics.",
-      iconName: "FlaskConical"
-    },
-    {
-      id: "calibration",
-      title: "NABL Standard Calibration",
-      description: "Regular, certified calibration services using reference materials traceable to national standards to ensure your diagnostic machinery yields highly precise readings.",
-      iconName: "ShieldCheck"
-    },
-    {
-      id: "amc-cmc",
-      title: "Maintenance Contracts (AMC/CMC)",
-      description: "Customized Annual Maintenance Contracts and Comprehensive Maintenance Contracts to protect your capital instruments and ensure maximum uptime.",
-      iconName: "Wrench"
-    },
-    {
-      id: "tech-repair",
-      title: "Emergency Technical Repairs",
-      description: "On-call field engineering support for hardware troubleshooting, diagnostic alignment, laser repairs, and replacement of original components.",
-      iconName: "Activity"
-    },
-    {
-      id: "staff-training",
-      title: "Operator Training & Quality Control",
-      description: "Hands-on instruction for laboratory technicians, including calibration cycles, reagent preparation, quality control charting, and device maintenance.",
-      iconName: "Stethoscope"
-    }
+    { id: "equipment", title: "Equipment & Instrument Sourcing", description: "Source laboratory analyzers, diagnostic instruments, monitoring equipment, and related systems according to application, specification, brand, and quantity.", iconName: "Microscope" },
+    { id: "workflow", title: "Lab Workflow Planning", description: "For new or expanding facilities, discuss equipment requirements, workflow considerations, product combinations, and the practical supplies needed around an instrument.", iconName: "FlaskConical" },
+    { id: "guidance", title: "Product & Specification Guidance", description: "Help buyers interpret model numbers, capacity, throughput, automation, dimensions, and intended application when comparing biomedical equipment.", iconName: "ShieldCheck" },
+    { id: "after-sales", title: "After-Sales Coordination", description: "For applicable equipment, enquiries can cover service requirements, accessories, replacement needs, maintenance arrangements, and manufacturer support.", iconName: "Wrench" },
+    { id: "accessories", title: "Replacement & Accessory Enquiries", description: "Identify compatible accessories, recurring consumables, replacement items, or related products when a biomedical system requires additional components.", iconName: "Activity" },
+    { id: "procurement", title: "Procurement Assistance", description: "Support for hospitals, laboratories, clinics, pharmacies, distributors, and institutional buyers preparing single-unit or bulk product enquiries.", iconName: "Stethoscope" },
   ];
-
-  useEffect(() => {
-    const fetchServices = async () => {
-      try {
-        const snap = await getDoc(
-          doc(
-            db,
-            "websites",
-            "glucometersin",
-            "pages",
-            "services"
-          )
-        );
-
-        if (snap.exists()) {
-          setServices(snap.data().services || []);
-        }
-      } catch (error) {
-        console.error(error);
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    fetchServices();
-  }, []);
 
   const displayServices = services.length > 0 ? services : fallbackServices;
 
@@ -123,26 +76,26 @@ export default function ServicesClient() {
 
   const machineryCategories = [
     {
-      title: "Hematology Analyzers",
-      details: "Preventive maintenance, dilution calibration, laser/optical chamber alignment, clog clearing, and fluidic line replacements.",
+      title: "Hematology & Cell Analysis",
+      details: "Products and accessories used for blood-cell analysis, routine hematology workflows, and related laboratory operations.",
       brands: "Mindray, Sysmex, Erba, Horiba",
       uptime: "99.8%"
     },
     {
-      title: "Biochemistry Systems",
-      details: "Photometer lamp replacements, temperature module calibration, probe cleaning, syringe alignment, and carousel calibration.",
+      title: "Clinical Chemistry",
+      details: "Equipment and supporting supplies for chemistry testing, sample processing, reagent handling, and routine clinical laboratory work.",
       brands: "Erba, Roche, Abbott, Mindray",
       uptime: "99.5%"
     },
     {
-      title: "Coagulation & Urine Analyzers",
-      details: "Optical sensor calibration, incubator temperature adjustment, pump tube replacement, and board-level diagnostic checks.",
+      title: "Coagulation & Urinalysis",
+      details: "Product groups supporting coagulation testing, urine analysis, sample handling, and associated laboratory consumables.",
       brands: "Sysmex, Erba, Roche",
       uptime: "99.9%"
     },
     {
-      title: "ELISA & Immunology Readers",
-      details: "Filter calibration, plate carrier alignment, optical density checks, washer needle adjustments, and software integration.",
+      title: "Immunology & Specialized Testing",
+      details: "Readers, analyzers, kits, and supporting products for immunology and other specialized diagnostic workflows.",
       brands: "Robonik, Bio-Rad, Erba",
       uptime: "99.7%"
     }
@@ -150,20 +103,20 @@ export default function ServicesClient() {
 
   const faqs = [
     {
-      question: "How often should clinical diagnostic analyzers undergo calibration?",
-      answer: "We recommend professional calibration every 3 to 6 months depending on daily sample volume and specific NABL/clinical guidelines. Daily control runs should also be maintained by laboratory technicians."
+      question: "How do I choose between similar biomedical products?",
+      answer: "Start with the intended application, required capacity or throughput, sample type, workflow, compatibility, and manufacturer specifications. The product details can then be used to narrow the shortlist."
     },
     {
-      question: "What is the difference between an AMC and a CMC contract?",
-      answer: "An AMC (Annual Maintenance Contract) covers regular preventive maintenance checks and breakdown service charges. A CMC (Comprehensive Maintenance Contract) covers everything in the AMC plus the cost of all critical spare parts, optical sensors, and fluidic components."
+      question: "Can I enquire about more than one category at once?",
+      answer: "Yes. The catalogue is designed for multi-item and multi-category requirements, so a buyer can include equipment, reagents, consumables, accessories, or monitoring products in the same enquiry."
     },
     {
-      question: "What is the turnaround time (TAT) for emergency breakdown support?",
-      answer: "Our biomedical engineers provide telephone or remote assistance within 2 hours. If an on-site visit is required, we dispatch engineers to arrive within 24 hours for major cities and 48 hours for remote locations."
+      question: "What information should I include in an equipment enquiry?",
+      answer: "A model number, brand, application, required quantity, capacity, throughput, or a photo of the specification plate can make product matching much easier."
     },
     {
-      question: "Are the calibration certifications provided compliant with accreditation bodies?",
-      answer: "Yes, our calibration parameters and certifications are prepared in compliance with standard NABL guidelines, using traceable reference equipment to satisfy regulatory inspections."
+      question: "Are consumables and accessories part of the catalogue too?",
+      answer: "Yes. Alongside instruments, the range includes diagnostic products, reagents, test kits, sample-collection items, laboratory accessories, monitoring devices, and other recurring supplies."
     }
   ];
 
@@ -175,8 +128,8 @@ export default function ServicesClient() {
     <>
       {/* Banner */}
       <PageBanner
-        title="Diagnostic & Biomedical Services"
-        subtitle="Ensuring clinical precision and maximum laboratory uptime through certified calibration, customized maintenance agreements, and responsive field engineering."
+        title="Biomedical Procurement & Support"
+        subtitle="Practical assistance for selecting, sourcing, and enquiring about biomedical equipment, diagnostic products, laboratory consumables, monitoring devices, and related supplies."
       />
 
       {/* Services Grid Section */}
@@ -186,9 +139,9 @@ export default function ServicesClient() {
 
         <div className="container-custom relative z-10">
           <SectionTitle
-            badge="Our Expertise"
-            title="Professional Solutions for Medical Laboratories"
-            description="We support pathology departments, diagnostic centers, and clinics with expert technical assistance, ensuring precise diagnostic outputs."
+            badge="How We Assist"
+            title="Support Across Biomedical Purchasing"
+            description="The service layer is designed for varied buyers — from a laboratory adding one instrument to an institution coordinating several product categories."
             center
           />
 
@@ -213,9 +166,9 @@ export default function ServicesClient() {
       <section className="relative overflow-hidden py-24 bg-white">
         <div className="container-custom">
           <SectionTitle
-            badge="Machinery Supported"
-            title="Expert Maintenance for Leading Analyzer Categories"
-            description="Our company-trained engineers specialize in the service, maintenance, and software diagnostics of complex clinical analyzers."
+            badge="Equipment Areas"
+            title="Common Equipment Areas in the Catalogue"
+            description="Explore equipment groups by the work they perform, then review the individual model and application information available for each product."
             center
           />
 
@@ -248,9 +201,9 @@ export default function ServicesClient() {
       <section className="section-padding bg-slate-50 border-y border-slate-100">
         <div className="container-custom">
           <SectionTitle
-            badge="How We Work"
-            title="Streamlined Service Execution"
-            description="We follow a systematic workflow to respond quickly, resolve issues correctly, and keep your diagnostics laboratory operating smoothly."
+            badge="A Simple Buying Path"
+            title="From Requirement to Enquiry"
+            description="A clear requirement helps narrow a large catalogue into products that are easier to compare and enquire about."
             center
           />
 
@@ -258,18 +211,18 @@ export default function ServicesClient() {
             {[
               {
                 step: "01",
-                title: "Inquiry & Assessment",
-                desc: "Identify issues via remote diagnostic screening or analyze equipment requirements for new laboratory installations.",
+                title: "Define the Need",
+                desc: "Share the application, product category, preferred brand, model, quantity, or key specification you already know.",
               },
               {
                 step: "02",
-                title: "Engineering Dispatch",
-                desc: "Deploy certified biomedical technicians with calibrated tools and authentic spare parts directly to your diagnostic facility.",
+                title: "Shortlist Options",
+                desc: "Review suitable catalogue entries and related accessories based on the intended workflow and available specifications.",
               },
               {
                 step: "03",
-                title: "Testing & Validation",
-                desc: "Run rigorous standard test cycles, perform quality control validation runs, and issue standard calibration reports.",
+                title: "Confirm the Order Details",
+                desc: "Finalize quantity, delivery expectations, compatibility, and any additional product or support requirements before procurement.",
               },
             ].map((item, index) => (
               <div
@@ -297,9 +250,9 @@ export default function ServicesClient() {
       <section className="relative overflow-hidden py-24 bg-white">
         <div className="container-custom max-w-4xl">
           <SectionTitle
-            badge="FAQs"
-            title="Service & Support Questions"
-            description="Everything you need to know about our calibration standards, servicing intervals, and maintenance plans."
+            badge="Buyer Questions"
+            title="Questions About Biomedical Procurement"
+            description="A few practical answers for buyers comparing equipment, consumables, support requirements, and catalogue categories."
             center
           />
 

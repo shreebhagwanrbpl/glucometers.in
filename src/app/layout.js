@@ -9,25 +9,25 @@ export const metadata = {
   ),
 
   title: {
-    default: "Blood Glucose Monitor & Glucometer Supplier in India | Raj Biosis",
+    default: "Biomedical Equipment & Diagnostic Products Supplier in India | Raj Biosis",
     template: "%s | Raj Biosis",
   },
 
-  description: "Raj Biosis is a leading supplier of blood glucose monitoring systems, digital glucometer devices, diabetes self-testing kits, and blood sugar monitors in India.",
+  description: "Raj Biosis provides a broad biomedical catalogue covering diagnostic equipment, laboratory instruments, reagents, consumables, monitoring products, test kits, and healthcare supplies across India.",
 
   keywords: [
-    "Blood Glucose Monitors",
-    "Glucometer Supplier",
-    "Digital Glucometer Dealer",
-    "Accu-Chek Dealer India",
-    "OneTouch Strips supplier",
-    "Diabetes Testing Kits",
+    "Biomedical Equipment Supplier India",
+    "Diagnostic Equipment",
+    "Laboratory Equipment",
+    "Medical Consumables",
+    "Diagnostic Test Kits",
+    "Biomedical Products",
     "Raj Biosis",
   ],
 
   openGraph: {
-    title: "Blood Glucose Monitor & Glucometer Supplier in India | Raj Biosis",
-    description: "Premium supplier of diagnostics and medical equipment across India.",
+    title: "Biomedical Equipment & Diagnostic Products Supplier in India | Raj Biosis",
+    description: "Multi-category supplier of biomedical equipment, diagnostic products, laboratory supplies, and healthcare essentials across India.",
     url: "https://glucometers.in",
     siteName: "Raj Biosis",
     images: [
@@ -44,8 +44,8 @@ export const metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Blood Glucose Monitor & Glucometer Supplier in India | Raj Biosis",
-    description: "Premium supplier of diagnostics and medical equipment across India.",
+    title: "Biomedical Equipment & Diagnostic Products Supplier in India | Raj Biosis",
+    description: "Multi-category supplier of biomedical equipment, diagnostic products, laboratory supplies, and healthcare essentials across India.",
     images: ["/logo.png"],
   },
 

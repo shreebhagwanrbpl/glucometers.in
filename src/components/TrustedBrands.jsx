@@ -21,11 +21,11 @@ export default function TrustedBrands() {
         <div className="text-center mb-12">
 
           <div className="inline-flex items-center rounded-full border border-cyan-200 bg-white/70 px-5 py-2 text-sm font-semibold text-cyan-700 backdrop-blur-xl shadow-md">
-            Trusted Partners
+            Brands & Manufacturers in the Range
           </div>
 
           <p className="mt-5 text-lg font-medium text-cyan-900/70">
-            Preferred by Leading Diabetes Care Providers
+            Examples of brands represented across the wider biomedical catalogue
           </p>
 
         </div>

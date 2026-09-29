@@ -47,8 +47,8 @@ export default function FeaturedProducts({
     ? initialProducts
     : [];
 
-  // Only first 3 products are shown as Featured Products
-  const featured = products.slice(0, 3);
+  // Up to 6 products are shown as Featured Products
+  const featured = products.slice(0, 6);
 
   // --------------------------------------------------
   // Render

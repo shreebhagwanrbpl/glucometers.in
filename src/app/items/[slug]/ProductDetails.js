@@ -17,14 +17,6 @@ import {
     FaLink,
 } from "react-icons/fa";
 
-import {
-    doc,
-    getDoc,
-    getDocs,
-    addDoc,
-    collection,
-} from "firebase/firestore";
-import { db } from "@/lib/firebase";
 const makeSlug = (text = "") =>
     text
         .toLowerCase()
@@ -66,7 +58,7 @@ export default function ProductDetails({
         city.slice(1);
     useEffect(() => {
         // Product already fetched on the server.
-        // Do NOT fetch it again from Firestore.
+        // Do NOT fetch it again.
         if (initialProduct) {
             setProduct(initialProduct);
 
@@ -85,58 +77,12 @@ export default function ProductDetails({
         // Fallback only if server did not provide a product.
         const loadProduct = async () => {
             try {
-                const snap = await getDoc(
-                    doc(
-                        db,
-                        "websites",
-                        "glucometersin",
-                        "pages",
-                        "products"
-                    )
-                );
-
-                let allProducts = [];
-
-                if (snap.exists()) {
-                    allProducts = (snap.data().products || []).map((item) => ({
-                        ...item,
-                        slug: makeSlug(
-                            item.slug ||
-                            item.productSlug ||
-                            item.title ||
-                            ""
-                        ),
-                    }));
-                }
-
-                const categorySnap = await getDocs(
-                    collection(
-                        db,
-                        "websites",
-                        "glucometersin",
-                        "pages",
-                        "categoryproducts",
-                        "categories"
-                    )
-                );
-
-                categorySnap.forEach((docSnap) => {
-                    const data = docSnap.data();
-
-                    if (data.products?.length) {
-                        allProducts.push(
-                            ...(data.products || []).map((item) => ({
-                                ...item,
-                                slug: makeSlug(
-                                    item.slug ||
-                                    item.productSlug ||
-                                    item.title ||
-                                    ""
-                                ),
-                            }))
-                        );
-                    }
-                });
+                const res = await fetch("/api/catalog", { cache: "no-store" });
+                const data = await res.json();
+                const allProducts = (data?.products || data?.catalog || []).map((item) => ({
+                    ...item,
+                    slug: item.slug || makeSlug(item.productSlug || item.title || ""),
+                }));
 
                 const targetSlug = makeSlug(
                     decodeURIComponent(String(slug || ""))
@@ -144,12 +90,9 @@ export default function ProductDetails({
 
                 const found = allProducts.find(
                     (p) =>
-                        makeSlug(p.slug || "") === targetSlug
+                        makeSlug(p.slug || "") === targetSlug ||
+                        makeSlug(p.title || "") === targetSlug
                 );
-
-                console.log("URL SLUG:", slug);
-                console.log("TOTAL PRODUCTS:", allProducts.length);
-                console.log("FOUND PRODUCT:", found);
 
                 if (found) {
                     setProduct(found);
@@ -453,7 +396,7 @@ export default function ProductDetails({
             const description =
                 product.desc ||
                 product.description ||
-                "Premium biomedical equipment designed for hospitals, laboratories and diagnostic centres.";
+                "Biomedical product information presented for healthcare, laboratory, diagnostic, and institutional purchasing requirements.";
 
             const descriptionLines =
                 pdf.splitTextToSize(
@@ -720,22 +663,14 @@ export default function ProductDetails({
         try {
             setSubmitting(true);
 
-            await addDoc(
-                collection(
-                    db,
-                    "websitesQueries",
-                    "glucometersin",
-                    "productQueries"
-                ),
-                {
+            await fetch("/api/product-query", {method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({
                     ...form,
                     productName: product.title,
                     productSlug: product.slug,
                     brand: product.brand || "",
                     model: product.model || "",
                     createdAt: new Date(),
-                }
-            );
+                })}).then(async r=>{if(!r.ok) throw new Error((await r.json()).error||"Submission failed");});
 
             toast.success(
                 "Your enquiry has been submitted successfully."

@@ -30,7 +30,7 @@ export default function PageBanner({
 
           {/* Badge */}
           <div className="mb-8 inline-flex items-center rounded-full border border-cyan-100 bg-white/80 px-5 py-2 text-sm font-semibold text-cyan-700 shadow-lg backdrop-blur-xl">
-            Premium Biomedical Solutions
+            Biomedical Catalogue & Procurement
           </div>
 
           {/* Title */}
