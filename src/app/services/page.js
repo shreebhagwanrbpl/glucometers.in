@@ -1,4 +1,9 @@
 import ServicesClient from "./ServicesClient";
+import { fetchServicesData } from "@/lib/data-fetcher-server";
+
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
+export const fetchCache = "force-no-store";
 
 export const metadata = {
   title: "Diagnostic & Biomedical Equipment Services | Raj Biosis",
@@ -8,6 +13,12 @@ export const metadata = {
   },
 };
 
-export default function ServicesPage() {
-  return <div className="site0-static"><ServicesClient /></div>;
+export default async function ServicesPage({ city = "" }) {
+  const servicesData = await fetchServicesData().catch(() => null);
+
+  return (
+    <div className="site0-static">
+      <ServicesClient initialData={servicesData} city={city} />
+    </div>
+  );
 }

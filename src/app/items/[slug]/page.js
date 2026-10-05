@@ -8,7 +8,9 @@ const makeSlug = (text = "") =>
         .replace(/[^a-z0-9\s-]/g, "")
         .replace(/\s+/g, "-");
 
-export const revalidate = 3600;
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
+export const fetchCache = "force-no-store";
 
 export async function generateMetadata({ params }) {
     const { slug } = await params;

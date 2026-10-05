@@ -19,20 +19,33 @@ import ServiceCard from "@/components/ServiceCard";
 import CTASection from "@/components/CTASection";
 import { useState, useEffect } from "react";
 
-export default function ServicesClient() {
+export default function ServicesClient({ initialData = null, city = "" }) {
   const [openFaq, setOpenFaq] = useState(null);
-  const [services, setServices] = useState([]);
-  const [loading, setLoading] = useState(false);
+
+  const extractServices = (d) => {
+    if (!d) return [];
+    if (Array.isArray(d?.services)) return d.services;
+    if (Array.isArray(d?.data?.services)) return d.data.services;
+    if (Array.isArray(d?.data)) return d.data;
+    if (Array.isArray(d)) return d;
+    return [];
+  };
+
+  const initialList = extractServices(initialData);
+  const [services, setServices] = useState(initialList);
+  const [loading, setLoading] = useState(!initialList.length);
 
   useEffect(() => {
     fetch("/api/site-data?page=services", { cache: "no-store" })
       .then((r) => r.json())
       .then((d) => {
-        if (Array.isArray(d?.services) && d.services.length > 0) {
-          setServices(d.services);
+        const list = extractServices(d);
+        if (list.length > 0) {
+          setServices(list);
         }
       })
-      .catch((e) => console.log("Services fetch error:", e));
+      .catch((e) => console.log("Services fetch error:", e))
+      .finally(() => setLoading(false));
   }, []);
 
   const icons = [
@@ -65,7 +78,33 @@ export default function ServicesClient() {
     { id: "procurement", title: "Procurement Assistance", description: "Support for hospitals, laboratories, clinics, pharmacies, distributors, and institutional buyers preparing single-unit or bulk product enquiries.", iconName: "Stethoscope" },
   ];
 
-  const displayServices = services.length > 0 ? services : fallbackServices;
+  const rawServices = services.length > 0 ? services : fallbackServices;
+
+  const displayServices = rawServices.map((service, index) => {
+    const title =
+      service.title ||
+      service.name ||
+      service.heading ||
+      service.serviceName ||
+      "Biomedical Service";
+
+    const description =
+      service.description ||
+      service.desc ||
+      service.detail ||
+      service.details ||
+      service.content ||
+      service.info ||
+      "";
+
+    return {
+      ...service,
+      id: service.id || `srv-${index}`,
+      title,
+      description,
+      desc: description,
+    };
+  });
 
   const renderIcon = (service, index) => {
     if (service.iconName) {
@@ -124,13 +163,21 @@ export default function ServicesClient() {
     setOpenFaq(openFaq === index ? null : index);
   };
 
+  const bannerTitle = city
+    ? `Biomedical Equipment Services in ${city}`
+    : "Biomedical Procurement & Support";
+
+  const bannerSubtitle = city
+    ? `Authorized distributor and supplier of biomedical laboratory equipment, diagnostic analyzers, and healthcare services across ${city} and nearby regions.`
+    : "Practical assistance for selecting, sourcing, and enquiring about biomedical equipment, diagnostic products, laboratory consumables, monitoring devices, and related supplies.";
+
   return (
     <>
       {/* Banner */}
-      <PageBanner
-        title="Biomedical Procurement & Support"
-        subtitle="Practical assistance for selecting, sourcing, and enquiring about biomedical equipment, diagnostic products, laboratory consumables, monitoring devices, and related supplies."
-      />
+      {/* <PageBanner
+        title={bannerTitle}
+        subtitle={bannerSubtitle}
+      /> */}
 
       {/* Services Grid Section */}
       <section className="relative overflow-hidden py-24 bg-gradient-to-b from-[#F8FCFD] via-[#F3FCFD] to-[#ECFEFF]">
@@ -140,24 +187,25 @@ export default function ServicesClient() {
         <div className="container-custom relative z-10">
           <SectionTitle
             badge="How We Assist"
-            title="Support Across Biomedical Purchasing"
+            title={city ? `Services & Support in ${city}` : "Support Across Biomedical Purchasing"}
             description="The service layer is designed for varied buyers — from a laboratory adding one instrument to an institution coordinating several product categories."
             center
           />
 
           <div className="mt-16 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
-            {loading
+            {loading && !displayServices.length
               ? Array(6)
-                  .fill(null)
-                  .map((_, index) => <ServiceCard key={index} loading={true} />)
+                .fill(null)
+                .map((_, index) => <ServiceCard key={index} loading={true} />)
               : displayServices.map((service, index) => (
-                  <ServiceCard
-                    key={service.id || index}
-                    icon={renderIcon(service, index)}
-                    title={service.title}
-                    description={service.description}
-                  />
-                ))}
+                <ServiceCard
+                  key={service.id || index}
+                  icon={renderIcon(service, index)}
+                  title={service.title}
+                  description={service.description}
+                  desc={service.desc}
+                />
+              ))}
           </div>
         </div>
       </section>
@@ -174,7 +222,7 @@ export default function ServicesClient() {
 
           <div className="mt-16 grid gap-8 md:grid-cols-2">
             {machineryCategories.map((cat, index) => (
-              <div 
+              <div
                 key={index}
                 className="rounded-3xl border border-slate-100 bg-[#F8FCFD] p-8 hover:border-cyan-200 transition-all duration-300 hover:shadow-lg"
               >
@@ -260,8 +308,8 @@ export default function ServicesClient() {
             {faqs.map((faq, index) => {
               const isOpen = openFaq === index;
               return (
-                <div 
-                  key={index} 
+                <div
+                  key={index}
                   className="rounded-2xl border border-cyan-50 bg-[#F8FCFD] overflow-hidden transition-all duration-300"
                 >
                   <button
@@ -269,16 +317,14 @@ export default function ServicesClient() {
                     className="w-full flex items-center justify-between p-6 text-left hover:bg-cyan-50/50 transition-colors"
                   >
                     <span className="font-bold text-cyan-950 text-base md:text-lg">{faq.question}</span>
-                    <ChevronDown 
-                      className={`h-5 w-5 text-cyan-600 transition-transform duration-300 ${
-                        isOpen ? "transform rotate-180" : ""
-                      }`} 
+                    <ChevronDown
+                      className={`h-5 w-5 text-cyan-600 transition-transform duration-300 ${isOpen ? "transform rotate-180" : ""
+                        }`}
                     />
                   </button>
-                  <div 
-                    className={`transition-all duration-300 ease-in-out ${
-                      isOpen ? "max-h-60 border-t border-cyan-100/30" : "max-h-0"
-                    } overflow-hidden`}
+                  <div
+                    className={`transition-all duration-300 ease-in-out ${isOpen ? "max-h-60 border-t border-cyan-100/30" : "max-h-0"
+                      } overflow-hidden`}
                   >
                     <p className="p-6 text-sm md:text-base leading-7 text-cyan-900/70 bg-white">
                       {faq.answer}

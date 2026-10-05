@@ -98,7 +98,7 @@ export default function ContactClient() {
     try {
       setSubmitting(true);
 
-      await fetch("/api/contact-query", { method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({...form, createdAt:new Date().toISOString()}) }).then(async r=>{ if(!r.ok) throw new Error((await r.json()).error||"Submission failed"); });
+      await fetch("/api/contact-query", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ ...form, createdAt: new Date().toISOString() }) }).then(async r => { if (!r.ok) throw new Error((await r.json()).error || "Submission failed"); });
 
       toast.success(
         "Message submitted successfully"
@@ -141,7 +141,7 @@ export default function ContactClient() {
      LOAD CONTACT
   ===================================================== */
 
-  useEffect(() => { fetch("/api/site-data?page=contact", {cache:"no-store"}).then(r=>r.json()).then(d=>setContactInfo(d?.contactInfo || [])).catch(console.error).finally(()=>setLoading(false)); }, []);
+  useEffect(() => { fetch("/api/site-data?page=contact", { cache: "no-store" }).then(r => r.json()).then(d => setContactInfo(d?.contactInfo || [])).catch(console.error).finally(() => setLoading(false)); }, []);
 
   /* =====================================================
      CONTACT VALUES
@@ -541,14 +541,6 @@ export default function ContactClient() {
                   className="w-full rounded-2xl border border-cyan-200 bg-white px-5 py-4 text-cyan-950 outline-none placeholder:text-cyan-400 transition focus:border-cyan-500 focus:ring-4 focus:ring-cyan-200/40"
                 />
 
-                <input
-                  type="text"
-                  name="subject"
-                  placeholder="Requirement Topic"
-                  value={form.subject}
-                  onChange={handleChange}
-                  className="w-full rounded-2xl border border-cyan-200 bg-white px-5 py-4 text-cyan-950 outline-none placeholder:text-cyan-400 transition focus:border-cyan-500 focus:ring-4 focus:ring-cyan-200/40"
-                />
 
                 <textarea
                   rows={6}

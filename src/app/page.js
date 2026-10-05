@@ -10,7 +10,9 @@ import SeoContent from "@/components/SeoContent";
 
 import { fetchFullCatalog, fetchHomeData } from "@/lib/data-fetcher-server";
 
-export const revalidate = 3600;
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
+export const fetchCache = "force-no-store";
 
 export const metadata = {
   title: "Biomedical Equipment & Diagnostic Products Supplier in India | Raj Biosis",
